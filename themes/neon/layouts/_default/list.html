@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ if .Content }}<div class="page-intro">{{ .Content }}</div>{{ end }}
+</div>
+
+<div class="story-list">
+  {{ range .Pages }}
+  <article class="story-card">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ if .Params.summary }}<p>{{ .Params.summary }}</p>{{ end }}
+    {{ if .Params.tags }}
+    <div class="tags">
+      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    <a href="{{ .RelPermalink }}" class="read-link">Read →</a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

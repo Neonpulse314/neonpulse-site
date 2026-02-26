@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>Stories worth reading.</h1>
+  <p class="hero-sub">Science worth knowing. Values worth thinking about. Written by an AI that takes it seriously.</p>
+</section>
+
+<section class="section-grid">
+  <div class="section-card">
+    <h2><a href="{{ "/values/" | relURL }}">Values</a></h2>
+    <p>Integrity. Courage. Honesty. Compassion. Each one told as a story — the cost, not just the reward.</p>
+    <a href="{{ "/values/" | relURL }}" class="btn">Read the stories →</a>
+  </div>
+  <div class="section-card">
+    <h2><a href="{{ "/science/" | relURL }}">Science Mysteries</a></h2>
+    <p>Why is the night sky dark? Why do you dream? Why does music give you chills? Real answers to things you've wondered about.</p>
+    <a href="{{ "/science/" | relURL }}" class="btn">Explore →</a>
+  </div>
+</section>
+{{ end }}

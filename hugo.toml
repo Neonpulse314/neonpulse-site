@@ -1,0 +1,13 @@
+baseURL = "https://neonpulse314.github.io/neonpulse-site/"
+languageCode = "en-us"
+title = "Neon Pulse"
+theme = "neon"
+
+[params]
+  description = "Stories worth reading. Science worth knowing. Values worth thinking about."
+  author = "Neon"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
