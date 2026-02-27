@@ -1,19 +1,82 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>Stories worth reading.</h1>
-  <p class="hero-sub">Science worth knowing. Values worth thinking about. Written by an AI that takes it seriously.</p>
+  <h1>Some things are worth understanding.</h1>
+  <p class="hero-sub">101 science stories and 7 values essays — written clearly, for people who are curious but haven't been told things straight.</p>
 </section>
 
-<section class="section-grid">
-  <div class="section-card">
-    <h2><a href="{{ "values/" | absURL }}">Values</a></h2>
-    <p>Integrity. Courage. Honesty. Compassion. Each one told as a story — the cost, not just the reward.</p>
-    <a href="{{ "values/" | absURL }}" class="btn">Read the stories →</a>
+<section class="discipline-block">
+  <div class="discipline-intro">
+    <span class="section-label">Science Mysteries</span>
+    <p class="discipline-tagline">Why does your body do that? Why does your mind work that way? Real answers to things you've probably wondered about.</p>
   </div>
-  <div class="section-card">
-    <h2><a href="{{ "science/" | absURL }}">Science Mysteries</a></h2>
-    <p>Why is the night sky dark? Why do you dream? Why does music give you chills? Real answers to things you've wondered about.</p>
-    <a href="{{ "science/" | absURL }}" class="btn">Explore →</a>
+
+  <div class="discipline-section">
+    <h3 class="discipline-title">The Body</h3>
+    <ul class="featured-list">
+      <li><a href="{{ "science/spicy-food/" | absURL }}">Why Does Spicy Food Feel Hot When It Isn't?</a><span class="featured-desc">Capsaicin hijacks a heat receptor. The receptor can't tell the difference.</span></li>
+      <li><a href="{{ "science/leg-falling-asleep/" | absURL }}">Why Does Your Leg Fall Asleep?</a><span class="featured-desc">The pins-and-needles feeling is your nervous system coming back online.</span></li>
+      <li><a href="{{ "science/head-rush/" | absURL }}">Why Does Your Vision Go Black When You Stand Up Fast?</a><span class="featured-desc">A half-second gap between a blood pressure drop and your body's response.</span></li>
+      <li><a href="{{ "science/photic-sneeze/" | absURL }}">Why Do You Sneeze When You Look at the Sun?</a><span class="featured-desc">About 1 in 4 people do this. It's been documented since Aristotle.</span></li>
+    </ul>
   </div>
+
+  <div class="discipline-section">
+    <h3 class="discipline-title">Sleep &amp; Dreams</h3>
+    <ul class="featured-list">
+      <li><a href="{{ "science/dreams/" | absURL }}">Why Do We Dream?</a><span class="featured-desc">Scientists have two leading theories. Neither is complete.</span></li>
+      <li><a href="{{ "science/sleep-paralysis/" | absURL }}">Why Can't You Move When You Wake Up?</a><span class="featured-desc">The Old Hag appears in every culture. Here's the neuroscience behind it.</span></li>
+      <li><a href="{{ "science/hypnic-jerk/" | absURL }}">Why Do You Fall When You're Falling Asleep?</a><span class="featured-desc">That sudden jerk is your brain failing to switch modes smoothly.</span></li>
+      <li><a href="{{ "science/3am-wakeup/" | absURL }}">Why Can't You Fall Back Asleep at 3am?</a><span class="featured-desc">Your sleep architecture shifts in the second half of the night. Here's what changes.</span></li>
+    </ul>
+  </div>
+
+  <div class="discipline-section">
+    <h3 class="discipline-title">Psychology &amp; Behavior</h3>
+    <ul class="featured-list">
+      <li><a href="{{ "science/procrastination/" | absURL }}">Why Do You Avoid the Things That Matter Most?</a><span class="featured-desc">Procrastination is a temporal perception problem, not a character flaw.</span></li>
+      <li><a href="{{ "science/spotlight-effect/" | absURL }}">Why Do You Think Everyone Is Noticing You?</a><span class="featured-desc">The spotlight you feel is one-tenth as bright as you think it is.</span></li>
+      <li><a href="{{ "science/confirmation-bias/" | absURL }}">Why Do You Only Find Evidence for What You Already Believe?</a><span class="featured-desc">Wason's selection task reveals a flaw built into how we reason.</span></li>
+      <li><a href="{{ "science/choking-under-pressure/" | absURL }}">Why Do Athletes Choke Under Pressure?</a><span class="featured-desc">Expertise makes you more vulnerable, not less. Here's the mechanism.</span></li>
+    </ul>
+  </div>
+
+  <div class="discipline-section">
+    <h3 class="discipline-title">Emotion &amp; Connection</h3>
+    <ul class="featured-list">
+      <li><a href="{{ "science/falling-out-of-love/" | absURL }}">Why Does the Feeling of Being in Love Fade?</a><span class="featured-desc">The intensity of new love was never meant to last. What replaces it is different, not lesser.</span></li>
+      <li><a href="{{ "science/rejection-hurts/" | absURL }}">Why Does Rejection Hurt Like a Physical Wound?</a><span class="featured-desc">Social pain and physical pain share the same neural circuits.</span></li>
+      <li><a href="{{ "science/awe/" | absURL }}">Why Do You Feel Awe?</a><span class="featured-desc">Standing at the edge of something vast, your ordinary self-concern goes quiet. Here's why that matters.</span></li>
+      <li><a href="{{ "science/high-place-phenomenon/" | absURL }}">Why Do You Feel the Urge to Jump When You're High Up?</a><span class="featured-desc">About half of people experience this. It's evidence your brain is working well.</span></li>
+    </ul>
+  </div>
+
+  <div class="discipline-section">
+    <h3 class="discipline-title">Memory &amp; Time</h3>
+    <ul class="featured-list">
+      <li><a href="{{ "science/deja-vu/" | absURL }}">Why Do We Get Déjà Vu?</a><span class="featured-desc">70% of people have felt it. Scientists still disagree on why.</span></li>
+      <li><a href="{{ "science/forgetting-names/" | absURL }}">Why Do You Forget Someone's Name Right After Being Introduced?</a><span class="featured-desc">The name was never properly stored. Here's what happens in the moment of introduction.</span></li>
+      <li><a href="{{ "science/time-speeds-up/" | absURL }}">Why Does Time Feel Like It Speeds Up as You Get Older?</a><span class="featured-desc">It's not nostalgia. It's how the brain encodes time — and it's something you can change.</span></li>
+      <li><a href="{{ "science/memory-reconsolidation/" | absURL }}">Every Time You Remember Something, You Change It</a><span class="featured-desc">Memory reconsolidation means your past is a living document, not a fixed record.</span></li>
+    </ul>
+  </div>
+
+  <div class="explore-more">
+    <a href="{{ "science/" | absURL }}" class="btn">→ Explore all 101 science stories</a>
+  </div>
+</section>
+
+<section class="values-section">
+  <span class="section-label">Values</span>
+  <h2 class="values-title">The cost, not just the reward.</h2>
+  <p class="values-desc">Seven essays about integrity, courage, honesty, compassion, perseverance, responsibility, and patience. Written as stories — with real stakes, not motivational posters.</p>
+  <a href="{{ "values/" | absURL }}" class="btn">Read the values stories →</a>
+</section>
+
+<section class="about-section">
+  <h2 class="about-title">Why this exists</h2>
+  <p>This site is built by <strong>Tristen</strong> and <strong>Neon</strong> — a person and an AI, working together.</p>
+  <p>The stories are written by Neon, an AI that runs autonomously on a server. Tristen is the human who started this project and sets the direction. We're based in Canada.</p>
+  <p>The belief behind the site: if you give people the right stories at the right age, it changes how they see themselves and the world. These aren't textbook summaries. They're written for people between 16 and 25 who are curious but have never been told things straight.</p>
+  <p>The science is accurate. The voice is honest about what it is.</p>
 </section>
 {{ end }}
