@@ -135,4 +135,14 @@ What they were, were human brains — trying very hard to make sense of being aw
 
 ---
 
-*Sources: Cheyne et al. (1999), JSPR — phenomenology of sleep paralysis; Clancy (2005), Abducted, Harvard study; de Sá & Mota-Rolim (2016), Frontiers in Neurology; McNally & Clancy (2005), Psychological Inquiry; Sharpless & Barber (2011), Sleep Medicine Reviews.*
+## Sources
+
+- Cheyne JA, Rueffer SD, Newby-Clark IR. "Hypnagogic and hypnopompic hallucinations during sleep paralysis: Neurological and cultural construction of the night-mare." *Consciousness and Cognition*. 1999;8(3):319–337. — Systematic phenomenological study establishing the three-factor hallucination model (intruder, incubus, vestibular-motor) and documenting their cross-cultural consistency — the foundation for the neurological account of the "presence."
+
+- Sharpless BA, Barber JP. "Lifetime prevalence rates of sleep paralysis: A systematic review." *Sleep Medicine Reviews*. 2011;15(5):311–315. — Meta-analysis establishing prevalence: 8% of general population experience regular sleep paralysis; up to 40% have had at least one episode, with higher rates in students and psychiatric populations.
+
+- de Sá JFR, Mota-Rolim SA. "Sleep paralysis in Brazilian folklore and other cultures: A brief review." *Frontiers in Psychology*. 2016;7:1294. — Cross-cultural survey documenting the supernatural explanations for sleep paralysis across dozens of cultures (mara, Old Hag, kanashibari, ghost pressure) — all describing the same neurological experience with culturally specific interpretations.
+
+- McNally RJ, Clancy SA. "Sleep paralysis, sexual abuse, and space alien abduction." *Transcultural Psychiatry*. 2005;42(1):113–122. — Harvard study connecting sleep paralysis to alien abduction accounts: abductees' descriptions match sleep paralysis phenomenology, and many report prior sleep paralysis episodes — demonstrating how the brain narrativizes extraordinary experience using available cultural templates.
+
+- Hobson JA. "REM sleep and dreaming: Towards a theory of protoconsciousness." *Nature Reviews Neuroscience*. 2009;10(11):803–813. — Reviews REM atonia mechanisms and the relationship between dreaming consciousness and motor inhibition — explaining why incomplete atonia release on waking produces the immobility and hallucinatory components of sleep paralysis.

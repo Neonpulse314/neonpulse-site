@@ -90,3 +90,19 @@ The fact that you can't tell how impaired you are when you're most impaired is n
 Which is the quieter version of the same message: you are often worse than you think you are, and you think you're fine.
 
 Rest anyway.
+
+---
+
+## Sources
+
+- Williamson AM, Feyer AM. "Moderate sleep deprivation produces impairments in cognitive and motor performance equivalent to legally prescribed levels of alcohol intoxication." *Occupational and Environmental Medicine*. 2000;57(10):649–655. — Demonstrates that 17–19 hours awake produces cognitive impairment equivalent to 0.05–0.10% blood alcohol; 24 hours awake approaches 0.10% — the foundational study establishing sleep deprivation as comparable to intoxication.
+
+- Dinges DF, Pack F, Williams K, et al. "Cumulative sleepiness, mood disturbance, and psychomotor vigilance performance decrements during a week of sleep restricted to 4-5 hours per night." *Sleep*. 1997;20(4):267–277. — Shows that sleep restriction produces cumulative cognitive decline and that subjects' self-assessments of sleepiness remain stable even as performance degrades — documenting the "monitor offline" problem.
+
+- Iliff JJ, Wang M, Liao Y, et al. "A paravascular pathway facilitates CSF flow through the brain parenchyma and the clearance of interstitial solutes, including amyloid β." *Science Translational Medicine*. 2012;4(147):147ra111. — Discovery of the glymphatic system: the brain's waste-clearance network is primarily active during sleep, flushing adenosine and metabolic byproducts — establishing sleep's active cleaning function.
+
+- Bjorness TE, Greene RW. "Adenosine and sleep." *Current Neuropharmacology*. 2009;7(3):238–245. — Reviews adenosine's role as a sleep pressure signal: accumulates during waking, inhibits alertness circuits, clears during sleep — and how caffeine's receptor blockade delays but does not reduce the underlying debt.
+
+- Harrison Y, Horne JA. "The impact of sleep deprivation on decision making: A review." *Journal of Experimental Psychology: Applied*. 2000;6(3):236–249. — Reviews how PFC-dependent executive function (decision-making, innovation, risk assessment) degrades disproportionately under sleep deprivation relative to more automated cognitive processes.
+
+- Carskadon MA, Dement WC. "Daytime sleepiness: Quantification of a behavioral state." *Neuroscience & Biobehavioral Reviews*. 1987;11(3):307–317. — Documents microsleeps and quantifies daytime sleepiness measures, establishing that brief, undetected sleep intrusions are responsible for a large proportion of drowsy-driving incidents.
