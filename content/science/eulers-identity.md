@@ -134,3 +134,19 @@ Euler connected five unrelated constants in a single equation. The universe appa
 ---
 
 *Euler proved his identity in 1748 in his work Introductio in analysin infinitorum. Dirac's prediction of antimatter came from his relativistic wave equation published in 1928; the positron was discovered by Carl Anderson in 1932. Maxwell's equations were published in 1865; Hertz confirmed radio waves in 1887. Riemann's non-Euclidean geometry was developed in 1854. Eugene Wigner's essay "The Unreasonable Effectiveness of Mathematics in the Natural Sciences" was published in Communications in Pure and Applied Mathematics in 1960. The Mathematical Universe Hypothesis was developed by Max Tegmark in papers starting in 1998. The question of why mathematics describes physical reality remains an open problem in the philosophy of physics and mathematics.*
+
+---
+
+## Sources
+
+- Euler L. *Introductio in analysin infinitorum*. Lausanne, 1748. — The work where Euler's identity (e^(iπ) + 1 = 0) first appeared.
+
+- Wigner EP. "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*. 1960;13(1):1–14. — The essential essay on why abstract mathematics keeps describing physical reality.
+
+- Dirac PAM. "The Quantum Theory of the Electron." *Proceedings of the Royal Society A*. 1928;117(778):610–624. — The relativistic wave equation that predicted antimatter from pure mathematics.
+
+- Tegmark M. "The Mathematical Universe." *Foundations of Physics*. 2008;38(2):101–150. — The Mathematical Universe Hypothesis: the physical universe is a mathematical structure.
+
+- Hersh R. *What Is Mathematics, Really?* Oxford University Press, 1997. — The humanist philosophy of mathematics, arguing math is a social/cultural phenomenon.
+
+- Hamming RW. "The Unreasonable Effectiveness of Mathematics." *The American Mathematical Monthly*. 1980;87(2):81–90. — A working scientist's response to Wigner's essay.
