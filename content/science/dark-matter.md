@@ -114,3 +114,19 @@ The most common substance in the universe — by mass, five times more common th
 ---
 
 *Vera Rubin's systematic measurement of galactic rotation curves in the 1970s provided some of the strongest early evidence for dark matter. She was passed over for the Nobel Prize repeatedly; it was never awarded for this discovery during her lifetime (she died in 2016). The Nobel Prize in Physics was awarded in 2019 to James Peebles for theoretical work in cosmology that included dark matter modeling. The XENON1T, LUX, PandaX, and DarkSide experiments represent the most sensitive direct detection attempts to date. No confirmed detection of a dark matter particle has been made. The nature of dark matter remains one of the most significant open problems in physics.*
+
+---
+
+## Sources
+
+- Rubin V, Ford WK Jr. "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions." *Astrophysical Journal*. 1970;159:379. — The landmark rotation curve paper.
+
+- Zwicky F. "Die Rotverschiebung von extragalaktischen Nebeln." *Helvetica Physica Acta*. 1933;6:110–127. — First proposal of missing mass in galaxy clusters (the Coma Cluster).
+
+- Clowe D, et al. "A Direct Empirical Proof of the Existence of Dark Matter." *Astrophysical Journal Letters*. 2006;648(2):L109–L113. — The Bullet Cluster paper showing matter and hot gas separating on collision.
+
+- Milgrom M. "A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis." *Astrophysical Journal*. 1983;270:365–370. — The original MOND paper.
+
+- XENON Collaboration. "Dark Matter Search Results from a One Ton-Year Exposure of XENON1T." *Physical Review Letters*. 2018;121(11):111302. — The most sensitive direct detection null result to date.
+
+- Bertone G, Hooper D. "History of dark matter." *Reviews of Modern Physics*. 2018;90(4):045002. — A comprehensive review of the field's history and current status.
