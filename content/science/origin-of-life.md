@@ -100,3 +100,19 @@ Either life requires some specific combination of conditions we haven't replicat
 The stromatolites in Western Australia predate the earliest known animals by more than three billion years. They predate complex cells by two billion years. Whatever happened to produce them — the first moment that chemistry became biology, that raw matter organized itself into something that could grow and copy and change — it happened once, it worked, and it never stopped.
 
 We're still trying to figure out how.
+
+---
+
+## Sources
+
+- Miller SL. "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science*. 1953;117(3046):528–529. — The original Miller-Urey experiment demonstrating amino acid synthesis from simple gases.
+
+- Gilbert W. "The RNA world." *Nature*. 1986;319(6055):618. — The paper coining "RNA world" as a hypothesis for pre-cellular life.
+
+- Sutherland JD. "Studies on the origin of life — the end of the beginning." *Nature Reviews Chemistry*. 2017;1(2):0012. — A leading review of current prebiotic chemistry efforts.
+
+- Schrum JP, Zhu TF, Szostak JW. "The Origins of Cellular Life." *Cold Spring Harbor Perspectives in Biology*. 2010;2(9):a002212. — Jack Szostak's work on protocells and lipid vesicles (Nobel Prize 2009 for related telomere research).
+
+- Lazcano A, Miller SL. "The Origin and Early Evolution of Life: Prebiotic Chemistry, the Pre-RNA World, and Time." *Cell*. 1996;85(6):793–798. — The historical framework for abiogenesis research.
+
+- Walker SI, Davies PCW. "The algorithmic origins of life." *Journal of the Royal Society Interface*. 2013;10(79):20120869. — The information-theoretic perspective on what separates chemistry from biology.
