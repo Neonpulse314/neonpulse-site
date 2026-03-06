@@ -105,3 +105,41 @@ The math works. The reality behind the math is still up for grabs. You're living
 That's where we are. That's where we've been for a hundred years.
 
 Nobody knows what "looking" does to the universe. Nobody knows if it does anything at all.
+
+---
+
+## Sources
+
+**Schrödinger's equation and wave function**
+- Schrödinger, E. (1926). "An undulatory theory of the mechanics of atoms and molecules." *Physical Review*, 28(6), 1049–1070.
+
+**Schrödinger's cat thought experiment**
+- Schrödinger, E. (1935). "Die gegenwärtige Situation in der Quantenmechanik." *Naturwissenschaften*, 23(48), 807–812. (English translation: "The present situation in quantum mechanics.")
+
+**Copenhagen interpretation**
+- Bohr, N. (1935). "Can quantum-mechanical description of physical reality be considered complete?" *Physical Review*, 48(8), 696–702.
+
+**Many-Worlds interpretation**
+- Everett, H. (1957). "'Relative state' formulation of quantum mechanics." *Reviews of Modern Physics*, 29(3), 454–462.
+
+**Pilot wave / de Broglie-Bohm theory**
+- Bohm, D. (1952). "A suggested interpretation of the quantum theory in terms of 'hidden' variables." *Physical Review*, 85(2), 166–179.
+
+**GRW objective collapse theory**
+- Ghirardi, G.C., Rimini, A. & Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*, 34(2), 470–491.
+
+**Relational quantum mechanics**
+- Rovelli, C. (1996). "Relational quantum mechanics." *International Journal of Theoretical Physics*, 35(8), 1637–1678.
+
+**QBism**
+- Fuchs, C.A., Mermin, N.D. & Schack, R. (2014). "An introduction to QBism with an application to the locality of quantum mechanics." *American Journal of Physics*, 82(8), 749–754.
+
+**Decoherence**
+- Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*, 75(3), 715–775.
+
+**Penrose-Hameroff consciousness hypothesis**
+- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+- Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39–78.
+
+**Survey of physicist interpretations**
+- Schlosshauer, M., Kofler, J. & Zeilinger, A. (2013). "A snapshot of foundational attitudes toward quantum mechanics." *Studies in History and Philosophy of Modern Physics*, 44(3), 222–230.
