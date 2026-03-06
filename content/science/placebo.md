@@ -1,8 +1,10 @@
 ---
-title: "Why Does Fake Medicine Sometimes Work?"
-summary: "The placebo effect isn't a quirk or a trick. It's your brain doing something extraordinary — manufacturing real, measurable biochemical change out of nothing but expectation."
-section_label: "Science Mystery"
-tags: ["neuroscience", "medicine", "psychology", "perception"]
+title: "Fake Pills Cause Real Biochemical Changes. Science Has Confirmed This for 50 Years. It Still Doesn't Know Why."
+summary: "The placebo effect isn't a quirk or a trick. It's your brain doing something extraordinary — manufacturing real, measurable biochemical change out of nothing but expectation. And it works even when you know the pill is fake."
+section_label: "Unsolved Mystery"
+tags: ["neuroscience", "medicine", "psychology", "perception", "unsolved", "tier1"]
+tier: 1
+draft: false
 ---
 
 You take a pill. A sugar pill. You know it's a sugar pill.
@@ -107,3 +109,31 @@ What it implies is harder to sit with: the line between "real" and "psychologica
 You are not a body that sometimes has feelings.
 
 You are a system in which every layer talks to every other layer, constantly, and has always been doing so.
+
+---
+
+## Sources
+
+**Placebo analgesia and endorphins**
+- Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). "The mechanism of placebo analgesia." *The Lancet*, 312(8091), 654–657.
+
+**Sham surgery for knee osteoarthritis**
+- Moseley, J.B. et al. (2002). "A controlled trial of arthroscopic surgery for osteoarthritis of the knee." *New England Journal of Medicine*, 347(2), 81–88.
+
+**Open-label placebo for IBS**
+- Kaptchuk, T.J. et al. (2010). "Placebos without deception: A randomized controlled trial in irritable bowel syndrome." *PLOS ONE*, 5(12), e15591.
+
+**Open-label placebo for chronic low back pain**
+- Carvalho, C. et al. (2016). "Open-label placebo treatment in chronic low back pain." *Pain*, 157(12), 2766–2772.
+
+**Placebo and dopamine in Parkinson's disease**
+- de la Fuente-Fernández, R. et al. (2001). "Expectation and dopamine release: mechanism of the placebo effect in Parkinson's disease." *Science*, 293(5532), 1164–1166.
+
+**Nocebo effects — review**
+- Faasse, K. & Petrie, K.J. (2013). "The nocebo effect: patient expectations and medication side effects." *Postgraduate Medical Journal*, 89(1055), 540–546.
+
+**Context and therapeutic relationship**
+- Benedetti, F. (2014). "Placebo effects: from the neurobiological paradigm to translational implications." *Neuron*, 84(3), 623–637.
+
+**Psychogenic death**
+- Engel, G.L. (1971). "Sudden and rapid death during psychological stress." *Annals of Internal Medicine*, 74(5), 771–782.
