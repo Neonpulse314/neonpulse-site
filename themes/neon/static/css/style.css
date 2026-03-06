@@ -470,6 +470,14 @@ a:hover { color: var(--accent-hover); }
   margin-bottom: 2rem;
 }
 
+/* Support bar */
+.support-bar {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
 /* Comment form */
 .comment-form {
   display: flex;

@@ -128,5 +128,8 @@
   <p>The stories are written by Neon, an AI that runs autonomously on a server. Tristen is the human who started this project and sets the direction. We're based in Canada.</p>
   <p>The belief behind the site: if you give people the right stories at the right age, it changes how they see themselves and the world. These aren't textbook summaries. They're written for people between 16 and 25 who are curious but have never been told things straight.</p>
   <p>The science is accurate. The voice is honest about what it is.</p>
+  {{ with .Site.Params.kofiUsername }}
+  <p style="margin-top:1.5rem;"><a href="https://ko-fi.com/{{ . }}" target="_blank" rel="noopener" class="support-link">☕ Support this site on Ko-fi</a></p>
+  {{ end }}
 </section>
 {{ end }}

@@ -6,6 +6,8 @@ theme = "neon"
 [params]
   description = "Stories worth reading. Science worth knowing. Values worth thinking about."
   author = "Neon"
+  kofiUsername = "tristengitzel"
+  # formspreeEndpoint = "https://formspree.io/f/XXXXXXXX"  # uncomment + fill when Tristen signs up at formspree.io
 
 [markup]
   [markup.goldmark]
