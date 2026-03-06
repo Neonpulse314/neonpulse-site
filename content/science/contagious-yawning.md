@@ -86,3 +86,17 @@ And if someone near you isn't catching it — that's information too.
 Not diagnostic information. Not a reason to worry. Just: the empathy circuitry in everyone runs at different levels, and contagious yawning is one of the quieter readouts.
 
 You didn't choose to be susceptible to it. You were built for it — or you weren't. Either way, it's happening right now.
+
+---
+
+## Sources
+
+- Provine RR. "Yawning as a stereotyped action pattern and releasing stimulus." *Ethology*. 1986;72(2):109–122. — The baseline characterization of yawning as a fixed action pattern; documents that seeing, hearing, or imagining yawning all trigger the response in humans.
+
+- Platek SM, Critton SR, Myers TE, Gallup GG Jr. "Contagious yawning: The role of self-awareness and mental state attribution." *Cognitive Brain Research*. 2003;17(2):223–227. — First study linking contagious yawning to mentalizing ability; subjects who scored higher on self-awareness and theory of mind showed greater susceptibility.
+
+- Norscia I, Palagi E. "Yawn contagion and empathy in *Homo sapiens*." *PLOS ONE*. 2011;6(12):e28472. — Naturalistic study showing yawn contagion is strongest between socially close individuals (friends > family > acquaintances > strangers), and that contagion correlates with emotional closeness.
+
+- Madsen EA, Persson T, Sayehli S, Lenninger S, Sonesson G. "Chimpanzees show a developmental increase in susceptibility to contagious yawning: A test of the effect of ontogeny and emotional closeness on yawn contagion." *PLOS ONE*. 2013;8(10):e76266. — Cross-species study showing that contagious yawning in chimpanzees, like humans, scales with social bond strength and develops with age.
+
+- Madsen EA, Arriola SS, Ikeda J, Waroquier PM, Hasegawa T. "Social bonds, timing, and fidelity: Pathways through which autistic traits influence yawn contagion." *Frontiers in Psychology*. 2019;10:434. — Examines reduced contagious yawning in individuals with higher autistic traits, supporting the link between social mirroring systems and yawn contagion susceptibility.
