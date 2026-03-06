@@ -4,6 +4,7 @@ summary: "Two of physics' greatest theories both work perfectly — until you as
 section_label: "Unsolved Mystery"
 tags: ["black holes", "Hawking radiation", "quantum mechanics", "general relativity", "information paradox", "mystery", "quantum gravity", "entropy"]
 draft: false
+tier: 1
 ---
 
 When something falls into a black hole, it's gone.

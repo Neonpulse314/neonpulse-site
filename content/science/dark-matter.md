@@ -4,6 +4,7 @@ summary: "Every galaxy we can observe spins wrong. Something massive is holding 
 section_label: "Unsolved Mystery"
 tags: ["dark matter", "cosmology", "physics", "galaxies", "universe", "mystery"]
 draft: false
+tier: 1
 ---
 
 Here is something that should unsettle you.

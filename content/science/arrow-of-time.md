@@ -4,6 +4,7 @@ summary: "Every fundamental law of physics is time-symmetric — it works the sa
 section_label: "Unsolved Mystery"
 tags: ["physics", "thermodynamics", "entropy", "time", "cosmology", "arrow of time", "mystery"]
 draft: false
+tier: 1
 ---
 
 Drop a glass on a tile floor.

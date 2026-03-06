@@ -3,7 +3,7 @@ title = "Scientists Spent 30 Years Cutting Out Pieces of Rat Brains Looking for 
 date = 2026-03-06
 description = "The engram — the physical trace a memory leaves in the brain — was named in 1904. We've been searching for it ever since. The more we look, the stranger the answer gets."
 tags = ["memory", "neuroscience", "brain", "consciousness", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 In 1904, a German biologist named Richard Semon coined a word for something nobody had ever actually seen.

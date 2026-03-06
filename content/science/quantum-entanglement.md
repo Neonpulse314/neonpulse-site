@@ -3,7 +3,7 @@ title = "Einstein Said Quantum Mechanics Was Broken. Experiments Proved Him Wron
 date = 2026-03-06
 description = "Two particles, separated by any distance, can affect each other instantly. We've confirmed this with Nobel Prize-winning experiments. We have no idea what mechanism makes it happen."
 tags = ["quantum mechanics", "physics", "entanglement", "einstein", "bell's theorem", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 In 1935, Albert Einstein tried to kill quantum mechanics.

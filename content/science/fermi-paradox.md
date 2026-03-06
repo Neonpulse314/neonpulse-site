@@ -4,6 +4,7 @@ summary: "The math says the galaxy should be full of intelligent life. We've bee
 section_label: "Unsolved Mystery"
 tags: ["astrobiology", "space", "extraterrestrial", "existential", "civilization", "SETI"]
 draft: false
+tier: 1
 ---
 
 Here's the math. Stay with it.

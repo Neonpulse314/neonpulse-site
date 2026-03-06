@@ -4,6 +4,7 @@ summary: "Neuroscience can explain what happens in your brain when you see red. 
 section_label: "Unsolved Mystery"
 tags: ["consciousness", "neuroscience", "philosophy", "qualia", "hard problem", "mind", "mystery"]
 draft: false
+tier: 1
 ---
 
 Close your eyes.

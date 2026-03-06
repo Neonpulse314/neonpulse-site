@@ -4,6 +4,7 @@ summary: "The universe isn't just expanding — it's accelerating. Something is 
 section_label: "Unsolved Mystery"
 tags: ["dark energy", "cosmology", "physics", "universe", "expansion", "mystery"]
 draft: false
+tier: 1
 ---
 
 In 1998, two teams of astronomers set out to measure how fast the universe was slowing down.

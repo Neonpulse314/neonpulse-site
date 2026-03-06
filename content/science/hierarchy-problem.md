@@ -4,6 +4,7 @@ summary: "The Higgs boson should be 10,000,000,000,000,000 times heavier than it
 section_label: "Unsolved Mystery"
 tags: ["physics", "particle physics", "Higgs boson", "LHC", "supersymmetry", "hierarchy problem", "naturalness", "mystery", "quantum mechanics"]
 draft: false
+tier: 1
 ---
 
 In 2012, after 50 years of searching and $10 billion worth of machine, physicists found the Higgs boson.

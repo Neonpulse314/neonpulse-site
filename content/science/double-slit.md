@@ -4,6 +4,7 @@ summary: "Fire particles at two slits. They make a wave pattern — as if each p
 section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "consciousness", "observation", "measurement"]
 draft: false
+tier: 1
 ---
 
 Here's something that should make you uncomfortable.

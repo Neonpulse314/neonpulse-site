@@ -4,6 +4,7 @@ summary: "In 1901, Bertrand Russell wrote a letter that destroyed 20 years of a 
 section_label: "Unsolved Mystery"
 tags: ["mathematics", "logic", "paradox", "Russell", "set theory", "Gödel", "foundations", "mystery"]
 draft: false
+tier: 1
 ---
 
 Here is a question with no answer.

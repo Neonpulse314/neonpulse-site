@@ -3,7 +3,7 @@ title = "The Most Important Unsolved Problem in Computer Science Has a $1 Millio
 date = 2026-03-06
 description = "Every time you lock your phone, you're trusting the answer. We don't know what it is."
 tags = ["computer-science", "mathematics", "cryptography", "complexity", "millennium-prize", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 In 1971, a computer scientist named Stephen Cook proved something that should have felt like a small technical result. It didn't. It turned into one of the deepest questions in all of mathematics — and nobody has answered it in 55 years.

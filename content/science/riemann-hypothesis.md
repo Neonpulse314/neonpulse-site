@@ -3,6 +3,7 @@ title: "Mathematicians Have Spent 165 Years Trying to Understand Prime Numbers. 
 summary: "The Riemann Hypothesis is the most important unsolved problem in mathematics. It describes the deepest pattern in prime numbers — and every attempt to prove it has failed."
 section_label: "Unsolved Mystery"
 tags: ["mathematics", "prime numbers", "cryptography", "number theory", "millennium problem"]
+tier: 1
 ---
 
 Every number you've ever seen is built from prime numbers.

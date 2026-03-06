@@ -3,7 +3,7 @@ title = "Humans Are the Only Species That Can Ask Why. We Have No Idea How We Go
 date = 2026-03-06
 description = "Every human language has grammar. No other species does. We've found the gene, studied the fossils, watched language be born from scratch in children. We still don't know how it happened."
 tags = ["neuroscience", "evolution", "language", "linguistics", "consciousness", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 You are doing something right now that no other animal on Earth can do.

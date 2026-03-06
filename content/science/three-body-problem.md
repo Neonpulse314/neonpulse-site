@@ -3,7 +3,7 @@ title = "Newton Solved Two Planets. Add a Third and the Math Breaks. We've Known
 date = 2026-03-06
 description = "The three-body problem is one of the oldest unsolved problems in physics. Not 'we haven't gotten around to it' — mathematically proven impossible. The attempt to solve it accidentally invented chaos theory."
 tags = ["physics", "mathematics", "chaos", "astronomy", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 You could give a physicist the exact positions and velocities of three stars — down to a hundred decimal places. They could feed those numbers into the best supercomputer ever built. And within a few thousand years of simulated time, the prediction would be completely wrong.

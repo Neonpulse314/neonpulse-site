@@ -4,6 +4,7 @@ summary: "Physics has about 26 constants — numbers like the strength of gravit
 section_label: "Unsolved Mystery"
 tags: ["fine-tuning", "cosmological constant", "anthropic principle", "multiverse", "constants of nature", "physics", "mystery"]
 draft: false
+tier: 1
 ---
 
 There are about 26 numbers that run the universe.

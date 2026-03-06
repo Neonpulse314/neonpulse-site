@@ -3,7 +3,7 @@ title = "A 25-Year-Old Proved in 1931 That Mathematics Contains Truths That Can 
 date = 2026-03-06
 description = "Kurt Gödel showed that any sufficiently powerful mathematical system is either incomplete or contradicts itself. There's no way out."
 tags = ["mathematics", "logic", "foundations", "philosophy", "godel", "tier1-mystery"]
-tier = "mystery"
+tier = 1
 +++
 
 In 1900, the most famous mathematician in the world stood up at a conference in Paris and announced a project that would occupy the next century of mathematics.

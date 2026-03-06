@@ -4,6 +4,7 @@ summary: "Protons in the sun don't have enough energy to fuse. They should bounc
 section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "tunnelling", "nuclear fusion", "sun", "reality"]
 draft: false
+tier: 1
 ---
 
 Here's a problem.
