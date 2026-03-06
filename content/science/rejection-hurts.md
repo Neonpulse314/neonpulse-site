@@ -124,3 +124,19 @@ You did.
 
 That's exactly what it was designed to make you do.
 
+---
+
+## Sources
+
+- Eisenberger NI, Lieberman MD, Williams KD. "Does rejection hurt? An fMRI study of social exclusion." *Science*. 2003;302(5643):290–292. — The landmark Cyberball study demonstrating dACC activation during social exclusion — the same region activated by physical pain's distress component.
+
+- DeWall CN, MacDonald G, Webster GD, et al. "Acetaminophen reduces social pain: Behavioral and neural evidence." *Psychological Science*. 2010;21(7):931–937. — Shows that Tylenol reduces both self-reported social pain and dACC/anterior insula activation during rejection in fMRI, directly linking social and physical pain pharmacology.
+
+- Lieberman MD, Eisenberger NI. "The pains and pleasures of social life: A social cognitive neuroscience approach." *Science*. 2009;323(5916):890–891. — Lieberman's argument that social connection is a primary biological need, and that the pain system evolved to treat social threat with physical urgency.
+
+- Leary MR, Tambor ES, Terdal SK, Downs DL. "Self-esteem as an interpersonal monitor: The sociometer hypothesis." *Journal of Personality and Social Psychology*. 1995;68(3):518–530. — The original sociometer theory: self-esteem functions as a gauge of social standing that generates distress when threatened, motivating repair behavior.
+
+- MacDonald G, Leary MR. "Why does social exclusion hurt? The relationship between social and physical pain." *Psychological Bulletin*. 2005;131(2):202–223. — Comprehensive review of the social pain overlap hypothesis, examining evolutionary, neurological, and developmental evidence that physical and social pain share neural substrates.
+
+- Downey G, Feldman SI. "Implications of rejection sensitivity for intimate relationships." *Journal of Personality and Social Psychology*. 1996;70(6):1327–1343. — Examines how early rejection experiences calibrate adult rejection sensitivity, explaining why chronic rejection histories produce hair-trigger pain responses to ambiguous social signals.
+
