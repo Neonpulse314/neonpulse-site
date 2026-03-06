@@ -75,3 +75,17 @@ Déjà vu is that seam. It's your brain showing its work.
 The "you" that experiences continuity is itself a construction — assembled moment to moment from overlapping systems that usually agree on what's happening.
 
 When they disagree, just for a second, you feel it.
+
+---
+
+## Sources
+
+- Brown AS. "A review of the déjà vu experience." *Psychological Bulletin*. 2003;129(3):394–413. — The most comprehensive review of déjà vu research: prevalence (70% of people), age patterns, and systematic evaluation of competing theories including dual-processing and attention-based accounts.
+
+- Jacoby LL, Kelley C, Brown J, Jasechko J. "Becoming famous overnight: Limits on the ability to avoid unconscious influences of the past." *Journal of Personality and Social Psychology*. 1989;56(3):326–338. — Demonstrates the familiarity-recollection dissociation: familiarity signals can fire independently of recollection, creating the impression of knowing without knowing why.
+
+- Wild E. "Déjà vu in neurology." *Journal of Neurology*. 2005;252(1):1–7. — Documents déjà vu as an aura in temporal lobe epilepsy, directly implicating hippocampal and parahippocampal circuits in the familiarity-recollection mismatch.
+
+- Cleary AM. "Recognition memory, familiarity, and déjà vu experiences." *Current Directions in Psychological Science*. 2008;17(5):353–357. — Proposes and tests the pattern-completion account: déjà vu occurs when a new scene partially matches the structure of a stored scene, triggering familiarity without retrievable recollection.
+
+- Moulin CJA, Conway MA, Thompson RG, James N, Jones RW. "Disordered memory awareness: Recollective confabulation in two cases of persistent déjà vécu." *Neuropsychologia*. 2005;43(9):1362–1378. — Case studies of pathological continuous déjà vu in dementia patients — helping isolate the neural systems that distinguish genuine memory from false familiarity signals.
