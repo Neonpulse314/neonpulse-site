@@ -92,3 +92,19 @@ The neuroscience doesn't resolve whether you should stay or go. It just clarifie
 The feeling fades because it was always meant to.
 
 What you do with what's underneath it — that's the part that's actually about you.
+
+---
+
+## Sources
+
+- Fisher HE, Aron A, Brown LL. "Romantic love: An fMRI study of a neural mechanism for mate choice." *Journal of Comparative Neurology*. 2005;493(1):58–62. — The foundational neuroimaging study showing VTA/dopamine system activation in newly-in-love subjects comparable to cocaine reward circuits.
+
+- Marazziti D, Akiskal HS, Rossi A, Cassano GB. "Alteration of the platelet serotonin transporter in romantic love." *Psychological Medicine*. 1999;29(3):741–745. — Documents serotonin suppression in early love comparable to OCD, explaining obsessional thinking in new relationships.
+
+- Schultz W, Dayan P, Montague PR. "A neural substrate of prediction and reward." *Science*. 1997;275(5306):1593–1599. — The key study on reward prediction error: dopamine neurons fire for unexpected rewards, not predicted ones — explaining why familiarity reduces the intensity of love.
+
+- Fisher HE, Xu X, Aron A, Brown LL. "Intense, passionate, romantic love: A natural addiction? How the fields that investigate romance and substance abuse can inform each other." *Frontiers in Psychology*. 2016;7:687. — Synthesizes neuroimaging and addiction research to establish romantic love's structural parallels with stimulant dependence.
+
+- Aron A, Norman CC, Aron EN, McKenna C, Heyman RE. "Couples' shared participation in novel and arousing activities and experienced relationship quality." *Journal of Personality and Social Psychology*. 2000;78(2):273–284. — Demonstrates that shared novelty-seeking restores relationship activation and satisfaction by reactivating reward prediction error circuits.
+
+- Acevedo BP, Aron A, Fisher HE, Brown LL. "Neural correlates of long-term intense romantic love." *Social Cognitive and Affective Neuroscience*. 2012;7(2):145–159. — Shows that long-term couples who report intense love show VTA activation similar to early love but with added ventral pallidum (attachment) involvement — a distinct neural signature.
