@@ -124,3 +124,19 @@ The asymmetry that made you possible is one we cannot yet explain. The universe 
 ---
 
 *The matter-antimatter asymmetry problem — baryogenesis — remains one of the deepest unsolved problems in physics. The Sakharov conditions were formulated in 1967. More than 50 years of experiments have confirmed CP violation in multiple particle systems without finding enough to explain the observed imbalance. The source of the one-in-a-billion excess is unknown.*
+
+---
+
+## Sources
+
+- Sakharov AD. "Violation of CP Invariance, C Asymmetry, and Baryon Asymmetry of the Universe." *JETP Letters*. 1967;5:24–27. — The paper establishing the three conditions necessary for baryogenesis.
+
+- Cronin JW, Fitch VL. "CP Violation in the Decay of Neutral K Mesons." Nobel Lecture, 1980. — CP violation discovered in 1964; Nobel Prize 1980.
+
+- BaBar Collaboration. "Observation of CP violation in the B0 meson system." *Physical Review Letters*. 2001;87(9):091801. — Confirmed CP violation in B mesons, ruling out the simplest explanations.
+
+- T2K Collaboration. "Constraint on the matter–antimatter symmetry-violating phase in neutrino oscillations." *Nature*. 2020;580(7803):339–344. — Evidence suggesting neutrinos may contribute to CP violation.
+
+- Cline DB. "The Search for Dark Matter." *Scientific American*. 2003;288(3):50–59. — Accessible overview connecting baryogenesis to the matter-antimatter problem.
+
+- Dine M, Kusenko A. "Origin of the matter-antimatter asymmetry." *Reviews of Modern Physics*. 2003;76(1):1. — Technical review of baryogenesis mechanisms.
