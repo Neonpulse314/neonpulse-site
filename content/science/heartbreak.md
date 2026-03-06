@@ -95,3 +95,20 @@ But it does mean that the phrase "a broken heart" is not an exaggeration.
 
 It's a neural observation.
 
+---
+
+## Sources
+
+1. Eisenberger, N.I., Lieberman, M.D., & Williams, K.D. (2003). Does rejection hurt? An fMRI study of social exclusion. *Science*, 302(5643), 290–292.
+
+2. DeWall, C.N., MacDonald, G., Webster, G.D., Masten, C.L., Baumeister, R.F., Powell, C., Combs, D., Schurtz, D.R., Stillman, T.F., Tice, D.M., & Eisenberger, N.I. (2010). Acetaminophen reduces social pain: Behavioral and neural evidence. *Psychological Science*, 21(7), 931–937.
+
+3. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+
+4. Eisenberger, N.I. (2012). The pain of social disconnection: Examining the shared neural underpinnings of physical and social pain. *Nature Reviews Neuroscience*, 13(6), 421–434.
+
+5. Wittstein, I.S., Thiemann, D.R., Lima, J.A.C., Baughman, K.L., Schulman, S.P., Gerstenblith, G., Wu, K.C., Rade, J.J., Bivalacqua, T.J., & Champion, H.C. (2005). Neurohumoral features of myocardial stunning due to sudden emotional stress. *New England Journal of Medicine*, 352(6), 539–548.
+
+6. Kross, E., Berman, M.G., Mischel, W., Smith, E.E., & Wager, T.D. (2011). Social rejection shares somatosensory representations with physical pain. *Proceedings of the National Academy of Sciences*, 108(15), 6270–6275.
+
+7. MacDonald, G. & Leary, M.R. (2005). Why does social exclusion hurt? The relationship between social and physical pain. *Psychological Bulletin*, 131(2), 202–223.

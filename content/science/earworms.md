@@ -86,3 +86,19 @@ An earworm is annoying. But underneath the annoyance is something stranger: evid
 The song that's stuck in your head right now was always in there.
 
 You just noticed it.
+
+---
+
+## Sources
+
+1. Jakubowski, K., Finkel, S., Stewart, L., & Müllensiefen, D. (2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. *Psychology of Aesthetics, Creativity, and the Arts*, 11(2), 122–135.
+
+2. Beaman, C.P. & Williams, T.I. (2010). Earworms (stuck song syndrome): Towards a natural history of intrusive thoughts. *British Journal of Psychology*, 101(4), 637–653.
+
+3. Halpern, A.R. & Zatorre, R.J. (1999). When that tune runs through your head: A PET investigation of auditory imagery for familiar melodies. *Cerebral Cortex*, 9(7), 697–704.
+
+4. Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen. *Psychologische Forschung*, 9, 1–85.
+
+5. Wegner, D.M., Schneider, D.J., Carter, S.R., & White, T.L. (1987). Paradoxical effects of thought suppression. *Journal of Personality and Social Psychology*, 53(1), 5–13.
+
+6. Williamson, V.J., Jilka, S.R., Fry, J., Finkel, S., Müllensiefen, D., & Stewart, L. (2012). How do earworms start? Classifying the everyday circumstances of involuntary musical imagery. *Psychology of Music*, 40(3), 259–284.

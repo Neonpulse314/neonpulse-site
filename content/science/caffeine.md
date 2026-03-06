@@ -96,3 +96,21 @@ Caffeine is not the energy you think it is. It is a delay. It tells the brain to
 What you do with that borrowed time is up to you. But the bill comes due every night.
 
 Most people just borrow again in the morning.
+
+---
+
+## Sources
+
+1. Fredholm, B.B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E.E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews*, 51(1), 83–133.
+
+2. Basheer, R., Strecker, R.E., Thakkar, M.M., & McCarley, R.W. (2004). Adenosine and sleep-wake regulation. *Progress in Neurobiology*, 73(6), 379–396.
+
+3. Juliano, L.M. & Griffiths, R.R. (2004). A critical review of caffeine withdrawal: Empirical validation of symptoms and signs, incidence, severity, and associated features. *Psychopharmacology*, 176(1), 1–29.
+
+4. Mednick, S.C., Cai, D.J., Kanady, J., & Drummond, S.P.A. (2008). Comparing the benefits of caffeine, naps and placebo on verbal, motor and perceptual memory. *Behavioural Brain Research*, 193(1), 79–86.
+
+5. Walker, M.P. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner.
+
+6. Nehlig, A. (2010). Is caffeine a cognitive enhancer? *Journal of Alzheimer's Disease*, 20(S1), S85–S94.
+
+7. Drake, C., Roehrs, T., Shambroom, J., & Roth, T. (2013). Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. *Journal of Clinical Sleep Medicine*, 9(11), 1195–1200.
