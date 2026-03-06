@@ -146,4 +146,38 @@ Nobody knows.
 
 ---
 
-*David Chalmers introduced the distinction between easy and hard problems of consciousness in his 1995 paper "Facing Up to the Problem of Consciousness," published in the Journal of Consciousness Studies, and elaborated it in his 1996 book "The Conscious Mind." Integrated Information Theory was developed by Giulio Tononi, with a major statement in his 2004 paper in BMC Neuroscience; the open letter signed by neuroscientists questioning its scientific status was published in 2023. Global Workspace Theory was developed by Bernard Baars and later formalized by Stanislas Dehaene and Jean-Pierre Changeux. Roger Penrose and Stuart Hameroff's quantum consciousness theory, Orchestrated Objective Reduction (Orch-OR), was first described in Penrose's 1989 book "The Emperor's New Mind." The question of consciousness in non-human animals was addressed in the Cambridge Declaration on Consciousness (2012), signed by prominent neuroscientists, which affirmed that non-human animals possess the neurological substrates for conscious experience. As of 2026, the hard problem of consciousness remains unsolved.*
+## Sources
+
+**Hard problem and explanatory gap**
+- Chalmers, D. (1995). "Facing up to the problem of consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
+- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+- Levine, J. (1983). "Materialism and qualia: The explanatory gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+
+**Philosophical zombies**
+- Chalmers, D. (1999). "Materialism and the metaphysics of modality." *Philosophy and Phenomenological Research*, 59(2), 473–496.
+
+**Integrated Information Theory (IIT)**
+- Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
+- Tononi, G. et al. (2016). "Integrated information theory: From consciousness to its physical substrate." *Nature Reviews Neuroscience*, 17(7), 450–461.
+- Doerig, A. et al. (2021). "The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness." *Consciousness and Cognition*, 93, 103175.
+
+**Global Workspace Theory**
+- Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+- Dehaene, S., Changeux, J.P. & Naccache, L. (2011). "The global neuronal workspace model of conscious access." *Neuron*, 70(2), 201–215.
+
+**Quantum theories of consciousness (Orch-OR)**
+- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+- Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39–78.
+
+**Neural correlates and neuroscience of consciousness**
+- Crick, F. & Koch, C. (1990). "Towards a neurobiological theory of consciousness." *Seminars in the Neurosciences*, 2, 263–275.
+- Dehaene, S. (2014). *Consciousness and the Brain*. Viking Press.
+
+**Animal consciousness**
+- Low, P. et al. (2012). *The Cambridge Declaration on Consciousness*. Francis Crick Memorial Conference, University of Cambridge.
+
+**Meta-problem of consciousness**
+- Chalmers, D. (2018). "The meta-problem of consciousness." *Journal of Consciousness Studies*, 25(9–10), 6–61.
+
+**Open letter questioning IIT**
+- Doerig, A. et al. (2023). Letter signed by 124 scientists: "IIT is not a scientific theory of consciousness." *PsyArXiv* preprint.
