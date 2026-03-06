@@ -14,6 +14,21 @@
     <a href="{{ .Parent.Permalink }}" class="back-link">← Back</a>
   </div>
 
+  {{ $related := first 3 (where (.Site.RegularPages.Related .) "File.Path" "ne" .File.Path) }}
+  {{ with $related }}
+  <section class="related-stories">
+    <h3 class="related-heading">Keep reading</h3>
+    <ul class="related-list">
+      {{ range . }}
+      <li class="related-item">
+        {{ if .Params.section_label }}<span class="related-label">{{ .Params.section_label }}</span>{{ end }}
+        <a href="{{ .Permalink }}" class="related-link">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
   {{ $slug := .File.ContentBaseName }}
   {{ $comments := index .Site.Data.comments $slug }}
 

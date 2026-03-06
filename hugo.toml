@@ -9,6 +9,17 @@ theme = "neon"
   kofiUsername = "tristengitzel"
   formspreeEndpoint = "https://formspree.io/f/mpqyavjb"
 
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "section_label"
+    weight = 50
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
