@@ -70,3 +70,13 @@ That's why you can't tickle yourself. Not because you're not trying hard enough,
 You and your hand are too well-acquainted. There are no surprises between you.
 
 And ticklishness, it turns out, runs entirely on surprises.
+
+---
+
+## Sources
+
+- Blakemore, S. J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. *Nature Neuroscience*, 1(7), 635–640. [Foundational study showing efference copy cancels self-produced touch]
+- Blakemore, S. J., Wolpert, D., & Frith, C. (2000). Why can't you tickle yourself? *NeuroReport*, 11(11), R11–R16.
+- Claxton, G. (1975). Why can't we tickle ourselves? *Perceptual and Motor Skills*, 41(1), 335–338. [Early behavioral investigation]
+<br>- Shergill, S. S., Bays, P. M., Frith, C. D., & Wolpert, D. M. (2003). Two eyes for an eye: The neuroscience of force escalation. *Science*, 301(5630), 187. [Relates to predictive motor cancellation and self vs. other]
+- Frith, C. D., & Done, D. J. (1989). Experiences of alien control in schizophrenia reflect a disorder in the central monitoring of action. *Psychological Medicine*, 19(2), 359–363. [Self-tickling and schizophrenia; breakdown of efference copy]

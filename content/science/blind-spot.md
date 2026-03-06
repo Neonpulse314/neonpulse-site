@@ -90,3 +90,13 @@ That is happening everywhere, always.
 ---
 
 *To find your own blind spot: close one eye, hold a finger at arm's length, focus on your fingertip, then slowly move it sideways toward the periphery. The exact position varies by person — typically 10-20 degrees from center.*
+
+---
+
+## Sources
+
+- Ramachandran, V. S., & Gregory, R. L. (1991). Perceptual filling in of artificially induced scotomas in human vision. *Nature*, 350, 699–702. [Classic demonstration of active filling-in at the blind spot]
+- Ramachandran, V. S. (1992). Blind spots. *Scientific American*, 266(5), 86–91. [Accessible account of filling-in experiments]
+- Komatsu, H. (2006). The neural mechanisms of perceptual filling-in. *Nature Reviews Neuroscience*, 7, 220–231.
+- Pessoa, L., Thompson, E., & Noë, A. (1998). Finding out about filling-in: A guide to perceptual completion for visual science and the philosophy of perception. *Behavioral and Brain Sciences*, 21(6), 723–748.
+- Helmholtz, H. von (1867). *Handbuch der physiologischen Optik* [Treatise on Physiological Optics]. [Historical grounding for unconscious inference in visual perception]

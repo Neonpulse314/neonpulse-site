@@ -101,4 +101,10 @@ They've been doing this since before you had a brain to worry with.
 
 ---
 
-*Michael Gershon, The Second Brain, 1998. Mark Gershon and Sidney Tack, "The Serotonin Signaling System," Gastroenterology, 2007. Walter Cannon, Bodily Changes in Pain, Hunger, Fear and Rage, 1915. John Cryan and Ted Dinan, "Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour," Nature Reviews Neuroscience, 2012. Martin Farmer and Beverley Randall, "Why is the gut sometimes called the 'second brain'?" Scientific American Mind, 2015.*
+## Sources
+
+- Gershon, M. D. (1998). *The Second Brain*. HarperCollins. [Enteric nervous system as semi-independent neural system]
+- Gershon, M. D., & Tack, J. (2007). The serotonin signaling system: From basic understanding to drug development for functional GI disorders. *Gastroenterology*, 132(1), 397–414.
+- Cannon, W. B. (1915). *Bodily Changes in Pain, Hunger, Fear and Rage*. Appleton. [Fight-or-flight and gut motility; the autonomic stress cascade]
+- Cryan, J. F., & Dinan, T. G. (2012). Mind-altering microorganisms: The impact of the gut microbiota on brain and behaviour. *Nature Reviews Neuroscience*, 13, 701–712.
+- Mayer, E. A. (2011). Gut feelings: The emerging biology of gut–brain communication. *Nature Reviews Neuroscience*, 12, 453–466. [Vagal signaling and interoception]

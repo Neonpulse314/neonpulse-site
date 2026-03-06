@@ -93,3 +93,13 @@ ASMR is not a substitute for connection. But it may be functioning as a signal t
 It's waiting for the real thing.
 
 It's settling, for now, for the simulation of someone who is paying careful attention to you.
+
+---
+
+## Sources
+
+- Barratt, E. L., & Davis, N. J. (2015). Autonomous sensory meridian response (ASMR): A flow-like mental state. *PeerJ*, 3, e851. [First formal study; triggers, demographics, self-reported effects]
+- Poerio, G. L., Blakey, E., Hostler, T. J., & Veltri, T. (2018). More than a feeling: ASMR is characterized by reliable changes in affect and physiology. *PLOS ONE*, 13(6), e0196645. [Physiological validation — heart rate, skin conductance]
+- Fredborg, B., Clark, J., & Smith, S. D. (2017). An examination of personality traits associated with ASMR. *Frontiers in Psychology*, 8, 247.
+- Smith, S. D., Fredborg, B. K., & Kornelsen, J. (2017). An examination of the default mode network in individuals with ASMR. *Social Neuroscience*, 12(4), 361–365. [fMRI; DMN and reward pathway activation]
+- Dunbar, R. I. M. (2010). The social brain hypothesis and its implications for social evolution. *Annals of Human Biology*, 36(5), 562–572. [Social grooming, oxytocin, and bonding — evolutionary context]

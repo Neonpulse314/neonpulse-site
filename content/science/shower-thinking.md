@@ -127,4 +127,10 @@ You are just the first one to hear it when it arrives.
 
 ---
 
-*The default mode network was first formally described by Marcus Raichle and colleagues in 2001 in the* Proceedings of the National Academy of Sciences. *The neuroscience of insight was mapped by Mark Jung-Beeman and John Kounios and published in* PLOS Biology *in 2004. Marily Oppezzo and Daniel Schwartz published the walking and creativity study in* Journal of Experimental Psychology: Learning, Memory, and Cognition *in 2014. The incubation meta-analysis by Sio and Ormerod appeared in* Psychological Bulletin *in 2009.*
+## Sources
+
+- Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. *Proceedings of the National Academy of Sciences*, 98(2), 676–682.
+- Jung-Beeman, M., Bowden, E. M., Haberman, J., Frymiare, J. L., Arambel-Liu, S., Greenblatt, R., Reber, P. J., & Kounios, J. (2004). Neural activity when people solve verbal problems with insight. *PLOS Biology*, 2(4), e97.
+- Oppezzo, M., & Schwartz, D. L. (2014). Give your ideas some legs: The positive effect of walking on creative thinking. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 40(4), 1142–1152.
+- Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? A meta-analytic review. *Psychological Bulletin*, 135(1), 94–120.
+- Wallas, G. (1926). *The Art of Thought*. Harcourt, Brace. [Original four-stage model of creative process: preparation, incubation, illumination, verification]

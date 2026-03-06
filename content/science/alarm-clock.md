@@ -80,3 +80,13 @@ There is something slightly unsettling and slightly reassuring about this. You d
 The alarm is for the days the machinery needs backup.
 
 Most mornings, it doesn't.
+
+---
+
+## Sources
+
+- Wehrens, S. M. T., Hampton, S. M., Skene, D. J., & Arendt, J. (2012). Synchrony of rest/activity and body temperature/melatonin circadian rhythms in healthy volunteers. *Chronobiology International*, 29(5), 537–546.
+- Born, J., Hansen, K., Marshall, L., Mölle, M., & Fehm, H. L. (1999). Timing the end of nocturnal sleep. *Nature*, 397, 29–30. [HPA axis anticipatory cortisol rise before expected wake time]
+- Czeisler, C. A., & Gooley, J. J. (2007). Sleep and circadian rhythms in humans. *Cold Spring Harbor Symposia on Quantitative Biology*, 72, 579–597.
+- Leproult, R., & Van Cauter, E. (2010). Role of sleep and sleep loss in hormonal release and metabolism. *Endocrine Development*, 17, 11–21. [Cortisol and HPA axis in sleep regulation]
+- Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. *Journal of Neuroscience*, 15(5), 3526–3538.

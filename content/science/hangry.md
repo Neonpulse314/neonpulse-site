@@ -85,3 +85,13 @@ The pin count goes up. The noise blast gets louder.
 
 Eat something first.
 
+---
+
+## Sources
+
+- Bushman, B. J., DeWall, C. N., Pond, R. S., & Hanus, M. D. (2014). Low glucose relates to greater aggression in married couples. *Proceedings of the National Academy of Sciences*, 111(17), 6254–6257. [The voodoo doll study]
+- MacCormack, J. K., & Lindquist, K. A. (2019). Feeling hangry? When hunger is conceptualized as emotion. *Emotion*, 19(2), 301–319. [Context and labeling moderate the hunger-anger link]
+- Gailliot, M. T., & Baumeister, R. F. (2007). The physiology of willpower: Linking blood glucose to self-control. *Personality and Social Psychology Review*, 11(4), 303–327. [Glucose and prefrontal self-regulation]
+- Arnsten, A. F. T. (1998). Catecholamine modulation of prefrontal cortical cognitive function. *Trends in Cognitive Sciences*, 2(11), 436–447. [PFC sensitivity to metabolic and stress states]
+- Challet, E. (2010). Interactions between light, mealtime and calorie restriction to control daily timing in mammals. *Journal of Comparative Physiology B*, 180, 631–644. [Metabolic signals and circadian regulation]
+

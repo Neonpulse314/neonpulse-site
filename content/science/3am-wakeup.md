@@ -100,3 +100,14 @@ You're not broken. You're just awake at the worst possible time for sleep — ph
 The ceiling isn't going to help you. The brain isn't going to switch off because you want it to.
 
 The only reliable move is not fighting it.
+
+---
+
+## Sources
+
+- Walker, M. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner. [Sleep architecture, REM distribution, and emotional memory processing]
+- Scullin, M. K., Krueger, M. L., Ballard, H. K., Pruett, N., & Bliwise, D. L. (2018). The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists. *Journal of Experimental Psychology: General*, 147(1), 139–146.
+- Clow, A., Thorn, L., Evans, P., & Hucklebridge, F. (2004). The awakening cortisol response: Methodological issues and significance. *Stress*, 7(1), 29–37. [Cortisol awakening response timing]
+- Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature*, 437, 1272–1278.
+- Bootzin, R. R. (1972). Stimulus control treatment for insomnia. *Proceedings of the American Psychological Association*, 7, 395–396. [CBT-I origins]
+- Harvey, A. G. (2002). A cognitive model of insomnia. *Behaviour Research and Therapy*, 40(8), 869–893. [Psychophysiological insomnia and conditioned arousal]
