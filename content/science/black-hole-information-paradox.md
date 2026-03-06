@@ -119,3 +119,19 @@ A black hole is the universe's most effective eraser. Quantum mechanics says era
 ---
 
 *The black hole information paradox was first identified by Stephen Hawking following his 1974 discovery of Hawking radiation. In 2004, Hawking conceded his bet with Preskill, acknowledging information is likely preserved — following Maldacena's 1997 AdS/CFT argument. The firewall paradox was formulated by Almheiri, Marolf, Polchinski, and Sully (AMPS) in 2012. The island formula, independently derived by Penington (2019) and Almheiri et al. (2019), reproduces the Page curve but does not yet provide a clear physical mechanism for information escape. The paradox remains unresolved.*
+
+---
+
+## Sources
+
+- Hawking SW. "Black hole explosions?" *Nature*. 1974;248(5443):30–31. — The paper predicting Hawking radiation and, inadvertently, the information paradox.
+
+- Hawking SW. "Breakdown of predictability in gravitational collapse." *Physical Review D*. 1976;14(10):2460–2473. — The paper explicitly stating that black hole evaporation destroys information.
+
+- Maldacena JM. "The Large-N Limit of Superconformal Field Theories and Supergravity." *International Journal of Theoretical Physics*. 1999;38:1113–1133. — AdS/CFT correspondence; the key argument that information is preserved in quantum gravity.
+
+- Almheiri A, Marolf D, Polchinski J, Sully J. "Black Holes: Complementarity or Firewalls?" *Journal of High Energy Physics*. 2013;2013(2):62. — The AMPS firewall paradox paper.
+
+- Page DN. "Information in Black Hole Radiation." *Physical Review Letters*. 1993;71(23):3743–3746. — The Page curve, predicting information must come out of a black hole for unitarity to hold.
+
+- Penington G. "Entanglement Wedge Reconstruction and the Information Paradox." *Journal of High Energy Physics*. 2020;2020(9):2. — The 2019 island formula paper (one of two simultaneous derivations); reproduces the Page curve using quantum extremal surfaces.
