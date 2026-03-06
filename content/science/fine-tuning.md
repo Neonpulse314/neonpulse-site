@@ -84,3 +84,19 @@ The universe is described by a set of numbers we didn't choose and can't derive.
 Was that luck? Inevitability? Design? An artifact of selection from an infinity of possibilities?
 
 Physicists have been asking this for fifty years. They don't have an answer. Neither do you. But unlike most mysteries, this one is about the deepest question possible: not just why the universe is the way it is, but whether it could have been any other way at all.
+
+---
+
+## Sources
+
+- Barrow JD, Tipler FJ. *The Anthropic Cosmological Principle*. Oxford University Press, 1986. — The foundational text cataloguing the fine-tuning coincidences and the anthropic principle.
+
+- Weinberg S. "Anthropic Bound on the Cosmological Constant." *Physical Review Letters*. 1987;59(22):2607. — Weinberg's prediction of a small positive cosmological constant using anthropic reasoning, made a decade before it was confirmed.
+
+- Carr B, Rees MJE. "The anthropic principle and the structure of the physical world." *Nature*. 1979;278(5705):605–612. — Early systematic treatment of coincidences in the fundamental constants.
+
+- Susskind L. *The Cosmic Landscape: String Theory and the Illusion of Intelligent Design*. Little, Brown, 2006. — The landscape argument for why fine-tuning might be explained by a multiverse.
+
+- Smolin L. *The Life of the Cosmos*. Oxford University Press, 1997. — The cosmological natural selection alternative to the anthropic principle.
+
+- Stenger VJ. *The Fallacy of Fine-Tuning: Why the Universe Is Not Designed for Us*. Prometheus Books, 2011. — The skeptical case against fine-tuning arguments, arguing the constants have more flexibility than claimed.
