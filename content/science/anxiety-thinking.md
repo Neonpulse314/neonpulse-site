@@ -93,3 +93,19 @@ The exam was not a predator.
 
 But the system doesn't ask.
 
+---
+
+## Sources
+
+- Yerkes RM, Dodson JD. "The relation of strength of stimulus to rapidity of habit-formation." *Journal of Comparative Neurology and Psychology*. 1908;18(5):459–482. — The foundational study establishing the inverted-U relationship between arousal and performance, showing optimal performance at intermediate arousal levels with degradation at extremes.
+
+- Eysenck MW, Derakshan N, Santos R, Calvo MG. "Anxiety and cognitive performance: Attentional control theory." *Emotion*. 2007;7(2):336–353. — The attentional control theory of anxiety: anxiety impairs the executive functions of working memory (inhibition and shifting), diverting resources to threat monitoring and reducing capacity for task-relevant processing.
+
+- Beilock SL, Carr TH. "When high-powered people fail: Working memory and 'choking under pressure' in math." *Psychological Science*. 2005;16(2):101–105. — Demonstrates that high-working-memory individuals show larger performance decrements under pressure because they generate more elaborate, rumination-heavy worry that consumes more WM capacity.
+
+- Ramirez G, Beilock SL. "Writing about testing worries boosts exam performance in the classroom." *Science*. 2011;331(6014):211–213. — Field study showing that 10 minutes of expressive writing about exam worries before a high-stakes test significantly improved performance, by offloading worry from working memory.
+
+- Arnsten AFT. "Stress signalling pathways that impair prefrontal cortex structure and function." *Nature Reviews Neuroscience*. 2009;10(6):410–422. — Neurobiological review of how norepinephrine and dopamine surges under stress downregulate prefrontal cortex function — the mechanism underlying amygdala hijack and reduced executive control under anxiety.
+
+- Jamieson JP, Mendes WB, Blackstock E, Schmader T. "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE." *Journal of Experimental Social Psychology*. 2010;46(1):208–212. — Shows that reappraising physiological arousal as excitement (rather than anxiety) improves GRE performance, demonstrating that the cognitive label attached to arousal changes its functional impact.
+
