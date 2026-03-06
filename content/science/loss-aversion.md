@@ -98,3 +98,19 @@ This isn't irrationality. It's a calibrated asymmetry that made sense for most o
 
 It just turns out that the modern world — investment portfolios, salary negotiations, insurance decisions — is full of situations where that asymmetry costs you.
 
+---
+
+## Sources
+
+- Kahneman D, Tversky A. "Prospect theory: An analysis of decision under risk." *Econometrica*. 1979;47(2):263–292. — The foundational paper introducing prospect theory and the value function: loss aversion (2:1 ratio), reference-dependence, and diminishing sensitivity — one of the most cited papers in economics.
+
+- Tversky A, Kahneman D. "Loss aversion in riskless choice: A reference-dependent model." *Quarterly Journal of Economics*. 1991;106(4):1039–1061. — Extends prospect theory to riskless choice, formalizing the endowment effect and status quo bias as products of loss aversion operating on reference points.
+
+- Thaler RH. "Mental accounting matters." *Journal of Behavioral Decision Making*. 1999;12(3):183–206. — Documents how loss aversion produces the endowment effect (mug-pen trading studies) and how mental accounting distorts economically equivalent decisions.
+
+- Odean T. "Are investors reluctant to realize their losses?" *Journal of Finance*. 1998;53(5):1775–1798. — Large-scale study of retail investor data demonstrating the disposition effect: investors sell winning stocks 50% more readily than losing stocks, directly attributable to loss aversion.
+
+- Tversky A, Kahneman D. "The framing of decisions and the psychology of choice." *Science*. 1981;211(4481):453–458. — Classic demonstration of framing effects: identical information presented as losses versus gains produces systematically different decisions, even in professional medical contexts.
+
+- Novemsky N, Kahneman D. "The boundaries of loss aversion." *Journal of Marketing Research*. 2005;42(2):119–128. — Examines when loss aversion is strong vs. attenuated, showing that routine transactions (spending on intended purchases) show less aversion than unexpected losses or foregone gains.
+
