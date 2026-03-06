@@ -91,3 +91,19 @@ Not because they wanted to hurt anyone.
 
 Because they thought they were helping something that mattered.
 
+---
+
+## Sources
+
+- Milgram S. "Behavioral study of obedience." *Journal of Abnormal and Social Psychology*. 1963;67(4):371–378. — The original publication reporting 65% compliance to maximum shock; Milgram's own interpretation emphasized situational forces over personal disposition.
+
+- Milgram S. *Obedience to Authority: An Experimental View*. Harper & Row; 1974. — Milgram's full account of all 20+ experimental variations, documenting how proximity, authority legitimacy, and peer behavior dramatically modulate compliance rates.
+
+- Haslam SA, Reicher SD. "Contesting the 'nature' of conformity: What Milgram and Zimbardo's studies really show." *PLOS Biology*. 2012;10(11):e1001426. — Reanalysis arguing that Milgram subjects were not passive automata but engaged followers who identified with a legitimate scientific cause; compliance reflected identification, not blind obedience.
+
+- Perry G. *Behind the Shock Machine: The Untold Story of the Notorious Milgram Psychology Experiments*. Scribe Publications; 2012. — Investigative account drawing on Milgram's original archives and participant interviews; reveals methodological complexities including subjects who suspected the shocks weren't real and participants reporting lasting distress.
+
+- Burger JM. "Replicating Milgram: Would people still obey today?" *American Psychologist*. 2009;64(1):1–11. — 2008 replication (stopped at 150V for ethics) finding 70% compliance at that threshold — comparable to Milgram's original, suggesting the underlying mechanisms remain intact decades later.
+
+- Blass T. "The Milgram paradigm after 35 years: Some things we now know about obedience to authority." *Journal of Applied Social Psychology*. 1999;29(5):955–978. — Meta-analysis across replications in multiple countries showing consistent compliance patterns, and documenting that proximity-to-victim is the single strongest moderator of compliance.
+
