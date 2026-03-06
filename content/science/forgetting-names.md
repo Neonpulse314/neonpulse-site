@@ -98,3 +98,19 @@ The difference between people who remember names and people who don't is almost 
 Say the name. Use it. Give it something to stick to.
 
 It'll be there when you need it.
+
+---
+
+## Sources
+
+- **Craik FIM, Lockhart RS** (1972). "Levels of processing: A framework for memory research." *Journal of Verbal Learning and Verbal Behavior*, 11(6), 671–684. The foundational paper establishing that deeper semantic processing produces more durable memory traces — the basis for why names (low semantic depth) encode poorly.
+
+- **Cohen G** (1990). "Why is it difficult to put names to faces?" *British Journal of Psychology*, 81(3), 287–297. The original analysis of the Baker/baker paradox and why proper nouns are uniquely resistant to memory encoding compared to semantically equivalent common nouns.
+
+- **Cowan N** (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87–114. Review establishing that working memory holds approximately 4 items, degrading rapidly without active rehearsal — the basis for why names disappear during cognitively loaded introductions.
+
+- **Brenner M** (1973). "The next-in-line effect." *Journal of Verbal Learning and Verbal Behavior*, 12(3), 320–323. Original study of the phenomenon where people preparing to speak fail to encode what is said immediately before them — the specific version of this problem in group introductions.
+
+- **Baddeley A** (2000). "The episodic buffer: A new component of working memory?" *Trends in Cognitive Sciences*, 4(11), 417–423. Working memory model explaining the multi-channel capacity limitations that create encoding failures during socially demanding situations.
+
+- **Higbee KL** (2001). *Your Memory: How It Works and How to Improve It* (2nd ed.). Da Capo Press. Practical synthesis of memory research including name-learning strategies based on forcing deeper encoding — repetition, association, immediate use.

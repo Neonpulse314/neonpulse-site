@@ -108,3 +108,19 @@ You finished the workout fine. You woke up wrecked.
 That wasn't lactic acid. It was your immune system, running a 24-hour repair job, setting off pain alarms to keep you away from the construction site.
 
 The soreness was the cost of getting better.
+
+---
+
+## Sources
+
+- **Armstrong RB** (1984). "Mechanisms of exercise-induced delayed onset muscular soreness: A brief review." *Medicine & Science in Sports & Exercise*, 16(6), 529–538. The foundational paper establishing mechanical damage and inflammation as the cause of DOMS, definitively arguing against the lactic acid hypothesis.
+
+- **Proske U, Morgan DL** (2001). "Muscle damage from eccentric exercise: Mechanism, mechanical signs, adaptation and clinical applications." *The Journal of Physiology*, 537(2), 333–345. Detailed analysis of why eccentric contractions cause disproportionate sarcomere damage, including the repeated bout effect mechanism.
+
+- **Cheung K, Hume PA, Maxwell L** (2003). "Delayed onset muscle soreness: Treatment strategies and performance factors." *Sports Medicine*, 33(2), 145–164. Comprehensive review of DOMS mechanisms, including the role of Type III/IV muscle afferents and peripheral sensitization by prostaglandins.
+
+- **Clarkson PM, Hubal MJ** (2002). "Exercise-induced muscle damage in humans." *American Journal of Physical Medicine & Rehabilitation*, 81(11 Suppl), S52–S69. Review of electron microscopy evidence of sarcomere disruption following eccentric exercise.
+
+- **Herbert RD, de Noronha M, Kamper SJ** (2011). "Stretching to prevent or reduce muscle soreness after exercise." *Cochrane Database of Systematic Reviews*, (7), CD004577. Meta-analysis confirming that stretching does not reduce DOMS.
+
+- **Howatson G, van Someren KA** (2008). "The prevention and treatment of exercise-induced muscle damage." *Sports Medicine*, 38(6), 483–503. Review covering ice baths, NSAIDs, massage, and their actual (often blunted) effects on recovery and adaptation.

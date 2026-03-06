@@ -103,3 +103,19 @@ The cold is still there. The heat loss is still happening. The hypothalamus has 
 The warmth you feel is the heat leaving.
 
 Every good feeling isn't a signal that you're okay. Some of them are the signal for what's already going wrong.
+
+---
+
+## Sources
+
+- **Keatinge WR, Evans M** (1960). "Effect of food, alcohol and hyoscine on body-temperature and reflex responses of men immersed in cold water." *The Lancet*, 276(7142), 176–178. Early experimental study on alcohol, cold water immersion, and thermoregulation.
+
+- **Haight JS, Keatinge WR** (1973). "Failure of thermoregulation in the cold during hypoglycaemia induced by exercise and ethanol." *British Medical Journal*, 1(5849), 426–429. Direct measurement of core temperature drop with alcohol in cold environments.
+
+- **Pohorecky LA, Brick J** (1988). "Pharmacology of ethanol." *Pharmacology & Therapeutics*, 36(2–3), 335–427. Comprehensive review of ethanol's effects on the nervous system, including hypothalamic thermoregulation suppression.
+
+- **Sessler DI** (1997). "Mild perioperative hypothermia." *New England Journal of Medicine*, 336(24), 1730–1737. On the mechanisms of peripheral vasodilation and heat redistribution to the body surface.
+
+- **Danel T, Libersa C, Touitou Y** (2001). "The effect of alcohol consumption on the circadian control of human core body temperature is time dependent." *American Journal of Physiology–Regulatory, Integrative and Comparative Physiology*, 281(1), R52–R55. Confirms alcohol disrupts thermoregulatory response across different exposure conditions.
+
+- **British Mountaineering Council / Wilderness Medical Society** — Position statements on alcohol as contraindicated in hypothermia treatment. Consistent with modern wilderness medicine guidelines.

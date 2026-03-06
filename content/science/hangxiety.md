@@ -106,3 +106,19 @@ The dread you're feeling is not a message about something you did. It's a predic
 It will pass. The brain recalibrates. By afternoon, the rebound will be over and the baseline will return.
 
 The worry you attached to it, though — that's yours to dismiss separately.
+
+---
+
+## Sources
+
+- **Lovinger DM, White G, Weight FF** (1989). "Ethanol inhibits NMDA-activated ion current in hippocampal neurons." *Science*, 243(4899), 1721–1724. Landmark study establishing that alcohol suppresses NMDA glutamate receptors — one of the two main mechanisms producing hangxiety rebound.
+
+- **Grobin AC, Matthews DB, Devaud LL, Morrow AL** (1998). "The role of GABA-A receptors in the acute and chronic effects of ethanol." *Psychopharmacology*, 139(1–2), 2–19. Comprehensive review of how alcohol enhances GABA inhibitory signaling and how the brain's compensatory down-regulation produces net excitability after alcohol clears.
+
+- **Adinoff B, Ruether K, Krebaum S, Iranmanesh A, Williams MJ** (2003). "Increased salivary cortisol concentrations during chronic alcohol intoxication in a naturalistic clinical sample of men." *Alcoholism: Clinical and Experimental Research*, 27(9), 1420–1427. Direct measurement of HPA axis rebound and elevated cortisol following alcohol cessation.
+
+- **Roehrs T, Roth T** (2001). "Sleep, sleepiness, sleep disorders and alcohol use and abuse." *Sleep Medicine Reviews*, 5(4), 287–297. Review of alcohol's effects on sleep architecture, including REM suppression during intoxication and REM rebound as alcohol metabolizes — producing emotionally intense and anxious dream states.
+
+- **Kushner MG, Abrams K, Borchardt C** (2000). "The relationship between anxiety disorders and alcohol use disorders: A review of major perspectives and findings." *Clinical Psychology Review*, 20(2), 149–171. Review of bidirectional anxiety-alcohol relationship, including why people with pre-existing anxiety experience more pronounced hangxiety.
+
+- **Gauvin DV, Baird TJ, Briscoe RJ, Vallett M, Holloway FA** (1997). "Cross-generalization of midazolam- and ethanol-induced interoceptive cues: The role of HPA axis activation." *Alcoholism: Clinical and Experimental Research*, 21(6), 1100–1109. Animal and human research on the cortisol-anxiety mechanism underlying withdrawal states and their subjective experience.

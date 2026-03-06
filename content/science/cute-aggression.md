@@ -84,3 +84,17 @@ Your hands made a squeezing motion that you didn't decide to make.
 
 That was your orbital frontal cortex doing its job.
 
+---
+
+## Sources
+
+- **Aragón OR, Clark MS, Dyer RL, Bargh JA** (2015). "Dimorphous expressions of positive emotions: Displays of both care and aggression in response to cute stimuli." *Psychological Science*, 26(3), 259–273. The landmark study formally defining and naming cute aggression, including the bubble-wrap experiment.
+
+- **Stavropoulos KKM, Alba LA** (2018). "'Tune in' to cute babies: The role of the orbital frontal cortex in cute aggression." *Frontiers in Behavioral Neuroscience*, 12, 300. EEG neuroimaging study showing elevated orbital frontal cortex activation in response to overwhelming cute stimuli.
+
+- **Lorenz K** (1943). "Die angeborenen Formen möglicher Erfahrung." *Zeitschrift für Tierpsychologie*, 5, 235–409. The original description of *Kindchenschema* (infant schema) — the set of infant features that trigger caregiving responses across species.
+
+- **Nittono H, Fukushima M, Yano A, Moriya H** (2012). "The power of Kawaii: Viewing cute images promotes a careful behavior and narrows attentional focus." *PLOS ONE*, 7(9), e46362. Demonstrates that cute stimuli produce behavioral changes beyond simple positive affect, including altered attentional focus.
+
+- **Glocker ML et al.** (2009). "Baby schema in infant faces induces cuteness perception and motivation for caretaking in adults." *Ethology*, 115(3), 257–263. Quantitative test of Lorenz's infant schema, confirming that exaggerated infant features increase caretaking motivation in adult observers.
+

@@ -86,3 +86,19 @@ The void called. Your brain answered first.
 If you've experienced this: you're not disturbed, you're not secretly suicidal, and you're not alone. You're among roughly half the humans who have stood near an edge and felt their survival system working loudly enough to hear.
 
 The thought was your brain doing its job. It just did it conspicuously enough to confuse you.
+
+---
+
+## Sources
+
+- **Hames JL, Ribeiro JD, Smith AR, Joiner TE** (2012). "An urge to jump affirms the urge to live: An empirical examination of the high place phenomenon in suicidal and non-suicidal individuals." *Journal of Affective Disorders*, 136(3), 1114–1120. The landmark study establishing that ~50% of non-suicidal individuals experience the high place phenomenon, and that it is inversely correlated with suicidal ideation.
+
+- **Campagne DM** (2018). "Suicide from bridges: Is the high place phenomenon a risk factor?" *Journal of Forensic Science & Medicine*, 4(1), 15–21. Replication and extension study confirming prevalence across a broader population sample.
+
+- **Rachman S, de Silva P** (1978). "Abnormal and normal obsessions." *Behaviour Research and Therapy*, 16(4), 233–248. Foundational study demonstrating that intrusive thoughts (including violent and taboo content) are near-universal in healthy populations, not diagnostic of psychopathology.
+
+- **Salkovskis PM** (1985). "Obsessional-compulsive problems: A cognitive-behavioural analysis." *Behaviour Research and Therapy*, 23(5), 571–583. The cognitive model explaining why intrusive thoughts cause distress when misinterpreted as meaningful — the basis for modern OCD treatment and understanding the misattribution in high place phenomenon.
+
+- **Purdon C, Clark DA** (1993). "Obsessive intrusive thoughts in nonclinical subjects: Part I. Content and relation with depressive, anxious and obsessional symptoms." *Behaviour Research and Therapy*, 31(8), 713–720. Large-sample study confirming that the content of intrusive thoughts in healthy people often matches clinically significant obsessive content, and that the thoughts themselves are not pathological.
+
+- **Clark DA** (2005). *Intrusive Thoughts in Clinical Disorders: Theory, Research, and Treatment*. Guilford Press. Comprehensive review of intrusive thought research, including the role of threat detection systems and why certain contexts (height, fast-moving traffic, etc.) reliably trigger them.
