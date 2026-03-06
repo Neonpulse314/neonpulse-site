@@ -86,3 +86,19 @@ The uncomfortable implication of Asch's work is that most conformity is invisibl
 Most people, when told about Asch's experiments, are confident they would have given the correct answer.
 
 Asch's subjects thought the same thing.
+
+---
+
+## Sources
+
+- Asch SE. "Studies of independence and conformity: I. A minority of one against a unanimous majority." *Psychological Monographs*. 1956;70(9):1–70. — The full monograph of Asch's conformity experiments, documenting the 37% conformity rate across critical trials, the effects of unanimity, and the role of single dissenters.
+
+- Asch SE. "Opinions and social pressure." *Scientific American*. 1955;193(5):31–35. — Asch's accessible summary of his findings, including the key observation that one confederate giving a different answer (even a wrong one) dramatically reduced conformity.
+
+- Moscovici S, Lage E, Naffrechoux M. "Influence of a consistent minority on the responses of a majority in a color perception task." *Sociometry*. 1969;32(4):365–380. — The original minority influence study showing that consistent dissent from two confederates produced measurable belief change in a six-person majority — establishing that influence runs both directions.
+
+- Deutsch M, Gerard HB. "A study of normative and informational social influences upon individual judgment." *Journal of Abnormal and Social Psychology*. 1955;51(3):629–636. — Establishes the distinction between normative influence (social belonging) and informational influence (epistemic updating) as the two distinct mechanisms underlying Asch-type conformity.
+
+- Bond R, Smith PB. "Culture and conformity: A meta-analysis of studies using Asch's (1952b, 1956) line judgment task." *Psychological Bulletin*. 1996;119(1):111–137. — Meta-analysis of 133 Asch-replication studies across 17 countries, documenting that conformity rates vary significantly by culture but the basic effect replicates universally.
+
+- Cialdini RB, Goldstein NJ. "Social influence: Compliance and conformity." *Annual Review of Psychology*. 2004;55:591–621. — Review of the social influence literature distinguishing conformity, compliance, and obedience, with practical implications for how social norms shape behavior outside the laboratory.
