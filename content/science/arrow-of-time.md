@@ -128,3 +128,19 @@ The laws of physics give no answer. The initial conditions of the universe point
 ---
 
 *The time-symmetry of the fundamental laws of physics was understood gradually over the 19th and 20th centuries. Ludwig Boltzmann's statistical formulation of thermodynamics, developed in the 1870s–1890s, showed that entropy increase is a probabilistic rather than absolute law; Boltzmann's suicide in 1906 is sometimes attributed in part to the philosophical pressures his work generated. The Boltzmann Brain problem was named and popularized in the early 21st century. Roger Penrose's Conformal Cyclic Cosmology was described in his 2010 book "Cycles of Time." The Page-Wootters mechanism for emergent time from quantum entanglement was proposed in 1983 and has attracted renewed interest in the 2010s. As of 2026, the origin of the low-entropy initial conditions of the universe has no accepted explanation.*
+
+---
+
+## Sources
+
+- Boltzmann L. "Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen." *Wiener Berichte*. 1872;66:275–370. — Statistical mechanics and entropy; the foundations of the second law.
+
+- Carroll SM, Chen J. "Spontaneous Inflation and the Origin of the Arrow of Time." arXiv:hep-th/0410270. 2004. — Influential paper arguing the arrow of time requires explanation from cosmological initial conditions.
+
+- Penrose R. *The Road to Reality: A Complete Guide to the Laws of the Universe*. Jonathan Cape, 2004. — Chapter 27 covers the second law and the Past Hypothesis in accessible detail.
+
+- Page DN, Wootters WK. "Evolution without evolution: Dynamics described by stationary observables." *Physical Review D*. 1983;27(12):2885. — The quantum mechanical mechanism for emergent time from entanglement.
+
+- Boltzmann L. "On Certain Questions of the Theory of Gases." *Nature*. 1895;51:413–415. — The Boltzmann H-theorem and his response to the reversibility objection.
+
+- Carroll SM. *From Eternity to Here: The Quest for the Ultimate Theory of Time*. Dutton, 2010. — The most accessible book-length treatment of the arrow of time problem.
