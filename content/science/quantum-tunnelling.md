@@ -90,3 +90,19 @@ These aren't new questions. They're the same questions at the heart of the doubl
 ---
 
 *Quantum tunnelling was first described mathematically in 1928, independently by George Gamow and by Ronald Gurney and Edward Condon, to explain radioactive alpha decay. The tunnelling time controversy has persisted since the 1980s. The 2020 University of Toronto experiment (Ramos et al., Nature) measured tunnelling time in rubidium atoms and reignited debate about apparent superluminal transit. No consensus exists on the correct definition of tunnelling time.*
+
+---
+
+## Sources
+
+- Gamow G. "Zur Quantentheorie des Atomkernes." *Zeitschrift für Physik*. 1928;51(3–4):204–212. — First mathematical description of tunnelling to explain radioactive alpha decay.
+
+- Gurney RW, Condon EU. "Quantum Mechanics and Radioactive Disintegration." *Physical Review*. 1929;33(2):127. — Independent parallel derivation of tunnelling theory for nuclear decay.
+
+- Bethe HA. "Energy Production in Stars." *Physical Review*. 1939;55(5):434–456. — The Nobel Prize-winning paper on nuclear fusion in stars, which depends on quantum tunnelling. Tunnelling as the mechanism for solar energy.
+
+- Fowler WA, Caughlan GR, Zimmerman BA. "Thermonuclear Reaction Rates." *Annual Review of Astronomy and Astrophysics*. 1967;5(1):525–570. — Standard reference for stellar nucleosynthesis reaction rates enabled by tunnelling.
+
+- Ramos R, Spierings D, Racicot I, Steinberg AM. "Measurement of the time spent by a tunnelling atom within the barrier region." *Nature*. 2020;583(7817):529–532. — The 2020 Toronto experiment measuring tunnelling time, reigniting the superluminal transit debate.
+
+- Hauge EH, Støvneng JA. "Tunneling times: a critical review." *Reviews of Modern Physics*. 1989;61(4):917–936. — A comprehensive review of the tunnelling time controversy and competing definitions.
