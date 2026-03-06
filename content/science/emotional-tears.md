@@ -94,3 +94,17 @@ Next time you cry at something that doesn't matter — a song, a commercial, a s
 You're not being irrational.
 
 You're doing exactly what you were built for.
+
+---
+
+## Sources
+
+- Vingerhoets AJJM, Bylsma LM. "The riddle of human emotional crying: A challenge for emotion researchers." *Emotion Review*. 2016;8(3):207–217. — Comprehensive review of the evolutionary and regulatory functions of emotional crying; documents the distinctive chemical composition of emotional tears including stress hormones and leucine enkephalin.
+
+- Frey WH, Desota-Johnson D, Hoffman C, McCall JT. "Effect of stimulus on the chemical composition of human tears." *American Journal of Ophthalmology*. 1981;92(4):559–567. — First study documenting that emotional tears contain higher concentrations of stress hormones (ACTH, prolactin) than reflex tears — establishing that crying is not merely reflexive but involves chemical discharge.
+
+- Gračanin A, Bylsma LM, Vingerhoets AJJM. "Is crying a self-soothing behavior?" *Frontiers in Psychology*. 2014;5:502. — Reviews evidence that crying activates the parasympathetic system and improves mood post-cry via autonomic recovery; proposes that self-soothing is the primary physiological function of adult emotional crying.
+
+- Hasson O. "Emotional tears as biological signals." *Evolutionary Psychology*. 2009;7(3):363–370. — Proposes the honest signaling hypothesis: tears as an unfakeable signal of reduced threat and increased vulnerability, triggering prosocial responses in observers via inhibition of aggression.
+
+- Mar RA, Oatley K. "The function of fiction is the abstraction and simulation of social experience." *Perspectives on Psychological Science*. 2008;3(3):173–192. — Argues that fiction serves as social simulation: emotional responses to narrative events are neurologically genuine, with the amygdala processing story threats and losses as real despite cortical knowledge of fiction.

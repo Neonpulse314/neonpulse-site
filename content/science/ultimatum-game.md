@@ -108,3 +108,19 @@ Sometimes the answer is no. Sometimes the offer is 20% and $20 is more than $0 a
 The cucumber monkey threw the cucumber back. The researcher left. The monkey still had nothing to eat.
 
 The circuit is very old. Knowing that doesn't stop it from running. But it does give you a second before it decides for you.
+
+---
+
+## Sources
+
+- Güth W, Schmittberger R, Schwarze B. "An experimental analysis of ultimatum bargaining." *Journal of Economic Behavior & Organization*. 1982;3(4):367–388. — The original ultimatum game study establishing that responders consistently reject non-zero offers below ~30%, violating rational agent predictions.
+
+- Sanfey AG, Rilling JK, Aronson JA, Nystrom LE, Cohen JD. "The neural basis of economic decision-making in the Ultimatum Game." *Science*. 2003;300(5626):1755–1758. — fMRI study showing anterior insula activation during unfair offers; insula activity predicted rejection — the body's disgust system drives the rejection decision before reasoning.
+
+- Henrich J, Boyd R, Bowles S, et al. "In search of homo economicus: Behavioral experiments in 15 small-scale societies." *American Economic Review*. 2001;91(2):73–78. — Cross-cultural ultimatum game study across 15 small-scale societies on four continents, finding that rejection of unfair offers appears universally but with cultural variation in what counts as "fair."
+
+- Brosnan SF, de Waal FBM. "Monkeys reject unequal pay." *Nature*. 2003;425(6955):297–299. — The capuchin cucumber study: monkeys refused equal-effort exchanges when witnessing neighbors receive better rewards, demonstrating fairness sensitivity in non-human primates.
+
+- Fehr E, Gächter S. "Altruistic punishment in humans." *Nature*. 2002;415(6868):137–140. — Demonstrates that humans pay personal costs to punish norm violators even in anonymous one-shot interactions, establishing costly punishment as a key mechanism for maintaining large-scale cooperation.
+
+- Fudenberg D, Levine DK. "Slow-to-anger and fast-to-forgive: Cooperation in an uncertain world." *American Economic Review*. 2012;102(2):720–749. — Models why the commitment device interpretation of ultimatum rejection is evolutionarily rational: an agent who credibly punishes defectors deters future exploitation in repeated social environments.
