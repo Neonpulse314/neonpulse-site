@@ -70,3 +70,17 @@ If you don't: you're not missing a cognitive function. You have a different arch
 The more interesting question is what *else* we're assuming is universal that isn't. How many other features of your inner life — the way you experience time, visualize faces, process emotion — are things you've never thought to ask anyone else about because you assumed the default was shared?
 
 The research suggests: less than you think.
+
+---
+
+## Sources
+
+- Hurlburt RT, Heavey CL. "Telling what we know: Describing inner experience." *Trends in Cognitive Sciences*. 2001;5(9):400–403. — Describes Descriptive Experience Sampling methodology, finding that inner experience varies dramatically between individuals — including significant proportions who think primarily in images, unsymbolized thoughts, or mixed modes rather than verbal narration.
+
+- Alderson-Day B, Fernyhough C. "Inner speech: Development, cognitive functions, phenomenology, and neurobiology." *Psychological Bulletin*. 2015;141(5):931–965. — Comprehensive review of inner speech research: neural substrates (Broca's/Wernicke's/motor cortex), functions (working memory, self-regulation, planning), and individual differences in inner speech frequency and form.
+
+- Vygotsky LS. *Thought and Language*. MIT Press; 1962 (original 1934). — The foundational theoretical account of inner speech as internalized external speech, developing in children as self-regulatory narration becomes progressively abbreviated and covert.
+
+- Baddeley A. "The episodic buffer: A new component of working memory?" *Trends in Cognitive Sciences*. 2000;4(11):417–423. — The phonological loop model of working memory: the inner speech loop as a rehearsal mechanism, explaining the cognitive functions of verbal inner speech for working memory and learning.
+
+- Hurlburt RT, Alderson-Day B, Fernyhough C, Kühn S. "Exploring the ecological validity of thinking on demand: Neural correlates of elicited vs. spontaneously occurring inner speech." *PLOS ONE*. 2016;11(2):e0147932. — Compares neural signatures of spontaneous and prompted inner speech, finding that elicited inner speech activates different patterns — highlighting why most laboratory research on inner speech may not generalize to natural experience.

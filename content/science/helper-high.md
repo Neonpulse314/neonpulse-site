@@ -87,3 +87,17 @@ It runs on the same circuits as hunger and sex.
 
 It just requires something outside yourself to activate it.
 
+---
+
+## Sources
+
+- Moll J, Zahn R, de Oliveira-Souza R, et al. "The neural basis of human moral cognition." *Nature Reviews Neuroscience*. 2005;6(10):799–809. — Establishes that charitable giving activates ventral striatum and subgenual anterior cingulate cortex — the same reward circuits as food, money, and sex — providing the neurological basis for the helper's high.
+
+- Dunn EW, Aknin LB, Norton MI. "Spending money on others promotes happiness." *Science*. 2008;319(5870):1687–1688. — The foundational study: subjects randomly assigned to spend $5 or $20 on others reported higher end-of-day happiness than those who spent on themselves, regardless of amount — replicated across income levels and cultures.
+
+- Andreoni J. "Impure altruism and donations to public goods: A theory of warm-glow giving." *Economic Journal*. 1990;100(401):464–477. — Introduces warm-glow altruism: people give partly for the internal reward the act produces, not solely for impact on recipients — explaining why giving follows subjective salience rather than utilitarian efficiency.
+
+- Zak PJ, Kurzban R, Matzner WT. "Oxytocin is associated with human trustworthiness." *Hormones and Behavior*. 2005;48(5):522–527. — Documents oxytocin release during trust-based prosocial interactions; oxytocin correlates with trustworthy behavior in economic games — establishing its role in cooperative social bonds.
+
+- Haidt J. "Elevation and the positive psychology of morality." In Keyes CLM, Haidt J (eds), *Flourishing: Positive Psychology and the Life Well-Lived*. APA; 2003. — Introduces elevation: the moral emotion triggered by witnessing extraordinary prosocial behavior, producing chest warmth and increased prosocial motivation in observers — showing that the helper's high can spread to spectators.
+
