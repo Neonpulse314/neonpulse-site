@@ -103,3 +103,24 @@ The feeling doesn't know the difference.
 
 You have to ask.
 
+---
+
+## One More Layer: The Heart's Own Nervous System
+
+The somatic marker hypothesis focuses on the brain integrating bodily signals — but the signals don't only come from there. The heart has its own network of roughly 40,000 neurons (sometimes called the "cardiac neural network") and communicates continuously with the brain via the vagus nerve. The majority of vagal nerve traffic runs upward — heart to brain — rather than downward. This interoceptive signal is part of what Damasio's somatic markers are made of.
+
+This is part of why "trust your gut" is literally accurate: the gut (and the heart) are transmitting ongoing physiological states to the brain, and those states influence judgment before the prefrontal cortex gets involved. The intelligence is distributed.
+
+---
+
+## Sources
+
+- **Damasio, A.** (1994). *Descartes' Error: Emotion, Reason and the Human Brain.* Penguin Books.
+- **Bechara, A., Damasio, H., Tranel, D., & Damasio, A.R.** (1997). Deciding Advantageously Before Knowing the Advantageous Strategy. *Science*, 275, 1293–1295. — The Iowa Gambling Task study.
+- **Kahneman, D.** (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. — System 1 / System 2 framework.
+- **Klein, G.** (1998). *Sources of Power: How People Make Decisions.* MIT Press. — Recognition-primed decision-making in firefighters and experts.
+- **Dijksterhuis, A., et al.** (2006). On Making the Right Choice: The Deliberation-Without-Attention Effect. *Science*, 311(5763), 1005–1007. — Complex decisions after distraction.
+- **Armour, J.A.** (2008). Potential clinical relevance of the 'little brain' on the mammalian heart. *Experimental Physiology*, 93(2), 165–176. — Cardiac neural network.
+
+*Notice something missing or inaccurate? Leave a comment below.*
+

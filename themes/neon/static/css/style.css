@@ -78,8 +78,16 @@ main {
   margin-bottom: 1rem;
 }
 
+.mission-statement {
+  font-size: 1.05rem;
+  color: var(--text);
+  max-width: 620px;
+  margin: 0 auto 1.2rem;
+  line-height: 1.65;
+}
+
 .hero-sub {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--muted);
   max-width: 500px;
   margin: 0 auto;
