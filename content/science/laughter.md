@@ -94,3 +94,19 @@ What we can say: laughter is ancient, social, involuntary, and deeply wired. It 
 The fact that it's also funny — that it responds to humor, that the funniest things produce the most — is almost incidental to what it actually is.
 
 It's less a response to jokes than a way of being together.
+
+---
+
+## Sources
+
+- Provine RR. *Laughter: A Scientific Investigation*. Viking; 2000. — Provine's field study recording thousands of laughter instances in natural settings; established that only 15–20% of laughter follows anything conventionally humorous, and that people laugh 30x more in social than solitary contexts.
+
+- Dunbar RIM, Baron R, Frangou A, et al. "Social laughter is correlated with an elevated pain threshold." *Proceedings of the Royal Society B*. 2012;279(1731):1161–1167. — Demonstrates that laughter raises pain thresholds via endorphin release, quantifying the social bonding function of laughter at the neurochemical level.
+
+- Panksepp J, Burgdorf J. "'Laughing' rats and the evolutionary antecedents of human joy?" *Physiology & Behavior*. 2003;79(3):533–547. — Documents ultrasonic 50-kHz chirps in rats during tickling and play — the first rigorous evidence of laughter-like vocalizations in a non-primate species, establishing its ancient evolutionary origin.
+
+- Scott SK, Lavan N, Chen S, McGettigan C. "The social life of laughter." *Trends in Cognitive Sciences*. 2014;18(12):618–620. — Neuroimaging review showing that hearing laughter activates the premotor cortex (preparing to laugh) before conscious response, explaining involuntary laughter contagion.
+
+- McGhee PE. "Humor and children's development: A guide to practical applications." *Journal of Children in Contemporary Society*. 1988;20(1–2):1–13. — Developmental research tracking when and how children acquire humor comprehension, consistent with the view that humor is a cognitive overlay on an older reflexive system.
+
+- Martin RA. "Humor, laughter, and physical health: Methodological issues and research findings." *Psychological Bulletin*. 2001;127(4):504–519. — Systematic review of health effects of laughter and humor, covering pain tolerance, immune function, and stress modulation.
