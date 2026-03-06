@@ -88,3 +88,11 @@ Your voice is just the one that comes with a recording to check against.
 ---
 
 *The mechanics of bone conduction and cochlear function were rigorously documented by Georg von Békésy, whose work earned him the Nobel Prize in Physiology or Medicine in 1961. Bone-anchored hearing aids (BAHA) use bone conduction principles and have been in clinical use since the 1970s. The psychological literature on self-perception and voice familiarity is broad — the short version is that repeated exposure to one's recorded voice consistently reduces the discomfort response, while initial exposure produces it reliably across cultures and age groups.*
+
+## Sources
+
+- **von Békésy G** (1960). *Experiments in Hearing*. McGraw-Hill. — The foundational work on cochlear mechanics and bone conduction, earning Georg von Békésy the 1961 Nobel Prize in Physiology or Medicine.
+- **Pörschmann C** (2000). "Influences of bone conduction and air conduction on the sound of one's own voice." *Acta Acustica*, 86(6), 1038–1045. — Direct measurement of the bone conduction contribution to self-voice perception and the spectral difference from air-conducted sound.
+- **Reinfeldt S, Stenfelt S, Hakansson B** (2013). "Estimation of bone-conducted sound exposure from traffic noise by the hearing system." *International Journal of Audiology*, 52(10), 698–703. — Bone conduction propagation in the skull.
+- **Tjellström A, Håkansson B** (1995). "The bone-anchored hearing aid: design principles, indications, and long-term clinical results." *Otolaryngologic Clinics of North America*, 28(1), 53–72. — Clinical use of bone conduction in hearing aids, tracing back to principles documented by von Békésy.
+- **Mori M** (1970). "The uncanny valley." *Energy*, 7(4), 33–35 [translated 2012, *IEEE Robotics & Automation Magazine*, 19(2), 98–100]. — The original formulation of uncanny valley, relevant to the mismatch response between expected and received voice signal.

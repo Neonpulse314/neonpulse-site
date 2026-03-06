@@ -96,3 +96,12 @@ The same reflex that kept your ancestors alive in environments where sudden soun
 The evolutionary logic is sound: a reflex that fires 5% unnecessarily is worth it if the other 95% of the time it's preventing a strike to the back of the head. The cost of over-triggering is social discomfort. The cost of under-triggering, historically, was death.
 
 Your nervous system made a reasonable tradeoff. You just have to live with the occasional flinch.
+
+## Sources
+
+- **Koch M** (1999). "The neurobiology of startle." *Progress in Neurobiology*, 59(2), 107–128. — Comprehensive review of the brainstem startle circuit, the caudal pontine reticular nucleus pathway, and its modulation.
+- **Davis M** (1992). "The role of the amygdala in fear and anxiety." *Annual Review of Neuroscience*, 15, 353–375. — Michael Davis's work mapping the acoustic startle circuit and amygdala modulation of fear-potentiated startle.
+- **Braff DL, Geyer MA, Swerdlow NR** (2001). "Human studies of prepulse inhibition of startle: normal subjects, patient groups, and pharmacological studies." *Psychopharmacology*, 156(2–3), 234–258. — The gold-standard review of pre-pulse inhibition and its impairment in schizophrenia.
+- **Swerdlow NR, Geyer MA** (1998). "Using an animal model of deficient sensorimotor gating to study the pathophysiology and new treatments of schizophrenia." *Schizophrenia Bulletin*, 24(2), 285–301. — PPI as a research tool for psychosis.
+- **Simons RC** (1996). *Boo! Culture, Experience, and the Startle Reflex*. Oxford University Press. — Cross-cultural documentation of latah, jumping Frenchmen, and myriachit as culture-specific elaborations of the universal startle reflex.
+- **Groves PM, Thompson RF** (1970). "Habituation: a dual-process theory." *Psychological Review*, 77(5), 419–450. — The foundational theory of habituation as distinct from adaptation, explaining why startle decrements with repetition but resets with novelty.

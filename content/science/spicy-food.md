@@ -112,3 +112,12 @@ The receptor is more than 400 million years old. The chili pepper is 50,000 year
 The pepper figured out the receptor. We figured out the pepper. Then we figured we liked it.
 
 Nobody asked the receptor.
+
+## Sources
+
+- **Caterina MJ, Schumacher MA, Tominaga M, Rosen TA, Levine JD, Julius D** (1997). "The capsaicin receptor: a heat-activated ion channel in the pain pathway." *Nature*, 389(6653), 816–824. — The original TRPV1 discovery paper.
+- **Julius D, Patapoutian A** (2021). Nobel Prize in Physiology or Medicine. *The Nobel Assembly at Karolinska Institutet*. — Awarded for discovery of receptors for temperature and touch, including TRPV1 and PIEZO channels.
+- **Jordt SE, Julius D** (2002). "Molecular basis for species-specific sensitivity to 'hot' chili peppers." *Cell*, 108(3), 421–430. — Explains why birds' TRPV1 channels are insensitive to capsaicin while mammals' are sensitive.
+- **Szallasi A, Blumberg PM** (1999). "Vanilloid (Capsaicin) Receptors and Mechanisms." *Pharmacological Reviews*, 51(2), 159–212. — Comprehensive review of TRPV1 pharmacology, desensitization mechanisms, and therapeutic applications.
+- **Bandell M et al.** (2004). "Noxious cold ion channel TRPA1 is activated by pungent compounds and bradykinin." *Neuron*, 41(6), 849–857. — TRPA1 activation by allyl isothiocyanate (wasabi/mustard) and other irritants; explains the distinct nasal burn of wasabi vs. capsaicin.
+- **Basbaum AI, Bautista DM, Scherrer G, Julius D** (2009). "Cellular and molecular mechanisms of pain." *Cell*, 139(2), 267–284. — Overview of nociceptive pathways including TRPV1 in pain processing.

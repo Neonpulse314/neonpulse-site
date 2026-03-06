@@ -91,3 +91,12 @@ You have experienced both. You didn't notice the similarity because the context 
 
 But the brain was doing something related in both cases: cutting the noise, and recording what was left.
 
+
+## Sources
+
+- **Stetson C, Fiesta MP, Eagleman DM** (2007). "Does Time Really Slow Down during a Frightening Event?" *PLOS ONE*, 2(12): e1295. — The perceptual chronometer freefall experiment showing the brain does not speed up during emergencies.
+- **McGaugh JL** (2004). "The amygdala modulates the consolidation of memories of emotionally arousing experiences." *Annual Review of Neuroscience*, 27, 1–28. — The amygdala's role in enhanced memory encoding during emotionally intense events.
+- **Cahill L, McGaugh JL** (1995). "A novel demonstration of enhanced memory associated with emotional arousal." *Consciousness and Cognition*, 4(4), 410–421. — Beta-adrenergic modulation of emotional memory storage.
+- **LeDoux JE** (1994). "Emotion, memory and the brain." *Scientific American*, 270(6), 50–57. — Parallel amygdala/hippocampus memory systems and their different encoding properties.
+- **Noyes R, Kletti R** (1977). "Depersonalization in response to life-threatening danger." *Psychiatry*, 40(1), 19–27. — Early systematic documentation of subjective time-slowing and tachypsychia in near-death events.
+- **Raichle ME et al.** (2001). "A default mode of brain function." *Proceedings of the National Academy of Sciences*, 98(2), 676–682. — Default mode network activity, relevant to attentional narrowing during emergencies.

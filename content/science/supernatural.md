@@ -89,3 +89,11 @@ The same hardware. Different inputs.
 
 The watching feeling is not a glitch. It's a feature, slightly misapplied.
 
+## Sources
+
+- **Barrett JL** (2000). "Exploring the natural foundations of religion." *Trends in Cognitive Sciences*, 4(1), 29–34. — Introduced the concept of the Hyperactive Agency Detection Device (HADD) and its role in supernatural belief.
+- **Boyer P** (2001). *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books. — The foundational cognitive science account of why supernatural belief is universal, including the minimally counterintuitive (MCI) framework.
+- **Boyer P, Bergstrom B** (2008). "Evolutionary perspectives on religion." *Annual Review of Anthropology*, 37, 111–130. — Summary of cognitive and evolutionary approaches to religious belief.
+- **Kelemen D, Rosset E** (2009). "The human function compunction: teleological explanation in adults." *Cognition*, 111(1), 138–143. — Demonstrates that teleological thinking persists in educated adults under cognitive load, as a default rather than acquired mode.
+- **Kelemen D** (1999). "The scope of teleological thinking in preschool children." *Cognition*, 70(3), 241–272. — Children's default teleological explanations for natural objects and features.
+- **Heider F, Simmel M** (1944). "An experimental study of apparent behavior." *American Journal of Psychology*, 57(2), 243–259. — The geometric shapes experiment demonstrating automatic, involuntary attribution of agency and social narrative to moving objects.
