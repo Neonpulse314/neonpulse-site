@@ -190,3 +190,19 @@ The answer is somewhere. We haven't found it yet.
 ---
 
 *General Relativity was published by Einstein in November 1915. The 1919 eclipse expedition, led by Arthur Eddington, confirmed the bending of light by the sun. The problem of quantizing gravity was recognized almost immediately after General Relativity was published. The Planck scale — the length, time, and energy at which quantum gravitational effects should become significant — was identified by Max Planck in 1899. String theory emerged in the late 1960s and became the dominant approach to quantum gravity in the 1980s and 1990s. Loop quantum gravity was developed by Carlo Rovelli, Lee Smolin, and Abhay Ashtekar in the 1980s and 1990s. As of 2026, neither theory has produced an experimentally confirmed prediction unique to quantum gravity. The merger of two black holes, detected as gravitational waves by LIGO in 2015, confirmed a major prediction of General Relativity but did not probe the quantum regime. The interior of black holes remains inaccessible to observation.*
+
+---
+
+## Sources
+
+- Einstein A. "Die Grundlage der allgemeinen Relativitätstheorie." *Annalen der Physik*. 1916;354(7):769–822. — The foundational paper on General Relativity.
+
+- Penrose R. "Gravitational Collapse and Space-Time Singularities." *Physical Review Letters*. 1965;14(3):57–59. — The singularity theorem showing GR breaks down inside black holes; highlights the need for quantum gravity.
+
+- Rovelli C, Smolin L. "Knot Theory and Quantum Gravity." *Physical Review Letters*. 1988;61(10):1155–1158. — The founding paper of Loop Quantum Gravity.
+
+- Green MB, Schwarz JH. "Anomaly Cancellations in Supersymmetric D = 10 Gauge Theory and Superstring Theory." *Physics Letters B*. 1984;149(1–3):117–122. — The "first superstring revolution" paper that made string theory the dominant approach.
+
+- Abbott BP, et al. (LIGO Scientific Collaboration). "Observation of Gravitational Waves from a Binary Black Hole Merger." *Physical Review Letters*. 2016;116(6):061102. — The 2015 LIGO detection confirming GR's prediction; the loudest indirect test of near-quantum-gravity regimes available.
+
+- Polchinski J. *String Theory*. Vols. 1 & 2. Cambridge University Press, 1998. — The standard textbook reference for string theory as a candidate quantum gravity.
