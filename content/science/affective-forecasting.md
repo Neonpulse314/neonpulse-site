@@ -110,3 +110,19 @@ The simulation has a bug. You now know what it is. That doesn't fix it — Gilbe
 Most people spend years chasing the feeling in the preview. The preview is wrong.
 
 The thing itself — when it arrives — is fine. Sometimes even good. Just not the version you were running.
+
+---
+
+## Sources
+
+- Gilbert DT, Wilson TD. "Miswanting: Some problems in the forecasting of future affective states." In Forgas JP (ed), *Feeling and Thinking: The Role of Affect in Social Cognition*. Cambridge University Press; 2000. — The original theoretical framework for affective forecasting, introducing the impact bias: people systematically overestimate the emotional impact of future events.
+
+- Wilson TD, Gilbert DT. "Affective forecasting." *Advances in Experimental Social Psychology*. 2003;35:345–411. — Comprehensive review of two decades of affective forecasting research, documenting the impact bias across positive and negative events including job outcomes, romantic relationships, and medical diagnoses.
+
+- Brickman P, Coates D, Janoff-Bulman R. "Lottery winners and accident victims: Is happiness relative?" *Journal of Personality and Social Psychology*. 1978;36(8):917–927. — The classic hedonic adaptation study showing that lottery winners and paraplegic individuals converged toward similar baseline happiness levels a year after their life-altering events.
+
+- Gilbert DT, Pinel EC, Wilson TD, Blumberg SJ, Wheatley TP. "Immune neglect: A source of durability bias in affective forecasting." *Journal of Personality and Social Psychology*. 1998;75(3):617–638. — Introduces the psychological immune system concept and demonstrates that people underestimate their own capacity to recover from negative events because adaptation processes are invisible at the time of forecasting.
+
+- Wilson TD, Wheatley T, Meyers JM, Gilbert DT, Axsom D. "Focalism: A source of durability bias in affective forecasting." *Journal of Personality and Social Psychology*. 2000;78(5):821–836. — Documents focalism: when imagining future events, people focus on the event itself and ignore concurrent life circumstances, inflating predicted emotional impact.
+
+- Frederick S, Loewenstein G. "Hedonic adaptation." In Kahneman D, Diener E, Schwarz N (eds), *Well-Being: The Foundations of Hedonic Psychology*. Russell Sage Foundation; 1999. — The theoretical account of hedonic adaptation, explaining how organisms return to emotional baselines despite positive or negative life changes.
