@@ -83,3 +83,19 @@ That's the system doing what it was built to do.
 
 The question is whether it was built for this particular situation.
 
+---
+
+## Sources
+
+- Rozin P, Lowery L, Haidt J, Imada S. "The CAD triad hypothesis: A mapping between three moral emotions (contempt, anger, disgust) and three moral codes (community, autonomy, divinity)." *Journal of Personality and Social Psychology*. 1999;76(4):574–586. — Maps disgust to the moral domain of purity/divinity, establishing that moral disgust is not just metaphorical but operates via the same emotional system as pathogen-related disgust.
+
+- Haidt J, Rozin P, McCauley C, Imada S. "Body and mind: A theory of disgust." *Motivation and Emotion*. 1997;21(1):23–63. — Foundational theoretical paper on disgust: its evolutionary origins in pathogen avoidance, its cross-cultural universality, its characteristic elicitors, and how contamination logic differs from rational risk assessment.
+
+- Rozin P, Markwith M, McCauley C. "Sensitivity to indirect contacts with other persons: AIDS aversion as a composite of aversion to strangers, infection, moral taint, and misfortune." *Journal of Abnormal Psychology*. 1994;103(3):495–504. — Documents the "once in contact, always contaminated" logic of disgust, including the persistence of disgust for sterilized objects — demonstrating symbolic rather than pathogen-based contamination tracking.
+
+- Inbar Y, Pizarro DA, Bloom P. "Disgusting smells cause decreased liking of gay men." *Emotion*. 2012;12(1):23–27. — Demonstrates that ambient disgusting stimuli increase moral condemnation of outgroups, supporting the hypothesis that moral disgust piggybacks on the pathogen-avoidance system.
+
+- Inbar Y, Pizarro D, Knobe J, Bloom P. "Disgust sensitivity predicts intuitive disapproval of gays." *Emotion*. 2009;9(3):435–439. — Shows that individual disgust sensitivity predicts social-moral conservatism specifically (not economic conservatism), establishing the link between pathogen sensitivity and purity-based moral frameworks.
+
+- Haidt J. "The emotional dog and its rational tail: A social intuitionist approach to moral judgment." *Psychological Review*. 2001;108(4):814–834. — The social intuitionist model: moral judgments are made rapidly by intuitive emotional systems (including disgust), with reasoning following after to justify the conclusion rather than generate it.
+
