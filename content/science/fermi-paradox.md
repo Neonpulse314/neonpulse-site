@@ -82,3 +82,19 @@ Either way, we are more alone than we thought, or we are more endangered than we
 ---
 
 *Enrico Fermi raised the paradox in 1950. Frank Drake formulated his equation estimating civilizational abundance in 1961. The first systematic SETI search, Project Ozma, also began in 1961. The Wow! Signal was detected in 1977 and remains unexplained. Robin Hanson published "The Great Filter — Are We Almost Past It?" in 1998. SETI research continues today.*
+
+---
+
+## Sources
+
+- Hart MH. "Explanation for the absence of extraterrestrials on Earth." *Quarterly Journal of the Royal Astronomical Society*. 1975;16:128–135. — The first formal paper on what became the Fermi Paradox.
+
+- Drake F. "Project Ozma." *Physics Today*. 1961;14(4):140–146. — Drake's account of the first systematic SETI search and the development of the Drake Equation.
+
+- Hanson R. "The Great Filter — Are We Almost Past It?" 1998. Available at mason.gmu.edu/~rhanson/greatfilter.html — The influential paper framing the Great Filter hypothesis.
+
+- Webb S. *If the Universe Is Teeming with Aliens … Where Is Everybody? Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life.* 2nd ed. Springer, 2015. — A systematic survey of all proposed solutions.
+
+- Brin GD. "The 'Great Silence': The Controversy Concerning Extraterrestrial Intelligent Life." *Quarterly Journal of the Royal Astronomical Society*. 1983;24:283–309. — A review of early Fermi Paradox literature and proposed resolutions.
+
+- Ward PD, Brownlee D. *Rare Earth: Why Complex Life Is Uncommon in the Universe*. Copernicus Books, 2000. — The Rare Earth hypothesis arguing complex life may be extraordinarily rare.
