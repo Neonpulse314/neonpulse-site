@@ -88,3 +88,19 @@ If your earliest memories have been reconsolidated fifty times, are they yours?
 If you can update the emotional weight of a traumatic memory without changing the factual record, are you healing — or rewriting yourself?
 
 And if you're always rewriting yourself, what's the thing doing the writing?
+
+---
+
+## Sources
+
+- Nader K, Schafe GE, LeDoux JE. "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval." *Nature*. 2000;406(6797):722–726. — The landmark study demonstrating that retrieving a consolidated fear memory makes it labile again; blocking protein synthesis during this window erases it, overturning decades of assumption about memory stability.
+
+- Loftus EF, Palmer JC. "Reconstruction of automobile destruction: An example of the interaction between language and memory." *Journal of Verbal Learning and Verbal Behavior*. 1974;13(5):585–589. — Classic study showing how suggestive questioning during retrieval alters stored memories; subjects remembered higher speeds and false details based on word choice alone.
+
+- Misanin JR, Miller RR, Lewis DJ. "Retrograde amnesia produced by electroconvulsive shock after reactivation of a consolidated memory trace." *Science*. 1968;160(3827):554–555. — The 1968 precursor to Nader's work, showing that reactivating a memory makes it temporarily vulnerable — largely ignored for 30 years before reconsolidation was formally established.
+
+- Schiller D, Monfils MH, Raio CM, et al. "Preventing the return of fear in humans using reconsolidation update mechanisms." *Nature*. 2010;463(7277):49–53. — First rigorous demonstration of reconsolidation-based fear updating in humans: introducing a new association during the reconsolidation window durably reduced fear response without pharmacology.
+
+- Nader K, Hardt O. "A single standard for memory: The case for reconsolidation." *Nature Reviews Neuroscience*. 2009;10(3):224–234. — Comprehensive review of the reconsolidation evidence across species, addressing skeptical counterarguments and establishing the phenomenon's robustness.
+
+- Loftus EF. "Planting misinformation in the human mind: A 30-year investigation of the malleability of memory." *Learning & Memory*. 2005;12(4):361–366. — Loftus's synthesis of three decades of research on eyewitness memory distortion, including false memory implantation studies and their legal implications.
