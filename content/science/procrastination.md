@@ -95,4 +95,12 @@ The question is which system you're going to let make the call.
 
 ---
 
-*Sources: Ainslie (1975), hyperbolic discounting; McClure et al. (2004), dual-system model of intertemporal choice, Science; Hershfield et al. (2011), future self-continuity, Journal of Marketing Research; Sirois & Pychyl (2013), procrastination as emotion regulation.*
+## Sources
+
+- Ainslie G. "Specious reward: A behavioral theory of impulsiveness and impulse control." *Psychological Bulletin*. 1975;82(4):463–496. — The hyperbolic discounting model: why rewards now are disproportionately preferred over identical rewards later.
+
+- McClure SM, Laibson DI, Loewenstein G, Cohen JD. "Separate Neural Systems Value Immediate and Delayed Monetary Rewards." *Science*. 2004;306(5695):503–507. — The dual-system model showing separate neural circuits for immediate and delayed reward valuation.
+
+- Hershfield HE, et al. "Increasing Saving Behavior Through Age-Progressed Renderings of the Future Self." *Journal of Marketing Research*. 2011;48(SPL):S23–S37. — Future self-continuity and its relationship to present behavior; people who feel disconnected from their future selves procrastinate more.
+
+- Sirois FM, Pychyl TA. "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future-Self Appraisals." *Journal of Social and Clinical Psychology*. 2013;32(2):115–138. — Procrastination as an emotion regulation failure, not a time management failure.

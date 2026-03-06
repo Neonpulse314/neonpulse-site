@@ -98,3 +98,17 @@ You believe most things for good reasons. A few things you believe for bad reaso
 The question is not whether you have confirmation bias. You do. Everyone does.
 
 The question is whether you have ever tried to find a case where you were wrong — and if so, what you did when you found one.
+
+---
+
+## Sources
+
+- Wason PC. "On the failure to eliminate hypotheses in a conceptual task." *Quarterly Journal of Experimental Psychology*. 1960;12(3):129–140. — The original Wason selection task demonstrating confirmation bias in reasoning.
+
+- Nickerson RS. "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises." *Review of General Psychology*. 1998;2(2):175–220. — The comprehensive review of confirmation bias across domains.
+
+- Kunda Z. "The case for motivated reasoning." *Psychological Bulletin*. 1990;108(3):480–498. — Motivated reasoning: how goals and desires shape information processing.
+
+- Lord CG, Ross L, Lepper MR. "Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence." *Journal of Personality and Social Psychology*. 1979;37(11):2098–2109. — The classic study showing how people with opposing views interpret the same evidence to confirm their prior beliefs.
+
+- Stanovich KE, West RF, Toplak ME. "Myside Bias, Rational Thinking, and Intelligence." *Current Directions in Psychological Science*. 2013;22(4):259–264. — The finding that confirmation bias does not decrease with higher intelligence; if anything, smarter people are better at rationalizing.
