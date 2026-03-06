@@ -94,3 +94,19 @@ Novotná won Wimbledon in 1998, five years after her collapse. She had presumabl
 The skill was always there. It was always good enough. What had to be managed wasn't the tennis — it was the mind trying to supervise the tennis.
 
 That's the whole problem. The body knows what to do. The mind, under pressure, forgets to stay out of the way.
+
+---
+
+## Sources
+
+- Beilock SL, Carr TH. "On the fragility of skilled performance: What governs choking under pressure?" *Journal of Experimental Psychology: General*. 2001;130(4):701–725. — The foundational experimental work demonstrating that expert performance degrades under pressure via explicit monitoring; novices show no such effect.
+
+- Masters RSW. "Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure." *British Journal of Psychology*. 1992;83(3):343–358. — The original formulation of reinvestment theory, explaining why expert motor skills fragment when conscious attention intervenes.
+
+- Beilock SL, Bertenthal BI, McCoy AM, Carr TH. "Haste does not always make waste: Expertise, direction of attention, and speed versus accuracy in performing sensorimotor skills." *Psychonomic Bulletin & Review*. 2004;11(2):373–379. — Demonstrates that directing attention to execution mechanics disrupts automatized skills; distraction tasks protect performance.
+
+- Baumeister RF. "Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance." *Journal of Personality and Social Psychology*. 1984;46(3):610–620. — The classic study linking high-stakes self-consciousness to performance breakdown; proposes conscious processing hypothesis.
+
+- Beilock SL, Kulp CA, Holt LE, Carr TH. "More on the fragility of performance: Choking under pressure in mathematical problem solving." *Journal of Experimental Psychology: General*. 2004;133(4):584–600. — Extends choking research beyond motor skills to mathematical fluency, showing proceduralized knowledge is disrupted by step-by-step verbal prompting.
+
+- Klämpfl MK, Lobinger BH, Raab M. "Reinvestment — the cause of the yips?" *PLOS ONE*. 2013;8(12):e82470. — Investigates reinvestment as the psychological mechanism behind the yips in fine motor tasks, distinguishing psychological from neurological components.
