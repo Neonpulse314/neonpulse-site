@@ -118,3 +118,19 @@ They called it dark energy because they needed to call it something. The name ha
 ---
 
 *The companion mystery: [85% of the Universe's Matter Is Invisible and We Don't Know What It Is](/science/dark-matter/)*
+
+---
+
+## Sources
+
+- Riess AG, et al. "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *Astronomical Journal*. 1998;116(3):1009–1038. — The High-Z Supernova Team paper announcing accelerating expansion (Nobel Prize 2011).
+
+- Perlmutter S, et al. "Measurements of Omega and Lambda from 42 High-Redshift Supernovae." *Astrophysical Journal*. 1999;517(2):565–586. — The Supernova Cosmology Project paper confirming accelerating expansion (Nobel Prize 2011).
+
+- Weinberg S. "The cosmological constant problem." *Reviews of Modern Physics*. 1989;61(1):1–23. — The classic paper framing the vacuum energy discrepancy (the 10¹²⁰ problem).
+
+- Planck Collaboration. "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics*. 2020;641:A6. — Current best constraints: 68% dark energy, 27% dark matter, 5% ordinary matter.
+
+- Caldwell RR, Dave R, Steinhardt PJ. "Cosmological Imprint of an Energy Component with General Equation of State." *Physical Review Letters*. 1998;80(8):1582–1585. — The paper coining "quintessence" as a dynamic dark energy alternative.
+
+- Weinberg DH, et al. "Observational probes of cosmic acceleration." *Physics Reports*. 2013;530(2):87–255. — Comprehensive review of dark energy evidence and detection methods.
