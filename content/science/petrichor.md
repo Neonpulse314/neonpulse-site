@@ -96,3 +96,12 @@ The sequence of a rain approach, chemically described:
 You've been smelling bacteria all along. They are everywhere — billions per gram of healthy soil — quietly cycling nitrogen, breaking down organic matter, and incidentally producing one of the most universally recognized and well-liked smells in the world.
 
 The rain doesn't make the earth smell. The earth has always smelled. The rain just lifts it into the air.
+
+## Sources
+
+- Bear, I.J. & Thomas, R.G. (1964). "Nature of argillaceous odour." *Nature*, 201, 993–995. (The paper that named petrichor and identified plant oil component.)
+- Bear, I.J. & Thomas, R.G. (1965). "Petrichor and plant growth." *Nature*, 207, 1415–1416.
+- Gerber, N.N. & Lechevalier, H.A. (1965). "Geosmin, an earthy-smelling substance isolated from actinomycetes." *Applied Microbiology*, 13(6), 935–938. (Identification of geosmin from Streptomyces.)
+- Joung, Y.S. & Buie, C.R. (2015). "Aerosol generation by raindrop impact on soil." *Nature Communications*, 6, 6083. (MIT high-speed camera study — raindrop bubble aerosol mechanism.)
+- Jiang, T. et al. (2017). "Widespread Appreciation of Smell of Rain." *Chemical Senses*, 42(5), 373–381. (Cross-cultural data on petrichor pleasantness.)
+- Giovannoni, S.J. et al. (Streptomyces geosmin literature): Cited in Moe, W.M. et al. review of soil actinomycetes. See also: *Bergey's Manual of Systematic Bacteriology*, Vol. 5, Actinobacteria.

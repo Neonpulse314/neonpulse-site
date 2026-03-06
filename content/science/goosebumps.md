@@ -85,3 +85,10 @@ The predator is gone. The music hit a chord. The muscle fired.
 
 It's the same program. It just found new occasions.
 
+## Sources
+
+- Darwin, C. (1872). *The Expression of the Emotions in Man and Animals*. John Murray. (Piloerection as evolutionary signal across mammals.)
+- Keltner, D. & Haidt, J. (2003). "Approaching awe, a moral, spiritual, and aesthetic emotion." *Cognition & Emotion*, 17(2), 297–314. (Awe and goosebumps as signature physical response.)
+- Shiota, M.N., Keltner, D., & Mossman, A. (2007). "The nature of awe: Elicitors, appraisals, and effects on self-concept." *Cognition & Emotion*, 21(5), 944–963.
+- Benedek, M. & Kaernbach, C. (2011). "Physiological correlates and emotional specificity of human piloerection." *Biological Psychology*, 86(3), 320–329. (Arrector pili and autonomic activation during emotional intensity.)
+- Heckman, C.J. & Enoka, R.M. (2012). "Motor unit." *Comprehensive Physiology*, 2(4), 2629–2682. (Arrector pili as smooth muscle innervated by sympathetic nervous system.)

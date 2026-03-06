@@ -80,3 +80,11 @@ Whether you want it watching that hard is a question worth sitting with the next
 ---
 
 *Your brain learned that a buzz from your pocket matters. It learned this so well it started generating them. That's not a glitch. That's a feature you didn't know you were building.*
+
+## Sources
+
+- Rothberg, M.B., et al. (2010). "Phantom vibration syndrome among medical staff: a cross sectional survey." *BMJ*, 341, c6914. (68% prevalence in medical staff survey.)
+- Bhattacharya, S., Bashar, M.A., Srivastava, A., & Singh, A. (2019). "Nomophobia: No mobile phone phobia." *Journal of Family Medicine and Primary Care*, 8(4), 1297–1300. (Phone dependency and phantom vibration frequency correlation.)
+- Drouin, M., Kaiser, D.H., & Miller, D.A. (2012). "Phantom vibrations among undergraduates: prevalence and associated psychological characteristics." *Computers in Human Behavior*, 28(4), 1490–1496. (89% prevalence in undergraduates; anxiety correlates.)
+- Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127–138. (Predictive processing / active inference framework.)
+- Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press. (Predictive processing and perception as hypothesis testing.)

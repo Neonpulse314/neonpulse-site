@@ -90,3 +90,12 @@ Your visual system is running a program that produces the experience. You can un
 Aristotle was fooled. You are too.
 
 The difference is only that we now know, roughly, which part of the program is doing it.
+
+## Sources
+
+- Aristotle. (c. 350 BCE). *Meteorologica*, Book 3. (First recorded description of the horizon moon appearing larger.)
+- Ponzo, M. (1911). "Intorno ad alcune illusioni nel campo delle sensazioni tattili." *Archiv für die gesamte Psychologie*, 16, 307–371. (The Ponzo illusion, on which the apparent-distance theory relies.)
+- Rock, I. & Kaufman, L. (1962). "The moon illusion, II." *Science*, 136(3521), 1023–1031. (Foundational paper on the apparent-distance/terrain-cue hypothesis.)
+- Kaufman, L. & Rock, I. (1962). "The moon illusion." *Scientific American*, 207(1), 120–130. (Accessible version of the terrain-cue argument.)
+- Kaufman, L. & Kaufman, J.H. (2000). "Explaining the moon illusion." *Proceedings of the National Academy of Sciences*, 97(1), 500–505. (Oculomotor hypothesis — eye elevation contribution.)
+- Ross, H.E. & Plug, C. (2002). *The Mystery of the Moon Illusion: Exploring Size Perception*. Oxford University Press. (Comprehensive review of 2,000 years of proposed explanations.)

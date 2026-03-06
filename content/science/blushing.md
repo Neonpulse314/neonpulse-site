@@ -80,3 +80,12 @@ What you experience as humiliating exposure is actually your body making you rea
 The redness doesn't lie. And in a world where everything else can be performed, curated, or constructed, that turns out to be worth something.
 
 Even when it doesn't feel like it.
+
+## Sources
+
+- Darwin, C. (1872). *The Expression of the Emotions in Man and Animals*. John Murray. (Chapter 13: "Self-Attention — Shame — Shyness — Modesty: Blushing.")
+- Leary, M.R., Landel, J.L., & Patton, K.M. (1996). "The motivated expression of embarrassment following a self-presentational predicament." *Journal of Personality*, 64(3), 619–636.
+- Leary, M.R., Britt, T.W., Cutlip, W.D., & Templeton, J.L. (1992). "Social blushing." *Psychological Bulletin*, 112(3), 446–460.
+- Frank, R.H. (1988). *Passions Within Reason: The Strategic Role of the Emotions*. W.W. Norton. (Chapter on commitment devices and honest signaling.)
+- Drummond, P.D. (1997). "The effect of adrenergic blockade on blushing and facial flushing." *Psychophysiology*, 34(2), 163–168. (Beta-adrenergic receptors and facial blood vessels.)
+- de Jong, P.J. (1999). "Communicative and remedial effects of social blushing." *Journal of Nonverbal Behavior*, 23(3), 197–218. (Blushing as trust signal — blushing individuals rated more likeable.)

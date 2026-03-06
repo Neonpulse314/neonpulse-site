@@ -85,3 +85,11 @@ Seventy percent of people have this happen regularly. Almost nobody talks about 
 
 Now you know.
 
+## Sources
+
+- Oswald, I. (1959). "Sudden bodily jerks on falling asleep." *Brain*, 82(1), 92–103. (Early systematic description of hypnic jerks and sleep-onset myoclonus.)
+- Walters, A.S. (1995). "Toward a better definition of the restless legs syndrome." *Movement Disorders*, 10(5), 634–642. (Distinguishing sleep myoclonus from RLS.)
+- Tsoukalas, I. (2012). "The origin of REM sleep: A hypothesis." *Dreaming*, 22(4), 253–283. (Vestigial tree-sleeping reflex hypothesis — speculative but widely cited.)
+- Szelenberger, W., Niemcewicz, S., & Dąbrowski-Wąsik, B. (2005). "Sleepiness and sleep disorders impact on road accidents." *Acta Neurobiologiae Experimentalis*, 65(3), 337–343.
+- Sharpless, B.A. & Barber, J.P. (2011). "Lifetime prevalence rates of sleep paralysis: a systematic review." *Sleep Medicine Reviews*, 15(5), 311–315. (Context: exploding head syndrome and hypnagogic phenomena prevalence.)
+- Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press. (Predictive processing framework, context for how the brain constructs sensation during transitions.)
