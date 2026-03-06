@@ -77,3 +77,17 @@ Your bookshelf is probably fine. The cam locks are probably close enough.
 
 And the slight warp in the bottom shelf is, in a specific and irrational way, yours.
 
+---
+
+## Sources
+
+- Norton MI, Mochon D, Ariely D. "The IKEA effect: When labor leads to love." *Journal of Consumer Psychology*. 2012;22(3):453–460. — Establishes the IKEA effect across three experiments: self-assembled products are valued 63% more than identical pre-assembled ones; completion is required (incomplete assemblies show no premium).
+
+- Aronson E, Mills J. "The effect of severity of initiation on liking for a group." *Journal of Abnormal and Social Psychology*. 1959;59(2):177–181. — The foundational effort justification study: participants who underwent severe initiations valued the resulting group more highly than those with easy initiations — the cognitive dissonance mechanism underlying inflated valuation of effort outcomes.
+
+- Ariely D, Loewenstein G, Prelec D. "Coherent arbitrariness: Stable demand curves without stable preferences." *Quarterly Journal of Economics*. 2003;118(1):73–106. — Demonstrates that willingness-to-pay is shaped by internal reference points including one's own choices and prior actions — relevant context for why self-creation amplifies perceived value.
+
+- Mochon D, Norton MI, Ariely D. "Bolstering and restoring feelings of competence via the IKEA effect." *International Journal of Research in Marketing*. 2012;29(4):363–369. — Shows that the IKEA effect is stronger when people feel competent during construction; the self-expression and authorship component amplifies the effort justification mechanism.
+
+- Zeigarnik B. "Über das Behalten von erledigten und unerledigten Handlungen." *Psychologische Forschung*. 1927;9(1):1–85. — The original Zeigarnik effect study: incomplete tasks are remembered better and create ongoing cognitive tension — explaining why incomplete assembly produces negative affect rather than attachment, and why completion is required for the IKEA effect.
+

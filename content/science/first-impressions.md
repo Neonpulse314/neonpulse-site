@@ -79,3 +79,19 @@ You make it in less than a second.
 
 It shapes what you see for months afterward.
 
+---
+
+## Sources
+
+- Willis J, Todorov A. "First impressions: Making up your mind after a 100-ms exposure to a face." *Psychological Science*. 2006;17(7):592–598. — Demonstrates that judgments made from 100ms face exposures correlate highly with judgments made with unlimited time, establishing the speed and stability of first impression formation.
+
+- Ambady N, Rosenthal R. "Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness." *Journal of Personality and Social Psychology*. 1993;64(3):431–441. — The foundational thin-slice study: 30-second (and later 6-second) silent clips of teachers predicted end-of-semester evaluations significantly — accuracy from minimal behavioral samples.
+
+- Todorov A, Mandisodza AN, Goren A, Hall CC. "Inferences of competence from faces predict election outcomes." *Science*. 2005;308(5728):1623–1626. — Demonstrates that naive competence ratings of candidate faces predicted congressional election outcomes at better-than-chance rates — implicating thin-slice impressions in real-world consequential decisions.
+
+- Asch SE. "Forming impressions of personality." *Journal of Abnormal and Social Psychology*. 1946;41(3):258–290. — Establishes the primacy effect in impression formation: the order in which personality information is presented disproportionately shapes overall evaluation, with early information creating interpretive frameworks for later information.
+
+- Levine TR, Feeley TH, McCornack SA, Hughes M, Harms CM. "Testing the effects of nonverbal behavior training on accuracy in deception detection with the inclusion of a bogus training control group." *Western Journal of Communication*. 2005;69(3):203–217. — Documents that people perform at chance when detecting deception from behavior and facial cues, despite high confidence — showing first impressions are systematically misleading for honesty assessment.
+
+- Bar M, Neta M, Linz H. "Very first impressions." *Emotion*. 2006;6(2):269–278. — Neuroimaging study showing amygdala activation within 33ms of face exposure — establishing the subcortical fast-track route that produces immediate threat/safety social assessments before conscious processing.
+
