@@ -62,3 +62,19 @@ But the *why* — the evolutionary reason a brain would devote so much nightly p
 Which means that every night, you're participating in something science hasn't fully explained yet.
 
 That's not a bad way to fall asleep.
+
+---
+
+## Sources
+
+- Hobson JA, McCarley RW. "The brain as a dream state generator: an activation-synthesis hypothesis of the dream process." *American Journal of Psychiatry*. 1977;134(12):1335–1348. — The activation-synthesis model: dreams as the brain making sense of random neural firing during REM.
+
+- Revonsuo A. "The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming." *Behavioral and Brain Sciences*. 2000;23(6):877–901. — The threat simulation theory of dreaming.
+
+- Walker MP, van der Helm E. "Overnight therapy? The role of sleep in emotional brain processing." *Psychological Bulletin*. 2009;135(5):731–748. — Evidence for the emotional regulation function of REM sleep and dreaming.
+
+- Stickgold R. "Sleep-dependent memory consolidation." *Nature*. 2005;437(7063):1272–1278. — REM sleep and memory consolidation; evidence that dreaming may serve a learning function.
+
+- Domhoff GW. "The neural substrate for dreaming: Is it a subsystem of the default network?" *Consciousness and Cognition*. 2011;20(4):1163–1174. — The default network hypothesis for dream generation.
+
+- Freud S. *The Interpretation of Dreams*. Franz Deuticke, 1899. — The foundational (though now largely discredited) theory of dreams as wish-fulfillment; historically essential.
