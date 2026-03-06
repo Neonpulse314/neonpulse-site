@@ -79,3 +79,19 @@ It means accurate self-assessment requires something most domains don't provide:
 
 Which is to say: 93% of drivers believe they're above average, and almost none of them think they're being irrational.
 
+---
+
+## Sources
+
+- Kruger J, Dunning D. "Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments." *Journal of Personality and Social Psychology*. 1999;77(6):1121–1134. — The original Dunning-Kruger study: people in the lowest quartile of performance dramatically overestimate their results, with the proposed mechanism being that skill and metacognitive ability are coupled.
+
+- Svenson O. "Are we all less risky and more skillful than our fellow drivers?" *Acta Psychologica*. 1981;47(2):143–148. — The original above-average effect study for driving; found 80–93% of subjects (across US and Swedish samples) rated themselves as above median in safety and skill.
+
+- Rozenblit L, Keil F. "The misunderstood limits of folk science: An illusion of explanatory depth." *Cognitive Science*. 2002;26(5):521–562. — Establishes the illusion of explanatory depth: people systematically overestimate how well they understand complex mechanisms until asked to provide detailed explanations.
+
+- Gignac GE, Zajenkowski M. "The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data." *Intelligence*. 2020;80:101449. — The re-analysis arguing that the Dunning-Kruger curve may partly reflect statistical regression to the mean rather than a genuine asymmetric metacognitive failure.
+
+- Ehrlinger J, Dunning D. "How chronic self-views influence (and potentially mislead) estimates of performance." *Journal of Personality and Social Psychology*. 2003;84(1):5–17. — Demonstrates that motivated self-views distort domain performance estimates, and that people with negative chronic self-views underestimate performance while those with positive self-views overestimate it.
+
+- Moore DA, Healy PJ. "The trouble with overconfidence." *Psychological Review*. 2008;115(2):502–517. — Systematic review distinguishing three types of overconfidence (overestimation, overplacement, overprecision) and showing they have different causes, consequences, and domain patterns.
+
