@@ -85,3 +85,17 @@ The camera your brain uses takes vivid, emotional, reconstructable impressions.
 
 It just doesn't have a shutter.
 
+---
+
+## Sources
+
+- Brown R, Kulik J. "Flashbulb memories." *Cognition*. 1977;5(1):73–99. — Coined the term "flashbulb memory" and proposed that surprising, emotionally significant events trigger a special neural encoding mechanism producing photograph-like, highly detailed, durable memories.
+
+- Talarico JM, Rubin DC. "Confidence, not consistency, characterizes flashbulb memories." *Psychological Science*. 2003;14(5):455–461. — The landmark study showing that post-9/11 flashbulb memories degraded at the same rate as ordinary memories, but remained significantly more confidently held — establishing that confidence and accuracy diverge in flashbulb recall.
+
+- Cahill L, McGaugh JL. "Mechanisms of emotional arousal and lasting declarative memory." *Trends in Neurosciences*. 1998;21(7):294–299. — Reviews the amygdala-hippocampus interaction in emotional memory: norepinephrine and cortisol strengthen hippocampal consolidation during high-arousal events, explaining why emotional memories feel more vivid.
+
+- Sharot T, Martorella EA, Delgado MR, Phelps EA. "How personal experience modulates the neural circuitry of memories of September 11." *Proceedings of the National Academy of Sciences*. 2007;104(1):389–394. — Neuroimaging study showing that amygdala activation during 9/11 memory recall was greater for subjects who were near Ground Zero, correlating with emotional intensity but not memory accuracy.
+
+- Hirst W, Phelps EA, Buckner RL, et al. "Long-term memory for the terrorist attack of September 11: Flashbulb memories, event memories, and the factors that influence their retention." *Journal of Experimental Psychology: General*. 2009;138(2):161–176. — Large-scale longitudinal study (3,000 participants) tracking 9/11 memories over 3 years, confirming that flashbulb consistency degrades substantially while confidence remains elevated — with social rehearsal (retelling) as a partial but imperfect stabilizing factor.
+
