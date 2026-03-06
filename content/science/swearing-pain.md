@@ -88,3 +88,12 @@ This is true in the other direction too. Hearing slurs activates threat response
 Swearing when you're hurt is the crude version of this. But it's also the clearest demonstration.
 
 The word didn't just name what you were feeling. It changed it.
+
+## Sources
+
+- Stephens, R., Atkins, J., & Kingston, A. (2009). "Swearing as a response to pain." *NeuroReport*, 20(12), 1056–1060. (The cold pressor study showing swearing increased pain tolerance by ~50%.)
+- Stephens, R. & Umland, C. (2011). "Swearing as a response to pain — effect of daily swearing frequency." *Journal of Pain*, 12(12), 1274–1281. (The follow-up showing heavy swearers gain less benefit.)
+- Jay, T.B. (2000). *Why We Curse: A Neuro-Psycho-Social Theory of Speech*. Philadelphia: John Benjamins. (Comprehensive theory of how profanity is processed differently from ordinary language.)
+- Van Lancker, D. & Cummings, J.L. (1999). "Expletives: Neurolinguistic and neurobehavioral perspectives on swearing." *Brain Research Reviews*, 31(1), 83–104. (Profanity surviving aphasia due to limbic rather than cortical storage.)
+- Pinker, S. (2007). *The Stuff of Thought: Language as a Window into Human Nature*. New York: Viking. Ch. 7 ("The Seven Words You Can't Say on Television"). (Taboo violation as the mechanism for swearing's emotional power.)
+- Melzack, R. & Wall, P.D. (1965). "Pain mechanisms: A new theory." *Science*, 150(3699), 971–979. (Gate control theory of pain — the physiological basis for descending pain modulation.)

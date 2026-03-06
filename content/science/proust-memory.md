@@ -99,4 +99,12 @@ Every other sense has to wait at the door. Smell already knows the way in.
 
 ---
 
-*Rachel Herz and Jonathan Engen, "Odor Memory: Review and Analysis," Psychonomic Bulletin & Review, 1996. Rachel Herz and George Cupchik, "The Emotional Distinctiveness of Odor-Evoked Memories," Chemical Senses, 1995. Johan Willander and Maria Larsson, "Smell Your Way Back to Childhood," Psychonomic Bulletin & Review, 2006. Marcel Proust, À la recherche du temps perdu, Vol. 1: Du côté de chez Swann, 1913.*
+## Sources
+
+- Herz, R.S. & Cupchik, G.C. (1995). "The emotional distinctiveness of odor-evoked memories." *Chemical Senses*, 20(5), 517–528.
+- Herz, R.S. & Engen, T. (1996). "Odor memory: Review and analysis." *Psychonomic Bulletin & Review*, 3(3), 300–313.
+- Herz, R.S. (2004). "A naturalistic analysis of autobiographical memories triggered by olfactory visual and auditory stimuli." *Chemical Senses*, 29(3), 217–224.
+- Willander, J. & Larsson, M. (2006). "Smell your way back to childhood: Autobiographical odor memory." *Psychonomic Bulletin & Review*, 13(2), 240–244.
+- Larsson, M. & Willander, J. (2009). "Autobiographical odor memory." *Annals of the New York Academy of Sciences*, 1170, 318–323. (The study showing smell-cued memories cluster in childhood, earlier than other senses.)
+- Proust, M. (1913). *Du côté de chez Swann* [Swann's Way]. Paris: Grasset. (Vol. 1 of *À la recherche du temps perdu*.)
+- Buck, L. & Axel, R. (1991). "A novel multigene family may encode odorant receptors: A molecular basis for odor recognition." *Cell*, 65(1), 175–187. (Nobel Prize 2004 — mapping the olfactory receptor system.)

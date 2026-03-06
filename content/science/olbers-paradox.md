@@ -62,3 +62,12 @@ All of that, nested inside the question of why it's dark when you look up.
 ---
 
 *Next time you're outside at night, look at the dark space between the stars. That darkness is information — it's telling you the universe is young enough, and expanding fast enough, that most of its light hasn't reached you yet. You're looking at the edge of everything we can know.*
+
+## Sources
+
+- Olbers, H.W.M. (1823). "Über die Durchsichtigkeit des Weltraums." *Astronomisches Jahrbuch für das Jahr 1826*, 110–121. (The paper that named the paradox — though Olbers acknowledged the problem was not new.)
+- Halley, E. (1720). "Of the infinity of the sphere of fixed stars." *Philosophical Transactions of the Royal Society*, 31, 22–24. (One of the earliest formal treatments.)
+- Poe, E.A. (1848). *Eureka: A Prose Poem*. New York: Putnam. (Poe's remarkable essay, largely ignored at the time, which proposed the correct answer: the universe is too young for all starlight to have reached us.)
+- Harrison, E.R. (1987). *Darkness at Night: A Riddle of the Universe*. Cambridge, MA: Harvard University Press. (The definitive history of the paradox and its resolution.)
+- Wesson, P.S. (1991). "Olbers' paradox and the spectral intensity of the extragalactic background light." *Astrophysical Journal*, 367, 399–406. (Quantitative treatment distinguishing the finite-age versus expansion contributions.)
+- Planck Collaboration (2020). "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics*, 641, A6. (Current best value: universe age 13.787 ± 0.020 billion years.)

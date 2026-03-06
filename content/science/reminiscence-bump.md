@@ -101,4 +101,12 @@ The songs you're listening to this year are the ones you'll find yourself unexpe
 
 ---
 
-*Music cues autobiographical memory via the medial prefrontal cortex (Janata, 2009). The reminiscence bump — disproportionate recall of ages 10–30 — has been replicated across cultures (Berntsen & Rubin, 2002; Janssen, Chessa & Murre, 2005). Adolescent dopaminergic sensitivity and incomplete prefrontal development contribute to heightened emotional encoding during this period.*
+## Sources
+
+- Rubin, D.C., Wetzler, S.E., & Nebes, R.D. (1986). "Autobiographical memory across the adult lifespan." In D.C. Rubin (Ed.), *Autobiographical Memory*. Cambridge University Press. (Early documentation of the reminiscence bump.)
+- Conway, M.A. & Rubin, D.C. (1993). "The structure of autobiographical memory." In A.E. Collins et al. (Eds.), *Theories of Memory*. Hove: Erlbaum. (Identity-formation as a mechanism for the bump.)
+- Berntsen, D. & Rubin, D.C. (2002). "Emotionally charged autobiographical memories across the life span: The recall of happy, sad, traumatic, and involuntary memories." *Psychology and Aging*, 17(4), 636–652.
+- Janssen, S.M.J., Chessa, A.G., & Murre, J.M.J. (2005). "The reminiscence bump in autobiographical memory: Effects of age, gender, education, and culture." *Memory*, 13(6), 658–668. (Cross-cultural replication.)
+- Janata, P., Tomic, S.T., & Rakowski, S.K. (2007). "Characterisation of music-evoked autobiographical memories." *Memory*, 15(8), 845–860.
+- Janata, P. (2009). "The neural architecture of music-evoked autobiographical memories." *Cerebral Cortex*, 19(11), 2579–2594. (fMRI showing medial prefrontal cortex as hub for music-triggered autobiographical memory.)
+- Erikson, E.H. (1968). *Identity: Youth and Crisis*. New York: Norton. (Identity formation in adolescence as a mechanism for why the bump exists.)

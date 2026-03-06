@@ -99,4 +99,12 @@ Your earliest self is, in every meaningful sense, a stranger.
 
 ---
 
-*The science: Infantile amnesia is documented across cultures and species. Key research: Rovee-Collier (infant memory retention), Frankland & Josselyn 2014 (neurogenesis and forgetting), Hayne & MacDonald cross-cultural first memory research, Loftus (false memory implantation). The neurogenesis-forgetting connection is still debated — it is a strong hypothesis with animal evidence, not yet definitively proven in humans.*
+## Sources
+
+- Rovee-Collier, C. & Hayne, H. (1987). "Reactivation of infant memory: Implications for cognitive development." *Advances in Child Development and Behavior*, 20, 185–238. (Rovee-Collier's foundational mobile-kicking experiments.)
+- Hayne, H. (2004). "Infant memory development: Implications for childhood amnesia." *Developmental Review*, 24(1), 33–73.
+- Frankland, P.W. & Josselyn, S.A. (2012). "Hippocampal neurogenesis and memory." *Nature Neuroscience*, 15(4), 530–532.
+- Akers, K.G., Martinez-Canabal, A., Restivo, L., et al. (2014). "Hippocampal neurogenesis regulates forgetting during adulthood and infancy." *Science*, 344(6184), 598–602. (The Frankland/Josselyn study showing high neurogenesis degrades memory in infant mice.)
+- Nelson, K. & Fivush, R. (2004). "The emergence of autobiographical memory: A social cultural developmental theory." *Psychological Review*, 111(2), 486–511. (Language and narrative as infrastructure for episodic memory formation.)
+- Mullen, M.K. (1994). "Earliest recollections of childhood: A demographic analysis." *Cognition*, 52(1), 55–79. (Cross-cultural study including Maori communities, showing cultural narrative practices affect earliest memory age.)
+- Loftus, E.F. & Pickrell, J.E. (1995). "The formation of false memories." *Psychiatric Annals*, 25(12), 720–725. (The "lost in the mall" false memory implantation study.)

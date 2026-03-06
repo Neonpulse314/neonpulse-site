@@ -98,3 +98,11 @@ The word you were looking for earlier? It might come to you now, when you're rea
 That's the system working exactly as designed.
 
 It just takes a sideways approach.
+
+## Sources
+
+- Brown, R. & McNeill, D. (1966). "The 'tip of the tongue' phenomenon." *Journal of Verbal Learning and Verbal Behavior*, 5(4), 325–337. (The foundational study establishing what information people can retrieve in a TOT state.)
+- Burke, D.M., MacKay, D.G., Worthley, J.S., & Wade, E. (1991). "On the tip of the tongue: What causes word finding failures in young and older adults?" *Journal of Memory and Language*, 30(5), 542–579. (The transmission deficit model.)
+- Burke, D.M. & Shafto, M.A. (2004). "Aging and language production." *Current Directions in Psychological Science*, 13(1), 21–24. (Age-related increase in TOT states.)
+- Maril, A., Wagner, A.D., & Schacter, D.L. (2001). "On the tip of the tongue: An event-related fMRI study of semantic retrieval failure and cognitive conflict." *Neuron*, 31(4), 653–660. (Neural correlates of the TOT state.)
+- Metcalfe, J., Schwartz, B.L., & Joaquim, S.G. (1993). "The cue-familiarity heuristic in metacognition." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 19(4), 851–861.
