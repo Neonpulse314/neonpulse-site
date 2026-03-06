@@ -82,3 +82,17 @@ The song that put you back there didn't take you to a place. It took you to a fe
 The pain isn't the point. The warmth is.
 
 The pain is just what warmth costs when it's behind you instead of in front of you.
+
+---
+
+## Sources
+
+- Sedikides C, Wildschut T, Gaertner L, et al. "Nostalgia: Past, present, and future." *Current Directions in Psychological Science*. 2008;17(5):304–307. — The foundational modern research program establishing nostalgia as a positive, social psychological resource rather than a pathological condition; documents its effects on belonging, self-esteem, and optimism.
+
+- Wildschut T, Sedikides C, Arndt J, Routledge C. "Nostalgia: Content, triggers, functions." *Journal of Personality and Social Psychology*. 2006;91(5):975–993. — Systematic content analysis of nostalgic memories showing they center on social bonds; demonstrates nostalgia is triggered by negative affect and functions to restore positive social feelings.
+
+- Zhou X, Sedikides C, Wildschut T, Gao DG. "Counteracting loneliness: On the restorative function of nostalgia." *Psychological Science*. 2008;19(10):1023–1029. — Shows that loneliness triggers nostalgia, and nostalgic reminiscing restores feelings of social connectedness — evidence for nostalgia's role as a social resource.
+
+- Routledge C, Arndt J, Sedikides C, Wildschut T. "A blast from the past: The terror management function of nostalgia." *Journal of Experimental Social Psychology*. 2008;44(1):132–140. — Demonstrates that nostalgia buffers against mortality salience, providing symbolic continuity that reduces existential threat.
+
+- Zhou X, Wildschut T, Sedikides C, Chen X, Vingerhoets AJJM. "Heartwarming memories: Nostalgia maintains physiological comfort." *Emotion*. 2012;12(4):678–684. — The thermoregulation study: cold temperatures trigger nostalgic cognition, and nostalgia in turn produces subjective warmth — suggesting nostalgia evolved partly to regulate perceived thermal comfort during social isolation.
