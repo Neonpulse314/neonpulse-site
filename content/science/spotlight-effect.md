@@ -84,3 +84,17 @@ Gilovich's final line on the spotlight effect is worth keeping: the spotlight ef
 You can relax a little.
 
 Most people are standing in their own spotlight, worried about their own shirt.
+
+---
+
+## Sources
+
+- Gilovich T, Medvec VH, Savitsky K. "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance." *Journal of Personality and Social Psychology*. 2000;78(2):211–222. — The original Barry Manilow study establishing the spotlight effect; demonstrated that people overestimate how many observers notice them by roughly 2:1.
+
+- Gilovich T, Savitsky K, Medvec VH. "The illusion of transparency: Biased assessments of others' ability to read one's emotional states." *Journal of Personality and Social Psychology*. 1998;75(2):332–346. — Demonstrates that people overestimate how visible their internal emotional states (nervousness, disgust) are to observers.
+
+- Savitsky K, Gilovich T. "The illusion of transparency and the alleviation of speech anxiety." *Journal of Experimental Social Psychology*. 2003;39(6):618–625. — Shows that simply explaining the illusion of transparency to anxious speakers reduces their anxiety and improves performance.
+
+- Kruger J, Gilovich T. "'Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias." *Journal of Personality and Social Psychology*. 1999;76(5):743–753. — Related work on egocentric bias in social perception and how perspective-taking fails.
+
+- Epley N, Savitsky K, Gilovich T. "Empathy neglect: Reconciling the spotlight effect and the correspondence bias." *Journal of Personality and Social Psychology*. 2002;83(2):300–312. — Extends spotlight effect research to show that egocentric anchoring underlies both over- and underestimation of others' awareness depending on the social context.
