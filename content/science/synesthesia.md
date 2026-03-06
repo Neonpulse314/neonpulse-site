@@ -98,3 +98,19 @@ The price of the trait, in its strong form, is seeing letters in colors forever.
 The benefit, possibly, is that the same wiring makes everything more connected — senses, ideas, memories, forms.
 
 Not a bad trade.
+
+---
+
+## Sources
+
+- Galton F. "Visualised numerals." *Journal of the Anthropological Institute of Great Britain and Ireland*. 1880;10:85–102. — First systematic documentation of synesthesia: Galton's survey of people who see numbers in spatial arrangements and colors, establishing its genetic basis (runs in families) and idiosyncratic nature (colors differ between individuals).
+
+- Ramachandran VS, Hubbard EM. "Synaesthesia — a window into perception, thought and language." *Journal of Consciousness Studies*. 2001;8(12):3–34. — Proposes the cross-activation model: synesthesia arises from unusually strong connections between adjacent brain areas (color and number processing regions in the inferior temporal lobe), supported by fMRI evidence of color region activation during grapheme processing in synesthetes.
+
+- Rich AN, Mattingley JB. "Anomalous perception in synaesthesia: A cognitive neuroscience perspective." *Nature Reviews Neuroscience*. 2002;3(1):43–52. — Comprehensive neuroimaging and behavioral review establishing that synesthetic color experiences activate genuine color-processing brain regions, ruling out the hypothesis that synesthetes are merely using metaphorical language.
+
+- Cytowic RE. *Synesthesia: A Union of the Senses*. 2nd ed. MIT Press; 2002. — The foundational clinical text establishing synesthesia's five diagnostic criteria (automatic, consistent, involuntary, memorable, emotional) and documenting its prevalence and neurological basis.
+
+- Köhler W. *Gestalt Psychology*. Liveright; 1929. — Contains the original bouba-kiki (then "maluma-takete") experiment demonstrating cross-modal sound-shape associations in nearly all people — establishing that weak synesthetic-like cross-activation is universal, with synesthesia as the strong end of a spectrum.
+
+- Ward J, Simner J. "Lexical-gustatory synaesthesia: Linguistic and conceptual factors." *Cognition*. 2003;89(3):237–261. — Documents lexical-gustatory synesthesia (words triggering tastes), establishing that the cross-activation principle extends across multiple sensory modalities beyond the best-known grapheme-color form.

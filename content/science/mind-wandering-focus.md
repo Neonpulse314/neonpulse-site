@@ -102,3 +102,17 @@ The most interesting part of the study might be the 53%: the other half of wakin
 What were those moments? What distinguished them?
 
 Probably not the activities. Probably the attention.
+
+---
+
+## Sources
+
+- Killingsworth MA, Gilbert DT. "A wandering mind is an unhappy mind." *Science*. 2010;330(6006):932. — The iPhone experience-sampling study: minds wandered 47% of waking hours, and mind-wandering predicted unhappiness regardless of activity — including when wandering toward pleasant topics.
+
+- Raichle ME, MacLeod AM, Snyder AZ, et al. "A default mode of brain function." *Proceedings of the National Academy of Sciences*. 2001;98(2):676–682. — Discovery of the Default Mode Network: specific brain regions are more active during rest than task, synchronized and non-random — establishing that mind-wandering has a neural substrate rather than being random noise.
+
+- Smallwood J, Schooler JW. "The restless mind." *Psychological Bulletin*. 2006;132(6):946–958. — Comprehensive review of mind-wandering research; establishes that spontaneous thought serves future-planning and self-referential functions but that most wandering is repetitive rumination rather than productive simulation.
+
+- Schooler JW, Smallwood J, Christoff K, et al. "Meta-awareness, perceptual decoupling and the wandering mind." *Trends in Cognitive Sciences*. 2011;15(7):319–326. — Distinguishes aware from unaware mind-wandering and introduces the perceptual decoupling account: during wandering, attention decouples from the external environment to support internal simulation.
+
+- Christoff K, Gordon AM, Smallwood J, Smith R, Schooler JW. "Experience sampling during fMRI reveals default network and executive system contributions to mind wandering." *Proceedings of the National Academy of Sciences*. 2009;106(21):8719–8724. — Neuroimaging during experience sampling: mind-wandering recruits both DMN and executive network, with executive system especially active during unaware wandering — contradicting the view that wandering is purely passive.
