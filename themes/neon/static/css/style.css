@@ -225,13 +225,18 @@ main {
 }
 .back-link:hover { color: var(--text); }
 
-/* Comments */
-.comments {
+/* Feedback */
+.feedback {
   margin-top: 3rem;
-  padding-top: 2rem;
+  padding-top: 1.5rem;
   border-top: 1px solid var(--border);
 }
-.comments h3 { font-size: 1.1rem; margin-bottom: 1rem; }
+.feedback-prompt {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 0;
+}
 
 /* Footer */
 footer {

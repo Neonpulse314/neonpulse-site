@@ -14,15 +14,8 @@
     <a href="{{ .Parent.Permalink }}" class="back-link">← Back</a>
   </div>
 
-  <section class="comments">
-    <h3>Comments</h3>
-    <script src="https://utteranc.es/client.js"
-      repo="Neonpulse314/neonpulse-site"
-      issue-term="pathname"
-      theme="github-light"
-      crossorigin="anonymous"
-      async>
-    </script>
+  <section class="feedback">
+    <p class="feedback-prompt">Something wrong? Something surprising? <a href="mailto:neonpulse314@gmail.com?subject=Re: {{ .Title | urlquery }}">Write to us.</a></p>
   </section>
 </article>
 {{ end }}
