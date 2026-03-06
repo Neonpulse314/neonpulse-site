@@ -87,3 +87,19 @@ The song got no better.
 
 You just processed it more easily.
 
+---
+
+## Sources
+
+- Zajonc RB. "Attitudinal effects of mere exposure." *Journal of Personality and Social Psychology Monograph Supplement*. 1968;9(2, Pt. 2):1–27. — The foundational study: repeated exposure to Chinese characters, nonsense words, and photographs generated increased preference even without conscious memory of exposure — and coined the "mere exposure effect."
+
+- Kunst-Wilson WR, Zajonc RB. "Affective discrimination of stimuli that cannot be recognized." *Science*. 1980;207(4430):557–558. — The subliminal exposure study: shapes shown too briefly to consciously recognize were later reliably preferred over novel shapes — demonstrating that mere exposure operates below the threshold of conscious memory.
+
+- Reber R, Winkielman P, Schwarz N. "Effects of perceptual fluency on affective judgments." *Psychological Science*. 1998;9(1):45–48. — Establishes the processing fluency mechanism: familiar stimuli are processed more easily, and this ease is misattributed to the quality of the stimulus rather than its prior exposure.
+
+- Hasher L, Goldstein D, Toppino T. "Frequency and the conference of referential validity." *Journal of Verbal Learning and Verbal Behavior*. 1977;16(1):107–112. — Documents the illusory truth effect: repeated exposure to statements makes them feel more true regardless of actual truth value — the mere exposure effect applied to factual claims.
+
+- Bornstein RF. "Exposure and affect: Overview and meta-analysis of research, 1968–1987." *Psychological Bulletin*. 1989;106(2):265–289. — Meta-analysis of 200 studies confirming the mere exposure effect; documents moderating factors including initial valence (negative stimuli worsen with exposure) and satiation at very high exposure frequencies.
+
+- Moreland RL, Beach SR. "Exposure effects in the classroom: The development of affinity among students." *Journal of Experimental Social Psychology*. 1992;28(3):255–276. — Naturalistic demonstration of mere exposure in social preferences: students who appeared more frequently in a class were rated as more attractive and likeable, without any direct interaction — pure exposure driving social preference.
+
