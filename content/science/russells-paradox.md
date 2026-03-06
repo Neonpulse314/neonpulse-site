@@ -161,3 +161,19 @@ It's just what it looks like to think carefully about something this deep.
 ---
 
 *Bertrand Russell published his paradox in 1903 in "The Principles of Mathematics." His letter to Frege was written in June 1902. Frege's reply — "Your discovery of the contradiction has left me thunderstruck" — was written on June 22, 1902. Gödel's incompleteness theorems were published in 1931; his proof of the first theorem, constructing an unprovable statement via self-reference, remains one of the most significant results in the history of logic. Turing's proof of the uncomputability of the halting problem appeared in 1936. The Zermelo-Fraenkel axioms, including the Axiom of Choice (ZFC), remain the standard foundation of modern mathematics. No one has proved ZFC consistent within ZFC itself, and by Gödel's second incompleteness theorem, no one can.*
+
+---
+
+## Sources
+
+- Russell B. *The Principles of Mathematics*. Cambridge University Press, 1903. — The book where Russell published his paradox and its implications for Frege's program.
+
+- Frege G. *Grundgesetze der Arithmetik* (Basic Laws of Arithmetic). Vol. 2. Jena: Pohle, 1903. — Frege's foundational work, which Russell's paradox undermined; includes Frege's rueful postscript acknowledging the flaw.
+
+- Gödel K. "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme." *Monatshefte für Mathematik und Physik*. 1931;38(1):173–198. — The incompleteness theorems, showing any sufficiently powerful consistent formal system has unprovable truths.
+
+- Turing AM. "On Computable Numbers, with an Application to the Entscheidungsproblem." *Proceedings of the London Mathematical Society*. 1937;42(1):230–265. — The halting problem proof, connecting Russell's legacy to computability theory.
+
+- Zermelo E. "Untersuchungen über die Grundlagen der Mengenlehre I." *Mathematische Annalen*. 1908;65(2):261–281. — The axiomatic set theory that replaced naive set theory, avoiding Russell's paradox.
+
+- Hofstadter DR. *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books, 1979. — The Pulitzer Prize-winning exploration of self-reference, paradox, and formal systems for a general audience.
