@@ -109,4 +109,16 @@ But it's getting a little smaller now.
 
 ---
 
-*Daniel Wegner's original white bear experiment was published in 1987 in the Journal of Personality and Social Psychology. His 2011 book* The Illusion of Conscious Will *expanded these ideas into a broader theory of mental control. Wegner died in 2013; the ironic process theory remains one of the most replicated findings in cognitive psychology.*
+## Sources
+
+- Wegner DM, Schneider DJ, Carter SR, White TL. "Paradoxical effects of thought suppression." *Journal of Personality and Social Psychology*. 1987;53(1):5–13. — The original white bear study establishing that suppression increases intrusion frequency, and that the rebound effect amplifies suppressed thoughts when suppression ends.
+
+- Wegner DM. "Ironic processes of mental control." *Psychological Review*. 1994;101(1):34–52. — Full theoretical account of ironic process theory: the dual-process model (intentional operating + ironic monitoring) explaining why effortful suppression paradoxically amplifies the unwanted thought.
+
+- Wegner DM, Erber R, Zanakos S. "Ironic processes in the mental control of mood and mood-related thought." *Journal of Personality and Social Psychology*. 1993;65(6):1093–1104. — Extends ironic process theory to mood and sleep: demonstrates that trying to suppress specific moods or thoughts at bedtime increases their intrusion, explaining suppression-induced insomnia.
+
+- Rassin E, Merckelbach H, Muris P. "Paradoxical and less paradoxical effects of thought suppression: A critical review." *Clinical Psychology Review*. 2000;20(8):973–995. — Review of suppression research in clinical contexts: examines how the ironic monitoring process contributes to OCD-like thought intrusion when neutral thoughts are suppressed.
+
+- Hayes SC, Strosahl KD, Wilson KG. *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press; 1999. — The foundational ACT text establishing acceptance (rather than suppression) as the evidence-based alternative: treating unwanted thoughts as passing mental events rather than threats to be eliminated.
+
+- Abramowitz JS, Tolin DF, Street GP. "Paradoxical effects of thought suppression: A meta-analysis of controlled studies." *Clinical Psychology Review*. 2001;21(5):683–703. — Meta-analysis of 11 controlled suppression studies confirming the rebound effect across diverse thought content and participant populations.
