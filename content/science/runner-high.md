@@ -96,3 +96,17 @@ It's a system built for survival, not preference.
 You were made for sustained effort. The biology already knows this.
 
 The only requirement is that you start.
+
+---
+
+## Sources
+
+- Raichlen DA, Foster AD, Gerdeman GL, Seillier A, Bhattacharya A. "Wired to run: Exercise-induced endocannabinoid signaling in humans and cursorial mammals with implications for the 'runner's high.'" *Journal of Experimental Biology*. 2012;215(8):1331–1336. — The human-dog-ferret comparison study: demonstrates that endocannabinoid (anandamide) release during sustained running occurs in cursorial mammals (humans, dogs) but not in non-cursorial ferrets — establishing the evolutionary basis for exercise reward.
+
+- Boecker H, Sprenger T, Spilker ME, et al. "The runner's high: Opioidergic mechanisms in the human brain." *Cerebral Cortex*. 2008;18(11):2523–2531. — PET imaging study showing opioid release in frontal/limbic regions during running correlates with euphoria ratings — confirming a real (if incomplete) role for endogenous opioids alongside endocannabinoids.
+
+- Cotman CW, Berchtold NC. "Exercise: A behavioral intervention to enhance brain health and plasticity." *Trends in Neurosciences*. 2002;25(6):295–301. — Establishes the BDNF-exercise connection: physical activity increases BDNF expression in the hippocampus, promoting neuronal growth, synaptic plasticity, and resistance to age-related decline.
+
+- Hillman CH, Erickson KI, Kramer AF. "Be smart, exercise your heart: Exercise effects on brain and cognition." *Nature Reviews Neuroscience*. 2008;9(1):58–65. — Reviews cognitive and structural brain effects of exercise: increased hippocampal volume, improved executive function, reduced depression and anxiety — documenting the long-term benefits beyond the acute runner's high.
+
+- Egan MF, Kojima M, Callicott JH, et al. "The BDNF val66met polymorphism affects activity-dependent secretion of BDNF and human memory and hippocampal function." *Cell*. 2003;112(2):257–269. — Documents BDNF genetic variation that affects hippocampal response to exercise; relevant to why individuals vary in both cognitive and mood responses to aerobic activity.

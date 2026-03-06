@@ -83,3 +83,17 @@ The mind-body connection is not poetic. It's a specific pathway, measured with n
 
 Your body reads your psychology. It just takes a few days to show its work.
 
+---
+
+## Sources
+
+- Cohen S, Tyrrell DAJ, Smith AP. "Psychological stress and susceptibility to the common cold." *New England Journal of Medicine*. 1991;325(9):606–612. — The original viral challenge study: subjects assessed for stress then exposed to rhinovirus; those with higher stress scores were more than twice as likely to develop clinical illness, establishing direct causal link between stress and immune vulnerability.
+
+- Cohen S, Frank E, Doyle WJ, Skoner DP, Rabin BS, Gwaltney JM. "Types of stressors that increase susceptibility to the upper respiratory common cold in healthy adults." *Health Psychology*. 1998;17(3):214–223. — Documents that chronic life stress (months-long) is more immunosuppressive than acute stress, and that interpersonal/social stressors are the strongest predictors of viral susceptibility.
+
+- Sapolsky RM. *Why Zebras Don't Get Ulcers*. 3rd ed. Henry Holt; 2004. — The definitive accessible account of the HPA axis and cortisol: explains why short-term stress immune suppression is adaptive but chronic activation causes sustained immunosuppression and elevated inflammation with clinical consequences.
+
+- Segerstrom SC, Miller GE. "Psychological stress and the human immune system: A meta-analytic study of 30 years of inquiry." *Psychological Bulletin*. 2004;130(4):601–630. — Meta-analysis of 293 studies: acute stress upregulates some immunity, but chronic stress suppresses adaptive immune function and dysregulates inflammation — the largest synthesis of the stress-immunity literature.
+
+- Cacioppo JT, Hawkley LC. "Social isolation and health, with an emphasis on underlying mechanisms." *Perspectives in Biology and Medicine*. 2003;46(3 Suppl):S39–52. — Documents that loneliness and social isolation produce elevated inflammatory markers, reduced NK cell activity, and altered immune gene expression — showing that social threat activates biological threat responses comparable to physical stressors.
+
