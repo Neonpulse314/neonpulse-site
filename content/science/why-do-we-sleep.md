@@ -127,3 +127,38 @@ Neuroscientists are still working on the paradox part.
 ---
 
 The code runs every night. It has for 700 million years. And we're still trying to read the comments.
+
+---
+
+## Sources
+
+**Sleep deprivation and animal experiments**
+- Rechtschaffen, A. et al. (1983). "Sleep deprivation in the rat: I. Conceptual issues." *Sleep*, 6(1), 1–12.
+- Rechtschaffen, A. & Bergmann, B.M. (1995). "Sleep deprivation in the rat by the disk-over-water method." *Behavioural Brain Research*, 69(1–2), 55–63.
+
+**Fatal Familial Insomnia**
+- Lugaresi, E. et al. (1986). "Fatal familial insomnia and dysautonomia with selective degeneration of thalamic nuclei." *New England Journal of Medicine*, 315(16), 997–1003.
+
+**Memory consolidation**
+- Walker, M.P. & Stickgold, R. (2004). "Sleep-dependent learning and memory consolidation." *Neuron*, 44(1), 121–133.
+
+**Glymphatic system (Nedergaard)**
+- Xie, L. et al. (2013). "Sleep drives metabolite clearance from the adult brain." *Science*, 342(6156), 373–377.
+
+**Amyloid-beta and sleep**
+- Ju, Y.E. et al. (2017). "Slow wave sleep disruption increases cerebrospinal fluid amyloid-β levels." *Brain*, 140(8), 2104–2111.
+
+**Synaptic homeostasis hypothesis (Tononi & Cirelli)**
+- Tononi, G. & Cirelli, C. (2006). "Sleep function and synaptic homeostasis." *Sleep Medicine Reviews*, 10(1), 49–62.
+
+**Jellyfish sleep (Cassiopeia)**
+- Nath, R.D. et al. (2017). "The jellyfish *Cassiopea* exhibits a sleep-like state." *Current Biology*, 27(19), 2984–2990.
+
+**C. elegans sleep**
+- Raizen, D.M. et al. (2008). "Lethargus is a *Caenorhabditis elegans* sleep-like state." *Nature*, 451(7178), 569–572.
+
+**REM sleep discovery**
+- Aserinsky, E. & Kleitman, N. (1953). "Regularly occurring periods of eye motility, and concomitant phenomena, during sleep." *Science*, 118(3062), 273–274.
+
+**REM deprivation and emotional regulation**
+- Walker, M.P. et al. (2002). "Dissociable stages of human memory consolidation and reconsolidation." *Nature*, 425, 616–620.
