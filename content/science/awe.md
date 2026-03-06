@@ -102,3 +102,19 @@ Standing at the edge of something vast, your ordinary self-concern goes quiet.
 That's not a malfunction. It's one of the things the human brain does that has no clear analog in other animals — the capacity to feel small not as a threat but as a relief.
 
 The small self isn't the worst version of you. It might be the most honest one.
+
+---
+
+## Sources
+
+- Keltner D, Haidt J. "Approaching awe, a moral, spiritual, and aesthetic emotion." *Cognition and Emotion*. 2003;17(2):297–314. — The foundational theoretical framework for awe, proposing the two-component model (vastness + accommodation) and cataloguing awe-eliciting domains across cultures.
+
+- Shiota MN, Keltner D, Mossman A. "The nature of awe: Elicitors, appraisals, and effects on self-concept." *Cognition and Emotion*. 2007;21(5):944–963. — Documents the small self effect: awe reduces subjective personal importance and self-concept salience while increasing perception of belonging to something larger.
+
+- Stellar JE, John-Henderson N, Anderson CL, et al. "Positive affect and markers of inflammation: Discrete positive emotions predict lower levels of inflammatory cytokines." *Emotion*. 2015;15(2):129–133. — Demonstrates that awe, more than other positive emotions, predicts lower pro-inflammatory cytokine levels — suggesting direct physiological effects on immune function.
+
+- Rudd M, Vohs KD, Aaker J. "Awe expands people's perception of time, alters decision making, and enhances well-being." *Psychological Science*. 2012;23(10):1130–1136. — Shows that awe-induction expands subjective time availability and increases preference for experiential over material goods, via DMN suppression of self-referential thought.
+
+- Griskevicius V, Shiota MN, Neufeld SL. "Influence of different positive emotions on persuasion processing: A functional evolutionary approach." *Emotion*. 2010;10(2):190–206. — Demonstrates that awe (distinct from happiness) increases systematic, careful information processing and reduces reliance on heuristics — consistent with the accommodation-requiring nature of the emotion.
+
+- Van Elk M, Arciniegas Gomez MA, van der Zwaag W, et al. "The neural correlates of the awe experience: Reduced default mode network activity during feelings of awe." *Human Brain Mapping*. 2019;40(12):3561–3574. — Neuroimaging evidence for DMN suppression during awe, linking the subjective loss-of-self experience to reduced medial prefrontal cortex and posterior cingulate activity.
