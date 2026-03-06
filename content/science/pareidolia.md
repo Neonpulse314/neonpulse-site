@@ -77,4 +77,14 @@ The power outlet was never looking at you. But the part of your brain that kept 
 
 ---
 
-*Pareidolia: the tendency to perceive meaningful patterns — especially faces — in ambiguous or random visual data. The term comes from the Greek para (beside, alongside) and eidolon (image, form). The fusiform face area was first identified through patients with prosopagnosia — a condition where targeted brain damage causes an inability to recognize faces, including one's own.*
+## Sources
+
+- Kanwisher N, McDermott J, Chun MM. "The fusiform face area: A module in human extrastriate cortex specialized for face perception." *Journal of Neuroscience*. 1997;17(11):4302–4311. — The study establishing the fusiform face area as a specialized face-processing region: it activates selectively to faces (including minimal cartoon faces) and its damage produces prosopagnosia — the neurological basis for pareidolia's face-detection mechanism.
+
+- Taubert J, Wardle SG, Flessert M, Leopold DA, Ungerleider LG. "Face pareidolia in the rhesus monkey." *Current Biology*. 2017;27(16):2505–2509. — Documents face pareidolia in rhesus monkeys: their face-detection cells fire to object images containing face-like configurations, establishing that the hair-trigger face detection system predates human evolution.
+
+- Gombrich EH. *Art and Illusion: A Study in the Psychology of Pictorial Representation*. Princeton University Press; 1960. — The art-history account of perception as active construction: the mind fills in ambiguous sensory data with the most probable pattern, explaining why visual pareidolia is not error but prediction.
+
+- McKone E, Kanwisher N, Duchaine BC. "Can generic expertise explain special processing for faces?" *Trends in Cognitive Sciences*. 2007;11(1):8–15. — Review of the face-specificity debate: evidence that face processing is partly domain-specific (not purely general-purpose expertise) — relevant to why even minimal face-like configurations trigger FFA activation in pareidolia.
+
+- Rensink RA. "The dynamic representation of scenes." *Visual Cognition*. 2000;7(1–3):17–42. — Documents how visual perception is predictive and constructive rather than passive recording — the theoretical framework explaining why pareidolia is a feature of the perceptual system's prediction architecture, not a flaw.

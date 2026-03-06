@@ -62,3 +62,17 @@ Music that gives you chills has usually earned it. It's set up expectations, bui
 When you shiver at a song, you're not just having an emotional reaction. You're recognizing craft. Your dopamine system is saying: *this was done right.*
 
 That's not a small thing. Most experiences don't do that.
+
+---
+
+## Sources
+
+- Salimpoor VN, Benovoy M, Larcher K, Dagher A, Zatorre RJ. "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music." *Nature Neuroscience*. 2011;14(2):257–262. — The landmark PET imaging study: dopamine released in the nucleus accumbens at peak chills moments, with anticipatory release 10–15 seconds before the peak — establishing music as a genuine reward-system stimulus.
+
+- Blood AJ, Zatorre RJ. "Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion." *Proceedings of the National Academy of Sciences*. 2001;98(20):11818–11823. — First neuroimaging study confirming that chills to music activate limbic and paralimbic reward regions — demonstrating that musical pleasure uses the same biological substrate as other primary rewards.
+
+- Nusbaum EC, Silvia PJ. "Shivers and timbres: Personality and the experience of chills from music." *Social Psychological and Personality Science*. 2011;2(2):199–204. — Documents that openness to experience is the strongest personality predictor of frisson susceptibility; high openness correlates with more frequent and intense chills responses to music.
+
+- Sachs ME, Ellis RJ, Schlaug G, Loui P. "Brain connectivity reflects human aesthetic responses to music." *Social Cognitive and Affective Neuroscience*. 2016;11(6):884–891. — Diffusion tensor imaging shows that people who experience frisson have stronger white matter connectivity between auditory cortex and emotional processing areas — structural basis for individual differences in chills susceptibility.
+
+- Meyer LB. *Emotion and Meaning in Music*. University of Chicago Press; 1956. — The foundational theoretical account of musical expectation: emotion in music arises from the manipulation of expectation and its resolution or violation — the framework that explains why anticipation and surprise generate dopamine release before the Salimpoor study confirmed it.
