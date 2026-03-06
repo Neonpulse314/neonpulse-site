@@ -2,7 +2,9 @@
 title: "Sex Is Evolutionarily Expensive. It Shouldn't Exist. But Here We Are."
 summary: "Every organism that reproduces sexually is paying a huge cost — half its offspring can't even have offspring. Asexual reproduction is twice as efficient. So why does sex dominate life on Earth? Fifty years of research and no one fully knows."
 section_label: "Unsolved Mystery"
-tags: ["evolution", "biology", "genetics", "sex", "deep-time"]
+tags: ["evolution", "biology", "genetics", "sex", "deep-time", "unsolved", "tier1"]
+tier: 1
+mystery: true
 draft: false
 ---
 
@@ -113,3 +115,21 @@ And there is something philosophically vertiginous about the fact that you are r
 You exist because sex kept winning against a competitor that should have beaten it.
 
 Nobody knows why.
+
+---
+
+## Sources
+
+- Maynard Smith J. *The Evolution of Sex*. Cambridge University Press, 1978. — The formal statement of the two-fold cost and the "queen of problems" framing.
+
+- Hamilton WD, Axelrod R, Tanese R. "Sexual reproduction as an adaptation to resist parasites (a review)." *PNAS*. 1990;87(9):3566–3573. — The Red Queen hypothesis developed.
+
+- Van Valen L. "A new evolutionary law." *Evolutionary Theory*. 1973;1:1–30. — The original Red Queen concept.
+
+- Muller HJ. "The relation of recombination to mutational advance." *Mutation Research*. 1964;1:2–9. — Muller's Ratchet.
+
+- Morran LT, Schmidt OG, Gelber IA, Parrish RC, Bhatt D, Bailey JC, et al. "Running with the Red Queen: host-parasite coevolution selects for biparental sex." *Science*. 2011;333(6039):216–218. — Experimental support for Red Queen in *C. elegans*.
+
+- Mark Welch DB, Meselson M. "Evidence for the evolution of bdelloid rotifers without sexual reproduction or genetic exchange." *Science*. 2000;288(5469):1211–1215. — The bdelloid rotifer problem.
+
+- Kondrashov AS. "Contamination of the genome by very slightly deleterious mutations: why have we not died 100 times over?" *Journal of Theoretical Biology*. 1988;175(4):583–594. — Mutational load argument for sex.

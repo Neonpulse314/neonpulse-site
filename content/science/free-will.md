@@ -3,6 +3,9 @@ title: "Your Brain Decided Before You Did. Neuroscience Proved It. Nobody Agrees
 section_label: "Unsolved Mystery"
 summary: "In 1983, Benjamin Libet measured brain activity while people made simple decisions. The 'readiness potential' — the buildup toward action — began half a second before people were conscious of deciding. That's not a curiosity. It's a direct challenge to the idea that you are the author of your choices."
 tags: ["consciousness", "neuroscience", "free-will", "unsolved", "tier1", "philosophy"]
+tier: 1
+mystery: true
+draft: false
 ---
 
 Benjamin Libet gave people a simple instruction: flex your wrist whenever you feel like it. Watch the clock on the screen and note where the hand is when you decide to move.
@@ -88,3 +91,19 @@ What's not open: the measurement. Your brain is not waiting for you to decide be
 You're living this experiment right now. Every decision you make, the brain has already begun its preparation. Whether that matters for how you live, or just for how you talk about living — that one's up to you.
 
 Or it was always going to be.
+
+---
+
+## Sources
+
+- Libet B, Gleason CA, Wright EW, Pearl DK. "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)." *Brain*. 1983;106(3):623–642. — The original experiment.
+
+- Soon CS, Brass M, Heinze HJ, Haynes JD. "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*. 2008;11(5):543–545. — The fMRI study predicting choices up to 10 seconds early.
+
+- Schurger A, Sitt JD, Dehaene S. "An accumulator model for spontaneous neural activity prior to self-initiated movement." *PNAS*. 2012;109(42):E2904–E2913. — The reanalysis proposing the readiness potential reflects neural noise, not preparation.
+
+- Libet B. *Mind Time: The Temporal Factor in Consciousness*. Harvard University Press, 2004. — Libet's own account, including the veto hypothesis.
+
+- Kane R. *The Significance of Free Will*. Oxford University Press, 1996. — Standard reference for libertarian free will positions in philosophy.
+
+- Dennett DC. *Freedom Evolves*. Viking Press, 2003. — Compatibilist response to the neuroscience of free will.

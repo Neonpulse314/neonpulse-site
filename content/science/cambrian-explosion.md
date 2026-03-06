@@ -2,7 +2,9 @@
 title: "Life Existed for 3 Billion Years Without Getting Interesting. Then Everything Happened at Once."
 summary: "540 million years ago, in what geologists call a blink of an eye, nearly every animal body plan on Earth appeared from almost nothing. Darwin called it the most serious objection to his theory. We still don't have a good answer."
 section_label: "Unsolved Mystery"
-tags: ["evolution", "paleontology", "biology", "origins", "deep-time"]
+tags: ["evolution", "paleontology", "biology", "origins", "deep-time", "unsolved", "tier1"]
+tier: 1
+mystery: true
 draft: false
 ---
 
@@ -85,3 +87,21 @@ The honest scientific position is that the Cambrian Explosion is a genuine myste
 You are the evolutionary descendant of something that survived that explosion. Your body plan — bilateral symmetry, a spine, a brain at one end, sensory organs at the front — was drafted 530 million years ago by processes we still can't fully reconstruct.
 
 We know it happened. We don't know how.
+
+---
+
+## Sources
+
+- Darwin C. *On the Origin of Species*. John Murray, 1859. — The quoted objection; Darwin considered the Cambrian the most serious challenge to his theory.
+
+- Gould SJ. *Wonderful Life: The Burgess Shale and the Nature of History*. W.W. Norton, 1989. — Classic account of Burgess Shale organisms and Cambrian diversification.
+
+- Conway Morris S. *The Crucible of Creation: The Burgess Shale and the Rise of Animals*. Oxford University Press, 1998. — Alternative interpretation arguing for convergent evolution over contingency.
+
+- Erwin DH, Laflamme M, Tweedt SM, et al. "The Cambrian conundrum: early divergence and later ecological success in the early history of animals." *Science*. 2011;334(6059):1091–1097.
+
+- Marshall CR. "Explaining the Cambrian 'explosion' of animals." *Annual Review of Earth and Planetary Sciences*. 2006;34:355–384. — Comprehensive review of competing hypotheses.
+
+- Knoll AH, Carroll SB. "Early animal evolution: emerging views from comparative biology and geology." *Science*. 1999;284(5423):2129–2137. — Oxygen, Hox genes, and ecological factors.
+
+- Shu DG, et al. "Lower Cambrian vertebrates from south China." *Nature*. 1999;402:42–46. — Evidence for vertebrate origins in the early Cambrian (Chengjiang site).
