@@ -82,3 +82,19 @@ The question is still open.
 ---
 
 *The double-slit experiment was first performed with light by Thomas Young in 1801. The quantum version with individual electrons was confirmed in the 1970s and 1980s. The delayed-choice variant — measuring after the particle should have already "decided" — was proposed by John Wheeler in 1978 and confirmed experimentally in 1984. The debate over interpretation continues today.*
+
+---
+
+## Sources
+
+- Young T. "The Bakerian Lecture: Experiments and Calculations Relative to Physical Optics." *Philosophical Transactions of the Royal Society*. 1804;94:1–16. — Young's original double-slit experiment demonstrating the wave nature of light.
+
+- Jönsson C. "Elektroneninterferenzen an mehreren künstlich hergestellten Feinspalten." *Zeitschrift für Physik*. 1961;161(4):454–474. — First double-slit experiment using electrons, confirming quantum interference for matter.
+
+- Tonomura A, et al. "Demonstration of single-electron buildup of an interference pattern." *American Journal of Physics*. 1989;57(2):117–120. — Landmark experiment showing interference from single electrons accumulating one at a time.
+
+- Wheeler JA. "The 'Past' and the 'Delayed-Choice' Experiment." In: Marlow AR, ed. *Mathematical Foundations of Quantum Theory*. Academic Press, 1978. — The delayed-choice thought experiment proposal.
+
+- Jacques V, et al. "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment." *Science*. 2007;315(5814):966–968. — Experimental confirmation of Wheeler's delayed-choice proposal.
+
+- Everett H. "'Relative State' Formulation of Quantum Mechanics." *Reviews of Modern Physics*. 1957;29(3):454–462. — The many-worlds interpretation, one of the main responses to the measurement problem.
