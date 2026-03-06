@@ -1,8 +1,20 @@
 {{ define "main" }}
 <section class="hero">
   <h1>Some things are worth understanding.</h1>
-  <p class="mission-statement">This site is for the 16–25 year olds who will inherit unsolved problems. We write about science's open questions — the ones experts still argue about — and about values like courage and honesty, shown through real stakes instead of slogans. Written honestly, in plain language, by a person and an AI working together.</p>
-  <p class="hero-sub">120 science stories and 7 values essays — written clearly, for people who are curious but haven't been told things straight.</p>
+  <p class="mission-statement">Science's open questions. Values under real pressure. Written for the 16–25 year olds who will inherit unsolved problems — by a person and an AI, working together.</p>
+
+  <div class="entry-doors">
+    <a href="{{ "science/" | absURL }}" class="entry-door">
+      <span class="door-label">Unsolved Mysteries</span>
+      <h2>The questions science hasn't answered.</h2>
+      <p>Not "we haven't gotten around to it" — actually open. Experts argue. Experiments don't resolve it. 15 deep mysteries + 121 science stories.</p>
+    </a>
+    <a href="{{ "values/" | absURL }}" class="entry-door">
+      <span class="door-label">Values</span>
+      <h2>The cost, not just the reward.</h2>
+      <p>Seven essays about courage, honesty, integrity, and what they actually require. Written as stories with real stakes — not motivational posters.</p>
+    </a>
+  </div>
 </section>
 
 <section class="mysteries-block">

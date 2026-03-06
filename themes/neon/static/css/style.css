@@ -9,6 +9,7 @@
   --border: #e0e0e0;
   --card-bg: #ffffff;
   --max-width: 720px;
+  --home-max-width: 960px;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -65,32 +66,93 @@ main {
   width: 100%;
 }
 
+body.home main {
+  max-width: var(--home-max-width);
+}
+
 /* Hero */
 .hero {
   text-align: center;
-  padding: 4rem 0 3rem;
+  padding: 4.5rem 0 3rem;
 }
 
 .hero h1 {
-  font-size: 2.8rem;
-  line-height: 1.2;
+  font-size: 3rem;
+  line-height: 1.15;
   letter-spacing: -0.03em;
-  margin-bottom: 1rem;
+  margin-bottom: 1.2rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .mission-statement {
   font-size: 1.05rem;
   color: var(--text);
-  max-width: 620px;
+  max-width: 640px;
   margin: 0 auto 1.2rem;
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
 .hero-sub {
-  font-size: 1rem;
+  font-size: 0.95rem;
   color: var(--muted);
-  max-width: 500px;
+  max-width: 520px;
   margin: 0 auto;
+}
+
+/* Two-door entry on homepage */
+.entry-doors {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+@media (max-width: 660px) {
+  .entry-doors { grid-template-columns: 1fr; }
+}
+
+.entry-door {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.75rem;
+  text-decoration: none;
+  color: var(--text);
+  display: block;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.entry-door:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 12px rgba(42,82,190,0.07);
+  color: var(--text);
+}
+
+.entry-door .door-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 0.6rem;
+  display: block;
+}
+
+.entry-door h2 {
+  font-size: 1.35rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.25;
+}
+
+.entry-door p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.5;
 }
 
 /* Section grid */
@@ -344,3 +406,145 @@ a:hover { color: var(--accent-hover); }
 .about-title { font-size: 1.3rem; margin-bottom: 1rem; }
 .about-section p { color: var(--muted); font-size: 0.95rem; margin-bottom: 0.8rem; }
 .about-section p strong { color: var(--text); }
+
+/* Comments section */
+.comments-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.comments-heading {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+.comments-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.comment {
+  padding: 1.25rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.comment-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.comment-name {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+}
+
+.comment-date {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.comment-body {
+  font-size: 0.95rem;
+  color: var(--text);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.no-comments {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+
+/* Comment form */
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  max-width: 560px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.form-group label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.form-group input,
+.form-group textarea {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.95rem;
+  color: var(--text);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.65rem 0.85rem;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.form-group textarea {
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.comment-submit {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--card-bg);
+  background: var(--accent);
+  border: none;
+  border-radius: 6px;
+  padding: 0.65rem 1.5rem;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: background 0.15s;
+}
+
+.comment-submit:hover {
+  background: var(--accent-hover);
+}
+
+/* Support link */
+.support-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.support-link:hover { color: var(--accent-hover); }
