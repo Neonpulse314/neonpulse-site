@@ -83,3 +83,17 @@ The rational mind can observe that response.
 
 It cannot turn it off.
 
+---
+
+## Sources
+
+- Kumar S, Hancock O, Cope T, et al. "Misophonia: A disorder of emotion processing of sounds." *Journal of Neuroscience*. 2017;37(40):10084–10088. — The landmark fMRI study establishing misophonia as a distinct neurological phenomenon: abnormal anterior insular cortex activity and heightened connectivity to emotion/interoception regions during trigger sounds in affected subjects.
+
+- Jastreboff MM, Jastreboff PJ. "Hyperacusis." *Audiology Online*. 2001. — Distinguishes misophonia from hyperacusis and phonophobia; establishes the conceptual framework for selective sound hypersensitivity as a conditioned emotional response rather than a purely auditory processing difference.
+
+- Schröder A, Vulink N, Denys D. "Misophonia: Diagnostic criteria for a new psychiatric disorder." *PLOS ONE*. 2013;8(1):e54706. — First formal diagnostic criteria for misophonia, including the core features: intense emotional response (anger/panic/disgust), sound-specific trigger profile, impaired social functioning, and insight into the disproportionality of the reaction.
+
+- Brout JJ, Edelstein M, Erfanian M, et al. "Investigating misophonia: A review of the empirical literature, clinical implications, and a research agenda." *Frontiers in Neuroscience*. 2018;12:36. — Comprehensive review of misophonia research including prevalence estimates (10–20% mild, 2–4% clinically significant), co-occurrence with OCD/anxiety/ADHD, and evidence for genetic contribution.
+
+- Edelstein M, Brang D, Rouw R, Ramachandran VS. "Misophonia: Physiological investigations and case descriptions." *Frontiers in Human Neuroscience*. 2013;7:296. — Documents the physiological response profile in misophonia: skin conductance response, galvanic response, and motor activation — confirming the involuntary, autonomic nature of the trigger response.
+

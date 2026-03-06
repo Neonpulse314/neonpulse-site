@@ -77,3 +77,17 @@ The embarrassment you felt alone in the room wasn't irrational. It was your soci
 
 The answer it got was: it might. That was enough.
 
+---
+
+## Sources
+
+- Leary MR, Tambor ES, Terdal SK, Downs DL. "Self-esteem as an interpersonal monitor: The sociometer hypothesis." *Journal of Personality and Social Psychology*. 1995;68(3):518–530. — The foundational sociometer theory paper: demonstrates that self-esteem fluctuates rapidly in response to social inclusion/exclusion cues, tracking relational value rather than honest self-assessment.
+
+- Leary MR, Downs DL. "Interpersonal functions of the self-esteem motive: The self-esteem system as a sociometer." In Kernis MH (ed), *Efficacy, Agency, and Self-Esteem*. Plenum; 1995. — Elaborates the evolutionary argument: self-esteem as a biological monitor of social standing, explaining why its signals feel urgent and why social exclusion activates threat response.
+
+- Gilovich T, Medvec VH, Savitsky K. "The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance." *Journal of Personality and Social Psychology*. 2000;78(2):211–222. — The spotlight effect: people overestimate how much others notice their behavior and appearance, driven by egocentric anchoring from the sociometer's intense self-focus.
+
+- Keltner D, Buswell BN. "Embarrassment: Its distinct form and appeasement functions." *Psychological Bulletin*. 1997;122(3):250–270. — Documents embarrassment's involuntary display (blushing, gaze aversion) as a costly honest signal of social concern — showing that visible embarrassment increases trustworthiness ratings and social forgiveness.
+
+- Eisenberger NI, Lieberman MD, Williams KD. "Does rejection hurt? An fMRI study of social exclusion." *Science*. 2003;302(5643):290–292. — Neural correlates of social exclusion: dACC activation (pain region) during Cyberball exclusion — providing direct evidence that the social monitoring system activates the physical pain alarm under threat.
+
