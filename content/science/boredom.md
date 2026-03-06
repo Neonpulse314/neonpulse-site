@@ -102,3 +102,17 @@ The people who can sit with boredom without flinching — without reaching for a
 The discomfort you're avoiding is the same place your best ideas live.
 
 Go ahead and sit with it.
+
+---
+
+## Sources
+
+- Wilson TD, Reinhard DA, Westgate EC, et al. "Just think: The challenges of the disengaged mind." *Science*. 2014;345(6192):75–77. — The shock study: participants preferred self-administering electric shocks to sitting quietly with their own thoughts for 15 minutes, demonstrating the extreme discomfort of unstructured mental time.
+
+- Raichle ME, MacLeod AM, Snyder AZ, et al. "A default mode of brain function." *Proceedings of the National Academy of Sciences*. 2001;98(2):676–682. — Discovery of the default mode network: the brain system that activates during rest and internally-directed thought, explaining why boredom doesn't quiet the mind but fills it with self-referential processing.
+
+- Mann S, Cadman R. "Does being bored make us more creative?" *Creativity Research Journal*. 2014;26(2):165–173. — Demonstrates that boredom increases creative output: participants who did boring tasks first generated significantly more creative ideas than controls, via DMN-mediated associative thinking.
+
+- Eastwood JD, Frischen A, Fenske MJ, Smilek D. "The unengaged mind: Defining boredom in terms of attention." *Perspectives on Psychological Science*. 2012;7(5):482–495. — Proposes attention-based definition of boredom as failed engagement, explaining why boredom is aversive even when rest is desired — the mind wants to be engaged, not simply idle.
+
+- Danckert J, Merrifield C. "Boredom, sustained attention and the default mode network." *Experimental Brain Research*. 2018;236(9):2507–2518. — Neuroimaging study showing boredom involves tension between the DMN and attention networks, producing the characteristic uncomfortable restlessness of the bored state.
