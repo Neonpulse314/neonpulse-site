@@ -99,4 +99,14 @@ Your brain is doing the right thing. The floor plan is just wrong.
 
 ---
 
-*Gabriel Radvansky, Sabine Krawietz, and Andrea Tamplin, "Walking Through Doorways Causes Forgetting: Further Explorations," The Quarterly Journal of Experimental Psychology, 2011. Jeffrey M. Zacks et al., "Event Structure in Perception and Conception," Psychological Bulletin, 2007.*
+## Sources
+
+1. Radvansky, G.A., Krawietz, S.A., & Tamplin, A.K. (2011). Walking through doorways causes forgetting: Further explorations. *Quarterly Journal of Experimental Psychology*, 64(8), 1632–1645.
+
+2. Zacks, J.M., Speer, N.K., Swallow, K.G., Braver, T.S., & Reynolds, J.R. (2007). Event structure in perception and conception. *Psychological Bulletin*, 133(2), 273–293.
+
+3. Radvansky, G.A. & Zacks, J.M. (2014). *Event Cognition*. Oxford University Press.
+
+4. Smith, S.M. (1979). Remembering in and out of context. *Journal of Experimental Psychology: Human Learning and Memory*, 5(5), 460–471.
+
+5. Radvansky, G.A., Tamplin, A.K., & Krawietz, S.A. (2010). Walking through doorways causes forgetting: Environmental integration. *Psychonomic Bulletin & Review*, 17(6), 900–904.

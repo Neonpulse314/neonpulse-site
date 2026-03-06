@@ -85,3 +85,18 @@ Occasionally, the drill becomes the disaster.
 
 That's nightmare disorder, and it's the same system working at full volume with nowhere to put what it's holding.
 
+---
+
+## Sources
+
+1. Revonsuo, A. (2000). The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming. *Behavioral and Brain Sciences*, 23(6), 877–901.
+
+2. Walker, M.P. & van der Helm, E. (2009). Overnight therapy? The role of sleep in emotional brain processing. *Psychological Bulletin*, 135(5), 731–748.
+
+3. Raskind, M.A., Peskind, E.R., Kanter, E.D., Petrie, E.C., Radant, A., Thompson, C.E., Dobie, D.J., Hoff, D., Rein, R.J., Straits-Tröster, K., Thomas, R.G., & McFall, M.M. (2003). Reduction of nightmares and other PTSD symptoms in combat veterans by prazosin. *American Journal of Psychiatry*, 160(2), 371–373.
+
+4. Nielsen, T.A. & Levin, R. (2007). Nightmares: A new neurocognitive model. *Sleep Medicine Reviews*, 11(4), 295–310.
+
+5. Schredl, M. (2010). Characteristics and contents of dreams. *International Review of Neurobiology*, 92, 1–25.
+
+6. Walker, M.P. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner.
