@@ -1,5 +1,6 @@
 ---
 title: "Why Does Music Give You Chills?"
+date: 2026-03-07
 summary: "That shiver down your spine when a song hits exactly right — scientists call it frisson. About 50% of people experience it. The reason involves dopamine, prediction, and something your brain does half a second before the good part."
 section_label: "Science Mystery"
 tags: ["neuroscience", "music", "emotion"]
