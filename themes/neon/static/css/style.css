@@ -73,11 +73,11 @@ body.home main {
 /* Hero */
 .hero {
   text-align: center;
-  padding: 4.5rem 0 3rem;
+  padding: 2.5rem 0 2.5rem;
 }
 
 .hero h1 {
-  font-size: 2.4rem;
+  font-size: 2rem;
   line-height: 1.15;
   letter-spacing: -0.03em;
   margin-bottom: 1.2rem;
@@ -361,7 +361,7 @@ a:hover { color: var(--accent-hover); }
 
 /* Full-height hero for two-door homepage */
 .hero--full {
-  padding: 4rem 0 3rem;
+  padding: 2rem 0 2.5rem;
 }
 
 /* Minimal about blurb at bottom of two-door homepage */
