@@ -71,3 +71,13 @@ Twelve times an hour, your body quietly fixes itself.
 
 You never get the credit.
 
+---
+
+## Sources
+
+- Li, P., et al. (2016). The peptidergic control circuit for sighing. *Nature*, 530(7590), 293–297.
+- Feldman, J.L., Del Negro, C.A., & Gray, P.A. (2013). Understanding the rhythm of breathing: so near, yet so far. *Annual Review of Physiology*, 75, 423–452.
+- Bendixen, H.H., Hedley-Whyte, J., & Laver, M.B. (1963). Impaired oxygenation in surgical patients during general anesthesia with controlled ventilation. *New England Journal of Medicine*, 269(18), 991–996.
+- Vlemincx, E., et al. (2011). Sigh rate and respiratory variability during mental load and sustained attention. *Psychophysiology*, 48(1), 117–120.
+- Perez-Zoghbi, J.F., et al. (2013). Surfactant and the respiratory system: from basic to translational research.
+- Heller, A.S., et al. (2015). Relationship between emotional responses to photographs and physiological arousal. *Emotion*, 15(5), 604–612.

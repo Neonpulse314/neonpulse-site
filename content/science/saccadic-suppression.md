@@ -82,3 +82,14 @@ Go look in a mirror. Watch your eyes move.
 You still won't see it. The machinery that prevents you from seeing it is the same machinery that makes everything else you see coherent and stable.
 
 The price of a stable world is a blind spot in the one doing the looking.
+
+---
+
+## Sources
+
+- Matin, E. (1974). Saccadic suppression: a review and an analysis. *Psychological Bulletin*, 81(12), 899–917.
+- Bridgeman, B., Hendry, D., & Stark, L. (1975). Failure to detect displacement of the visual world during saccadic eye movements. *Vision Research*, 15(6), 719–722.
+- Duhamel, J.R., Colby, C.L., & Goldberg, M.E. (1992). The updating of the representation of visual space in parietal cortex by intended eye movements. *Science*, 255(5040), 90–92.
+- Ross, J., Morrone, M.C., Goldberg, M.E., & Burr, D.C. (2001). Changes in visual perception at the time of saccades. *Trends in Neurosciences*, 24(2), 113–121.
+- Wurtz, R.H. (2008). Neuronal mechanisms of visual stability. *Vision Research*, 48(20), 2070–2089.
+

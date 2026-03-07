@@ -98,3 +98,15 @@ The phone is not the problem. The variable ratio schedule is not new — gamblin
 You are not weak. You are human.
 
 The lever is very well designed.
+
+---
+
+## Sources
+
+- Skinner, B.F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century-Crofts.
+- Schultz, W., Dayan, P., & Montague, P.R. (1997). A neural substrate of prediction and reward. *Science*, 275(5306), 1593–1599.
+- Verduyn, P., et al. (2015). Passive Facebook usage undermines affective well-being: experimental and longitudinal evidence. *Journal of Experimental Psychology: General*, 144(2), 480–488.
+- Fardouly, J., Diedrichs, P.C., Vartanian, L.R., & Halliwell, E. (2015). Social comparisons on social media. *Body Image*, 13, 38–45.
+- Alter, A. (2017). *Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked*. Penguin Press.
+- Twenge, J.M., et al. (2018). Increases in depressive symptoms, suicide-related outcomes, and suicide rates among U.S. adolescents after 2010 and links to increased new media screen time. *Clinical Psychological Science*, 6(1), 3–17.
+

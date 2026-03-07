@@ -81,3 +81,13 @@ You are not primarily a truth-seeker. You are a social being who can reason — 
 
 The evidence will often be irrelevant until those other functions are satisfied first.
 
+---
+
+## Sources
+
+- Wason, P.C. (1968). Reasoning about a rule. *Quarterly Journal of Experimental Psychology*, 20(3), 273–281.
+- Nickerson, R.S. (1998). Confirmation bias: a ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220.
+- Mercier, H. & Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences*, 34(2), 57–74.
+- Kahan, D.M., et al. (2012). The polarizing impact of science literacy and numeracy on perceived climate change risks. *Nature Climate Change*, 2(10), 732–735.
+- Nyhan, B. & Reifler, J. (2010). When corrections fail: the persistence of political misperceptions. *Political Behavior*, 32(2), 303–330.
+- Miller, W.R. & Rollnick, S. (2012). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.

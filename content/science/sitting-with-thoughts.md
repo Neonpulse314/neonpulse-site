@@ -91,3 +91,12 @@ The button is there. The thought is unpleasant.
 
 A lot of people press the button.
 
+---
+
+## Sources
+
+- Wilson, T.D., et al. (2014). Just think: the challenges of the disengaged mind. *Science*, 345(6192), 75–77.
+- Killingsworth, M.A. & Gilbert, D.T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
+- Raichle, M.E., et al. (2001). A default mode of brain function. *Proceedings of the National Academy of Sciences*, 98(2), 676–682.
+- Mann, S. & Cadman, R. (2014). Does being bored make us more creative? *Creativity Research Journal*, 26(2), 165–173.
+- Zeigarnik, B. (1938). On finished and unfinished tasks. In W.D. Ellis (Ed.), *A Source Book of Gestalt Psychology* (pp. 300–314). Harcourt.

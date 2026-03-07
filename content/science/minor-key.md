@@ -96,3 +96,15 @@ One answer: music exists in a space that language can't reach. Language is too s
 This is probably why music seems to communicate emotional texture more efficiently than language. It bypasses the semantic layer and goes straight for the emotional one.
 
 The half-step difference between E and E-flat is, on paper, trivial. In sound, it's the difference between arriving and searching. And somehow your nervous system — which evolved to track the sounds of other nervous systems — knows the difference before you've had time to think about it.
+
+---
+
+## Sources
+
+- Helmholtz, H.L.F. (1863/1954). *On the Sensations of Tone as a Physiological Basis for the Theory of Music*. Dover Publications.
+- Mehr, S.A., et al. (2019). Universality and diversity in human song. *Science*, 366(6468), eaax0868.
+- Juslin, P.N. & Laukka, P. (2003). Communication of emotions in vocal expression and music performance. *Psychological Bulletin*, 129(5), 770–814.
+- Zentner, M., Grandjean, D., & Scherer, K.R. (2008). Emotions evoked by the sound of music: characterization, classification, and measurement. *Emotion*, 8(4), 494–521.
+- Huron, D. (2008). *Sweet Anticipation: Music and the Psychology of Expectation*. MIT Press.
+- Trainor, L.J. & Heinmiller, B.M. (1998). The development of evaluative responses to music. *Infant Behavior and Development*, 21(1), 77–88.
+

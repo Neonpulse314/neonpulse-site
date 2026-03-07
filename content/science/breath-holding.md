@@ -92,3 +92,14 @@ But you are not most of the time. You're a specific person, with specific knowle
 The burning in your lungs is an alarm. Like any alarm, once you know how it works, you can disable it.
 
 The question is whether you should.
+
+---
+
+## Sources
+
+- Craig, A.B. (1961). Causes of loss of consciousness during underwater swimming. *Journal of Applied Physiology*, 16(4), 583–586.
+- Lindholm, P. & Lundgren, C.E.G. (2009). The physiology and pathophysiology of human breath-hold diving. *Journal of Applied Physiology*, 106(1), 284–292.
+- Mitchell, R.A. & Berger, A.J. (1975). Neural regulation of respiration. *American Review of Respiratory Disease*, 111(2), 206–224.
+- Sterba, J.A. & Lundgren, C.E.G. (1988). Breath-hold duration in man and the diving response induced by face immersion. *Undersea Biomedical Research*, 15(5), 361–375.
+- Dempsey, J.A. & Forster, H.V. (1982). Mediation of ventilatory adaptations. *Physiological Reviews*, 62(1), 262–346.
+

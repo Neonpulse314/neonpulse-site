@@ -107,3 +107,12 @@ That's not a malfunction. That's information.
 
 The question is what you do with the information once you have it.
 
+---
+
+## Sources
+
+- Brooks, A.W. (2014). Get excited: reappraising pre-performance anxiety as excitement. *Journal of Experimental Psychology: General*, 143(3), 1144–1158.
+- Yerkes, R.M. & Dodson, J.D. (1908). The relation of strength of stimulus to rapidity of habit-formation. *Journal of Comparative Neurology and Psychology*, 18(5), 459–482.
+- Beilock, S.L. & Carr, T.H. (2001). On the fragility of skilled performance: what governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725.
+- Ramirez, G. & Beilock, S.L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science*, 331(6014), 211–213.
+- Sapolsky, R.M. (1994). *Why Zebras Don't Get Ulcers*. W.H. Freeman.

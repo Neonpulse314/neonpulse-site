@@ -106,3 +106,15 @@ You're capable of creating that now. It just requires more deliberate effort tha
 Time isn't speeding up. You're just creating fewer landmarks.
 
 You can change that.
+
+---
+
+## Sources
+
+- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+- Draaisma, D. (2004). *Why Life Speeds Up As You Get Older*. Cambridge University Press.
+- Friedman, W.J. (1993). Memory for the time of past events. *Psychological Bulletin*, 113(1), 44–66.
+- Wittmann, M. & Lehnhoff, S. (2005). Age effects in perception of time. *Psychological Reports*, 97(3), 921–935.
+- Siffre, M. (1975). Six months alone in a cave. *National Geographic*, 147(3), 426–435.
+- Rubin, D.C. & Schulkind, M.D. (1997). The distribution of autobiographical memories across the lifespan: the memory network. *Psychological Science*, 8(4), 326–332.
+

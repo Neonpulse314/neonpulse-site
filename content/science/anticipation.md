@@ -85,3 +85,12 @@ Two systems. Different chemicals. Different intensities.
 
 The dopamine wants. The opioids like. And the dopamine is louder.
 
+---
+
+## Sources
+
+- Berridge, K.C. & Robinson, T.E. (1998). What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience? *Brain Research Reviews*, 28(3), 309–369.
+- Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391–431.
+- Robinson, T.E. & Berridge, K.C. (1993). The neural basis of drug craving: an incentive-salience theory of addiction. *Brain Research Reviews*, 18(3), 247–291.
+- Schultz, W., Dayan, P., & Montague, P.R. (1997). A neural substrate of prediction and reward. *Science*, 275(5306), 1593–1599.
+- Schultz, W. (1998). Predictive reward signal of dopamine neurons. *Journal of Neurophysiology*, 80(1), 1–27.

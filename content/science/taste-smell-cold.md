@@ -86,3 +86,15 @@ You already knew that smell affects flavor. You didn't know, probably, that the 
 Almost everything that makes food worth eating is olfactory. The tongue is just the first gate.
 
 When that gate is the only one still open, you find out what it was contributing all along: basic survival data, stripped of everything else.
+
+---
+
+## Sources
+
+- Buck, L. & Axel, R. (1991). A novel multigene family may encode odorant receptors: a molecular basis for odor recognition. *Cell*, 65(1), 175–187. (Nobel Prize in Physiology or Medicine, 2004)
+- Shepherd, G.M. (2006). Smell images and the flavour system in the human brain. *Nature*, 444(7117), 316–321.
+- Small, D.M. & Prescott, J. (2005). Odor/taste integration and the perception of flavor. *Experimental Brain Research*, 166(3–4), 345–357.
+- Rolls, E.T. (2005). Taste, olfactory, and food texture processing in the orbitofrontal cortex. *Chemical Senses*, 30(Suppl 1), i48–i49.
+- Hummel, T. & Nordin, S. (2005). Olfactory disorders and their consequences for quality of life. *Acta Oto-Laryngologica*, 125(2), 116–121.
+- Speth, M.M., et al. (2020). Olfactory dysfunction and sinonasal symptomatology in COVID-19. *American Journal of Otolaryngology*, 41(5), 102564.
+

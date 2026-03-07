@@ -96,3 +96,13 @@ The feeling is real.
 
 It just has a different job than you thought.
 
+---
+
+## Sources
+
+- Niederland, W.G. (1961). The problem of the survivor. *Journal of the Hillside Hospital*, 10, 233–247.
+- Williams, B. (1981). Moral luck. In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.
+- Nagel, T. (1979). Moral luck. In *Mortal Questions*. Cambridge University Press.
+- Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133–148.
+- Markman, K.D., Gavanski, I., Sherman, S.J., & McMullen, M.N. (1993). The mental simulation of better and worse possible worlds. *Journal of Experimental Social Psychology*, 29(1), 87–109.
+- Doosje, B., Branscombe, N.R., Spears, R., & Manstead, A.S.R. (1998). Guilty by association. *Journal of Personality and Social Psychology*, 75(4), 872–886.

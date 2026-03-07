@@ -86,3 +86,15 @@ Spin again sometime and watch it happen.
 The world continues. Then it stops. Then you're standing still again, in the same place you always were, and the whole thing feels like it happened quickly.
 
 But for those few seconds, your inner ear had a different story, and your brain believed it completely.
+
+---
+
+## Sources
+
+- Cullen, K.E. (2012). The vestibular system: multimodal integration and encoding of self-motion for motor control. *Trends in Neurosciences*, 35(3), 185–196.
+- Baloh, R.W. & Honrubia, V. (2001). *Clinical Neurophysiology of the Vestibular System* (3rd ed.). Oxford University Press.
+- Cohen, B., Matsuo, V., & Raphan, T. (1977). Quantitative analysis of the velocity characteristics of optokinetic nystagmus and optokinetic after-nystagmus. *Journal of Physiology*, 270(2), 321–344.
+- Nigmatullina, Y., et al. (2015). The neurological foundations of dancing: a review. *Cerebellum*, 14(2), 138–149.
+- Bronstein, A.M. & Pavlou, M. (2013). Balance. *Handbook of Clinical Neurology*, 110, 189–208.
+- Goldberg, J.M. & Fernandez, C. (1971). Physiology of peripheral neurons innervating semicircular canals of the squirrel monkey. *Journal of Neurophysiology*, 34(4), 635–660.
+

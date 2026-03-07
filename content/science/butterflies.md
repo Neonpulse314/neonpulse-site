@@ -88,3 +88,14 @@ The part of you that is embarrassed about this is the prefrontal cortex, the las
 There is something clarifying in that. The response is not a malfunction. It is your biology accurately reporting something that has been decided below the level of language: this matters.
 
 Whether that's useful information, of course, is a different question entirely.
+
+---
+
+## Sources
+
+- Dutton, D.G. & Aron, A.P. (1974). Some evidence for heightened sexual attraction under conditions of high anxiety. *Journal of Personality and Social Psychology*, 30(4), 510–517.
+- Fisher, H.E., Aron, A., & Brown, L.L. (2005). Romantic love: an fMRI study of a neural mechanism for mate choice. *Journal of Comparative Neurology*, 493(1), 58–62.
+- Aron, A., et al. (2005). Reward, motivation, and emotion systems associated with early-stage intense romantic love. *Journal of Neurophysiology*, 94(1), 327–337.
+- Cannon, W.B. (1932). *The Wisdom of the Body*. W.W. Norton.
+- Hatfield, E. & Sprecher, S. (1986). *Mirror, Mirror: The Importance of Looks in Everyday Life*. State University of New York Press.
+

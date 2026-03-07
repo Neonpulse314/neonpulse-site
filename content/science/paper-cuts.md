@@ -74,3 +74,14 @@ That does not mean it doesn't hurt.
 It means pain is not a measure of injury. It's a measure of attention.
 
 And your hands have your brain's full attention.
+
+---
+
+## Sources
+
+- Johansson, R.S. & Vallbo, Å.B. (1979). Tactile sensibility in the human hand: relative and absolute densities of four types of mechanoreceptive units in glabrous skin. *Journal of Physiology*, 286, 283–300.
+- Penfield, W. & Rasmussen, T. (1950). *The Cerebral Cortex of Man: A Clinical Study of Localization of Function*. Macmillan.
+- Melzack, R. & Wall, P.D. (1965). Pain mechanisms: a new theory. *Science*, 150(3699), 971–979.
+- Price, D.D. (1999). *Psychological Mechanisms of Pain and Analgesia*. IASP Press.
+- Beecher, H.K. (1959). *Measurement of Subjective Responses: Quantitative Effects of Drugs*. Oxford University Press.
+

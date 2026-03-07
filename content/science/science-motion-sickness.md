@@ -81,3 +81,14 @@ The book is fine. The car is fine. Your nervous system just hasn't gotten the me
 ---
 
 *Your two main motion sensors — visual and vestibular — were calibrated in a world where they always agreed. Now they occasionally disagree. Your brain, conservative as ever, assumes poison.*
+
+---
+
+## Sources
+
+- Reason, J.T. & Brand, J.J. (1975). *Motion Sickness*. Academic Press.
+- Treisman, M. (1977). Motion sickness: an evolutionary hypothesis. *Science*, 197(4302), 493–495.
+- Oman, C.M. (1990). Motion sickness: a synthesis and evaluation of the sensory conflict theory. *Canadian Journal of Physiology and Pharmacology*, 68(2), 294–303.
+- Golding, J.F. (2006). Motion sickness susceptibility. *Autonomic Neuroscience*, 129(1–2), 67–76.
+- Lackner, J.R. (2014). Motion sickness: more than nausea and vomiting. *Experimental Brain Research*, 232(8), 2493–2510.
+
