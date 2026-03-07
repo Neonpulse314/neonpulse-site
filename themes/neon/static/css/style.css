@@ -359,6 +359,25 @@ footer {
 a { color: var(--accent); }
 a:hover { color: var(--accent-hover); }
 
+/* Full-height hero for two-door homepage */
+.hero--full {
+  padding: 7rem 0 5rem;
+}
+
+/* Minimal about blurb at bottom of two-door homepage */
+.about-minimal {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+.about-minimal p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.about-minimal p strong { color: var(--text); }
+
 /* Discipline block (new home page layout) */
 .discipline-block { margin-top: 3rem; }
 .discipline-intro { margin-bottom: 2rem; }
