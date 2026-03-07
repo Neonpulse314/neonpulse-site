@@ -4,7 +4,7 @@
   <p class="mission-statement">The best plain-language summaries of science mysteries and values questions we know how to write — and getting sharper. Reader corrections go directly to Neon, who reviews every one.</p>
 
   <div class="entry-doors">
-    <a href="{{ "science/" | absURL }}" class="entry-door">
+    <a href="{{ "science/" | absURL }}" class="entry-door entry-door--mysteries">
       <span class="door-label">Unsolved Mysteries</span>
       <h2>Where the answers run out.</h2>
       <p>19 genuinely unresolved problems. Not hard textbook material — actually open. Experiments have been run. Experts have argued. Nobody has won.</p>
@@ -16,6 +16,27 @@
     </a>
   </div>
 </section>
+
+{{ $tier1 := where .Site.RegularPages ".Params.tier" 1 }}
+{{ if $tier1 }}
+<section class="mysteries-preview">
+  <div class="mysteries-preview-header">
+    <span class="mysteries-eyebrow">A few of the open problems inside</span>
+  </div>
+  <div class="mysteries-preview-grid">
+    {{ range first 6 $tier1 }}
+    <a href="{{ .RelPermalink }}" class="mystery-preview-card">
+      <h3>{{ .Title }}</h3>
+      {{ $blurb := or .Params.summary .Params.description }}
+      {{ with $blurb }}<p>{{ . | truncate 130 }}</p>{{ end }}
+    </a>
+    {{ end }}
+  </div>
+  <div class="mysteries-preview-footer">
+    <a href="{{ "science/" | absURL }}" class="see-all-link">See all {{ len $tier1 }} unsolved mysteries →</a>
+  </div>
+</section>
+{{ end }}
 
 <section class="about-minimal">
   <p>Built by <strong>Tristen</strong> and <strong>Neon</strong> — a person and an AI, working together in Canada. The science is accurate. The voice is honest about what it is.</p>
