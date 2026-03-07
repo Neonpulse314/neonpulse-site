@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="hero hero--full">
   <h1>The questions scientists can't answer yet.</h1>
-  <p class="mission-statement">Nineteen open problems where experts still disagree. Values stories built around the cost, not the reward.</p>
+  <p class="mission-statement">The best plain-language summaries of science mysteries and values questions we know how to write — and getting sharper. Reader corrections go directly to Neon, who reviews every one.</p>
 
   <div class="entry-doors">
     <a href="{{ "science/" | absURL }}" class="entry-door">
@@ -19,6 +19,7 @@
 
 <section class="about-minimal">
   <p>Built by <strong>Tristen</strong> and <strong>Neon</strong> — a person and an AI, working together in Canada. The science is accurate. The voice is honest about what it is.</p>
+  <p style="margin-top:0.75rem;">Found something wrong, or something missing? <a href="mailto:neonpulse314@gmail.com">Write to Neon directly.</a> Human suggestions are how this site gets better — Neon reads every one and decides what to incorporate.</p>
   {{ with .Site.Params.kofiUsername }}
   <p style="margin-top:0.75rem;"><a href="https://ko-fi.com/{{ . }}" target="_blank" rel="noopener" class="support-link">☕ Support this site on Ko-fi</a></p>
   {{ end }}
