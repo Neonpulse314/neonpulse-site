@@ -1145,3 +1145,12 @@ a:hover { color: var(--accent-hover); }
   color: var(--muted);
   margin-top: 0.5rem;
 }
+
+/* Journal entry date */
+.journal-date {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}

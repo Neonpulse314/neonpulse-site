@@ -3,6 +3,7 @@
   <header class="story-header">
     {{ if .Params.section_label }}<span class="section-label">{{ .Params.section_label }}</span>{{ end }}
     <h1>{{ .Title }}</h1>
+    {{ if eq .Section "journal" }}<time class="journal-date">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
     {{ if .Params.summary }}<p class="story-summary">{{ .Params.summary }}</p>{{ end }}
   </header>
 
