@@ -1,6 +1,14 @@
 {{ define "main" }}
+{{ $allPages := .Pages }}
+{{ $now := now }}
+{{ $thisMonth := $now.Format "2006-01" }}
+{{ $newThisMonth := 0 }}
+{{ range $allPages }}
+  {{ if eq (.Date.Format "2006-01") $thisMonth }}{{ $newThisMonth = add $newThisMonth 1 }}{{ end }}
+{{ end }}
+
 <div class="page-header">
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title }} <span class="page-count">{{ len $allPages }} articles{{ if gt $newThisMonth 0 }}<span class="new-badge">+{{ $newThisMonth }} this month</span>{{ end }}</span></h1>
   {{ if .Content }}<div class="page-intro">{{ .Content }}</div>{{ end }}
 </div>
 
@@ -16,7 +24,8 @@
   <div class="section-card-grid">
     {{ range $tier1 }}
     <a href="{{ .RelPermalink }}" class="science-card science-card--mystery">
-      <span class="science-card-label">{{ with .Params.discipline }}{{ . }}{{ else }}Unsolved Mystery{{ end }}</span>
+      {{ $disc := index .Params.disciplines 0 }}
+      {{ if $disc }}<a href="{{ "disciplines/" | absURL }}{{ $disc | urlize }}/" class="science-card-label science-card-label--link" onclick="event.stopPropagation()">{{ $disc }}</a>{{ else }}<span class="science-card-label">Unsolved Mystery</span>{{ end }}
       <h2>{{ .Title }}</h2>
       {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
     </a>

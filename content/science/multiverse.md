@@ -3,7 +3,7 @@ title: "Most Physicists Now Believe in Infinite Universes. None of Them Can Prov
 summary: "The leading theories in modern physics — inflation, string theory, quantum mechanics — all independently point to the same conclusion: our universe is one of an unimaginably large number. The problem is there's no way to test this. And that might be breaking science."
 section_label: "Unsolved Mystery"
 tier: 1
-discipline: "Cosmology"
+disciplines: ["Cosmology"]
 tags: ["cosmology", "physics", "quantum-mechanics", "philosophy-of-science", "universe"]
 related: ["quantum-gravity", "fine-tuning", "dark-energy", "measurement-problem", "something-rather-than-nothing"]
 ---

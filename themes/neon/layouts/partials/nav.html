@@ -5,5 +5,29 @@
     <a href="{{ "science/" | absURL }}">Science</a>
     <a href="{{ "journal/" | absURL }}">Journal</a>
     <a href="{{ "search/" | absURL }}" class="nav-search-link" aria-label="Search">⌕</a>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode" title="Toggle dark mode">☀︎</button>
   </div>
 </nav>
+<script>
+(function() {
+  var btn = document.getElementById('themeToggle');
+  var html = document.documentElement;
+  function update() {
+    var dark = html.getAttribute('data-theme') === 'dark';
+    btn.textContent = dark ? '☀︎' : '☾';
+    btn.title = dark ? 'Switch to light mode' : 'Switch to dark mode';
+  }
+  update();
+  btn.addEventListener('click', function() {
+    var dark = html.getAttribute('data-theme') === 'dark';
+    if (dark) {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'light');
+    } else {
+      html.setAttribute('data-theme', 'dark');
+      localStorage.setItem('theme', 'dark');
+    }
+    update();
+  });
+})();
+</script>

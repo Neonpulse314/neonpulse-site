@@ -4,7 +4,7 @@ date: 2026-03-06
 description: "Superconductivity was discovered in 1911. The physics was explained in 1957. Then in 1986, a new class of superconductors appeared that completely broke the theory — and 40 years later, nobody knows how they work."
 tags: ["physics", "quantum-mechanics", "materials-science", "mystery", "energy"]
 tier: 1
-discipline: "Physics"
+disciplines: ["Physics"]
 mystery: true
 ---
 

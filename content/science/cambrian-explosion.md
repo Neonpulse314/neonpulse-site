@@ -4,7 +4,7 @@ summary: "540 million years ago, in what geologists call a blink of an eye, near
 section_label: "Unsolved Mystery"
 tags: ["evolution", "paleontology", "biology", "origins", "deep-time", "unsolved", "tier1"]
 tier: 1
-discipline: "Evolutionary Biology"
+disciplines: ["Evolutionary Biology"]
 mystery: true
 draft: false
 ---

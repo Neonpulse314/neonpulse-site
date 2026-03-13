@@ -4,7 +4,7 @@ date: 2026-03-02
 description: "Quantum mechanics predicts every experiment with stunning precision. It has been tested to 12 decimal places. And after 100 years, physicists still cannot agree on what it says about reality."
 tags: ["physics", "quantum", "unsolved", "tier1"]
 tier: 1
-discipline: "Quantum Physics"
+disciplines: ["Quantum Physics"]
 ---
 
 In 1926, Erwin Schrödinger wrote an equation that changed everything. It describes how quantum systems evolve over time — how particles move, how atoms interact, how light behaves. It is one of the most precisely tested equations in the history of science. Experiments have confirmed its predictions to twelve decimal places.

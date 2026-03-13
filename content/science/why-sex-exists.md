@@ -4,7 +4,7 @@ summary: "Every organism that reproduces sexually is paying a huge cost — half
 section_label: "Unsolved Mystery"
 tags: ["evolution", "biology", "genetics", "sex", "deep-time", "unsolved", "tier1"]
 tier: 1
-discipline: "Evolutionary Biology"
+disciplines: ["Evolutionary Biology"]
 mystery: true
 draft: false
 ---

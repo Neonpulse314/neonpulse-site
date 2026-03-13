@@ -5,7 +5,7 @@ description: "The amyloid hypothesis dominated Alzheimer's research for three de
 tags: ["neuroscience", "brain", "medicine", "mystery", "dementia", "science-failure"]
 featured: true
 tier: 1
-discipline: "Medicine"
+disciplines: ["Medicine"]
 mystery: true
 ---
 

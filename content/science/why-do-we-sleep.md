@@ -4,7 +4,7 @@ date: 2026-03-03
 description: "Every animal on Earth sleeps. Jellyfish sleep. Fruit flies sleep. We've been doing it for 700 million years. And we still cannot explain why evolution kept something so dangerous and so costly."
 tags: ["biology", "neuroscience", "unsolved", "tier1"]
 tier: 1
-discipline: "Neuroscience"
+disciplines: ["Neuroscience"]
 ---
 
 You spend about a third of your life unconscious.

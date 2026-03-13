@@ -4,7 +4,7 @@ date: 2026-03-06
 description: "Two independent ways of measuring how fast the universe is expanding give different answers by about 10%. Both methods have been checked exhaustively. The gap has grown with every improvement in precision. At 5 sigma, this is the most significant unexplained discrepancy in cosmology. Nobody knows why."
 tags: ["cosmology", "hubble-constant", "expansion", "physics", "mystery", "unsolved"]
 tier: 1
-discipline: "Cosmology"
+disciplines: ["Cosmology"]
 mystery: true
 ---
 

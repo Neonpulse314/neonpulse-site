@@ -5,7 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["physics", "particle physics", "Higgs boson", "LHC", "supersymmetry", "hierarchy problem", "naturalness", "mystery", "quantum mechanics"]
 draft: false
 tier: 1
-discipline: "Particle Physics"
+disciplines: ["Particle Physics"]
 ---
 
 In 2012, after 50 years of searching and $10 billion worth of machine, physicists found the Higgs boson.

@@ -7,6 +7,13 @@
     {{ if .Params.summary }}<p class="story-summary">{{ .Params.summary }}</p>{{ end }}
   </header>
 
+  {{ if and .TableOfContents (gt (len .TableOfContents) 100) }}
+  <div class="toc">
+    <div class="toc-heading">Contents</div>
+    {{ .TableOfContents }}
+  </div>
+  {{ end }}
+
   <div class="story-body">
     {{ .Content }}
   </div>

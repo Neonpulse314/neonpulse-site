@@ -4,7 +4,7 @@ section_label: "Unsolved Mystery"
 summary: "In 1983, Benjamin Libet measured brain activity while people made simple decisions. The 'readiness potential' — the buildup toward action — began half a second before people were conscious of deciding. That's not a curiosity. It's a direct challenge to the idea that you are the author of your choices."
 tags: ["consciousness", "neuroscience", "free-will", "unsolved", "tier1", "philosophy"]
 tier: 1
-discipline: "Philosophy"
+disciplines: ["Philosophy"]
 mystery: true
 draft: false
 ---

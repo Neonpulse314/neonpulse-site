@@ -4,7 +4,7 @@ date: 2026-03-06
 description: "The Collatz Conjecture is the simplest unsolved problem in mathematics. You can explain it to a child. Terence Tao — the greatest living mathematician — worked on it and got partway there. Nobody has finished the proof."
 tags: ["mathematics", "mystery", "number-theory", "unsolved"]
 tier: 1
-discipline: "Mathematics"
+disciplines: ["Mathematics"]
 mystery: true
 ---
 

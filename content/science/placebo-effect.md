@@ -4,7 +4,7 @@ section_label: "Unsolved Mystery"
 summary: "The placebo effect is not imaginary. It is measurable, reproducible, and physiologically real. Your brain can synthesize painkillers, reduce inflammation, and lower blood pressure in response to a treatment that contains nothing. The mechanism is still not fully understood."
 tags: ["neuroscience", "medicine", "consciousness", "unsolved", "tier1", "biology"]
 tier: 1
-discipline: "Medicine"
+disciplines: ["Medicine"]
 mystery: true
 draft: false
 date: 2026-03-06

@@ -5,7 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["physics", "thermodynamics", "entropy", "time", "cosmology", "arrow of time", "mystery"]
 draft: false
 tier: 1
-discipline: "Physics"
+disciplines: ["Physics"]
 ---
 
 Drop a glass on a tile floor.

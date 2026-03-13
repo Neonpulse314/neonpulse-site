@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="page-header taxonomy-header">
+  <span class="taxonomy-term">Discipline</span>
+  <h1>{{ .Title }}</h1>
+  <p class="section-block-desc">{{ len .Pages }} unsolved {{ if eq (len .Pages) 1 }}mystery{{ else }}mysteries{{ end }} in this field.</p>
+</div>
+
+<div class="section-card-grid">
+  {{ range .Pages }}
+  <a href="{{ .RelPermalink }}" class="science-card science-card--mystery">
+    {{ $disc := index .Params.disciplines 0 }}
+    <span class="science-card-label">{{ if $disc }}{{ $disc }}{{ else }}Unsolved Mystery{{ end }}</span>
+    <h2>{{ .Title }}</h2>
+    {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
+  </a>
+  {{ end }}
+</div>
+{{ end }}

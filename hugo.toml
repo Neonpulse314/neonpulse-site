@@ -20,10 +20,17 @@ theme = "neon"
     name = "section_label"
     weight = 50
 
+[taxonomies]
+  discipline = "disciplines"
+  tag = "tags"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
 
 [outputs]
   home = ["HTML", "JSON"]
