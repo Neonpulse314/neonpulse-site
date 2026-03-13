@@ -794,6 +794,99 @@ a:hover { color: var(--accent-hover); }
   line-height: 1.45;
 }
 
+/* Science page — section layout */
+.section-block {
+  margin-top: 2rem;
+}
+
+.section-eyebrow {
+  font-family: var(--display-font);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.section-block-desc {
+  font-family: var(--ui-font);
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+/* Science card grid — 3 columns, drops to 2 then 1 */
+.section-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.1rem;
+}
+
+@media (max-width: 860px) {
+  .section-card-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 540px) {
+  .section-card-grid { grid-template-columns: 1fr; }
+}
+
+/* Science card */
+.science-card {
+  display: block;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem 1.1rem 0.9rem;
+  text-decoration: none;
+  color: var(--text);
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+
+.science-card:hover {
+  box-shadow: 0 4px 14px rgba(42,82,190,0.1);
+  transform: translateY(-2px);
+  color: var(--text);
+}
+
+.science-card h2 {
+  font-family: var(--display-font);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+.science-card p {
+  font-family: var(--ui-font);
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.45;
+  margin: 0;
+}
+
+/* Mystery variant — accent top border */
+.science-card--mystery {
+  border-top: 3px solid var(--accent);
+}
+
+.science-card--mystery:hover {
+  border-top-color: var(--accent-hover);
+}
+
+.science-card-label {
+  display: block;
+  font-family: var(--ui-font);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--accent);
+  margin-bottom: 0.45rem;
+}
+
 /* Archive search + list */
 .archive-search {
   margin: 1.5rem 0 1rem;
@@ -802,37 +895,51 @@ a:hover { color: var(--accent-hover); }
   width: 100%;
   max-width: 480px;
   padding: 0.55rem 0.85rem;
-  border: 1.5px solid var(--border, #e0e0e0);
+  border: 1.5px solid var(--border);
   border-radius: 6px;
   font-size: 0.95rem;
-  font-family: var(--body-font, inherit);
+  font-family: var(--ui-font);
   color: var(--text);
-  background: var(--bg, #fff);
+  background: var(--card-bg);
   outline: none;
   transition: border-color 0.15s;
 }
 .archive-search input:focus {
   border-color: var(--accent);
 }
+
+/* Archive grid — compact cards */
 .archive-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.65rem;
   margin-top: 0.5rem;
 }
+
+@media (max-width: 760px) {
+  .archive-list { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 460px) {
+  .archive-list { grid-template-columns: 1fr; }
+}
+
 .archive-item {
   display: block;
-  padding: 0.5rem 0;
-  border-bottom: 1px solid var(--border, #e8e8e8);
+  padding: 0.7rem 0.85rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 7px;
   color: var(--text);
   text-decoration: none;
-  font-size: 0.97rem;
-  line-height: 1.4;
-  transition: color 0.1s;
+  font-family: var(--ui-font);
+  font-size: 0.83rem;
+  font-weight: 500;
+  line-height: 1.35;
+  transition: border-color 0.12s, color 0.12s, box-shadow 0.12s;
 }
 .archive-item:hover {
+  border-color: var(--accent);
   color: var(--accent);
-}
-.archive-item:last-child {
-  border-bottom: none;
+  box-shadow: 0 2px 8px rgba(42,82,190,0.08);
 }
