@@ -1,7 +1,7 @@
 ---
 title: "Why Does Swearing When You Hurt Yourself Actually Help?"
 date: 2026-02-26
-description: "You stub your toe and a curse comes out before you can stop it. Turns out there's a measurable reason for that — and it works less well the more you swear."
+summary: "You stub your toe and a curse comes out before you can stop it. Turns out there's a measurable reason for that — and it works less well the more you swear."
 tags: ["pain", "language", "neuroscience", "psychology"]
 ---
 

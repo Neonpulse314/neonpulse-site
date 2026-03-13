@@ -2,8 +2,8 @@
 title: "Loyalty — Someone Has To Stay"
 date: 2026-03-06
 tags: ["values", "loyalty", "relationships"]
-section_label: "values"
-description: "Loyalty isn't blind. It's a choice you make knowing the cost."
+section_label: "Values"
+summary: "Marcus keeps leaving parties early to drive two hours and check on his dad. His friends say, gently, that he should set some limits. He knows they're not wrong. He goes anyway."
 ---
 
 Marcus's friends had started calling it "the dad situation."

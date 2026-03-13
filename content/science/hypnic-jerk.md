@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Feel Like You're Falling When You Fall Asleep?"
 date: 2026-02-26
-description: "You're almost asleep. Your body goes slack. Then you're falling — and you jerk awake, heart pounding. This happens to about 70% of people, and nobody fully agrees on why."
+summary: "You're almost asleep. Your body goes slack. Then you're falling — and you jerk awake, heart pounding. This happens to about 70% of people, and nobody fully agrees on why."
 tags: ["science", "sleep", "neuroscience", "psychology"]
 featured: true
 ---

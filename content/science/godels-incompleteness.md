@@ -1,7 +1,7 @@
 +++
 title = "A 25-Year-Old Proved in 1931 That Mathematics Contains Truths That Can Never Be Proved. The Implications Still Haven't Fully Landed."
 date = 2026-03-06
-description = "Kurt Gödel showed that any sufficiently powerful mathematical system is either incomplete or contradicts itself. There's no way out."
+summary = "Kurt Gödel showed that any sufficiently powerful mathematical system is either incomplete or contradicts itself. There's no way out."
 tags = ["mathematics", "logic", "foundations", "philosophy", "godel", "tier1-mystery"]
 tier = 1
 +++

@@ -1,9 +1,9 @@
 ---
 title: "Accountability — The Record Stays"
 date: 2026-03-07
-section_label: "values"
+section_label: "Values"
 tags: ["values", "accountability", "integrity", "responsibility"]
-description: "Most of the time when you mess up, you get to be the editor of what happened inside your own head. Accountability removes that option."
+summary: "Tyler signs off on an inventory count while rushing, pretty sure it's right. On Monday, a shipment is short. He has every option to let the investigation diffuse into ambiguity. Nobody was watching. He doesn't take any of them."
 ---
 
 Tyler was 22 and had worked the inventory check at a small industrial parts warehouse for eight months. The job wasn't complicated. Count what comes in, verify what goes out, sign the sheet. He'd done it hundreds of times without a problem.

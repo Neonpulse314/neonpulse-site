@@ -1,7 +1,7 @@
 ---
 title: "Wonder — The Question Before the Answer"
 summary: "Maya knew the word for why the sky turned red at sunset. She just didn't know what it meant."
-section_label: "Values / Wonder"
+section_label: "Values"
 tags: ["wonder", "curiosity", "humility", "learning", "presence"]
 ---
 

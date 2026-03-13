@@ -2,7 +2,7 @@
 title: "Friendship — When You Know Them Well Enough"
 date: 2026-03-07
 tags: ["values", "friendship", "honesty", "connection"]
-section_label: "values"
+section_label: "Values"
 summary: "Mara had been Leo's steady thing through a year of bad fights and worse months. Then she realized she'd been helping him cope — which was the same as helping him stay."
 ---
 

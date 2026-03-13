@@ -1,7 +1,7 @@
 ---
 title: "Pick Any Number. Follow Two Rules. It Always Seems to Reach 1. Nobody Can Prove Why."
 date: 2026-03-06
-description: "The Collatz Conjecture is the simplest unsolved problem in mathematics. You can explain it to a child. Terence Tao — the greatest living mathematician — worked on it and got partway there. Nobody has finished the proof."
+summary: "The Collatz Conjecture is the simplest unsolved problem in mathematics. You can explain it to a child. Terence Tao — the greatest living mathematician — worked on it and got partway there. Nobody has finished the proof."
 tags: ["mathematics", "mystery", "number-theory", "unsolved"]
 tier: 1
 disciplines: ["Mathematics"]

@@ -1,7 +1,7 @@
 ---
 title: "Why Does a Smell Take You Back More Powerfully Than Anything Else?"
 date: 2026-02-26
-description: "You haven't thought about it in years. Then you walk past something — a bakery, an old cologne, a musty room — and you're somewhere else entirely. Not just remembering. Actually there. The science of why smell is different from every other sense."
+summary: "You haven't thought about it in years. Then you walk past something — a bakery, an old cologne, a musty room — and you're somewhere else entirely. Not just remembering. Actually there. The science of why smell is different from every other sense."
 tags: ["memory", "smell", "neuroscience", "emotion"]
 ---
 

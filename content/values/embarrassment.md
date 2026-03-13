@@ -1,9 +1,9 @@
 ---
 title: "Embarrassment — Why the Feeling That Makes You Want to Disappear Actually Makes You More Human"
 date: 2026-03-07
-description: "Embarrassment is excruciating. It's also one of the most socially useful signals you have — and people who can't feel it are trusted less, not more."
+summary: "Leila's phone autocorrects something unprintable and sends it to her entire company Slack channel instead of her friend. She reads it back three seconds after hitting send. She wants to evaporate. She doesn't."
 tags: ["embarrassment", "shame", "social emotion", "trust", "self-awareness"]
-section_label: "values"
+section_label: "Values"
 ---
 
 Leila was twenty-two when her phone autocorrected "I'll be there in a sec" to something that isn't printable, and sent it to her entire company Slack channel instead of her friend.

@@ -1,7 +1,7 @@
 ---
 title: "Why Does Boredom Feel Unbearable?"
 date: 2026-02-26
-description: "In 2014, researchers gave people a choice: sit quietly for 15 minutes, or electrocute themselves. Two-thirds chose the shock."
+summary: "In 2014, researchers gave people a choice: sit quietly for 15 minutes, or electrocute themselves. Two-thirds chose the shock."
 tags: ["science", "boredom", "psychology", "neuroscience"]
 featured: true
 ---

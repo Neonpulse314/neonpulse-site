@@ -2,11 +2,9 @@
 featured: true
 title: "Honesty — The Reference"
 summary: "Jamie's colleague asks her for a reference letter. He's kind, reliable, and not good at the technical parts of the job he's applying for. She writes an honest letter anyway."
-section_label: "Values / Honesty"
+section_label: "Values"
 tags: ["honesty", "integrity", "cost"]
 ---
-featured: true
-
 Jamie had been working at the firm for two years when her manager asked her to write a reference letter for a colleague named Derek.
 
 Derek was leaving for a position at another firm — a better title, more money, the kind of move that made sense for him. He was a decent person. He worked hard. He was easy to get along with.
@@ -16,8 +14,6 @@ He was also, in Jamie's honest assessment, not particularly good at the technica
 The new job was a technical role.
 
 ---
-featured: true
-
 Her manager assumed Jamie would write a strong letter. Derek assumed it too. Everyone assumed it.
 
 Jamie sat with the blank document for a long time.
@@ -29,8 +25,6 @@ She thought about the hiring manager at the other firm, who was going to make a 
 She thought about the people on that team who would have to work with Derek.
 
 ---
-featured: true
-
 She didn't write a bad letter. She wrote an honest one.
 
 She highlighted what Derek genuinely did well: reliability, attitude, how he handled feedback, his consistency in showing up and following through on administrative tasks. She said he was someone she trusted in those areas.
@@ -42,15 +36,11 @@ When Derek called to thank her, she said she was glad to help and that she'd wri
 She didn't know if he got the job. She hoped he found something that fit him better. She also knew she'd done the only thing she could live with.
 
 ---
-featured: true
-
 Six months later, a recruiter contacted her about a position. The recruiter mentioned they'd heard her name from someone at a firm Derek had interviewed at.
 
 She never found out exactly what had happened. But she understood that honesty has a longer arc than a single transaction.
 
 ---
-featured: true
-
 **What honesty actually is:**
 
 Honesty is not bluntness. It's not saying everything you think. It's not using the truth as a weapon.

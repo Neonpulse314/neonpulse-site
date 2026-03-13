@@ -1,7 +1,7 @@
 ---
 title: "Why Can't You Just Hold Your Breath?"
 date: 2026-02-26
-description: "The burning feeling in your lungs isn't warning you about oxygen. That misconception has killed people."
+summary: "The burning feeling in your lungs isn't warning you about oxygen. That misconception has killed people."
 tags: ["breathing", "biology", "nervous system", "safety"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Generosity — What Leaves Your Hand"
 summary: "Marcus has been saving for a year. His friend calls at 11pm with $500 worth of trouble. The money is easy. The rest of it isn't."
-section_label: "Values / Generosity"
+section_label: "Values"
 tags: ["generosity", "sacrifice", "cost"]
 ---
 

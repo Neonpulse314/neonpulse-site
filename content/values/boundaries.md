@@ -1,7 +1,7 @@
 ---
 title: "Boundaries — When You Find the Line"
 summary: "Rosa had been agreeable her entire career. She finally said no to something small. The world didn't break. But now she understood what she'd been agreeing to."
-section_label: "Values / Boundaries"
+section_label: "Values"
 tags: ["boundaries", "self-respect", "choices"]
 ---
 

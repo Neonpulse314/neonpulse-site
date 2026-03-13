@@ -1,7 +1,7 @@
 ---
 title: "Hope — One More"
 summary: "Nadia has applied to seven jobs. Six rejections. The seventh answer just arrived. Now she has to decide whether to open a new tab."
-section_label: "Values / Hope"
+section_label: "Values"
 tags: ["hope", "resilience", "trying again"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Do Athletes Choke Under Pressure?"
 date: 2026-02-27
-description: "The best players in the world fall apart at the worst moments. The explanation is counterintuitive: expertise itself makes you more vulnerable, not less. Here's the mechanism."
+summary: "The best players in the world fall apart at the worst moments. The explanation is counterintuitive: expertise itself makes you more vulnerable, not less. Here's the mechanism."
 tags: ["psychology", "performance", "neuroscience", "sport"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Restraint — The Power You Don't Use"
 summary: "Dominic could have stepped in. He had the authority, the knowledge, and a good reason. He didn't. That choice cost him something too."
-section_label: "Values / Restraint"
+section_label: "Values"
 tags: ["restraint", "leadership", "discipline", "trust"]
 ---
 

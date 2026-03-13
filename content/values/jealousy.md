@@ -2,8 +2,8 @@
 title: "Jealousy — The Alarm That Knows What You're Afraid to Lose"
 date: 2026-03-07
 tags: ["values", "self-awareness", "relationships", "jealousy"]
-section_label: "values"
-description: "Jealousy feels like suspicion. It's actually a report on what you care about most — and what you're afraid isn't secure."
+section_label: "Values"
+summary: "Rena has been telling herself for three weeks that she's fine. A coworker named Sam keeps appearing in Maya's texts — work stuff, mostly, nothing that would look like anything. Rena has seen the phone. She's said nothing."
 ---
 
 Rena had been telling herself for three weeks that she was fine.

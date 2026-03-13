@@ -1,7 +1,7 @@
 ---
 title: "Why Do Your Muscles Hurt More the Day After Exercise?"
 date: 2026-02-27
-description: "You finish a workout feeling fine. You wake up the next morning and can barely sit down. Why does the damage show up late — and what is it actually doing to you?"
+summary: "You finish a workout feeling fine. You wake up the next morning and can barely sit down. Why does the damage show up late — and what is it actually doing to you?"
 tags: ["exercise", "physiology", "inflammation", "pain"]
 ---
 

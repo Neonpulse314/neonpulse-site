@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Feel the Urge to Jump When You're High Up?"
 date: 2026-02-27
-description: "Standing at a cliff edge, you get a strange thought about jumping. You're not suicidal. You back away from the edge confused and a little unsettled. Here's what's actually happening."
+summary: "Standing at a cliff edge, you get a strange thought about jumping. You're not suicidal. You back away from the edge confused and a little unsettled. Here's what's actually happening."
 tags: ["psychology", "neuroscience", "fear", "intrusive thoughts"]
 ---
 

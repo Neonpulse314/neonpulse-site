@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Walk Into a Room and Forget Why You Came?"
 date: 2026-02-26
-description: "You had a reason. You were just in the other room with a reason. You walked twelve feet and it vanished. This isn't age. This isn't carelessness. This is your brain doing exactly what it was built to do — and that's the problem."
+summary: "You had a reason. You were just in the other room with a reason. You walked twelve feet and it vanished. This isn't age. This isn't carelessness. This is your brain doing exactly what it was built to do — and that's the problem."
 tags: ["memory", "cognition", "neuroscience"]
 ---
 

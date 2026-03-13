@@ -2,11 +2,9 @@
 featured: true
 title: "Responsibility — The Launch"
 summary: "Kenji finds a bug at 11pm that corrupted data for 3% of users. He wrote the code. He could have spread the blame. He didn't."
-section_label: "Values / Responsibility"
+section_label: "Values"
 tags: ["responsibility", "accountability", "work"]
 ---
-featured: true
-
 Kenji was twenty-four and had been at the startup for eleven months when the feature he'd built shipped to production with a bug.
 
 Not a small bug. A bug that corrupted user data for about 3% of signups over a 72-hour window. The data wasn't gone — it could be recovered — but it had been scrambled in a way that made it look wrong to users who saw it.
@@ -16,8 +14,6 @@ Kenji found it at 11pm on a Thursday. He'd been running a random audit on some m
 He sat with it for a moment.
 
 ---
-featured: true
-
 He thought about what he'd done. He'd written the migration script. He'd reviewed it himself. He'd asked his lead to glance at it, and she had, and she hadn't caught it either. The code review had passed. QA had passed. The bug was subtle — a timezone handling edge case that only triggered under specific conditions.
 
 He could have written the incident report to make it sound more shared. He could have emphasized that it passed review. He could have attributed it to the QA process. All of that would have been technically accurate.
@@ -29,8 +25,6 @@ Instead he opened the incident management system and wrote:
 Then he started fixing it.
 
 ---
-featured: true
-
 He worked until 3am. He documented everything — what went wrong, why, what he'd done to fix it, what he was changing in his process to prevent it. He posted the full recovery plan at 7am, before anyone else was at their desks.
 
 At the standup that morning, his manager said: "Thanks for the fast turnaround and the thorough writeup." That was it.
@@ -42,8 +36,6 @@ What Kenji remembered later wasn't the bug, or the late night, or even the recov
 It felt like the most grown-up thing he'd ever done.
 
 ---
-featured: true
-
 **What responsibility actually is:**
 
 Responsibility gets confused with blame. They're different.

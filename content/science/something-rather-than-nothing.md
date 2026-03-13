@@ -1,7 +1,7 @@
 ---
 title: "Leibniz Asked This Question in 1714. Nobody Has Answered It. Why Is There Something Rather Than Nothing?"
 date: 2026-03-06
-description: "The most fundamental question anyone has ever asked: why does anything exist at all? Every answer — God, quantum physics, mathematics — either fails or pushes the question back one step."
+summary: "The most fundamental question anyone has ever asked: why does anything exist at all? Every answer — God, quantum physics, mathematics — either fails or pushes the question back one step."
 tags: ["philosophy", "cosmology", "physics", "mystery", "existence", "metaphysics"]
 tier: 1
 disciplines: ["Philosophy"]

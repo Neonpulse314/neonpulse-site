@@ -2,8 +2,8 @@
 title: "Anger — The Energy That Doesn't Know Where to Go"
 date: 2026-03-07
 tags: ["values", "self-awareness", "resilience", "anger"]
-section_label: "values"
-description: "Anger is real information. What you do with it determines whether it helps you or quietly destroys you."
+section_label: "Values"
+summary: "Dani was passed over for a promotion she'd earned, given to her manager's college roommate. She had three options: detonate, swallow it, or use it. The anger was accurate. The question was what to do with it."
 ---
 
 Dani had been at the company for two years when they gave the promotion to Caleb.

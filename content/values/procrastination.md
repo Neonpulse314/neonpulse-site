@@ -1,9 +1,9 @@
 ---
 title: "Procrastination — Why You Do Less When You Care Most"
-description: "Procrastination isn't a time management problem. It's an emotion management problem. And the cure is the opposite of what you'd expect."
+summary: "Jordan has a short story due in three days — the assignment he cares about most all semester. He has ideas. He knows what he wants to say. He has cleaned his room, texted people he hasn't spoken to in months, and watched two hours of videos about productivity. He hasn't started."
 date: 2026-03-07
 tags: ["procrastination", "motivation", "self-compassion", "emotion", "psychology"]
-section_label: "values"
+section_label: "Values"
 ---
 
 Jordan has a short story due in three days. It's the assignment he cares about most all semester — the professor said write something personal, something real. He has ideas. He knows what he wants to say.

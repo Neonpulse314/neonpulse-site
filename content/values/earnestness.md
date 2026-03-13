@@ -1,9 +1,9 @@
 ---
 title: "Earnestness — The Cost of Caring Out Loud"
-description: "In a world that rewards detachment, caring openly is one of the harder things you can do."
+summary: "Kai is doing something that would embarrass him if his friends found out. He's actually trying. Not performing trying. He's read the extra readings. He went to office hours twice just because he had real questions."
 date: 2026-03-07
 tags: ["values", "authenticity", "courage", "vulnerability"]
-section_label: "values"
+section_label: "Values"
 ---
 
 Kai was twenty, second year, and he was doing something that would have embarrassed him if his friends found out: he was actually trying.

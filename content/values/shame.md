@@ -2,8 +2,8 @@
 title: "Shame — The Weight That Grows in the Dark"
 date: 2026-03-07
 tags: ["values", "honesty", "self-knowledge", "accountability"]
-section_label: "values"
-description: "Guilt makes you repair. Shame makes you hide. And hiding makes it worse."
+section_label: "Values"
+summary: "Marcus answered the professor's question as if the idea was his. He didn't lie exactly — no 'I came up with this.' Just an answer that didn't include Kezia, whose idea it actually was, sitting two seats to his left. He watched her look at her hands. He expected to feel relieved when the room emptied."
 ---
 
 Marcus expected to feel relieved.

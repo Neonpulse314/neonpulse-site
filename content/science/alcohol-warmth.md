@@ -1,7 +1,7 @@
 ---
 title: "Why Does Alcohol Make You Feel Warm When It's Actually Making You Cold?"
 date: 2026-02-26
-description: "You drink, you feel a flush of warmth, you stop shivering. What's actually happening is the opposite of what that feeling implies — and it's killed people who trusted it."
+summary: "You drink, you feel a flush of warmth, you stop shivering. What's actually happening is the opposite of what that feeling implies — and it's killed people who trusted it."
 tags: ["alcohol", "thermoregulation", "neuroscience", "physiology"]
 ---
 

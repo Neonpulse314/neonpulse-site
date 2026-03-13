@@ -2,7 +2,7 @@
 title: "Ambition — Always on the Way"
 date: 2026-03-07
 tags: ["values", "ambition", "success", "purpose"]
-section_label: "values"
+section_label: "Values"
 summary: "Zara got the promotion she'd wanted for two years. By Thursday she was already thinking about the next one. That wasn't a failure of gratitude. It was the cost of ambition — you become someone who is always on the way somewhere."
 ---
 

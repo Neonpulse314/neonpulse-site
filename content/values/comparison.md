@@ -2,8 +2,8 @@
 title: "Comparison — Why Everyone Else's Life Looks Better Than Yours"
 date: 2026-03-07
 tags: ["values", "self-awareness", "growth", "social media"]
-section_label: "values"
-description: "The urge to compare yourself to others isn't a personality flaw. It's a hardwired navigation system. Here's what it's actually doing — and why it keeps getting it wrong."
+section_label: "Values"
+summary: "Priya is finishing her last semester while her classmates post job offers and rooftop photos from Tokyo. She's eating cereal in her parents' kitchen feeling a specific kind of tired that has nothing to do with sleep."
 ---
 
 Priya was 22 and finishing her last semester when the announcements started.

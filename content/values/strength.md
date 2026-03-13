@@ -1,7 +1,7 @@
 ---
 title: "Strength — Two Minutes in the Cooler"
 summary: "Marcus is 22 and the youngest manager his restaurant has ever had. When everything goes wrong at once, he knows exactly where to go."
-section_label: "Values / Strength"
+section_label: "Values"
 tags: ["strength", "leadership", "cost"]
 ---
 

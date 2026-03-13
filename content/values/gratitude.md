@@ -1,9 +1,9 @@
 ---
 title: "Gratitude — What You Didn't Build Alone"
 date: 2026-03-07
-section_label: "values"
+section_label: "Values"
 tags: ["values", "gratitude", "humility", "family"]
-description: "The cost of gratitude is giving up the clean version of your own story. You worked hard. You also didn't do it alone. Both things are true, and the honest version is less tidy."
+summary: "Priya got into the program she'd applied to twice. At dinner her mom mentions, almost in passing, that she used to pick up extra weekend shifts to keep the internet on when Priya was doing her school projects. She'd never said that before."
 ---
 
 Priya got the acceptance email on a Tuesday afternoon in late February, standing in the hallway outside her apartment still in her coat. Master's program, competitive, the one she'd applied to twice. She read it three times before she believed it.

@@ -2,7 +2,7 @@
 title: "Kindness — What You Give Without a Ledger"
 date: 2026-03-07
 tags: ["values", "kindness", "compassion", "connection"]
-section_label: "values"
+section_label: "Values"
 summary: "Cal came in every morning, left exact change, never made eye contact. Maya kept being warm to him anyway. Four months later, she found out why it mattered."
 ---
 

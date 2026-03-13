@@ -2,8 +2,8 @@
 title: "Envy — The Honest Mirror"
 date: 2026-03-07
 tags: ["values", "self-knowledge", "honesty"]
-section_label: "values"
-description: "Envy feels like a character flaw. It might be the most honest thing about you."
+section_label: "Values"
+summary: "Jamie tells himself he isn't interested in commercial work — too shallow, not meaningful. Then his roommate lands exactly that kind of project. He's pretty sure he believes what he's been telling himself."
 ---
 
 Jamie had been telling himself the story for two days.

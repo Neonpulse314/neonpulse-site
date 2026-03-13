@@ -1,7 +1,7 @@
 ---
 title: "Why Getting What You Want Feels Different Than You Expected"
 date: 2026-02-26
-description: "You've been picturing this moment for months. Now it's here. So why doesn't it feel the way you imagined?"
+summary: "You've been picturing this moment for months. Now it's here. So why doesn't it feel the way you imagined?"
 tags: ["happiness", "affective forecasting", "hedonic adaptation", "Dan Gilbert", "psychology", "decision-making"]
 ---
 

@@ -2,11 +2,9 @@
 featured: true
 title: "Courage — Say It"
 summary: "A student thinks her professor wrote the wrong date on the board. Everyone else is copying it down. She's probably wrong. She raises her hand anyway."
-section_label: "Values / Courage"
+section_label: "Values"
 tags: ["courage", "speaking up"]
 ---
-featured: true
-
 The professor had written 1920 on the board.
 
 Maya had written it in her notebook and stopped. She looked at it. Then back at the board.
@@ -20,8 +18,6 @@ She looked around. Nobody else had paused. The girl next to her had already move
 The professor kept talking. The board still said 1920.
 
 ---
-featured: true
-
 Here's the thing about courage that nobody tells you: it almost never arrives as certainty.
 
 The moment before Maya raised her hand, she was not confident. She was not sure. She had already constructed a complete and convincing argument for staying quiet: *I might be wrong. It's just a date. He'll catch it later. Everyone will be annoyed at having to re-erase.*
@@ -31,8 +27,6 @@ All of this was possibly true.
 She raised her hand anyway.
 
 ---
-featured: true
-
 "1919," the professor said, after a pause. "You're right. Good catch."
 
 He corrected the board. A few students groaned and erased. The girl next to Maya quietly fixed her notes and gave her a small nod — the kind that doesn't require any words.
@@ -40,8 +34,6 @@ He corrected the board. A few students groaned and erased. The girl next to Maya
 It was over in thirty seconds.
 
 ---
-featured: true
-
 What Maya didn't know in that moment, and wouldn't know until years later: she'd done it before. In a different class, in a different year, about a different wrong thing written on a board. And she'd probably do it again.
 
 Not because it got easier. It didn't, really. Not the breath before the hand goes up. Not the half-second of exposure before you know if you're right.

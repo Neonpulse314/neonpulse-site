@@ -1,7 +1,7 @@
 ---
 title: "Perseverance — Year Two"
 summary: "Sofia learns to code at nineteen. The first month goes well. The second month, she quits for three weeks. Then she comes back — not because she felt inspired, but because she'd already told people she was learning."
-section_label: "Values / Perseverance"
+section_label: "Values"
 tags: ["perseverance", "learning", "failure"]
 ---
 

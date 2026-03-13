@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Feel Butterflies in Your Stomach?"
 date: 2026-02-26
-description: "Before the big moment, before the first word, before anything happens — your gut already knows something is coming. The science of why your stomach is a second brain."
+summary: "Before the big moment, before the first word, before anything happens — your gut already knows something is coming. The science of why your stomach is a second brain."
 tags: ["neuroscience", "stress", "gut", "emotion", "biology"]
 ---
 

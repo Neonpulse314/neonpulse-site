@@ -1,7 +1,7 @@
 ---
 title: "Purpose — The Weight of Having One"
 summary: "Theo had a decent job and no complaints. Then one Saturday volunteer shift changed the shape of everything — and comfortable drift stopped being an option."
-section_label: "Values / Purpose"
+section_label: "Values"
 tags: ["purpose", "meaning", "commitment"]
 ---
 

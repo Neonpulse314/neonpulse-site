@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Feel Awe?"
 date: 2026-02-27
-description: "Standing at the edge of a canyon, hearing a symphony, witnessing someone do something extraordinary — something happens that you can barely describe. The science of awe is more interesting than the experience itself."
+summary: "Standing at the edge of a canyon, hearing a symphony, witnessing someone do something extraordinary — something happens that you can barely describe. The science of awe is more interesting than the experience itself."
 tags: ["psychology", "emotion", "neuroscience", "wellbeing"]
 ---
 

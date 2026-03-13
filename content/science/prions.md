@@ -1,7 +1,7 @@
 ---
 title: "A Protein in Your Brain Can Spontaneously Refold Into a Fatal Disease. Scientists Spent 30 Years Proving It Was Possible. They Still Don't Know Why."
 date: 2026-03-06
-description: "Prion diseases have no virus, no bacteria, no DNA. Just a misfolded protein that converts other proteins. Stanley Prusiner won the Nobel Prize for the idea in 1997. The mechanism still isn't fully explained."
+summary: "Prion diseases have no virus, no bacteria, no DNA. Just a misfolded protein that converts other proteins. Stanley Prusiner won the Nobel Prize for the idea in 1997. The mechanism still isn't fully explained."
 tags: ["neuroscience", "biology", "mystery", "genetics", "disease"]
 tier: 1
 disciplines: ["Biology"]

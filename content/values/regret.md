@@ -1,9 +1,9 @@
 ---
 title: "Regret — The Feeling That Points at What You Actually Value"
 date: 2026-03-07
-section_label: "values"
+section_label: "Values"
 tags: ["values", "regret", "decision-making", "growth", "self-awareness"]
-description: "Regret hurts. But it also has a job to do. The research shows it's less about punishing yourself and more about decoding what you care about."
+summary: "Two years ago Kai watched her best friend's relationship turn bad and said nothing. Too awkward. Too risky. Her friend doesn't blame her. But Kai carries the thing she didn't say — it shows up at strange times, driving, trying to sleep, when someone asks if she has any regrets."
 ---
 
 Kai is 24. Two years ago she had a chance to tell her best friend something important — that the guy she was about to move across the country for was treating her badly, that Kai had watched it for months and said nothing. She didn't say it. Too awkward. Too risky. The friendship survived. The relationship didn't. And now Kai carries this thing she can't quite put down.

@@ -1,9 +1,9 @@
 ---
 title: "Loneliness — Why the Most Common Feeling Is the Most Hidden"
 date: 2026-03-07
-description: "You can be surrounded by people and still feel completely alone. Understanding why loneliness works the way it does is the first step to actually getting out of it."
+summary: "Priya has eaten dinner alone sixteen nights in a row since moving to the new city. She tells everyone she's doing great. She's not lying exactly — she just can't name what she's actually feeling, because that would make it real."
 tags: ["loneliness", "connection", "belonging", "social health", "vulnerability"]
-section_label: "values"
+section_label: "Values"
 ---
 
 The first month in the new city, Priya told everyone she was doing great.

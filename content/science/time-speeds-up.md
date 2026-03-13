@@ -1,7 +1,7 @@
 ---
 title: "Why Does Time Feel Like It Speeds Up As You Get Older?"
 date: 2026-02-27
-description: "A summer felt like a lifetime at age nine. A year flies by at thirty. This is not nostalgia or mood — it's how the brain encodes time, and understanding it changes how you should live."
+summary: "A summer felt like a lifetime at age nine. A year flies by at thirty. This is not nostalgia or mood — it's how the brain encodes time, and understanding it changes how you should live."
 tags: ["psychology", "time", "memory", "neuroscience"]
 ---
 

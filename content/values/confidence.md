@@ -2,8 +2,8 @@
 title: "Confidence — Why the Real Kind Can't Be Performed"
 date: 2026-03-07
 tags: ["values", "self-awareness", "growth", "confidence"]
-section_label: "values"
-description: "Everyone says fake it till you make it. Here's what that advice gets wrong — and what actually builds confidence that holds."
+section_label: "Values"
+summary: "Marcus committed to performing certainty in every meeting at his first real job. Walk in like you own it. Fake it till you make it. It worked — until it didn't, and he couldn't figure out why."
 ---
 
 Marcus had been told his whole life that confidence was a decision.

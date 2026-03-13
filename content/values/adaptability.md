@@ -2,8 +2,8 @@
 title: "Adaptability — When the Map Is Wrong"
 date: 2026-03-07
 tags: ["values", "identity", "courage", "self-knowledge"]
-section_label: "values"
-description: "The hardest thing isn't starting over. It's admitting the map you've been following no longer leads where you thought."
+section_label: "Values"
+summary: "Nina has been pre-law since she was seventeen. By week six of her internship she's technically excellent and quietly miserable. She keeps going anyway — because the alternative is admitting the map she's been following is wrong."
 ---
 
 Nina had been pre-law since she was seventeen.

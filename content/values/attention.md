@@ -1,7 +1,7 @@
 ---
 title: "Attention — The Thing You Spend Without Noticing"
 summary: "Alex could do five things at once. He just couldn't do any of them."
-section_label: "Values / Attention"
+section_label: "Values"
 tags: ["attention", "focus", "presence", "discipline", "depth"]
 ---
 

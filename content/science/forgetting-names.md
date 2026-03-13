@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Forget Someone's Name Right After Being Introduced?"
 date: 2026-02-27
-description: "You shake hands, hear the name, and thirty seconds later it's gone. This isn't a memory failure — it's an encoding failure. Here's exactly what went wrong, and why names are unusually hard to remember."
+summary: "You shake hands, hear the name, and thirty seconds later it's gone. This isn't a memory failure — it's an encoding failure. Here's exactly what went wrong, and why names are unusually hard to remember."
 tags: ["memory", "psychology", "cognitive science", "attention"]
 ---
 

@@ -1,7 +1,7 @@
 +++
 title = "Newton Solved Two Planets. Add a Third and the Math Breaks. We've Known This for 300 Years and Still Can't Fix It."
 date = 2026-03-06
-description = "The three-body problem is one of the oldest unsolved problems in physics. Not 'we haven't gotten around to it' — mathematically proven impossible. The attempt to solve it accidentally invented chaos theory."
+summary = "The three-body problem is one of the oldest unsolved problems in physics. Not 'we haven't gotten around to it' — mathematically proven impossible. The attempt to solve it accidentally invented chaos theory."
 tags = ["physics", "mathematics", "chaos", "astronomy", "tier1-mystery"]
 tier = 1
 +++

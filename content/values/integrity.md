@@ -2,11 +2,9 @@
 featured: true
 title: "Integrity — The Confession"
 summary: "An engineering intern catches his own mistake. No one else knows. The bridge is already fixed. He comes forward anyway — and loses his job for it."
-section_label: "Values / Integrity"
+section_label: "Values"
 tags: ["integrity", "honesty", "cost"]
 ---
-featured: true
-
 Marcus read the job offer twice. Full-time position. Competitive salary. Dr. Chen's signature at the bottom.
 
 He'd been waiting six months for this. He set the letter down and looked at his second monitor.
@@ -24,8 +22,6 @@ He had believed that. More or less.
 The section that failed wasn't the section his calculation covered. That was the part that should have let him sleep. It didn't.
 
 ---
-featured: true
-
 The offer letter sat on his desk for four days.
 
 He ran the logic repeatedly. The error was fixed. The bridge was repaired. No documentation linked the original miscalculation to the failure — because they weren't linked, not directly, not provably. Coming forward now meant: losing the job, possible professional liability, a formal investigation. His name on a report. Maybe more.
@@ -35,8 +31,6 @@ He would be doing this entirely for himself. There was nothing left to correct. 
 Every part of this was true.
 
 ---
-featured: true
-
 On the fourth day, Marcus picked up the offer letter and walked to Dr. Chen's office.
 
 He explained it in eight minutes. The original error, the self-correction, the decision not to document it, the failure, what he'd concluded about the relationship between the two. Dr. Chen listened without interrupting.
@@ -48,8 +42,6 @@ Marcus looked at the offer letter in his hand.
 "Because you trusted me," he said. "And I don't want to take the job on a foundation that isn't there."
 
 ---
-featured: true
-
 He was let go the following week. The company needed to demonstrate accountability to the project insurer. His error, while corrected and structurally unrelated to the failure, created documentation liability. HR was apologetic. Legal was not.
 
 Dr. Chen found him in the parking lot on his last day.
@@ -67,8 +59,6 @@ She looked at him for a moment.
 "For what it's worth — I would have hired you again."
 
 ---
-featured: true
-
 He drove home with a box of desk things on the passenger seat. He sat in the parking lot of his apartment complex for a while, in the quiet, and thought about the six workers in the photograph.
 
 He didn't know their names. He never would.

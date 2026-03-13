@@ -2,7 +2,7 @@
 title: "Grief — The Shape of What's Gone"
 date: 2026-03-07
 tags: ["values", "grief", "loss", "love", "identity"]
-section_label: "values"
+section_label: "Values"
 summary: "Mia thought she was prepared. She'd had months to adjust. When her grandmother died, she was ready for the sadness. She wasn't ready for the way her grandmother kept showing up in everything — and didn't stop."
 ---
 

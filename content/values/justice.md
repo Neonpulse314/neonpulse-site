@@ -1,7 +1,7 @@
 ---
 title: "Justice — What You Do When You Could Get Away With It"
 summary: "Tariq got praised in front of the whole team for something that wasn't his idea. He could have nodded and kept it. He didn't."
-section_label: "Values / Justice"
+section_label: "Values"
 tags: ["justice", "integrity", "honesty", "choices"]
 ---
 

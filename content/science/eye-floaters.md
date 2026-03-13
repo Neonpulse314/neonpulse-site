@@ -3,7 +3,7 @@ title: "Why Do You See Floaters in Your Vision?"
 date: 2026-03-07
 tags: ["perception", "eyes", "neuroscience", "body"]
 section_label: "Science Mystery"
-description: "Those drifting shapes in your vision are shadows cast from inside your own eye — and they reveal how the eye slowly changes as you age."
+summary: "Those drifting shapes in your vision are shadows cast from inside your own eye — and they reveal how the eye slowly changes as you age."
 ---
 
 You look up at a bright sky and notice them: translucent threads, dots, or rings drifting slowly across your field of view. Try to look directly at one and it slides away. Look back to center and it drifts back. You've seen them your whole life and probably assumed everyone had them and no one talked about them.

@@ -2,7 +2,7 @@
 title: "Sacrifice — The Version You Don't Get to Be"
 date: 2026-03-07
 tags: ["values", "sacrifice", "family", "identity"]
-section_label: "values"
+section_label: "Values"
 summary: "Dev got into the master's program he'd worked toward for three years. His dad had a stroke in May. He deferred. The cost of sacrifice isn't just what you give up — it's the version of yourself that would have been built by the thing you didn't do."
 ---
 

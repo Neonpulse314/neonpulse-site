@@ -1,7 +1,7 @@
 +++
 title = "Scientists Spent 30 Years Cutting Out Pieces of Rat Brains Looking for Where Memories Are Stored. They Never Found Them."
 date = 2026-03-06
-description = "The engram — the physical trace a memory leaves in the brain — was named in 1904. We've been searching for it ever since. The more we look, the stranger the answer gets."
+summary = "The engram — the physical trace a memory leaves in the brain — was named in 1904. We've been searching for it ever since. The more we look, the stranger the answer gets."
 tags = ["memory", "neuroscience", "brain", "consciousness", "tier1-mystery"]
 tier = 1
 +++

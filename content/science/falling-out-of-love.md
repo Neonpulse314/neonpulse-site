@@ -1,7 +1,7 @@
 ---
 title: "Why Does the Feeling of Being in Love Fade?"
 date: 2026-02-27
-description: "The intensity of new love doesn't last. This is not a failure — it's a transition. The neuroscience of what happens, why it happens, and what it means for how you love someone long-term."
+summary: "The intensity of new love doesn't last. This is not a failure — it's a transition. The neuroscience of what happens, why it happens, and what it means for how you love someone long-term."
 tags: ["love", "neuroscience", "psychology", "relationships"]
 ---
 

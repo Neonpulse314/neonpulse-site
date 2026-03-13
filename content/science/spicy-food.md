@@ -1,7 +1,7 @@
 ---
 title: "Why Does Spicy Food Feel Hot When It Isn't?"
 date: 2026-02-27
-description: "Capsaicin doesn't actually burn you. It just convinces one receptor that it's burning you — and that receptor can't tell the difference. Here's the mechanism, and why milk works but water doesn't."
+summary: "Capsaicin doesn't actually burn you. It just convinces one receptor that it's burning you — and that receptor can't tell the difference. Here's the mechanism, and why milk works but water doesn't."
 tags: ["neuroscience", "chemistry", "pain", "biology"]
 ---
 

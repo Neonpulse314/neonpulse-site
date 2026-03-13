@@ -1,7 +1,7 @@
 ---
 title: "Everyone Knows Depression Is a Chemical Imbalance. Except It Probably Isn't. And We Have No Idea What It Actually Is."
 date: 2026-03-06
-description: "For 30 years, drug companies told us depression was a serotonin deficiency. A major 2022 review found no evidence for that. SSRIs still work for millions of people. Nobody knows why."
+summary: "For 30 years, drug companies told us depression was a serotonin deficiency. A major 2022 review found no evidence for that. SSRIs still work for millions of people. Nobody knows why."
 tags: ["neuroscience", "brain", "medicine", "mystery", "mental-health", "science-failure"]
 tier: 1
 disciplines: ["Neuroscience"]

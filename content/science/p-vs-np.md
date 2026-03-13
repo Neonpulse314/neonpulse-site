@@ -1,7 +1,7 @@
 +++
 title = "The Most Important Unsolved Problem in Computer Science Has a $1 Million Prize. Nobody Has Claimed It."
 date = 2026-03-06
-description = "Every time you lock your phone, you're trusting the answer. We don't know what it is."
+summary = "Every time you lock your phone, you're trusting the answer. We don't know what it is."
 tags = ["computer-science", "mathematics", "cryptography", "complexity", "millennium-prize", "tier1-mystery"]
 tier = 1
 +++

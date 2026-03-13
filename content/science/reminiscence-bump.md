@@ -1,7 +1,7 @@
 ---
 title: "Why Does Music From Your Teens Hit Differently?"
 date: 2026-02-26
-description: "There's a phenomenon called the reminiscence bump. The music you hear between ages 12 and 25 gets encoded deeper than any music you'll ever hear again."
+summary: "There's a phenomenon called the reminiscence bump. The music you hear between ages 12 and 25 gets encoded deeper than any music you'll ever hear again."
 tags: ["science", "music", "memory", "psychology", "neuroscience"]
 ---
 

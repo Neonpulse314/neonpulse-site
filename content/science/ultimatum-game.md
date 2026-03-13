@@ -1,7 +1,7 @@
 ---
 title: "Why Does Unfair Treatment Feel Physically Wrong?"
 date: 2026-02-26
-description: "You know the math. You should take the money. But something in your body refuses — and that refusal is older than language."
+summary: "You know the math. You should take the money. But something in your body refuses — and that refusal is older than language."
 tags: ["fairness", "anterior insula", "ultimatum game", "disgust", "evolution", "cooperation"]
 ---
 

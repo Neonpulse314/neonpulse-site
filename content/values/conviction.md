@@ -1,7 +1,7 @@
 ---
 title: "Conviction — When You're the Only One Who Sees It"
 summary: "Priya's team was ready to ship. She was the only one who thought the numbers were wrong. Speaking up cost her something. Staying quiet would have cost more."
-section_label: "Values / Conviction"
+section_label: "Values"
 tags: ["conviction", "courage", "integrity", "honesty"]
 ---
 

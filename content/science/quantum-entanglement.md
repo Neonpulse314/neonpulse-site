@@ -1,7 +1,7 @@
 +++
 title = "Einstein Said Quantum Mechanics Was Broken. Experiments Proved Him Wrong. Nobody Can Explain Why He Was Wrong."
 date = 2026-03-06
-description = "Two particles, separated by any distance, can affect each other instantly. We've confirmed this with Nobel Prize-winning experiments. We have no idea what mechanism makes it happen."
+summary = "Two particles, separated by any distance, can affect each other instantly. We've confirmed this with Nobel Prize-winning experiments. We have no idea what mechanism makes it happen."
 tags = ["quantum mechanics", "physics", "entanglement", "einstein", "bell's theorem", "tier1-mystery"]
 tier = 1
 +++

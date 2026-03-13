@@ -1,7 +1,7 @@
 ---
 title: "Solitude — The Self You Can't Borrow"
 summary: "Jordan had never eaten at a restaurant alone. She didn't have a reason for this. She just preferred company."
-section_label: "Values / Solitude"
+section_label: "Values"
 tags: ["solitude", "identity", "self-knowledge", "presence", "independence"]
 ---
 

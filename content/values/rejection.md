@@ -1,9 +1,9 @@
 ---
 title: "Rejection — Why the Pain Is the Point"
 date: 2026-03-07
-description: "Rejection hurts like a physical wound because, to your brain, it is one. Understanding why makes it survivable — and sometimes useful."
+summary: "Zara told Marcus how she felt on a Tuesday evening. He was kind about it. He said he didn't feel the same way. She drove home and sat in her car for forty minutes feeling like the floor had come out from under her identity."
 tags: ["rejection", "social pain", "self-worth", "resilience", "belonging"]
-section_label: "values"
+section_label: "Values"
 ---
 
 Zara told her friend Marcus how she felt on a Tuesday evening. They'd been close for two years. She'd been thinking about it for six months. He was kind about it. He said he didn't feel the same way.

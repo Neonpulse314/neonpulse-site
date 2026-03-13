@@ -1,7 +1,7 @@
 ---
 title: "Clarity — Knowing What You Actually Want"
 summary: "Maya is pre-med, gets good grades, impresses everyone. She's waiting for the motivation to show up. When a patient asks her why she wants to be a doctor, she gives the right answer — and hears herself not believing a word of it."
-section_label: "Values / Clarity"
+section_label: "Values"
 tags: ["clarity", "self-knowledge", "identity", "purpose"]
 ---
 

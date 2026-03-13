@@ -1,7 +1,7 @@
 ---
 title: "The Most Successful Theory in Physics Has a Dirty Secret: Nobody Knows What It Means"
 date: 2026-03-02
-description: "Quantum mechanics predicts every experiment with stunning precision. It has been tested to 12 decimal places. And after 100 years, physicists still cannot agree on what it says about reality."
+summary: "Quantum mechanics predicts every experiment with stunning precision. It has been tested to 12 decimal places. And after 100 years, physicists still cannot agree on what it says about reality."
 tags: ["physics", "quantum", "unsolved", "tier1"]
 tier: 1
 disciplines: ["Quantum Physics"]

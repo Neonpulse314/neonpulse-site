@@ -2,7 +2,7 @@
 title: "Self-Respect — The Floor You Set"
 date: 2026-03-07
 tags: ["values", "self-respect", "boundaries", "worth"]
-section_label: "values"
+section_label: "Values"
 summary: "Jade kept telling herself that waiting was strategic. Then she watched her boss present her all-nighter to a roomful of nodding people."
 ---
 

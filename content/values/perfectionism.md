@@ -2,8 +2,8 @@
 title: "Perfectionism — Why Your Impossible Standard Is Making You Worse"
 date: 2026-03-07
 tags: [values, psychology, performance, self-improvement]
-section_label: values
-description: "Perfectionism feels like high standards. The research shows it's something else: a shield that prevents you from doing the thing you care most about."
+section_label: "Values"
+summary: "Mia has 90,000 words and has rewritten the first chapter eleven times. Her friends who started writing after her have published. She tells herself they settled. She's not sure she believes that anymore."
 ---
 
 Mia has been working on her novel for four years.
