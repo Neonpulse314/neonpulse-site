@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="story about-page">
+  <header class="story-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="story-body">
+    {{ .Content }}
+  </div>
+  <div class="story-footer">
+    <a href="{{ site.BaseURL }}" class="back-link">← Home</a>
+  </div>
+</article>
+{{ end }}
