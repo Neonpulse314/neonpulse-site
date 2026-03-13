@@ -1,10 +1,12 @@
 ---
+featured: true
 title: "Fear — The Alarm That Doesn't Know You've Already Survived"
 date: 2026-03-07
 tags: ["values", "self-awareness", "resilience", "fear", "anxiety"]
 section_label: "values"
 description: "Fear is a signal, not a verdict. The hard part is learning when it's right and when it's still running on old data."
 ---
+featured: true
 
 Jordan circles the block for the third time.
 
@@ -15,6 +17,7 @@ His hands are cold. His heart rate is doing something that belongs to a person b
 He knows this is ridiculous. He keeps thinking that. He knows.
 
 ---
+featured: true
 
 Here is what's happening in Jordan's body, biologically speaking:
 
@@ -27,6 +30,7 @@ What neuroscientist Joseph LeDoux's work made clear — and what psychologist Li
 The fear isn't lying about the data. It's just extrapolating from it.
 
 ---
+featured: true
 
 There's a version of this where the fear is exactly right.
 
@@ -39,6 +43,7 @@ The distinction matters. Fear responds to something real and present. Anxiety re
 Jordan isn't in danger. But his nervous system has evidence that this person has caused him harm before. That's not nothing. The fear isn't entirely wrong — it's pointing at real data. The question is whether that data applies to this moment, or whether it's pattern-matching from a past that may no longer be the whole picture.
 
 ---
+featured: true
 
 He stops walking. He finds a doorway and leans against it.
 
@@ -51,6 +56,7 @@ Jordan knows what he values. He values knowing. He's spent six years not knowing
 The fear will come with him either way.
 
 ---
+featured: true
 
 He goes in.
 
@@ -63,6 +69,7 @@ It's not the disaster the fear had been advertising for twenty minutes on the si
 Jordan doesn't know what it means yet. That's fine. He knows something he didn't know before. The fear had real data — the data was real — but the prediction it was making had been built on a past that wasn't the whole story.
 
 ---
+featured: true
 
 Here's what fear wants from you: it wants you to stop. Get still. Wait for the threat to pass.
 
@@ -81,5 +88,6 @@ Jordan went in. He didn't know what he'd find. That's the nature of going in —
 The alarm doesn't get to decide that for you. That's your job.
 
 ---
+featured: true
 
 *Sources: Joseph LeDoux, The Emotional Brain (1996) and Anxious (2015), on the amygdala and the neuroscience of fear — Lisa Feldman Barrett, How Emotions Are Made (2017), on emotions as constructed predictions, not fixed biological responses — Gavin de Becker, The Gift of Fear (1997), on distinguishing genuine fear from anxiety and the accuracy of threat signals — Russ Harris, The Happiness Trap (2008), on ACT-based approaches to difficult emotions and avoidance — James Gross, "Emotion Regulation: Current Status and Future Prospects" (2015), Psychological Inquiry, on avoidance and its downstream effects*

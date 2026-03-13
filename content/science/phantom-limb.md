@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "After amputation, up to 80% of people feel vivid sensations — sometimes agonizing ones — in the missing limb. The pain is real. The limb isn't. What's going on?"
 section_label: "Science Mystery"
 tags: ["neuroscience", "pain", "perception", "consciousness"]
+featured: true
 ---
 
 The surgeon removed the arm. The pain didn't leave with it.

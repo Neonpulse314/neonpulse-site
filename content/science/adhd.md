@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "ADHD is one of the most diagnosed conditions in the world and one of the most misunderstood. It's not a focus problem. It's not caused by screens or sugar. And the science behind what it actually is — and what causes it — is stranger than most people know."
 section_label: "Science Mystery"
 tags: ["neuroscience", "ADHD", "brain", "dopamine", "cognition"]
+featured: true
 ---
 
 You know the stereotype: a kid who won't sit still, bouncing off classroom walls, can't follow instructions. Can't focus.

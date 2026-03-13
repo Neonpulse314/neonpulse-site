@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "Sleepwalkers can navigate furniture, drive cars, and occasionally commit violence — while their prefrontal cortex is functionally asleep. What's going on inside that brain?"
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "consciousness", "brain"]
+featured: true
 ---
 
 In 1987, a man named Kenneth Parks drove 23 kilometers from his home in Pickering, Ontario to his in-laws' house in Scarborough. He parked the car, went inside, attacked his father-in-law, and killed his mother-in-law with a tire iron. Then he drove to a nearby police station and told them he thought he had killed someone.

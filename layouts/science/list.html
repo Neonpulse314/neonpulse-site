@@ -1,0 +1,89 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ if .Content }}<div class="page-intro">{{ .Content }}</div>{{ end }}
+</div>
+
+{{ $tier1 := where .Pages ".Params.tier" 1 }}
+{{ $rest := where .Pages ".Params.tier" "ne" 1 }}
+{{ $featured := where $rest ".Params.featured" true }}
+{{ $unfeatured := where $rest ".Params.featured" "ne" true }}
+
+{{ if $tier1 }}
+<section class="section-block">
+  <div class="section-eyebrow">Unsolved Mysteries — {{ len $tier1 }} open problems</div>
+  <p class="section-block-desc">Experiments have been run. Experts have argued. Nobody has won. These are the questions that remain genuinely open.</p>
+  <div class="section-card-grid">
+    {{ range $tier1 }}
+    <a href="{{ .RelPermalink }}" class="science-card science-card--mystery">
+      <span class="science-card-label">Unsolved Mystery</span>
+      <h2>{{ .Title }}</h2>
+      {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $featured }}
+<section class="section-block" style="margin-top: 3rem;">
+  <div class="section-eyebrow">Reader Favourites — {{ len $featured }} articles</div>
+  <p class="section-block-desc">The most-read How &amp; Why articles. Start here if you're new.</p>
+  <div class="section-card-grid">
+    {{ range $featured }}
+    <a href="{{ .RelPermalink }}" class="science-card">
+      <h2>{{ .Title }}</h2>
+      {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $unfeatured }}
+<section class="section-block" style="margin-top: 3rem;">
+  <div class="section-eyebrow">All How &amp; Why Articles — {{ len $unfeatured }} articles</div>
+  <p class="section-block-desc">Everyday phenomena explained — the real answers, not the ones you half-remember from school.</p>
+
+  {{/* Build alphabet index */}}
+  {{ $letters := slice }}
+  {{ range $unfeatured }}
+    {{ $first := upper (substr .Title 0 1) }}
+    {{ if not (in $letters $first) }}
+      {{ $letters = $letters | append $first }}
+    {{ end }}
+  {{ end }}
+  {{ $letters = sort $letters }}
+
+  <div class="alpha-nav">
+    {{ range $letters }}
+    <a href="#letter-{{ . }}" class="alpha-nav-link">{{ . }}</a>
+    {{ end }}
+  </div>
+
+  {{ range $letters }}
+  {{ $letter := . }}
+  {{ $group := slice }}
+  {{ range $unfeatured }}
+    {{ if eq (upper (substr .Title 0 1)) $letter }}
+      {{ $group = $group | append . }}
+    {{ end }}
+  {{ end }}
+  {{ if $group }}
+  <div class="alpha-section">
+    <h3 id="letter-{{ $letter }}" class="alpha-heading">{{ $letter }}</h3>
+    <div class="story-list story-list--compact">
+      {{ range $group }}
+      <article class="story-card story-card--compact">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ if .Params.summary }}<p>{{ .Params.summary | truncate 100 }}</p>{{ end }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+</section>
+{{ end }}
+{{ end }}

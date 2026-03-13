@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "Everyone assumes it's osmosis — water soaking into the skin, making it swell. That turns out to be completely wrong. The real mechanism involves your nervous system, and the reason your fingers wrinkle at all might be one of the stranger evolutionary stories in human biology."
 section_label: "Science Mystery"
 tags: ["biology", "neuroscience", "evolution", "skin"]
+featured: true
 ---
 
 You soak in a bath long enough and your fingers turn into raisins. Most people assume the explanation is simple: water soaks into the outer layer of skin, causing it to swell and pucker. It seems obvious. It's also wrong.

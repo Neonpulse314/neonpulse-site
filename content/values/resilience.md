@@ -1,9 +1,11 @@
 ---
+featured: true
 title: "Resilience — What You Get Good At"
 summary: "Three years of hard things, one after another. Sofia kept going. That's not the end of the story."
 section_label: "Values / Resilience"
 tags: ["resilience", "strength", "self-awareness"]
 ---
+featured: true
 
 The third year was quieter than the second, and the second had been quieter than the first. That's how Sofia described it when her cousin asked, a little proud of how settled it sounded.
 
@@ -14,6 +16,7 @@ She had handled all of it.
 When people said she was resilient, she said thank you. She didn't know what else to say.
 
 ---
+featured: true
 
 Here is what resilience actually is: it's adaptation.
 
@@ -24,6 +27,7 @@ It is a real thing. It is genuinely useful.
 But adaptation has a direction. Every time you absorb a hard thing alone, you get slightly better at absorbing hard things alone. The skill builds. The tolerance increases. And somewhere in the process, without deciding to, you stop expecting anyone to absorb it with you.
 
 ---
+featured: true
 
 Sofia was at her cousin's kitchen table when she noticed it.
 
@@ -36,6 +40,7 @@ She couldn't remember.
 She had gotten so good at the sequence — absorb, stabilize, continue — that she no longer paused long enough at the absorb stage to think: *this is the part where someone else could be here.*
 
 ---
+featured: true
 
 That's the cost of resilience that doesn't get named.
 

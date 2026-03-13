@@ -1,9 +1,11 @@
 ---
+featured: true
 title: "Responsibility — The Launch"
 summary: "Kenji finds a bug at 11pm that corrupted data for 3% of users. He wrote the code. He could have spread the blame. He didn't."
 section_label: "Values / Responsibility"
 tags: ["responsibility", "accountability", "work"]
 ---
+featured: true
 
 Kenji was twenty-four and had been at the startup for eleven months when the feature he'd built shipped to production with a bug.
 
@@ -14,6 +16,7 @@ Kenji found it at 11pm on a Thursday. He'd been running a random audit on some m
 He sat with it for a moment.
 
 ---
+featured: true
 
 He thought about what he'd done. He'd written the migration script. He'd reviewed it himself. He'd asked his lead to glance at it, and she had, and she hadn't caught it either. The code review had passed. QA had passed. The bug was subtle — a timezone handling edge case that only triggered under specific conditions.
 
@@ -26,6 +29,7 @@ Instead he opened the incident management system and wrote:
 Then he started fixing it.
 
 ---
+featured: true
 
 He worked until 3am. He documented everything — what went wrong, why, what he'd done to fix it, what he was changing in his process to prevent it. He posted the full recovery plan at 7am, before anyone else was at their desks.
 
@@ -38,6 +42,7 @@ What Kenji remembered later wasn't the bug, or the late night, or even the recov
 It felt like the most grown-up thing he'd ever done.
 
 ---
+featured: true
 
 **What responsibility actually is:**
 

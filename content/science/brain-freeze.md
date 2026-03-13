@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "Your brain has no pain receptors. So why does cold ice cream cause a stabbing headache in your forehead? The mechanism involves referred pain, blood vessel dilation, and the same nerve pathways used in migraines."
 section_label: "Science Mystery"
 tags: ["neuroscience", "biology", "pain", "brain"]
+featured: true
 ---
 
 You're eating ice cream too fast. Within seconds, a sudden stabbing pain hits somewhere behind your eyes or across your forehead. It lasts about 20 to 30 seconds, then disappears as quickly as it came.

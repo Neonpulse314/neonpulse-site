@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "The obvious answer — better grip — turns out to be mostly wrong. A 2009 study found fingerprints reduce friction on smooth surfaces. So what are they actually doing?"
 section_label: "Science Mystery"
 tags: ["biology", "evolution", "skin", "neuroscience"]
+featured: true
 ---
 
 The assumption seems obvious: fingerprints help you grip things. The ridges increase friction. That's why our fingertips have them and the backs of our hands don't.

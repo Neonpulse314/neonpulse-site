@@ -4,6 +4,7 @@ date: 2026-03-07
 tags: ["neuroscience", "sleep", "memory", "consciousness", "brain"]
 section_label: "Body Mysteries"
 summary: "You just woke up. The dream was vivid — people, places, a whole story. Ten minutes later, it's gone. Why can't the brain hold onto something it just experienced?"
+featured: true
 ---
 
 You just woke up. The dream was vivid — people you recognized, a place that made no sense but felt completely real, something happening that mattered intensely. You lie there for a moment, trying to hold it.

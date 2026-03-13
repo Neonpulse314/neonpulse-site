@@ -4,6 +4,7 @@ date: 2026-03-07
 tags: ["neuroscience", "sleep", "brain", "body", "mystery"]
 section_label: "Body Mysteries"
 summary: "You've been yawning your whole life. The reason you do it isn't what you think — and despite centuries of guesses, scientists still argue about the real answer."
+featured: true
 ---
 
 You're in a meeting that matters. Someone says something important. And your jaw drops open, your eyes water, your eardrums tighten, and you inhale deeply for six involuntary seconds in full view of everyone.

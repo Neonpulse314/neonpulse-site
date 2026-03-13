@@ -1,15 +1,18 @@
 ---
+featured: true
 title: "Discipline — The Only Witness"
 summary: "Mara is 22 and hasn't had a drink in eight months. Nobody made her do it. Nobody's watching."
 section_label: "Values / Discipline"
 tags: ["discipline", "identity", "cost"]
 ---
+featured: true
 
 The party was in a third-floor apartment that smelled like carpet and old radiator heat. Someone had made a playlist that was trying too hard. There were maybe thirty people, and nearly all of them had drinks.
 
 Mara had sparkling water with lime in a red cup so nobody would ask.
 
 ---
+featured: true
 
 Eight months earlier, she'd made a quiet decision. She wasn't an alcoholic. She didn't have a reason people would understand at a party. She'd just turned 22 and looked at the previous year and noticed that she'd been drinking in a way that was *reflexive* — not because she wanted a drink, but because it was there, and everyone was, and it was easier than being the one who wasn't.
 
@@ -18,6 +21,7 @@ She wanted to know if she could go a year without it.
 Not as a statement. Not to post about. Just to find out.
 
 ---
+featured: true
 
 The first two months were easy. Then came a work thing where the toasts were champagne and she had water and someone said *are you pregnant?* and she'd laughed and said no, just taking a break, and the conversation moved on.
 
@@ -26,6 +30,7 @@ The fifth month, she'd been in a fight with her sister and there was a bottle of
 By month eight, it was mostly just awkward at parties.
 
 ---
+featured: true
 
 Someone across the room caught her eye and held up a bottle. She shook her head and lifted her red cup to show she had something. He nodded and turned back to his conversation.
 
@@ -34,6 +39,7 @@ Nobody was tracking her. Nobody had a scoreboard. If she'd said yes and taken th
 She knew this. She'd thought about it in the elevator on the way up.
 
 ---
+featured: true
 
 Here's the part that's hard to explain: discipline isn't about the rules. The rule — *I'm going a year without drinking* — was just a structure she'd given herself so the decision only had to be made once. She didn't want to renegotiate every time a bottle appeared.
 
@@ -44,6 +50,7 @@ There's no audience for discipline. That's the whole point. The win is invisible
 She sipped her sparkling water.
 
 ---
+featured: true
 
 Nobody congratulates you for the quiet things.
 
@@ -56,6 +63,7 @@ Mara doesn't know if that's enough. She's still finding out.
 Four months to go.
 
 ---
+featured: true
 
 Discipline is the choice you make when the only witness is yourself.
 

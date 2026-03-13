@@ -4,6 +4,7 @@ date: 2026-03-07
 summary: "A hiccup serves no known purpose in adult humans. It disrupts breathing, has no reliable cure, and can persist for 68 years. So why does every vertebrate on earth do it?"
 section_label: "Science Mystery"
 tags: ["biology", "evolution", "neuroscience", "reflexes"]
+featured: true
 ---
 
 Charles Osborne started hiccupping in 1922. He was 28 years old, slaughtering a hog in Anthon, Iowa, when the hiccups began. They didn't stop.
