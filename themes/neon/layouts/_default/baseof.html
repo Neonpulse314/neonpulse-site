@@ -4,7 +4,11 @@
   <script>
     (function() {
       var t = localStorage.getItem('theme');
-      if (t === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+      if (t === 'light') {
+        document.documentElement.removeAttribute('data-theme');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
     })();
   </script>
   {{ partial "head.html" . }}

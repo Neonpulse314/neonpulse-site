@@ -23,12 +23,12 @@
   <p class="section-block-desc">Experiments have been run. Experts have argued. Nobody has won. These are the questions that remain genuinely open.</p>
   <div class="section-card-grid">
     {{ range $tier1 }}
-    <a href="{{ .RelPermalink }}" class="science-card science-card--mystery">
-      {{ $disc := index .Params.disciplines 0 }}
-      {{ if $disc }}<a href="{{ "disciplines/" | absURL }}{{ $disc | urlize }}/" class="science-card-label science-card-label--link" onclick="event.stopPropagation()">{{ $disc }}</a>{{ else }}<span class="science-card-label">Unsolved Mystery</span>{{ end }}
+    {{ $disc := index .Params.disciplines 0 }}
+    <div class="science-card science-card--mystery" onclick="window.location='{{ .RelPermalink }}'" role="link" tabindex="0">
+      {{ if $disc }}<a href="{{ "disciplines/" | absURL }}{{ $disc | urlize }}/" class="science-card-label science-card-label--link">{{ $disc }}</a>{{ else }}<span class="science-card-label">Unsolved Mystery</span>{{ end }}
       <h2>{{ .Title }}</h2>
       {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
-    </a>
+    </div>
     {{ end }}
   </div>
 </section>
