@@ -24,6 +24,26 @@
   </div>
 </section>
 
+{{/* What's New — 6 most recent across science + values */}}
+{{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values") }}
+{{ $recent = $recent | first 6 }}
+{{ if $recent }}
+<section class="whats-new">
+  <div class="whats-new-header">
+    <span class="section-eyebrow">What's New</span>
+    <a href="{{ "search/" | absURL }}" class="whats-new-search-link">Search all articles →</a>
+  </div>
+  <div class="whats-new-grid">
+    {{ range $recent }}
+    <a href="{{ .RelPermalink }}" class="whats-new-card">
+      <span class="whats-new-section">{{ .Section | title }}</span>
+      <span class="whats-new-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 {{ $tier1 := where .Site.RegularPages ".Params.tier" 1 }}
 {{ if $tier1 }}
 <section class="mysteries-preview">

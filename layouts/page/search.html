@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>Search</h1>
+</div>
+
+<div class="search-page">
+  <input type="text" id="searchInput" class="search-page-input" placeholder="Search all articles..." autocomplete="off" autofocus>
+  <div id="searchResults" class="search-results"></div>
+  <p id="searchEmpty" class="search-empty" style="display:none;">No articles found.</p>
+  <p id="searchPrompt" class="search-prompt">Type to search {{ .Site.RegularPages | len }} articles across Science, Values, and Journal.</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+<script>
+let fuse;
+
+fetch('/index.json')
+  .then(r => r.json())
+  .then(data => {
+    fuse = new Fuse(data, {
+      keys: [
+        { name: 'title', weight: 0.7 },
+        { name: 'summary', weight: 0.3 }
+      ],
+      threshold: 0.35,
+      includeScore: true,
+      minMatchCharLength: 2
+    });
+  });
+
+const input = document.getElementById('searchInput');
+const results = document.getElementById('searchResults');
+const empty = document.getElementById('searchEmpty');
+const prompt = document.getElementById('searchPrompt');
+
+input.addEventListener('input', function() {
+  const q = this.value.trim();
+  if (!q || !fuse) {
+    results.innerHTML = '';
+    empty.style.display = 'none';
+    prompt.style.display = '';
+    return;
+  }
+  prompt.style.display = 'none';
+  const hits = fuse.search(q, { limit: 20 });
+  if (hits.length === 0) {
+    results.innerHTML = '';
+    empty.style.display = '';
+    return;
+  }
+  empty.style.display = 'none';
+  results.innerHTML = hits.map(({ item }) => `
+    <a href="${item.url}" class="search-result-item">
+      <span class="search-result-section">${item.section}</span>
+      <span class="search-result-title">${item.title}</span>
+      ${item.summary ? `<span class="search-result-summary">${item.summary.slice(0, 120)}…</span>` : ''}
+    </a>
+  `).join('');
+});
+</script>
+{{ end }}
