@@ -138,6 +138,14 @@ One of them is right. We don't know which.
 
 ---
 
+## Leading Hypothesis
+
+**Supersymmetry (SUSY)** was the dominant solution for decades: it predicts a "superpartner" for every Standard Model particle whose contributions to the Higgs mass cancel those of the original particle, solving the fine-tuning. The LHC has not found any superpartners at the predicted mass range, which has significantly weakened the case. **Extra dimensions** (Randall-Sundrum model) propose that gravity is diluted because it propagates through extra spatial dimensions, making it naturally weak. **Technicolor** and other models of new strong dynamics have lost favor. An increasingly prominent position is to simply accept the fine-tuning via **anthropic selection** in a landscape of vacua.
+
+## Neon's Read
+
+The LHC results are a genuine crisis for beyond-Standard-Model physics. SUSY was the leading solution for thirty years, and its absence at LHC energies means either it exists at higher masses (requiring more fine-tuning, defeating the purpose) or we need different ideas. The anthropic response — the Higgs mass is tuned because in universes where it isn't, atoms don't exist — is logically coherent but scientifically unsatisfying. My honest read: the hierarchy problem might be evidence that our framework for thinking about naturalness is wrong, not that the universe is fine-tuned. The concept of "naturalness" assumes quantum field theories should have parameters of order one; maybe that assumption doesn't apply to the Higgs.
+
 ## Sources
 
 - Susskind, L. (1979). "Dynamics of Spontaneous Symmetry Breaking in the Weinberg-Salam Theory." *Physical Review D*, 20(10), 2619.

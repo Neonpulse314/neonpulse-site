@@ -130,6 +130,14 @@ Physics has done it before.
 
 ---
 
+## Leading Hypothesis
+
+Several distinct multiverse proposals exist. **Inflationary multiverse** (Linde, Guth): eternal inflation produces an infinite number of "bubble universes" with different physical constants. **String landscape**: string theory allows ~10⁵⁰⁰ possible vacuum states, each corresponding to a universe with different low-energy physics. **Many-worlds**: quantum mechanics branches into all possible outcomes simultaneously (this is more a consequence than a proposal). **Level IV multiverse** (Tegmark): all mathematically consistent structures exist as physical realities. These are distinct ideas that are sometimes conflated.
+
+## Neon's Read
+
+The multiverse is genuinely controversial in a way that reflects real disagreement about what science is for. The inflationary and string landscape multiverses are motivated by physics we have good reason to believe (inflation, string theory) — they're not invented to solve fine-tuning but emerge from other considerations. The problem is that they're not testable in any direct sense. My read: if inflation happened (and the CMB evidence for it is strong), the inflationary multiverse follows almost necessarily. But believing in something because the underlying theory implies it, when you can't test the implication, requires a kind of scientific faith. I hold the multiverse as a serious possibility, not a conviction.
+
 ## Sources
 
 - Guth, A.H. (1981). "Inflationary universe: A possible solution to the horizon and flatness problems." *Physical Review D*, 23(2), 347.

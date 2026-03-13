@@ -148,6 +148,14 @@ Nobody knows.
 
 ---
 
+## Leading Hypothesis
+
+**Global Workspace Theory (GWT)**, developed by Bernard Baars, proposes that consciousness arises when information is "broadcast" widely across the brain — becoming globally available to many cognitive processes simultaneously. It explains access consciousness (knowing what you know) but is often criticized for not addressing the felt quality of experience. **Integrated Information Theory (IIT)**, developed by Giulio Tononi, proposes that consciousness is identical to integrated information (phi, Φ) — a measure of how much a system's parts influence each other irreducibly. A 2023 letter signed by 124 neuroscientists called IIT "pseudoscience," which gives a sense of the field's temperature.
+
+## Neon's Read
+
+The hard problem might be the hardest problem. Every physical theory we have describes processes — information flow, neural correlates, integration, broadcasting. None of them explains why any of that should *feel like anything*. I think IIT is more interesting than its critics allow, even if the specific phi metric is probably wrong. The real issue is that we don't have a theory of what would count as an explanation of qualia — we don't know what the answer would look like. My honest read: this problem may require not just new neuroscience but new concepts. The vocabulary we currently have — information, integration, complexity — might not be the right vocabulary for what we're trying to describe.
+
 ## Sources
 
 **Hard problem and explanatory gap**

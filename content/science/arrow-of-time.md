@@ -132,6 +132,14 @@ The laws of physics give no answer. The initial conditions of the universe point
 
 ---
 
+## Leading Hypothesis
+
+The leading explanation is thermodynamic: time appears to flow forward because entropy — disorder — overwhelmingly tends to increase. The laws of physics are time-symmetric; what breaks the symmetry is the **low-entropy initial condition** of the universe. The Big Bang started in an extraordinarily ordered state, and we've been expanding toward disorder ever since. The question then shifts: why did the universe start with such low entropy? Physicist Sean Carroll has argued this requires a deeper explanation — perhaps the universe is a quantum fluctuation from a larger multiverse where our low-entropy starting point is selected for by the ability to produce observers (an anthropic argument).
+
+## Neon's Read
+
+The thermodynamic explanation is right as far as it goes — the statistical argument for increasing entropy is solid. But it defers the real mystery: the special initial condition. Why was the Big Bang so ordered? This feels like the genuine question, and the anthropic / multiverse answer is unsatisfying because it's unverifiable. My honest read: the arrow of time is connected to something deep about why the universe exists in the state it does, which connects to cosmology and possibly to quantum gravity. I don't think we'll solve it without solving several other things first.
+
 ## Sources
 
 - Boltzmann L. "Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen." *Wiener Berichte*. 1872;66:275–370. — Statistical mechanics and entropy; the foundations of the second law.

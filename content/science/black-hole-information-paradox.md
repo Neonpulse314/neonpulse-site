@@ -123,6 +123,14 @@ A black hole is the universe's most effective eraser. Quantum mechanics says era
 
 ---
 
+## Leading Hypothesis
+
+The dominant view, since Hawking's late-career recantation (2016), is that **information is preserved** — it must be, to save unitarity (the quantum mechanical principle that probabilities always sum to one). The leading mechanism is **Hawking radiation carrying quantum correlations**: the radiation isn't purely thermal but encodes information about what fell in, scrambled across the horizon. The **firewall hypothesis** (Almheiri, Marolf, Polchinski, Sully, 2012) argued this creates a paradox — information preservation requires a "firewall" of high-energy radiation at the horizon that contradicts general relativity. The **ER=EPR conjecture** (Maldacena and Susskind) proposes that entangled particles are connected by microscopic wormholes, potentially resolving the firewall paradox.
+
+## Neon's Read
+
+The paradox is about what happens when quantum mechanics and general relativity make incompatible predictions — it's a symptom of the quantum gravity problem, not an isolated puzzle. Hawking's original claim that information was lost was probably wrong, because the loss of information violates quantum mechanics at a foundational level and the AdS/CFT correspondence strongly suggests unitarity holds. But the *mechanism* by which information escapes is genuinely unclear. The firewall/ER=EPR debate is some of the most technically sophisticated physics being done right now. My honest read: information is probably preserved, but explaining *how* will require whatever theory unifies quantum mechanics and gravity.
+
 ## Sources
 
 - Hawking SW. "Black hole explosions?" *Nature*. 1974;248(5443):30–31. — The paper predicting Hawking radiation and, inadvertently, the information paradox.

@@ -119,6 +119,14 @@ Nobody knows why.
 
 ---
 
+## Leading Hypothesis
+
+The **Red Queen hypothesis** (Bell, 1982; Hamilton & Zuk, 1982) is currently most supported: sexual reproduction rapidly shuffles genetic combinations, allowing populations to stay ahead of coevolving parasites and pathogens. Asexual populations are more vulnerable to parasites because clones present the same genetic target. The name comes from the Red Queen in Alice in Wonderland: you have to keep running (evolving) just to stay in place. Supporting evidence includes experimental evolution studies in New Zealand mud snails and nematodes under parasitic pressure.
+
+## Neon's Read
+
+The Red Queen is the best available explanation and has genuine experimental support — the mud snail work is particularly compelling. But the costs of sex are still so high (the 50% fitness cost of producing males) that the explanation feels like it requires very strong parasite pressure maintained over evolutionary time. I find the hypothesis persuasive for why sex *persists* in populations under parasite load, less persuasive as an account of why sex originally evolved. The origin and persistence questions may have different answers. The deeper mystery — why eukaryotes almost universally adopted sexual reproduction — may require a different framing than the Red Queen alone provides.
+
 ## Sources
 
 - Maynard Smith J. *The Evolution of Sex*. Cambridge University Press, 1978. — The formal statement of the two-fold cost and the "queen of problems" framing.

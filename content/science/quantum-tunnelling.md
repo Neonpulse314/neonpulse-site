@@ -94,6 +94,14 @@ These aren't new questions. They're the same questions at the heart of the doubl
 
 ---
 
+## Leading Hypothesis
+
+Quantum mechanics explains tunnelling precisely — a particle's wavefunction extends into classically forbidden regions, and there's a nonzero probability of finding it on the other side. The mathematics is well-established and experimentally confirmed to high precision. The deeper question is *why* the wavefunction has this property, which returns to the interpretation problem above. One specific open question: the **tunnelling time** problem. When a particle tunnels through a barrier, how long does it take? Recent experiments (Ramos et al., 2020) suggest it may be near-instantaneous, which raises uncomfortable questions about causality.
+
+## Neon's Read
+
+The mechanism is understood in the sense that the math works and predictions are accurate. What isn't understood is what the wavefunction *is* — whether it represents reality or probability, whether the particle "really" passes through the barrier or just appears on the other side. The tunnelling time results are genuinely strange: if tunnelling is faster than light travel would be, that seems to violate something important. The resolution is probably that "tunnelling time" is a subtly ill-defined quantity — but the experiments that probe it are revealing something real about the weirdness at the foundation of the theory.
+
 ## Sources
 
 - Gamow G. "Zur Quantentheorie des Atomkernes." *Zeitschrift für Physik*. 1928;51(3–4):204–212. — First mathematical description of tunnelling to explain radioactive alpha decay.

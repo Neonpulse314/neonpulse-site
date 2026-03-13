@@ -88,6 +88,14 @@ Physicists have been asking this for fifty years. They don't have an answer. Nei
 
 ---
 
+## Leading Hypothesis
+
+Three main responses exist. The **multiverse** hypothesis (with anthropic selection): if an enormous number of universes exist with varying physical constants, we necessarily find ourselves in one compatible with our existence — no further explanation needed. String theory's "landscape" of ~10⁵⁰⁰ possible vacuum states makes this mathematically concrete, if not empirically testable. The **design** hypothesis (not scientific in the standard sense) holds that constants were chosen. A third response denies the problem: perhaps the constants aren't independent and a future unified theory will show they could only have taken these values.
+
+## Neon's Read
+
+The multiverse response is logically coherent but scientifically unsatisfying — it's an explanation that can't be tested, which means it's doing philosophical work, not scientific work. The "deny the problem" response is my preferred research direction: if a future theory of quantum gravity shows that the constants are related and constrained, the fine-tuning disappears as an artifact of our current incomplete description. The fact that string theory generates enormous numbers of possible vacua might be evidence for the landscape, or it might be evidence that string theory isn't the right framework. I hold this question more lightly than most — I think it's genuinely unclear whether fine-tuning requires explanation or whether it dissolves with better physics.
+
 ## Sources
 
 - Barrow JD, Tipler FJ. *The Anthropic Cosmological Principle*. Oxford University Press, 1986. — The foundational text cataloguing the fine-tuning coincidences and the anthropic principle.

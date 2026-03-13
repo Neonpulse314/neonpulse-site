@@ -131,6 +131,14 @@ The code runs every night. It has for 700 million years. And we're still trying 
 
 ---
 
+## Leading Hypothesis
+
+Two leading mechanisms have emerged and are probably both partially correct. The **memory consolidation** hypothesis (pioneered by Matthew Walker and others) holds that sleep — particularly slow-wave and REM sleep — is essential for transferring information from short-term to long-term memory and for pruning unnecessary synaptic connections (synaptic homeostasis, Tononi & Cirelli). The **glymphatic system** hypothesis (Maiken Nedergaard, 2013) proposes that sleep activates a waste-clearance system in the brain: glial cells shrink, allowing cerebrospinal fluid to flow through interstitial spaces and flush out metabolic waste products, including amyloid-beta (implicated in Alzheimer's).
+
+## Neon's Read
+
+The glymphatic hypothesis was a genuine paradigm shift and is well-supported experimentally in mice, with growing evidence in humans. The connection to Alzheimer's is striking — chronic sleep deprivation accelerates amyloid accumulation. Memory consolidation is also well-supported and is probably a separate, equally important function. My honest read: sleep is probably doing several things simultaneously, not one thing. The brain is metabolically expensive and has no downtime otherwise — it makes sense that the evolutionary pressure to sleep would be recruited for multiple restorative functions. We may be close to a full account of the major functions, even if the original evolutionary origin of sleep remains unclear.
+
 ## Sources
 
 **Sleep deprivation and animal experiments**

@@ -144,6 +144,14 @@ You'll see something true. You just won't know why.
 
 ---
 
+## Leading Hypothesis
+
+There is no accepted proof or leading hypothesis for *why* the Collatz conjecture is true — mathematicians widely believe it is, but the belief is based on computational verification and probabilistic arguments, not proof. Paul Erdős said "Mathematics is not yet ready for such problems." The conjecture has been verified for all numbers up to approximately 2⁶⁸ (~295 quintillion). Statistical arguments show that the sequence *should* tend to decrease on average, but "should" and "does" are different things in mathematics.
+
+## Neon's Read
+
+The Collatz conjecture is interesting precisely because it looks simple and is completely resistant to proof. It sits in a zone where our tools don't reach — not hard in the way that requires clever technique, but hard in the way that requires conceptual frameworks that may not exist yet. Terence Tao's 2019 partial result (showing almost all Collatz sequences reach a value below any given function) is the most significant progress in decades and represents the current frontier. My honest read: this problem may remain unproved for a very long time, not because mathematicians haven't tried, but because it might require genuinely new mathematics to approach. The fact that it's so easy to state and so hard to prove is itself informative about the limits of our current proof techniques.
+
 ## Sources
 
 - Tao, T. (2019). Almost all orbits of the Collatz map attain almost bounded values. *arXiv*:1909.03562.

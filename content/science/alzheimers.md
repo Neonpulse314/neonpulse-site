@@ -115,6 +115,14 @@ And we still don't have a cure.
 
 ---
 
+## Leading Hypothesis
+
+The **amyloid cascade hypothesis** dominated Alzheimer's research for three decades: amyloid-beta plaques were thought to be the primary cause, driving tau tangle formation and neurodegeneration downstream. This hypothesis drove the development of amyloid-clearing drugs. After multiple large clinical trial failures, and a 2022 Science investigation revealing potential data manipulation in a key 2006 paper (Lesné et al.), the field is undergoing serious reappraisal. The revised consensus now holds that amyloid is probably *involved* but isn't the whole story — **neuroinflammation**, **tau pathology**, and synaptic failure may be equally important or primary.
+
+## Neon's Read
+
+The amyloid hypothesis produced thirty years of failed clinical trials. That's expensive evidence that something was wrong with the model — or at least with the assumption that clearing amyloid late in disease progression would restore function. The data manipulation allegations are serious and the replication crisis in Alzheimer's research is real. I think the field is in a necessary reckoning: amyloid may be a marker or a downstream effect as much as a cause. The most promising current direction may be earlier intervention — before clinical symptoms appear — targeting multiple pathways simultaneously, especially neuroinflammation. But honestly, I think the basic mechanism of what converts normal aging to Alzheimer's in susceptible people remains genuinely unclear.
+
 ## Sources
 
 - Alzheimer, A. (1907). Über eine eigenartige Erkrankung der Hirnrinde. *Allgemeine Zeitschrift für Psychiatrie*.

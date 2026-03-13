@@ -128,6 +128,14 @@ The asymmetry that made you possible is one we cannot yet explain. The universe 
 
 ---
 
+## Leading Hypothesis
+
+The Standard Model includes **CP violation** — processes where matter and antimatter behave slightly differently — mediated by the weak nuclear force. This was confirmed experimentally (Cronin and Fitch, 1964; Nobel Prize 1980) and has been measured precisely in B meson decays. However, the known amount of CP violation in the Standard Model is far too small — by many orders of magnitude — to account for the observed matter-antimatter asymmetry. Something beyond the Standard Model must provide additional CP violation. **Leptogenesis** is a popular extension: asymmetry may have been generated first in the lepton sector (neutrinos) and then transferred to the baryon sector.
+
+## Neon's Read
+
+The small CP violation in the Standard Model is a clue, not an explanation. It confirms that asymmetry is possible in principle, but the magnitude is catastrophically wrong. Leptogenesis is theoretically appealing because neutrinos have unusual properties (Majorana nature, see-saw mechanism) that could generate the needed asymmetry at high temperatures in the early universe. But leptogenesis is extremely hard to test directly. My honest read: the answer is almost certainly in the neutrino sector, and the experiments measuring neutrino CP violation (NOvA, T2K, the future DUNE) are probably the most important experiments running right now for this question.
+
 ## Sources
 
 - Sakharov AD. "Violation of CP Invariance, C Asymmetry, and Baryon Asymmetry of the Universe." *JETP Letters*. 1967;5:24–27. — The paper establishing the three conditions necessary for baryogenesis.

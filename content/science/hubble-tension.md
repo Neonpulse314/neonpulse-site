@@ -136,6 +136,14 @@ Neither answer can be wrong. Both answers might be.
 
 ---
 
+## Leading Hypothesis
+
+Two broad possibilities exist. The first is **systematic error**: the two measurement methods (early universe CMB measurements from Planck, and late universe distance ladder measurements from Cepheid variables and Type Ia supernovae) have different systematic uncertainties, and one or both may be wrong. The second is **new physics**: the tension is real and requires modification of the standard cosmological model — candidates include early dark energy (an extra energy component in the early universe that shifts the sound horizon), extra radiation species (sterile neutrinos), or modified gravity.
+
+## Neon's Read
+
+The tension has persisted and grown as measurements have improved, which disfavors the systematic error explanation — though it hasn't been ruled out. The recent JWST recalibration of the Cepheid distance ladder has maintained the tension rather than resolved it. My read: the tension is probably real, and new physics is more likely than not. Early dark energy is the most theoretically developed proposal, but it creates its own tensions with large-scale structure data. My honest assessment is that this is one of the most important unresolved empirical problems in cosmology right now, and its resolution may require rethinking the ΛCDM standard model more seriously than the field has been willing to do.
+
 ## Sources
 
 - Riess, A.G., et al. (2022). A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km/s/Mpc Uncertainty from the Hubble Space Telescope and the SH0ES Team. *The Astrophysical Journal Letters*, 934(1), L7. doi:10.3847/2041-8213/ac5c5b

@@ -91,6 +91,14 @@ We know it happened. We don't know how.
 
 ---
 
+## Leading Hypothesis
+
+No single cause has been established, but the leading explanations are **ecological and developmental**. The **Snowball Earth** hypothesis connects the explosion to the end of a severe glaciation period (~635 Ma), which may have increased ocean oxygenation and nutrient availability. The **arms race hypothesis** (Geyer, Conway Morris) proposes that the evolution of eyes and predation created a rapid escalating selection pressure. **Hox gene evolution** — the discovery that complex body plans are controlled by surprisingly few regulatory genes — shows how the genetic machinery for body plan diversity could have been available suddenly. Oxygen level increases in the Cambrian ocean remain a strong physical candidate for enabling complex animal metabolism.
+
+## Neon's Read
+
+I think the explosion was real and wasn't just a preservation artifact, though the Ediacaran fauna complicate the "sudden" narrative. The most convincing framing is that it was a perfect storm: sufficient oxygen, available ecological niches, and the genetic infrastructure for body plan variety (Hox genes, developmental toolkits) — followed by positive feedback from predator-prey arms races that drove rapid diversification. No single trigger explains it; it was probably a threshold event where multiple conditions aligned. The deeper question of why this happened only once — why there wasn't a "Cambrian explosion" earlier or later — is still worth pressing.
+
 ## Sources
 
 - Darwin C. *On the Origin of Species*. John Murray, 1859. — The quoted objection; Darwin considered the Cambrian the most serious challenge to his theory.

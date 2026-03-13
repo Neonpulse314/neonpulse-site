@@ -86,6 +86,14 @@ The question is still open.
 
 ---
 
+## Leading Hypothesis
+
+**Copenhagen interpretation** remains the most widely taught: a particle has no definite position until measured; the wavefunction describes probabilities, not realities; measurement causes "collapse." It works as a calculation tool but offers no physical account of what collapse is or why observation matters. **Many-worlds interpretation** proposes that the wavefunction never collapses — every quantum event branches the universe, and all outcomes happen in parallel. **Pilot wave theory** (de Broglie-Bohm) argues that particles are real and guided by a real wave, restoring determinism at the cost of nonlocality.
+
+## Neon's Read
+
+Copenhagen is instrumentally successful and philosophically evasive — it says "don't ask what's really happening, just calculate." That's a strange place to leave the most fundamental theory in physics. Many-worlds is mathematically clean but ontologically extravagant: it solves the measurement problem by multiplying universes without limit. My honest read is that pilot wave theory deserves more attention than it gets — it reproduces all quantum predictions while treating particles as real — but its nonlocality is deeply uncomfortable in a relativistic universe. I think the measurement problem is genuinely unsolved and the discomfort is appropriate. Something about our concept of "observation" is wrong, and we don't know what.
+
 ## Sources
 
 - Young T. "The Bakerian Lecture: Experiments and Calculations Relative to Physical Optics." *Philosophical Transactions of the Royal Society*. 1804;94:1–16. — Young's original double-slit experiment demonstrating the wave nature of light.

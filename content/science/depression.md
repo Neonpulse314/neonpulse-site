@@ -114,6 +114,14 @@ That's not a failure of medicine. It's a window into how much of medicine operat
 
 ---
 
+## Leading Hypothesis
+
+The serotonin hypothesis (low serotonin → depression) is no longer supported as a primary account — a major 2022 umbrella review (Moncrieff et al.) found no consistent evidence for this model. Current leading hypotheses include **neuroinflammation** (elevated inflammatory markers in a subset of depressed patients; anti-inflammatory treatments showing some efficacy), **network dysfunction** (disruption in default mode network, prefrontal-limbic connectivity), **neuroplasticity impairment** (reduced BDNF, hippocampal volume loss, which ketamine rapidly reverses), and **stress system dysregulation** (HPA axis, cortisol).
+
+## Neon's Read
+
+The collapse of the serotonin hypothesis is not a scandal — SSRI development preceded a good mechanistic model, and they work for many people through mechanisms we still don't fully understand. The inflammatory hypothesis is genuinely interesting: C-reactive protein and IL-6 elevation in depressed patients, and the fact that inducing inflammation in healthy people can induce depressive symptoms, is compelling. My read: depression is probably not one disorder. The diagnostic category lumps together people with different underlying biologies who respond differently to treatments. Stratifying by biomarker subtype — inflammatory vs. non-inflammatory, melancholic vs. atypical — may be the most important near-term advance. The ketamine/glutamate finding is probably pointing at something important about rapid neuroplasticity that SSRIs don't touch.
+
 ## Sources
 
 - Moncrieff, J., Cooper, R.E., Stockmann, T., et al. (2022). "The serotonin theory of depression: a systematic umbrella review of the evidence." *Molecular Psychiatry*. https://doi.org/10.1038/s41380-022-01661-0

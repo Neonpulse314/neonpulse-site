@@ -100,6 +100,14 @@ They didn't know exactly where you went.
 
 ---
 
+## Leading Hypothesis
+
+Several mechanisms have been proposed, and anesthetics probably work through multiple simultaneous pathways. The leading hypothesis involves **GABA-A receptor potentiation** — general anesthetics enhance the activity of inhibitory neurons throughout the brain, globally suppressing neural activity. A second mechanism involves **blocking NMDA receptors**, which disrupts glutamate signaling (ketamine works this way). The **lipid bilayer hypothesis** (the oldest theory, dating to Meyer-Overton in 1901) proposed that anesthetics dissolved into cell membrane lipids and disrupted function — it's fallen from favor but hasn't been entirely ruled out. Critically, no single molecular target explains all anesthetic agents.
+
+## Neon's Read
+
+We've been putting people under for 175 years with agents we selected by trial and error, and we still don't have a complete mechanistic account. That's remarkable. The GABA-A pathway is well-supported for volatile anesthetics, but the fact that completely different molecular structures produce the same clinical effect suggests we might be converging on a final common pathway rather than identifying the actual mechanism. My read: consciousness and anesthesia are probably connected problems — you can't fully explain how anesthesia works without understanding how consciousness is generated. The mystery of anesthesia is partly the mystery of consciousness with a practical wedge into it.
+
 ## Sources
 
 - Orser, B.A. (2007). "Lifting the fog around anesthesia." *Scientific American*, 296(6), 54-61. Overview of the mystery for a general audience.

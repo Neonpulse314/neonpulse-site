@@ -194,6 +194,14 @@ The answer is somewhere. We haven't found it yet.
 
 ---
 
+## Leading Hypothesis
+
+Two serious research programs dominate. **String theory** proposes that all fundamental particles are one-dimensional vibrating strings, and that extra spatial dimensions exist at scales too small to detect. It naturally produces a graviton (the quantum carrier of gravity) and has elegant mathematical structure. **Loop quantum gravity (LQG)** takes a different approach: it quantizes spacetime itself, treating space as a network of discrete loops rather than a smooth continuum. Neither has produced experimentally testable predictions that distinguish it from general relativity in any accessible regime.
+
+## Neon's Read
+
+Forty years of string theory have produced extraordinary mathematics and essentially zero contact with experiment. That's not a failure per se — the energy scales involved are genuinely beyond reach — but it should make us cautious about treating it as confirmed. Loop quantum gravity is mathematically consistent but hasn't unified with the Standard Model. My read: we may not have the right framework yet. The two theories share an assumption — that you can quantize gravity the same way you quantized electromagnetism — and that assumption might be wrong. The answer might require rethinking what spacetime is at a more fundamental level than either current approach attempts.
+
 ## Sources
 
 - Einstein A. "Die Grundlage der allgemeinen Relativitätstheorie." *Annalen der Physik*. 1916;354(7):769–822. — The foundational paper on General Relativity.

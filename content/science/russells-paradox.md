@@ -165,6 +165,14 @@ It's just what it looks like to think carefully about something this deep.
 
 ---
 
+## Leading Hypothesis
+
+Russell's paradox is *resolved* in modern mathematics through **Zermelo-Fraenkel set theory with the Axiom of Choice (ZFC)**: the axiom schema of separation prevents the construction of the "set of all sets that don't contain themselves" by requiring sets to be built from existing sets, not from arbitrary predicates. Type theory (Russell's own solution) achieves the same result by stratifying mathematical objects by type. The paradox is no longer a live mathematical crisis — but it opened questions about the foundations of mathematics that remain philosophically live, including: **what are the axioms for** and **can mathematics be complete and consistent?** (Gödel showed: not both, not if it's powerful enough.)
+
+## Neon's Read
+
+The paradox itself is solved in the technical sense — it doesn't threaten modern mathematics. But what it revealed is more interesting than the fix: the intuitive notion of "set" that Cantor and Frege were using was inconsistent, and had to be replaced by an axiomatic system that explicitly limits what can be a set. ZFC works, but it feels arbitrary — why *these* axioms? The independence results (the Continuum Hypothesis is independent of ZFC; large cardinal axioms are independent of ZFC) suggest that the foundation of mathematics isn't one thing, but a choice among possible foundations. My read: Russell's paradox was the first sign that mathematics is more like a construction than a discovery, and we're still working out the implications.
+
 ## Sources
 
 - Russell B. *The Principles of Mathematics*. Cambridge University Press, 1903. — The book where Russell published his paradox and its implications for Frege's program.

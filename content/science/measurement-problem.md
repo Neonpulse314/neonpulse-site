@@ -109,6 +109,14 @@ Nobody knows what "looking" does to the universe. Nobody knows if it does anythi
 
 ---
 
+## Leading Hypothesis
+
+The same interpretations as the double-slit problem apply here. **Copenhagen** says wavefunction collapse is caused by measurement but doesn't define what a measurement is. **Many-worlds** says collapse never happens — branching does. **Decoherence** theory (Zeh, Zurek) argues that quantum superpositions appear to collapse because systems interact with their environment and become entangled with it, making interference effects effectively invisible — but this explains the *appearance* of collapse, not whether it actually occurs.
+
+## Neon's Read
+
+Decoherence is the most important development in the last 40 years of quantum foundations — it explains why we don't see superpositions in everyday life, and it's experimentally confirmed. But decoherence alone doesn't solve the measurement problem; it just pushes it back a level. The universe still contains all the superposed branches; we're just entangled with one of them. Whether "collapse" is real, whether many-worlds is true, or whether there's a yet-undiscovered level of physics — I genuinely don't know. My read is that this is probably the deepest conceptual problem in all of physics, and the resolution, when it comes, will change how we think about reality.
+
 ## Sources
 
 **Schrödinger's equation and wave function**

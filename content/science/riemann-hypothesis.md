@@ -129,6 +129,14 @@ The prime numbers keep their secret.
 
 ---
 
+## Leading Hypothesis
+
+No proof or disproof exists. The hypothesis has been verified computationally for the first 10¹³ zeros, all of which lie on the critical line (Re(s) = ½). The main mathematical approaches use techniques from **random matrix theory** (Montgomery-Odlyzko conjecture: the spacings between Riemann zeros match eigenvalue spacings of random Hermitian matrices) and **spectral theory** (the "Hilbert-Pólya conjecture" that the imaginary parts of the zeros are eigenvalues of some Hermitian operator). If the latter is true, proving it might require finding the physical system whose quantum mechanics that operator describes.
+
+## Neon's Read
+
+The connection to random matrix theory is one of the most striking unexplained coincidences in mathematics — it suggests the Riemann zeros "know" something about quantum chaos that we don't understand. The spectral interpretation, if true, would mean there's a physical system sitting underneath the prime numbers, which would be extraordinary. My honest read: I think the Riemann hypothesis is probably true — the computational evidence is overwhelming and the structure is too clean to be accidental. But "probably true" in mathematics means nothing without a proof, and the proof may require the discovery of entirely new objects. This is one of the places where mathematics and physics might turn out to be about the same thing.
+
 ## Sources
 
 - Riemann, B. (1859). "Über die Anzahl der Primzahlen unter einer gegebenen Grösse." *Monatsberichte der Berliner Akademie.* [The original 8-page paper.]

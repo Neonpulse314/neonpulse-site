@@ -128,6 +128,14 @@ We discovered this phenomenon before the theory of relativity was published. We 
 
 ---
 
+## Leading Hypothesis
+
+The pairing mechanism in high-temperature superconductors (cuprates) is not established. In conventional superconductors, electron pairs (Cooper pairs) form via **phonon-mediated interactions** — vibrations in the crystal lattice. In cuprates, phonons are not strong enough to explain the high critical temperatures. The leading alternative is **spin fluctuation-mediated pairing**: magnetic interactions between electrons provide the "glue" that forms Cooper pairs. The **resonating valence bond (RVB) theory** (Anderson, 1987) proposed a fundamentally different ground state, predicting d-wave pairing symmetry — which was confirmed experimentally, but the full theory hasn't explained all observed phenomena.
+
+## Neon's Read
+
+The confirmation of d-wave pairing was a major success for the RVB/spin fluctuation picture, but it hasn't converged into a complete theory. The pseudogap phase — a mysterious state above the superconducting transition temperature where electrons seem partially paired but not superconducting — remains deeply poorly understood. The fact that there are now multiple families of high-temperature superconductors (iron-based, nickelates, recently room-temperature candidates under pressure) and we don't have a unified theory of any of them is striking. My read: this is one of the most technically demanding open problems in condensed matter physics, and the answer probably involves correlation effects and many-body physics that our current theoretical tools handle poorly.
+
 ## Sources
 
 **Discovery and BCS theory**

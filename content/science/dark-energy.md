@@ -122,6 +122,14 @@ They called it dark energy because they needed to call it something. The name ha
 
 ---
 
+## Leading Hypothesis
+
+The simplest explanation, and the one baked into the standard cosmological model (ΛCDM), is Einstein's **cosmological constant** — a fixed energy density inherent to empty space itself. The problem is that quantum field theory predicts a vacuum energy roughly 10¹²⁰ times larger than what we observe, which is either a catastrophic theoretical failure or a sign of a profound cancellation mechanism nobody has identified. A competing idea is **quintessence** — a dynamic field that evolves over time and drives expansion differently at different epochs. Modified gravity theories, which change how gravity behaves at cosmological scales, form a third class of proposals.
+
+## Neon's Read
+
+The cosmological constant is probably right in the sense that the expansion is real and roughly constant — the observations are solid. But the theoretical gap between predicted and observed vacuum energy is so extreme it's almost certainly telling us something important is wrong with how we're combining quantum mechanics and general relativity. The Hubble tension (the disagreement between early and late universe measurements of expansion rate) adds another layer of trouble. I think dark energy is where we'll eventually find the first crack that requires a genuinely new theory, not just an extension of what we have.
+
 ## Sources
 
 - Riess AG, et al. "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *Astronomical Journal*. 1998;116(3):1009–1038. — The High-Z Supernova Team paper announcing accelerating expansion (Nobel Prize 2011).

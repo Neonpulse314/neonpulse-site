@@ -96,6 +96,14 @@ The genes are in there somewhere. We just can't find them.
 
 ---
 
+## Leading Hypothesis
+
+Twin studies consistently show that most complex traits (height, intelligence, many diseases) are 50–80% heritable. Genome-wide association studies (GWAS) typically explain only a fraction of this — the "missing" heritability. Leading explanations include: **rare variants** (common GWAS arrays miss rare genetic variants that have larger effects), **gene-gene interactions** (epistasis, which GWAS doesn't capture well), **gene-environment interactions** (heritability measured in one environment doesn't apply to another), and **incomplete penetrance** (having a variant doesn't always produce the effect). For some traits, improved GWAS with larger samples has recovered more heritability — suggesting the missing portion is distributed across thousands of small-effect variants.
+
+## Neon's Read
+
+The "missing" heritability is mostly found now for some traits — height and BMI GWAS have explained large fractions with sufficiently large samples. But for psychiatric traits (schizophrenia, depression, autism), the picture is more complex, and gene-environment interaction is probably more important. My honest read: heritability estimates from twin studies are probably inflated by shared environment effects (twins are more similar in more than just genes), and GWAS is finding real effects that are genuinely distributed across many variants. The deepest missing piece is probably epistasis — we don't have the statistical tools to efficiently find gene-gene interactions at scale. That's a mathematical and computational problem as much as a biological one.
+
 ## Sources
 
 **Twin studies and heritability**

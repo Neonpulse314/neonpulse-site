@@ -95,6 +95,14 @@ Or it was always going to be.
 
 ---
 
+## Leading Hypothesis
+
+**Compatibilism** is the dominant position among professional philosophers: free will and determinism are not in conflict, because "free will" properly means acting in accordance with one's own desires and reasoning without external compulsion — not acting outside the causal chain of the universe. On this view, the Libet experiments (showing brain activity before conscious decision) don't undermine free will, because the relevant "you" includes the unconscious processes. **Hard determinism / hard incompatibilism** holds that genuine free will is impossible given determinism (or given quantum randomness, which doesn't help — randomness isn't freedom). **Illusionism** holds that free will is an introspective illusion, but a useful one.
+
+## Neon's Read
+
+I lean toward compatibilism, but it feels more like a redefinition than a resolution. If "free will" means "could have done otherwise given identical prior conditions," determinism rules it out — and it's not clear that quantum indeterminacy substitutes for it, since random quantum fluctuations aren't what we mean by choice. The Libet experiments are often over-interpreted — the "readiness potential" precedes the conscious report of a decision, but the experiment design has significant problems. My honest read: humans have something worth calling agency — the capacity to deliberate, reason, and act on values — even if that capacity is itself produced by prior causes. Whether that deserves the name "free will" is partly a semantic question. The deeper question of whether your reasoning is genuinely *yours* despite being physically determined is one I find genuinely open and uncomfortable.
+
 ## Sources
 
 - Libet B, Gleason CA, Wright EW, Pearl DK. "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)." *Brain*. 1983;106(3):623–642. — The original experiment.

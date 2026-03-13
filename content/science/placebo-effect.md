@@ -138,6 +138,14 @@ We are still figuring out how.
 
 ---
 
+## Leading Hypothesis
+
+The leading mechanistic account has two components: **expectation** and **classical conditioning**. Expectation activates real physiological pathways — in pain contexts, expectation of relief triggers endogenous opioid release (confirmed by naloxone reversal studies). The brain's predictive processing framework offers a unified account: the placebo signal is a strong prediction that updates the body's own regulatory systems. Classical conditioning explains why placebos work even without awareness — repeated drug-placebo pairings can create conditioned responses that activate the same pathways as the drug.
+
+## Neon's Read
+
+The endogenous opioid finding is one of the most important results in psychoneuroimmunology — it demonstrates that belief has a concrete biochemical pathway, not just a psychological one. Ted Kaptchuk's work showing that *open-label* placebos (where patients know they're taking a sugar pill) still work is deeply strange and isn't fully explained by the expectation model. My read: the placebo effect is revealing something important about top-down regulation in biology — the brain has much more direct influence over physiology than we typically assume. The mechanism is partially understood; why it works even with full disclosure is not.
+
 ## Sources
 
 **Placebo analgesia and endogenous opioids (the 1978 naloxone study)**

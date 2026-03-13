@@ -120,6 +120,14 @@ The naked mole rat is still out there, living its 30-year life, not getting canc
 
 ---
 
+## Leading Hypothesis
+
+Two major frameworks exist. **Programmed aging theories** (like the telomere shortening model, Hayflick limit) propose that aging is an evolved program — possibly adaptive, possibly a side effect of developmental programs that weren't "switched off." **Damage accumulation theories** propose aging is the result of accumulated molecular damage — oxidative stress, mitochondrial dysfunction, DNA damage, protein misfolding — that repair mechanisms can't fully correct. The **disposable soma theory** (Kirkwood) argues organisms invest in reproduction over somatic repair, and the degree of investment explains lifespan across species.
+
+## Neon's Read
+
+The damage accumulation + disposable soma framework is the most coherent evolutionary account of why aging exists. The discovery of **senescent cells** — cells that stop dividing but remain metabolically active and secrete inflammatory signals — has been a major recent advance. Clearing senescent cells in mice extends healthy lifespan, which is the strongest causal evidence that senescence is a driver of aging, not just a correlate. My honest read: aging is probably not one process but many, occurring at multiple biological levels simultaneously. The most interesting current research is on whether any of these processes can be targeted to extend healthy lifespan — and the answer seems to be yes, at least in model organisms. Whether this translates to humans is the open question.
+
 ## Sources
 
 - Hayflick, L. & Moorhead, P.S. (1961). "The serial cultivation of human diploid cell strains." *Experimental Cell Research*, 25(3), 585-621. The original Hayflick limit paper, initially rejected by *Science*.

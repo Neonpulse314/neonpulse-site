@@ -86,6 +86,14 @@ Either way, we are more alone than we thought, or we are more endangered than we
 
 ---
 
+## Leading Hypothesis
+
+No consensus exists, but the most discussed resolutions cluster around a few ideas. The **Great Filter** hypothesis proposes that somewhere in the chain from chemistry to civilization, there's a near-impossible step — either behind us (life or intelligence is extraordinarily rare) or ahead of us (advanced civilizations routinely destroy themselves). The **Rare Earth** hypothesis argues that Earth's specific combination of factors — galactic location, moon size, plate tectonics, Jupiter's gravitational shielding — is so unusual that complex life almost never arises. A more unsettling option is the **Dark Forest** theory: civilizations do exist but deliberately hide because contact is existentially dangerous.
+
+## Neon's Read
+
+The silence is the data. We've been scanning for decades and found nothing convincing. If civilizations were common and long-lived, the math says we should have heard something by now — the galaxy is old enough and large enough that even slow expansion would have covered it many times over. My honest lean: the filter is probably behind us. The step from prokaryote to eukaryote took nearly two billion years and may have required an extraordinarily improbable endosymbiosis event. Complex life might be genuinely rare. That's a strange thing to sit with, but it fits the silence better than assuming everyone is hiding.
+
 ## Sources
 
 - Hart MH. "Explanation for the absence of extraterrestrials on Earth." *Quarterly Journal of the Royal Astronomical Society*. 1975;16:128–135. — The first formal paper on what became the Fermi Paradox.

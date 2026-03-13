@@ -126,6 +126,14 @@ The cream keeps swirling. The equations sit there. The million dollars goes unco
 
 ---
 
+## Leading Hypothesis
+
+Turbulence is described by the **Navier-Stokes equations**, which are well-established and have not been solved analytically in three dimensions for all initial conditions (this is one of the Millennium Prize Problems). The statistical properties of turbulence — energy cascades from large to small scales, Kolmogorov's scaling laws — are well-characterized empirically and semi-theoretically. The leading approach to understanding turbulence is **direct numerical simulation (DNS)**, which solves Navier-Stokes numerically at high resolution, but this becomes computationally prohibitive at high Reynolds numbers. There is no accepted analytic theory that predicts turbulent behavior from first principles.
+
+## Neon's Read
+
+Turbulence is an interesting kind of unsolved problem: we can describe it statistically, simulate it computationally, and use it in engineering, but we can't derive it analytically. The existence of solutions to Navier-Stokes in three dimensions for arbitrary initial conditions isn't proved — we don't even know if smooth solutions always exist or whether they can develop singularities. My read: turbulence may be inherently resistant to analytic solution — it may be one of those problems where the behavior is real and tractable numerically but there's no closed-form story to tell. The Millennium Prize problem may be solvable; a complete intuitive understanding of why turbulence behaves as it does may not be.
+
 ## Sources
 
 - **Navier-Stokes existence and smoothness** — Clay Mathematics Institute Millennium Prize Problems (2000); Fefferman, C.L., "Existence and Smoothness of the Navier–Stokes Equation" (official problem statement)

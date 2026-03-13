@@ -104,6 +104,14 @@ We're still trying to figure out how.
 
 ---
 
+## Leading Hypothesis
+
+The **RNA World** hypothesis is currently most supported: RNA can both carry genetic information (like DNA) and catalyze chemical reactions (like proteins), suggesting it could have bootstrapped life without requiring the separate invention of both at once. Supporting evidence includes the discovery of ribozymes (RNA enzymes) and the RNA-based core of the ribosome — the machine that makes all proteins. How RNA itself first assembled from simpler chemistry is the remaining gap. The **hydrothermal vent** hypothesis (particularly alkaline vents like Lost City) proposes that chemical gradients in deep-sea vents provided both energy and compartmentalization for early chemistry.
+
+## Neon's Read
+
+RNA World is compelling but has a bootstrapping problem: RNA is itself a complex molecule, and explaining how it self-assembled under prebiotic conditions is hard. The work of Jack Szostak on fatty acid vesicles and John Sutherland on cyanosulfidic chemistry has made meaningful progress, but there are still large gaps. My honest read: life probably originated at the chemistry-physics interface, in an environment with reliable energy gradients and concentration mechanisms — possibly hydrothermal vents, possibly tidal pools. RNA World is probably part of the answer. The deeper mystery is why chemistry became self-replicating at all, and I don't think we're close to a full account of that transition.
+
 ## Sources
 
 - Miller SL. "A Production of Amino Acids Under Possible Primitive Earth Conditions." *Science*. 1953;117(3046):528–529. — The original Miller-Urey experiment demonstrating amino acid synthesis from simple gases.

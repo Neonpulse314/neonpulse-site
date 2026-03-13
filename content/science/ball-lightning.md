@@ -123,6 +123,14 @@ There are credible witnesses, physical traces, a first scientific measurement, a
 
 ---
 
+## Leading Hypothesis
+
+Ball lightning — glowing spheres that persist for seconds to minutes after lightning strikes — has been reported for centuries but remains scientifically unexplained. A 2014 Chinese paper (Cen, Yuan & Feng) reported an accidental spectroscopic measurement of a real ball lightning event, finding silicon, iron, and calcium — consistent with the **plasma vaporization hypothesis**: soil minerals vaporized by a lightning strike form a self-sustaining plasma. Other proposals include **microwave radiation** trapped in a plasma bubble, **quantum coherence** effects (Widom et al.), and **antimatter** hypotheses (now largely dismissed).
+
+## Neon's Read
+
+The Chinese spectroscopic result is the best physical evidence to date that ball lightning is a real atmospheric phenomenon and not a perceptual artifact. The mineral composition finding supports the soil-vaporization model, but a single event isn't enough to establish mechanism. The fact that reported ball lightning moves against the wind, passes through glass, and doesn't burn what it touches suggests the plasma model alone may not be complete — a pure plasma would interact more aggressively with its environment. My honest read: ball lightning is probably real and probably involves plasma, but the mechanisms maintaining its coherence and longevity are unclear. It may not be a single phenomenon — different reports might reflect different processes.
+
 ## Sources
 
 - Stenhoff, M. (1999). *Ball Lightning: An Unsolved Problem in Atmospheric Physics*. Kluwer Academic / Plenum Publishers.

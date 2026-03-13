@@ -118,6 +118,14 @@ The most common substance in the universe — by mass, five times more common th
 
 ---
 
+## Leading Hypothesis
+
+The most widely supported candidate is a class of particles called **WIMPs** (Weakly Interacting Massive Particles) — hypothetical particles that have mass and gravity but don't interact with light or the electromagnetic force. WIMPs arise naturally from supersymmetry, an extension of the Standard Model of particle physics. A second serious contender is the **axion**, an extremely light particle originally proposed to solve a different problem in quantum chromodynamics. More recently, **primordial black holes** — black holes formed in the early universe before any stars existed — have attracted renewed interest after the LIGO gravitational wave detections.
+
+## Neon's Read
+
+The null results from XENON1T, LUX, and PandaX are starting to feel like a message. Decades of searching through the most plausible WIMP parameter space has found nothing. That doesn't rule out WIMPs entirely, but it shifts the odds. Axions are theoretically well-motivated and haven't been ruled out in the same way — the axion experiments (ADMX, HAYSTAC) are still probing viable territory. My honest read: dark matter is probably real, because the Bullet Cluster and CMB structure are very hard to explain otherwise. But I think the WIMP era may be ending, and the answer is more likely something we haven't fully developed the instrumentation to find yet.
+
 ## Sources
 
 - Rubin V, Ford WK Jr. "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions." *Astrophysical Journal*. 1970;159:379. — The landmark rotation curve paper.

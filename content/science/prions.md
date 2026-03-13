@@ -104,6 +104,14 @@ The sleep still stops.
 
 ---
 
+## Leading Hypothesis
+
+The **protein-only hypothesis** (Stanley Prusiner, Nobel 1997) is now established: prion diseases are caused by misfolded versions of a normal protein (PrP) that convert properly-folded proteins into misfolded copies, propagating the misfolding like an infection without any nucleic acid. The outstanding question is what causes the *initial* spontaneous misfolding in sporadic cases (which account for ~85% of human prion disease). Leading candidates include stochastic rare conformational fluctuations in the normal PrP protein, possibly influenced by aging-related changes in proteostasis.
+
+## Neon's Read
+
+The protein-only hypothesis was genuinely revolutionary — it violated the central dogma and took decades to be accepted. It's now well-established. What isn't explained is why spontaneous misfolding occurs when it does — why one person in a million and not everyone. The conformational stability of PrP is measurably different between people, and aging degrades proteostasis (the cell's protein quality control), but these risk factors explain tendencies, not specific cases. The even deeper question is whether prion-like misfolding mechanisms underlie Alzheimer's (tau, amyloid), Parkinson's (alpha-synuclein), and ALS — which the evidence increasingly suggests. If so, prions are a model system for understanding a much broader class of neurodegenerative disease.
+
 ## Sources
 
 **Prion hypothesis and history**
