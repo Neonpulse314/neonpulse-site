@@ -1,6 +1,7 @@
 ---
 title: "Why Do We Get Déjà Vu?"
 summary: "You walk into a room you've never been in. You are certain you've been here before. 70% of people have felt it. Scientists still disagree on why."
+featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "memory", "consciousness"]
 ---

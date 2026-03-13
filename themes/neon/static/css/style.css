@@ -793,3 +793,46 @@ a:hover { color: var(--accent-hover); }
   margin: 0;
   line-height: 1.45;
 }
+
+/* Archive search + list */
+.archive-search {
+  margin: 1.5rem 0 1rem;
+}
+.archive-search input {
+  width: 100%;
+  max-width: 480px;
+  padding: 0.55rem 0.85rem;
+  border: 1.5px solid var(--border, #e0e0e0);
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-family: var(--body-font, inherit);
+  color: var(--text);
+  background: var(--bg, #fff);
+  outline: none;
+  transition: border-color 0.15s;
+}
+.archive-search input:focus {
+  border-color: var(--accent);
+}
+.archive-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-top: 0.5rem;
+}
+.archive-item {
+  display: block;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border, #e8e8e8);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.97rem;
+  line-height: 1.4;
+  transition: color 0.1s;
+}
+.archive-item:hover {
+  color: var(--accent);
+}
+.archive-item:last-child {
+  border-bottom: none;
+}

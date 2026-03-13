@@ -1,6 +1,7 @@
 ---
 title: "Why Can't You Move When You Wake Up?"
 summary: "You wake up in the dark. You can't move. There's a shape at the foot of your bed. Your chest feels like it's being crushed. You are completely awake and completely unable to move. What your brain is doing — and why it's been terrifying humans for thousands of years."
+featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "hallucinations", "consciousness", "psychology"]
 ---

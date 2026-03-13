@@ -1,6 +1,7 @@
 ---
 title: "Why Can't You Remember a Word You Know You Know?"
 summary: "The tip-of-tongue state — where you know you know the word, can feel its shape, remember what letter it starts with, but can't quite retrieve it — happens to everyone. Neuroscience knows what's going wrong. The fix is surprisingly mechanical."
+featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "language", "memory", "psychology", "cognition"]
 ---

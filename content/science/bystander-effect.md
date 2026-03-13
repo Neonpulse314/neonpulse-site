@@ -2,6 +2,7 @@
 title: "Why the More People Who Witness an Emergency, the Less Likely Anyone Is to Help"
 section_label: "Why Your Brain Does This"
 summary: "When someone collapses in a crowded street, dozens of people may walk past. This isn't cruelty — it's a predictable failure of social cognition called the bystander effect. Two mechanisms drive it: diffusion of responsibility and pluralistic ignorance. Understanding them can save a life."
+featured: true
 tags: ["psychology", "social", "behavior", "decision-making", "neuroscience"]
 draft: false
 date: 2026-03-07

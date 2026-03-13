@@ -3,6 +3,7 @@ title: "Why Can't You Fall Back Asleep at 3am?"
 date: 2026-02-27
 description: "You wake up at 3am. You're not sick. Nothing woke you. And now your mind is running at full speed and sleep feels impossible. Here's why this keeps happening."
 tags: ["sleep", "neuroscience", "circadian rhythm", "anxiety"]
+featured: true
 ---
 
 It's 3am. Something woke you — or nothing did. You don't know.

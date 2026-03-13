@@ -1,6 +1,7 @@
 ---
 title: "There Is a Hole in Your Vision Right Now"
 summary: "You have a region of your visual field where you are completely blind — and your brain has been filling it in so seamlessly you've never noticed. Until now."
+featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "vision", "perception", "consciousness"]
 ---

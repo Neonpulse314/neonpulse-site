@@ -1,6 +1,7 @@
 ---
 title: "Why Can't You Remember Being a Baby?"
 summary: "You were there for your entire childhood. You experienced everything. You cannot remember any of it."
+featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "memory", "psychology", "identity", "development"]
 ---

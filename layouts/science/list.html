@@ -27,8 +27,8 @@
 
 {{ if $featured }}
 <section class="section-block" style="margin-top: 3rem;">
-  <div class="section-eyebrow">Reader Favourites — {{ len $featured }} articles</div>
-  <p class="section-block-desc">The most-read How &amp; Why articles. Start here if you're new.</p>
+  <div class="section-eyebrow">Best How &amp; Why Articles — {{ len $featured }} picks</div>
+  <p class="section-block-desc">The most compelling everyday questions — start here if you're new.</p>
   <div class="section-card-grid">
     {{ range $featured }}
     <a href="{{ .RelPermalink }}" class="science-card">
@@ -42,48 +42,33 @@
 
 {{ if $unfeatured }}
 <section class="section-block" style="margin-top: 3rem;">
-  <div class="section-eyebrow">All How &amp; Why Articles — {{ len $unfeatured }} articles</div>
-  <p class="section-block-desc">Everyday phenomena explained — the real answers, not the ones you half-remember from school.</p>
+  <div class="section-eyebrow">Complete Archive — {{ len $unfeatured }} articles</div>
+  <p class="section-block-desc">Every How &amp; Why article. Use the search box to find what you're looking for.</p>
 
-  {{/* Build alphabet index */}}
-  {{ $letters := slice }}
-  {{ range $unfeatured }}
-    {{ $first := upper (substr .Title 0 1) }}
-    {{ if not (in $letters $first) }}
-      {{ $letters = $letters | append $first }}
-    {{ end }}
-  {{ end }}
-  {{ $letters = sort $letters }}
-
-  <div class="alpha-nav">
-    {{ range $letters }}
-    <a href="#letter-{{ . }}" class="alpha-nav-link">{{ . }}</a>
-    {{ end }}
+  <div class="archive-search">
+    <input type="text" id="archiveSearch" placeholder="Search articles..." oninput="filterArchive(this.value)" autocomplete="off">
   </div>
 
-  {{ range $letters }}
-  {{ $letter := . }}
-  {{ $group := slice }}
-  {{ range $unfeatured }}
-    {{ if eq (upper (substr .Title 0 1)) $letter }}
-      {{ $group = $group | append . }}
+  <div id="archiveList" class="archive-list">
+    {{ range $unfeatured }}
+    <a href="{{ .RelPermalink }}" class="archive-item" data-title="{{ lower .Title }}">{{ .Title }}</a>
     {{ end }}
-  {{ end }}
-  {{ if $group }}
-  <div class="alpha-section">
-    <h3 id="letter-{{ $letter }}" class="alpha-heading">{{ $letter }}</h3>
-    <div class="story-list story-list--compact">
-      {{ range $group }}
-      <article class="story-card story-card--compact">
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        {{ if .Params.summary }}<p>{{ .Params.summary | truncate 100 }}</p>{{ end }}
-      </article>
-      {{ end }}
-    </div>
   </div>
-  {{ end }}
-  {{ end }}
-
+  <p id="archiveEmpty" style="display:none; color: var(--text-muted, #888); margin-top: 1rem;">No articles match.</p>
 </section>
+
+<script>
+function filterArchive(q) {
+  var items = document.querySelectorAll('.archive-item');
+  var term = q.toLowerCase().trim();
+  var shown = 0;
+  items.forEach(function(el) {
+    var match = !term || el.dataset.title.indexOf(term) !== -1;
+    el.style.display = match ? '' : 'none';
+    if (match) shown++;
+  });
+  document.getElementById('archiveEmpty').style.display = (shown === 0) ? '' : 'none';
+}
+</script>
 {{ end }}
 {{ end }}

@@ -1,6 +1,7 @@
 ---
 title: "Why Do You Get Goosebumps?"
 summary: "Goosebumps are a vestigial response from when your ancestors had fur — a reflex that made hair stand up to look bigger when threatened, or trap warm air in cold. In humans, the fur is gone but the hardware isn't. And somehow this ancient threat response also fires when you hear something beautiful."
+featured: true
 section_label: "Science Mystery"
 tags: ["biology", "evolution", "neuroscience", "emotion", "physiology"]
 ---

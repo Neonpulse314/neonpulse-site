@@ -1,6 +1,7 @@
 ---
 title: "Does Everyone Have an Inner Voice?"
 summary: "Most people who have a running inner monologue assume everyone does. Most people who don't have one never thought to mention it. Both groups were wrong about the other."
+featured: true
 section_label: "Science Mystery"
 tags: ["psychology", "consciousness", "neuroscience", "cognition"]
 ---

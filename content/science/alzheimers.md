@@ -3,6 +3,7 @@ title: "Scientists Spent 30 Years and $50 Billion Chasing the Wrong Cause of Alz
 date: 2026-03-06
 description: "The amyloid hypothesis dominated Alzheimer's research for three decades. Clinical trial after clinical trial failed. Then a landmark paper may have been fraudulent. We're not much closer than we were in 1906."
 tags: ["neuroscience", "brain", "medicine", "mystery", "dementia", "science-failure"]
+featured: true
 tier: 1
 mystery: true
 ---
