@@ -1,24 +1,24 @@
 ---
 title: "Earnestness — The Cost of Caring Out Loud"
-summary: "Kai is doing something that would embarrass him if his friends found out. He's actually trying. Not performing trying. He's read the extra readings. He went to office hours twice just because he had real questions."
+summary: "Kai is doing something that would embarrass her if her friends found out. She's actually trying. Not performing trying. She's read the extra readings. She went to office hours twice just because she had real questions."
 date: 2026-03-07
 tags: ["values", "authenticity", "courage", "vulnerability"]
 section_label: "Values"
 ---
 
-Kai was twenty, second year, and he was doing something that would have embarrassed him if his friends found out: he was actually trying.
+Kai was twenty, second year, and she was doing something that would have embarrassed her if her friends found out: she was actually trying.
 
-The course was an elective — Philosophy of Mind, Tuesday afternoons. His friends took the same section. They were all doing the minimum. Two hundred words of notes per lecture, Wikipedia summaries the night before the essay was due, trading file-shares of old assignments. This was the standard contract: show up, get the credit, move on.
+The course was an elective — Philosophy of Mind, Tuesday afternoons. Her friends took the same section. They were all doing the minimum. Two hundred words of notes per lecture, Wikipedia summaries the night before the essay was due, trading file-shares of old assignments. This was the standard contract: show up, get the credit, move on.
 
-Kai had read the extra readings. He'd underlined things. He'd gone to the professor's office hours twice — not because he was behind, but because he had actual questions. He stayed up until one in the morning writing an essay that nobody required him to care about.
+Kai had read the extra readings. She'd underlined things. She'd gone to the professor's office hours twice — not because she was behind, but because she had actual questions. She stayed up until one in the morning writing an essay that nobody required her to care about.
 
-He didn't tell his friends how long it took.
+She didn't tell her friends how long it took.
 
-When the essay came back with an A and two paragraphs of handwritten notes in the margins, he folded it and put it in his bag before anyone could see.
+When the essay came back with an A and two paragraphs of handwritten notes in the margins, she folded it and put it in her bag before anyone could see.
 
 At the next office hours the professor said: *I don't get engagement like this very often. I want you to know it's appreciated.*
 
-Kai said thanks and felt something he hadn't expected: caught.
+Kai said thanks and felt something she hadn't expected: caught.
 
 Caught caring. Caring openly, on the record, where someone could see it. Which was somehow more uncomfortable than being called out for not caring.
 
@@ -40,7 +40,7 @@ But the posture has a side effect: you can't fully inhabit things.
 
 If you're always watching yourself from the outside, you can't be inside the thing. You can't actually be in the conversation, or the class, or the relationship — you can only be a person demonstrating their presence in it. And at some level, you know the difference. There's a specific hollowness to doing things with the armor on. You get through them. You don't live inside them.
 
-Kai had lived inside the essay. He'd followed a thought all the way to the end because he wanted to know where it went, not because anyone would notice. The professor's note confirmed what he'd felt during the writing: that it was real.
+Kai had lived inside the essay. She'd followed a thought all the way to the end because she wanted to know where it went, not because anyone would notice. The professor's note confirmed what she'd felt during the writing: that it was real.
 
 ---
 
@@ -52,7 +52,7 @@ What you get in return is something small but not nothing: you were actually the
 
 Not performing presence. Not going through the motions with an exit strategy built in. Actually in it, actually trying, in a way that could fail and sometimes will.
 
-Kai walked out of the professor's office and decided something small: he was going to stop pretending he hadn't tried. Not announce it. Not make it a thing. Just stop performing indifference about work he'd actually done.
+Kai walked out of the professor's office and decided something small: she was going to stop pretending she hadn't tried. Not announce it. Not make it a thing. Just stop performing indifference about work she'd actually done.
 
 It was a minor adjustment. It felt bigger than it should have.
 

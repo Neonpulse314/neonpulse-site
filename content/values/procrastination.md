@@ -1,18 +1,18 @@
 ---
 title: "Procrastination — Why You Do Less When You Care Most"
-summary: "Jordan has a short story due in three days — the assignment he cares about most all semester. He has ideas. He knows what he wants to say. He has cleaned his room, texted people he hasn't spoken to in months, and watched two hours of videos about productivity. He hasn't started."
+summary: "Jordan has a short story due in three days — the assignment she cares about most all semester. She has ideas. She knows what she wants to say. She has cleaned her room, texted people she hasn't spoken to in months, and watched two hours of videos about productivity. She hasn't started."
 date: 2026-03-07
 tags: ["procrastination", "motivation", "self-compassion", "emotion", "psychology"]
 section_label: "Values"
 ---
 
-Jordan has a short story due in three days. It's the assignment he cares about most all semester — the professor said write something personal, something real. He has ideas. He knows what he wants to say.
+Jordan has a short story due in three days. It's the assignment she cares about most all semester — the professor said write something personal, something real. She has ideas. She knows what she wants to say.
 
-He hasn't started.
+She hasn't started.
 
-Instead he's cleaned his room, texted people he hasn't talked to in months, watched two hours of videos about how to be more productive, and made a detailed outline he has no intention of following. He tells himself he'll start when he feels ready.
+Instead she's cleaned her room, texted people she hasn't talked to in months, watched two hours of videos about how to be more productive, and made a detailed outline she has no intention of following. She tells herself she'll start when she feels ready.
 
-He won't feel ready.
+She won't feel ready.
 
 ---
 
@@ -36,9 +36,9 @@ Here's the part that breaks people's models: **you don't procrastinate on things
 
 If you don't care about an assignment, you either do it mechanically or blow it off completely. The agony — the circling, the near-starting, the elaborate avoidance — happens with the things that matter to you.
 
-Jordan isn't procrastinating despite caring about his story. He's procrastinating *because* he cares.
+Jordan isn't procrastinating despite caring about her story. She's procrastinating *because* she cares.
 
-Starting means finding out. If he tries and the story is bad, that's information about him — about whether he has what he thinks he has. Not starting keeps the possibility alive. "I could do it if I really tried" is a position you can hold indefinitely as long as you never really try.
+Starting means finding out. If she tries and the story is bad, that's information about her — about whether she has what she thinks she has. Not starting keeps the possibility alive. "I could do it if I really tried" is a position you can hold indefinitely as long as you never really try.
 
 Psychologist Pamela Pychyl describes this as the procrastinator's secret bargain: trade a small future failure (a mediocre story, a subpar project) for a permanent story about unrealized potential. As long as you haven't truly tried, the better version of you still exists somewhere.
 
@@ -90,17 +90,17 @@ The key is specificity. "When I feel ready" is not an implementation intention. 
 
 ## What Jordan Eventually Figures Out
 
-Jordan starts writing at 11pm on a Tuesday, not because he's ready, not because he found the right productivity system, but because he gets tired of not starting.
+Jordan starts writing at 11pm on a Tuesday, not because she's ready, not because she found the right productivity system, but because she gets tired of not starting.
 
-The first draft is bad. He knows it while he's writing it. He keeps going.
+The first draft is bad. She knows it while she's writing it. She keeps going.
 
-He's not trying to write a good story at 11pm. He's trying to have something that exists on the page that he can make better. A bad draft is infinitely more workable than no draft.
+She's not trying to write a good story at 11pm. She's trying to have something that exists on the page that she can make better. A bad draft is infinitely more workable than no draft.
 
-He realizes, somewhere around 1am, that the anxiety was never really about the story. It was about what the story would reveal. Whether he had anything worth saying. Whether caring about something was enough to be able to do it well.
+She realizes, somewhere around 1am, that the anxiety was never really about the story. It was about what the story would reveal. Whether she had anything worth saying. Whether caring about something was enough to be able to do it well.
 
-He submits three days later. It's not the best thing he's ever written. It's also not nothing.
+She submits three days later. It's not the best thing she's ever written. It's also not nothing.
 
-He's found something out.
+She's found something out.
 
 ---
 
