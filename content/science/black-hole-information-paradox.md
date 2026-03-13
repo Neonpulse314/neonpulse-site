@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["black holes", "Hawking radiation", "quantum mechanics", "general relativity", "information paradox", "mystery", "quantum gravity", "entropy"]
 draft: false
 tier: 1
+discipline: "Physics"
 ---
 
 When something falls into a black hole, it's gone.

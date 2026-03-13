@@ -4,6 +4,7 @@ date: 2026-03-06
 description: "For a century, twin studies have shown that genes explain 50-80% of the variation in height, intelligence, and personality. When scientists went looking for those genes, they found far less than expected. The 'missing heritability problem' has reshaped genetics — and isn't solved."
 tags: ["genetics", "biology", "neuroscience", "mystery", "science-failure"]
 tier: 1
+discipline: "Genetics"
 mystery: true
 ---
 

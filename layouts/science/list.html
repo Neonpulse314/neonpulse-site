@@ -16,7 +16,7 @@
   <div class="section-card-grid">
     {{ range $tier1 }}
     <a href="{{ .RelPermalink }}" class="science-card science-card--mystery">
-      <span class="science-card-label">Unsolved Mystery</span>
+      <span class="science-card-label">{{ with .Params.discipline }}{{ . }}{{ else }}Unsolved Mystery{{ end }}</span>
       <h2>{{ .Title }}</h2>
       {{ with .Params.summary }}<p>{{ . | truncate 150 }}</p>{{ end }}
     </a>

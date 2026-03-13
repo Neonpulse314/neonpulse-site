@@ -4,6 +4,7 @@ summary: "General anesthesia is one of medicine's greatest achievements — it m
 section_label: "Unsolved Mystery"
 tags: ["neuroscience", "medicine", "consciousness", "anesthesia", "unsolved", "tier1"]
 tier: 1
+discipline: "Medicine"
 draft: false
 ---
 

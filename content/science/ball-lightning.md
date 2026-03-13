@@ -4,6 +4,7 @@ date: 2026-03-06
 description: "Ball lightning has been reported for centuries. It's been seen by trained observers, documented in scientific journals, and photographed. It causes burns and leaves residue. And after decades of laboratory attempts, nobody has successfully created it, explained it, or agreed on what it actually is."
 tags: ["physics", "atmosphere", "electricity", "mystery", "unsolved", "phenomena"]
 tier: 1
+discipline: "Physics"
 mystery: true
 ---
 

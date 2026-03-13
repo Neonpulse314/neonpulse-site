@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["biology", "abiogenesis", "origin of life", "RNA world", "chemistry", "evolution", "mystery"]
 draft: false
 tier: 1
+discipline: "Biology"
 ---
 
 There's a rock in Western Australia — the Pilbara craton — that contains the oldest fossils on Earth. Thin wavy layers, like a compressed onion, preserved in ancient chert. They are 3.5 billion years old. They are called stromatolites. They were made by living things.

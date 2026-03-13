@@ -4,6 +4,7 @@ summary: "Turbulence is everywhere — in your coffee, in airplane wings, in you
 section_label: "Unsolved Mystery"
 tags: ["physics", "fluid dynamics", "mathematics", "millennium problem", "turbulence", "navier-stokes"]
 tier: 1
+discipline: "Physics"
 ---
 
 Watch cream pour into coffee.

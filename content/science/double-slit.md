@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "consciousness", "observation", "measurement"]
 draft: false
 tier: 1
+discipline: "Quantum Physics"
 ---
 
 Here's something that should make you uncomfortable.

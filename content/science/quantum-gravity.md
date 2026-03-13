@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["physics", "general relativity", "quantum mechanics", "quantum gravity", "Einstein", "spacetime", "mystery", "string theory"]
 draft: false
 tier: 1
+discipline: "Physics"
 ---
 
 Here is the state of physics.

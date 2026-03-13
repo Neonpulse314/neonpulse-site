@@ -4,6 +4,7 @@ summary: "The Riemann Hypothesis is the most important unsolved problem in mathe
 section_label: "Unsolved Mystery"
 tags: ["mathematics", "prime numbers", "cryptography", "number theory", "millennium problem"]
 tier: 1
+discipline: "Mathematics"
 ---
 
 Every number you've ever seen is built from prime numbers.

@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["mathematics", "logic", "paradox", "Russell", "set theory", "Gödel", "foundations", "mystery"]
 draft: false
 tier: 1
+discipline: "Mathematics"
 ---
 
 Here is a question with no answer.

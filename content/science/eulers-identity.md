@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["mathematics", "physics", "euler", "philosophy", "reality", "mystery", "quantum mechanics"]
 draft: false
 tier: 1
+discipline: "Mathematics"
 ---
 
 Start here: *e*^(*i*π) + 1 = 0

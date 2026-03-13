@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "tunnelling", "nuclear fusion", "sun", "reality"]
 draft: false
 tier: 1
+discipline: "Quantum Physics"
 ---
 
 Here's a problem.

@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["astrobiology", "space", "extraterrestrial", "existential", "civilization", "SETI"]
 draft: false
 tier: 1
+discipline: "Astronomy"
 ---
 
 Here's the math. Stay with it.

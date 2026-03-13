@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["matter", "antimatter", "baryogenesis", "particle physics", "Big Bang", "mystery", "CP violation"]
 draft: false
 tier: 1
+discipline: "Particle Physics"
 ---
 
 When matter and antimatter collide, they annihilate.

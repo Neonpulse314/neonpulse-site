@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["fine-tuning", "cosmological constant", "anthropic principle", "multiverse", "constants of nature", "physics", "mystery"]
 draft: false
 tier: 1
+discipline: "Cosmology"
 ---
 
 There are about 26 numbers that run the universe.

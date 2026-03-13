@@ -5,6 +5,7 @@ section_label: "Unsolved Mystery"
 tags: ["consciousness", "neuroscience", "philosophy", "qualia", "hard problem", "mind", "mystery"]
 draft: false
 tier: 1
+discipline: "Neuroscience"
 ---
 
 Close your eyes.

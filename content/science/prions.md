@@ -4,6 +4,7 @@ date: 2026-03-06
 description: "Prion diseases have no virus, no bacteria, no DNA. Just a misfolded protein that converts other proteins. Stanley Prusiner won the Nobel Prize for the idea in 1997. The mechanism still isn't fully explained."
 tags: ["neuroscience", "biology", "mystery", "genetics", "disease"]
 tier: 1
+discipline: "Biology"
 mystery: true
 ---
 
