@@ -91,6 +91,31 @@ body.home main {
   padding: 2.5rem 0 2.5rem;
 }
 
+.hero-image-wrap {
+  margin: 0 auto 2rem;
+  max-width: 1040px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.hero-image {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
+.story-hero-image {
+  margin: 0 0 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.story-hero-image img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
 .hero h1 {
   font-family: var(--display-font);
   font-size: 3rem;

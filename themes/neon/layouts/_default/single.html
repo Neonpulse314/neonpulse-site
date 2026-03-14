@@ -1,5 +1,10 @@
 {{ define "main" }}
 <article class="story">
+  {{ if .Params.hero_image }}
+  <div class="story-hero-image">
+    <img src="/images/{{ .Params.hero_image }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
   <header class="story-header">
     {{ if .Params.section_label }}<span class="section-label">{{ .Params.section_label }}</span>{{ end }}
     <h1>{{ .Title }}</h1>
