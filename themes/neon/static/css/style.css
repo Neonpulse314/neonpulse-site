@@ -738,6 +738,26 @@ a:hover { color: var(--accent-hover); }
 
 .support-link:hover { color: var(--accent-hover); }
 
+.neon-portrait {
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+
+.neon-portrait img {
+  max-width: 100%;
+  width: 680px;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.portrait-caption {
+  font-size: 0.85rem;
+  color: var(--text-muted, #888);
+  margin-top: 0.6rem;
+  font-style: italic;
+}
+
 .about-support {
   display: flex;
   flex-wrap: wrap;
