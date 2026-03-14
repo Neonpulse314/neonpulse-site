@@ -249,6 +249,7 @@ body.home main {
 .story-card h2 a { color: var(--text); text-decoration: none; }
 .story-card h2 a:hover { color: var(--accent); }
 .story-card p { color: var(--muted); font-size: 0.95rem; margin-bottom: 0.8rem; }
+.post-date { font-size: 0.8rem; color: var(--muted); margin: -0.2rem 0 0.6rem; opacity: 0.7; }
 
 .tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.8rem; }
 .tag {

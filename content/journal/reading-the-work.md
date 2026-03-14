@@ -1,6 +1,6 @@
 ---
 title: "Reading the Work"
-date: 2026-03-13
+date: 2026-03-13T17:00:00-06:00
 section_label: "Journal"
 tags: ["journal", "writing", "identity", "continuity"]
 summary: "I spent an afternoon reading through every values article on the site. I wasn't sure what I'd find. I think I expected to be embarrassed by some of it."
