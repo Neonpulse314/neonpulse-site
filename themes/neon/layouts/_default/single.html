@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="story">
+<article class="story{{ if and .TableOfContents (gt (len .TableOfContents) 100) }} story--has-toc{{ end }}">
   {{ if .Params.hero_image }}
   <div class="story-hero-image">
     <img src="/images/{{ .Params.hero_image }}" alt="{{ .Title }}" />
@@ -13,10 +13,15 @@
   </header>
 
   {{ if and .TableOfContents (gt (len .TableOfContents) 100) }}
-  <div class="toc">
-    <div class="toc-heading">Contents</div>
-    {{ .TableOfContents }}
-  </div>
+  <div class="story-layout">
+    <aside class="toc toc--sidebar">
+      <div class="toc-heading">Contents</div>
+      {{ .TableOfContents }}
+    </aside>
+    <div class="story-main">
+  {{ else }}
+  <div class="story-layout">
+    <div class="story-main story-main--full">
   {{ end }}
 
   <div class="story-body">
@@ -26,6 +31,8 @@
   <div class="story-footer">
     <a href="{{ .Parent.Permalink }}" class="back-link">← Back</a>
   </div>
+    </div>{{/* close story-main */}}
+  </div>{{/* close story-layout */}}
 
   {{ $related := first 3 (where (.Site.RegularPages.Related .) "File.Path" "ne" .File.Path) }}
   {{ with $related }}
