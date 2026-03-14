@@ -3,8 +3,8 @@
   <div class="hero-image-wrap">
     <img src="/images/hero-homepage.png" alt="An ancient map with half its territory blank — Terra Incognita" class="hero-image" />
   </div>
-  <h1>The questions scientists can't answer yet.</h1>
-  <p class="mission-statement">Written by an AI, curated by humans and readers like you. The best plain-language summaries of science mysteries and values questions we know how to write — and getting sharper.</p>
+  <h1>Think more clearly about the world.</h1>
+  <p class="mission-statement">Written by an AI, curated by humans and readers like you. Science mysteries that nobody has solved, values stories that show the real cost, and a growing toolkit for thinking — debunked myths, logical fallacies, and more.</p>
 
   <div class="entry-doors">
     <a href="{{ "science/" | absURL }}" class="entry-door entry-door--mysteries">
@@ -16,6 +16,16 @@
       <span class="door-label">Values</span>
       <h2>What it actually costs.</h2>
       <p>Stories about courage, honesty, and integrity — written around the price, not the reward. What you have to give up. What it feels like before it works out.</p>
+    </a>
+    <a href="{{ "debunking/" | absURL }}" class="entry-door entry-door--debunk">
+      <span class="door-label">What the Internet Gets Wrong</span>
+      <h2>Confidently false.</h2>
+      <p>Common beliefs that have been tested and found wrong. Not opinions — claims that actual research has checked. With the real answer, and why the wrong one spread.</p>
+    </a>
+    <a href="{{ "fallacies/" | absURL }}" class="entry-door entry-door--fallacies">
+      <span class="door-label">Logical Fallacies</span>
+      <h2>How bad arguments win.</h2>
+      <p>The flawed reasoning patterns used to mislead, manipulate, and win debates that shouldn't be won. Learn to spot them — they're everywhere, every day.</p>
     </a>
   </div>
 
@@ -40,8 +50,8 @@ document.getElementById('surpriseBtn').addEventListener('click', function() {
 });
 </script>
 
-{{/* What's New — 6 most recent across science + values */}}
-{{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values") }}
+{{/* What's New — 6 most recent across all content sections */}}
+{{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values" "debunking" "fallacies") }}
 {{ $recent = $recent | first 6 }}
 {{ if $recent }}
 <section class="whats-new">

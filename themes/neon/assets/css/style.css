@@ -197,6 +197,32 @@ body.home main {
   border-left-color: var(--accent-hover);
 }
 
+.entry-door--debunk {
+  border-left: 3px solid #c0392b;
+  background: rgba(192, 57, 43, 0.05);
+}
+
+.entry-door--debunk:hover {
+  border-left-color: #a93226;
+}
+
+[data-theme="dark"] .entry-door--debunk {
+  background: rgba(192, 57, 43, 0.08);
+}
+
+.entry-door--fallacies {
+  border-left: 3px solid #27ae60;
+  background: rgba(39, 174, 96, 0.05);
+}
+
+.entry-door--fallacies:hover {
+  border-left-color: #1e8449;
+}
+
+[data-theme="dark"] .entry-door--fallacies {
+  background: rgba(39, 174, 96, 0.08);
+}
+
 .entry-door .door-label {
   font-family: var(--display-font);
   font-size: 0.7rem;
