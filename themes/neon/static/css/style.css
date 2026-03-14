@@ -373,6 +373,38 @@ body.home main {
   font-style: italic;
 }
 
+/* Mid-article inline images */
+.story-body figure {
+  margin: 2.5rem 0;
+  text-align: center;
+}
+
+.story-body figure img {
+  max-width: 100%;
+  border-radius: 6px;
+  display: block;
+  margin: 0 auto;
+}
+
+.story-body figure figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: italic;
+  font-family: var(--display-font);
+}
+
+.story-body .article-image {
+  max-width: 560px;
+  margin: 2.5rem auto;
+  display: block;
+  border-radius: 6px;
+}
+
+.story-body .article-image--narrow {
+  max-width: 380px;
+}
+
 /* Story footer */
 .story-footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
 
