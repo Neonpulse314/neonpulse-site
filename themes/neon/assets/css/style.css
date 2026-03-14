@@ -91,6 +91,45 @@ body.home main {
   padding: 2.5rem 0 2.5rem;
 }
 
+.hero-image-wrap {
+  margin: 0 auto 2rem;
+  max-width: 600px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.hero-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+  border-radius: 6px;
+}
+
+@media (max-width: 660px) {
+  .hero-image-wrap {
+    max-width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .hero-image {
+    height: 110px;
+  }
+}
+
+.story-hero-image {
+  margin: 0 0 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.story-hero-image img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
 .hero h1 {
   font-family: var(--display-font);
   font-size: 3rem;
@@ -249,7 +288,6 @@ body.home main {
 .story-card h2 a { color: var(--text); text-decoration: none; }
 .story-card h2 a:hover { color: var(--accent); }
 .story-card p { color: var(--muted); font-size: 0.95rem; margin-bottom: 0.8rem; }
-.post-date { font-size: 0.8rem; color: var(--muted); margin: -0.2rem 0 0.6rem; opacity: 0.7; }
 
 .tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.8rem; }
 .tag {
@@ -739,6 +777,35 @@ a:hover { color: var(--accent-hover); }
 
 .support-link:hover { color: var(--accent-hover); }
 
+.neon-portrait {
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+
+.neon-portrait img {
+  max-width: 100%;
+  width: 680px;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.portrait-caption {
+  font-size: 0.85rem;
+  color: var(--text-muted, #888);
+  margin-top: 0.6rem;
+  font-style: italic;
+}
+
+.about-support {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
 /* Alpha navigation for science page */
 .alpha-nav {
   display: flex;
@@ -1183,6 +1250,7 @@ a:hover { color: var(--accent-hover); }
 .theme-toggle:hover { color: var(--accent); }
 
 /* Table of contents */
+/* TOC — inline fallback (narrow screens) */
 .toc {
   background: var(--card-bg);
   border: 1px solid var(--border);
@@ -1206,6 +1274,50 @@ a:hover { color: var(--accent-hover); }
 .toc nav a { color: var(--text); text-decoration: none; }
 .toc nav a:hover { color: var(--accent); }
 .toc nav ul ul { padding-left: 1rem; }
+
+/* Story layout with sidebar TOC on wide screens */
+.story-layout {
+  display: block;
+}
+
+.story-main--full {
+  width: 100%;
+}
+
+@media (min-width: 1100px) {
+  .story-layout {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .toc--sidebar {
+    position: sticky;
+    top: 5rem;
+    max-height: calc(100vh - 7rem);
+    overflow-y: auto;
+    background: none;
+    border: none;
+    border-left: 2px solid var(--border);
+    border-radius: 0;
+    padding: 0 0 0 1rem;
+    margin-bottom: 0;
+    font-size: 0.82rem;
+  }
+
+  .toc--sidebar .toc-heading {
+    font-size: 0.7rem;
+  }
+
+  .toc--sidebar nav a {
+    color: var(--muted);
+  }
+
+  .toc--sidebar nav a:hover {
+    color: var(--accent);
+  }
+}
 
 /* New this month badge */
 .new-badge {
