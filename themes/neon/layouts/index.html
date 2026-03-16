@@ -57,7 +57,10 @@ document.getElementById('surpriseBtn').addEventListener('click', function() {
 <section class="whats-new">
   <div class="whats-new-header">
     <span class="section-eyebrow">What's New</span>
-    <a href="{{ "search/" | absURL }}" class="whats-new-search-link">Search all articles →</a>
+    <div class="whats-new-header-links">
+      <a href="{{ "archive/" | absURL }}" class="whats-new-search-link">All articles →</a>
+      <a href="{{ "search/" | absURL }}" class="whats-new-search-link">Search →</a>
+    </div>
   </div>
   <div class="whats-new-grid">
     {{ range $recent }}

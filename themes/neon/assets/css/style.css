@@ -1147,13 +1147,17 @@ a:hover { color: var(--accent-hover); }
   margin-bottom: 1rem;
 }
 
+.whats-new-header-links {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+}
 .whats-new-search-link {
   font-family: var(--ui-font);
   font-size: 0.82rem;
   color: var(--accent);
   text-decoration: none;
 }
-
 .whats-new-search-link:hover {
   text-decoration: underline;
 }
@@ -1448,6 +1452,61 @@ a:hover { color: var(--accent-hover); }
 }
 .science-card-label--link:hover {
   text-decoration: underline;
+}
+
+/* Archive page */
+.archive-month-group {
+  margin-bottom: 2.5rem;
+}
+.archive-month {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.archive-item {
+  display: grid;
+  grid-template-columns: 3.5rem 10rem 1fr;
+  gap: 0 1rem;
+  align-items: baseline;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.archive-item:last-child { border-bottom: none; }
+.archive-date {
+  font-family: var(--ui-font);
+  font-size: 0.8rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.archive-section {
+  font-family: var(--ui-font);
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.archive-title {
+  font-size: 0.95rem;
+  color: var(--text);
+  text-decoration: none;
+}
+.archive-title:hover { color: var(--accent); }
+@media (max-width: 600px) {
+  .archive-item {
+    grid-template-columns: 3rem 1fr;
+  }
+  .archive-section { display: none; }
 }
 
 /* Page count in section header */
