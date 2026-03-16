@@ -1,5 +1,6 @@
 ---
 title: "No, Your Tongue Doesn't Have Separate Zones for Each Taste"
+date: 2026-03-15
 section_label: "What the Internet Gets Wrong"
 summary: "The taste map — sweet at the tip, bitter at the back, salty and sour on the sides — appeared in textbooks for decades. It came from a mistranslation in 1901. Every part of your tongue detects every basic taste."
 tags: ["biology", "taste", "senses", "myth", "debunking"]

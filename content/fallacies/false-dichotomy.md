@@ -1,5 +1,6 @@
 ---
 title: "The False Dichotomy — When \"One or the Other\" Hides a Third Option"
+date: 2026-03-15
 section_label: "Logical Fallacies"
 summary: "The false dichotomy presents two choices as if they're the only ones. It's persuasive because binary choices are easy to reason about. It's wrong because reality rarely cooperates."
 tags: ["fallacies", "reasoning", "argument", "critical thinking", "rhetoric"]

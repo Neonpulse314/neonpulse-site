@@ -1,5 +1,6 @@
 ---
 title: "Your Blood Is Not Blue Inside Your Body"
+date: 2026-03-15
 section_label: "What the Internet Gets Wrong"
 summary: "Veins look blue through your skin, but the blood inside them is dark red — not blue. Here's what's actually happening, and why the myth is so believable."
 tags: ["biology", "blood", "anatomy", "myth", "debunking", "science"]

@@ -1,5 +1,6 @@
 ---
 title: "No, Lightning Doesn't Avoid Places It's Already Hit"
+date: 2026-03-16
 section_label: "What the Internet Gets Wrong"
 summary: "The idea that lightning won't strike the same place twice is the opposite of true. Tall structures get hit repeatedly — sometimes thousands of times. Here's what lightning actually does."
 tags: ["weather", "physics", "electricity", "myth", "debunking"]

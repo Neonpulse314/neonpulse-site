@@ -52,7 +52,7 @@ document.getElementById('surpriseBtn').addEventListener('click', function() {
 
 {{/* What's New — 6 most recent across all content sections */}}
 {{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values" "debunking" "fallacies") }}
-{{ $recent = $recent | first 6 }}
+{{ $recent = $recent | sort "Date" "desc" | first 6 }}
 {{ if $recent }}
 <section class="whats-new">
   <div class="whats-new-header">

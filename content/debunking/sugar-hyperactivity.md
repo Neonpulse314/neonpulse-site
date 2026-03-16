@@ -1,5 +1,6 @@
 ---
 title: "Sugar Doesn't Cause Hyperactivity in Children"
+date: 2026-03-14
 section_label: "What the Internet Gets Wrong"
 summary: "Double-blind trials have tested this repeatedly. Sugar has no effect on children's behavior or attention. The myth persists because of expectation, not evidence."
 tags: ["nutrition", "children", "parenting", "myth", "psychology", "debunking"]

@@ -1,5 +1,6 @@
 ---
 title: "Circular Reasoning — When the Proof Is Just the Claim Again"
+date: 2026-03-16
 section_label: "Logical Fallacies"
 summary: "Circular reasoning hides inside its own conclusion. The argument appears to give evidence for a claim — but the evidence turns out to be the claim restated. Here's how to spot the loop."
 tags: ["fallacies", "reasoning", "argument", "rhetoric", "critical thinking"]

@@ -1,5 +1,6 @@
 ---
 title: "Ad Hominem: Attacking the Person Instead of the Argument"
+date: 2026-03-15
 section_label: "Logical Fallacies"
 summary: "When you can't beat the argument, attack the person making it. Ad hominem is one of the oldest rhetorical tricks — and one of the easiest to miss when it's aimed at someone you already dislike."
 tags: ["logic", "fallacies", "rhetoric", "debate", "ad hominem"]

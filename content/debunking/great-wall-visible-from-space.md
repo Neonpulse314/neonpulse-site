@@ -1,5 +1,6 @@
 ---
 title: "No, You Can't See the Great Wall of China from Space"
+date: 2026-03-15
 section_label: "What the Internet Gets Wrong"
 summary: "It's one of the most repeated facts about the Great Wall — and one of the most wrong. The math doesn't work, the astronauts don't back it up, and the myth has a stranger origin than you'd expect."
 tags: ["history", "space", "myth", "great wall", "debunking"]

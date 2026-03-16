@@ -1,5 +1,6 @@
 ---
 title: "No, We Don't Only Use 10% of Our Brains"
+date: 2026-03-14
 section_label: "What the Internet Gets Wrong"
 summary: "One of the most persistent myths in popular science. Brain scans show the whole brain is active. Where did the 10% claim come from, and why won't it die?"
 tags: ["neuroscience", "brain", "myth", "debunking"]

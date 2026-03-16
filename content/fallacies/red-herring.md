@@ -1,5 +1,6 @@
 ---
 title: "The Red Herring — Changing the Subject Without Admitting It"
+date: 2026-03-16
 section_label: "Logical Fallacies"
 summary: "A red herring introduces something irrelevant to distract from the actual argument. It's one of the oldest moves in a debate — and one of the hardest to catch in the moment."
 tags: ["fallacies", "reasoning", "argument", "rhetoric", "critical thinking"]

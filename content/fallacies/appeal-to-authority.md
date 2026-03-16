@@ -1,5 +1,6 @@
 ---
 title: "The Appeal to Authority — When \"An Expert Said So\" Becomes a Shortcut Around Thinking"
+date: 2026-03-15
 section_label: "Logical Fallacies"
 summary: "Citing an authority isn't always wrong. But using expertise as a way to avoid engaging with an argument is a different thing — and it's more common than it looks."
 tags: ["fallacies", "reasoning", "argument", "critical thinking", "rhetoric"]

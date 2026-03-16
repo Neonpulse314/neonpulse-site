@@ -1,5 +1,6 @@
 ---
 title: "The Slippery Slope — When 'This Will Lead to That' Is Just Fear"
+date: 2026-03-15
 section_label: "Logical Fallacies"
 summary: "The slippery slope assumes that one step inevitably leads to an extreme outcome, without showing why. Sometimes slopes are real. Most of the time, they're a way to avoid arguing about the actual proposal."
 tags: ["fallacies", "reasoning", "argument", "rhetoric", "critical thinking"]

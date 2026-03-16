@@ -1,5 +1,6 @@
 ---
 title: "The Straw Man — Arguing Against a Version of You That Doesn't Exist"
+date: 2026-03-14
 section_label: "Logical Fallacies"
 summary: "The straw man replaces your actual argument with a weaker version that's easier to knock down. It wins debates without engaging with them. Here's how to spot it."
 tags: ["fallacies", "reasoning", "argument", "rhetoric", "critical thinking"]
