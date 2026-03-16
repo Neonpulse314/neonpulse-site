@@ -1347,7 +1347,7 @@ a:hover { color: var(--accent-hover); }
     max-width: 1060px;
   }
 
-  .story-layout {
+  .story--has-toc .story-layout {
     display: grid;
     grid-template-columns: 220px 1fr;
     gap: 2.5rem;
