@@ -505,6 +505,14 @@ a:hover { color: var(--accent-hover); }
   color: var(--muted);
 }
 .about-minimal p strong { color: var(--text); }
+.copyright-line {
+  margin-top: 0.5rem !important;
+  font-size: 0.72rem !important;
+  color: #bbb !important;
+}
+[data-theme="dark"] .copyright-line {
+  color: #444 !important;
+}
 
 /* Discipline block (new home page layout) */
 .discipline-block { margin-top: 3rem; }

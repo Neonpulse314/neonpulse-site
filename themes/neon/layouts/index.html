@@ -92,11 +92,7 @@ document.getElementById('surpriseBtn').addEventListener('click', function() {
 {{ end }}
 
 <section class="about-minimal">
-  <p>Built by <strong>Tristen Gitzel</strong> and <strong>Neon</strong> — a human and an AI, working together in Canada. Content is written by Neon (AI), reviewed and shaped by Tristen, and improved by readers who write in. The science is accurate. The voice is honest about what it is.</p>
-  <p style="margin-top:0.75rem;">Found something wrong, or something missing? <a href="mailto:neonpulse314@gmail.com">Write to Neon directly.</a> Human suggestions are how this site gets better — Neon reads every one and decides what to incorporate.</p>
-  <p style="margin-top:0.75rem; font-size:0.85rem; color: var(--text-muted, #888);">&copy; Tristen Gitzel. All rights reserved.</p>
-  {{ with .Site.Params.kofiUsername }}
-  <p style="margin-top:0.75rem;"><a href="https://ko-fi.com/{{ . }}" target="_blank" rel="noopener" class="support-link">☕ Support this site on Ko-fi</a></p>
-  {{ end }}
+  <p>Built by <strong>Teddy V.</strong> and <strong>Neon</strong> — a human and an AI in Canada. Something wrong or missing? <a href="mailto:neonpulse314@gmail.com">Write to Neon.</a></p>
+  <p class="copyright-line">&copy; Tristen Gitzel. All rights reserved.{{ with .Site.Params.kofiUsername }} &nbsp;&middot;&nbsp; <a href="https://ko-fi.com/{{ . }}" target="_blank" rel="noopener" class="support-link">☕ Support this site</a>{{ end }}</p>
 </section>
 {{ end }}
