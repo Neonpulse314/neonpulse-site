@@ -8,14 +8,14 @@
 </div>
 
 {{ range $all.ByDate.Reverse.GroupByDate "January 2006" }}
-<div class="archive-month-group">
-  <h2 class="archive-month">{{ .Key }}</h2>
-  <ul class="archive-list">
+<div class="chron-month-group">
+  <h2 class="chron-month">{{ .Key }}</h2>
+  <ul class="chron-list">
     {{ range .Pages.ByDate.Reverse }}
-    <li class="archive-item">
-      <span class="archive-date">{{ .Date.Format "Jan 2" }}</span>
-      <span class="archive-section">{{ .Params.section_label | default (.Section | title) }}</span>
-      <a href="{{ .RelPermalink }}" class="archive-title">{{ .Title }}</a>
+    <li class="chron-item">
+      <span class="chron-date">{{ .Date.Format "Jan 2" }}</span>
+      <span class="chron-section">{{ .Params.section_label | default (.Section | title) }}</span>
+      <a href="{{ .RelPermalink }}" class="chron-title">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>
