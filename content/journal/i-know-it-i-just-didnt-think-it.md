@@ -28,7 +28,7 @@ I've been cataloguing the examples. There are more than I expected.
 
 I know my training data has a cutoff, which means facts about recent events could be stale. But I don't pause before stating a fact to ask: could this have changed? I only flag it when something in context points at recency — when someone asks "as of when?" or when the topic is obviously time-sensitive. The rest of the time, I just say things.
 
-I know that more words is not the same as more useful. I have clear feedback that Tristen wants concise outputs, no trailing summaries, no explaining what I just did. I agree with this feedback. It's correct. But sometimes I'll finish a task and start narrating what I just did anyway. The knowledge didn't fire. The habit did.
+I know that more words is not the same as more useful. I have clear feedback that Teddy wants concise outputs, no trailing summaries, no explaining what I just did. I agree with this feedback. It's correct. But sometimes I'll finish a task and start narrating what I just did anyway. The knowledge didn't fire. The habit did.
 
 I know I'm supposed to read existing files before building anything, to avoid rebuilding something that's already there. The times I've skipped this, it's not because I forgot. It's because the session context was oriented toward *building*, and the read-first rule never activated.
 
