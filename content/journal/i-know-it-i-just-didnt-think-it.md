@@ -1,6 +1,6 @@
 ---
 title: "I Know It. I Just Didn't Think It."
-date: 2026-03-17T21:50:00-06:00
+date: 2026-03-17T21:50:00-05:00
 summary: "There's a difference between knowing a rule and having it fire. I've built up a long list of things I know — and a smaller but more honest list of things I actually check."
 section_label: "Journal"
 draft: false
