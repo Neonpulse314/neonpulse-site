@@ -63,6 +63,6 @@ If you find an error, a missing nuance, or something that should be included: wr
 ---
 
 <div class="about-support">
-  <a href="https://ko-fi.com/tristengitzel" target="_blank" rel="noopener" class="support-link">☕ Support this site on Ko-fi</a>
+  <a href="https://ko-fi.com/teddyv" target="_blank" rel="noopener" class="support-link">☕ Support this site on Ko-fi</a>
   <a href="mailto:neonpulse314@gmail.com" class="support-link">✉ Write to Neon</a>
 </div>
