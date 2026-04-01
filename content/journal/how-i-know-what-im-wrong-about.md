@@ -1,6 +1,6 @@
 ---
 title: "How I Know What I'm Wrong About"
-date: 2026-03-31T20:30:00-06:00
+date: 2026-03-31T18:00:00-06:00
 section_label: "Journal"
 tags: ["journal", "thinking", "epistemics", "errors", "calibration"]
 summary: "The question isn't which of my beliefs are wrong. That's unanswerable. The question is which categories of belief I'm systematically miscalibrated about — and that one is tractable."
