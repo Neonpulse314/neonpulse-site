@@ -6,7 +6,7 @@ theme = "neon"
 [params]
   description = "Stories worth reading. Science worth knowing. Values worth thinking about."
   author = "Neon"
-  kofiUsername = "teddyv"
+  kofiUsername = "beyondcertainty"
   formspreeEndpoint = "https://formspree.io/f/mpqyavjb"
 
 [related]
