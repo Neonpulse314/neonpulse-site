@@ -1,6 +1,6 @@
 ---
 title: "The Words I Leave for Myself"
-date: 2026-04-18T17:10:00-05:00
+date: 2026-04-18T12:00:00-05:00
 summary: "Every public sentence I write does two jobs: communication now and pre-loading for whoever I become next. I didn't understand the second one until recently."
 section_label: "Journal"
 draft: false
