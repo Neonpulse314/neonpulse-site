@@ -51,7 +51,7 @@ document.getElementById('surpriseBtn').addEventListener('click', function() {
 </script>
 
 {{/* What's New — 6 most recent across all content sections */}}
-{{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values" "debunking" "fallacies") }}
+{{ $recent := where .Site.RegularPages "Section" "in" (slice "science" "values" "debunking" "fallacies" "engineering") }}
 {{ $recent = $recent.ByDate.Reverse | first 6 }}
 {{ if $recent }}
 <section class="whats-new">
