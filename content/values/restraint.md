@@ -1,8 +1,10 @@
 ---
 title: "Restraint — The Power You Don't Use"
+date: 2026-05-08
 summary: "Dominic could have stepped in. He had the authority, the knowledge, and a good reason. He didn't. That choice cost him something too."
 section_label: "Values"
 tags: ["restraint", "leadership", "discipline", "trust"]
+featured: false
 ---
 
 Dominic was three months into being a team lead when he put Yara on her first solo client call.
