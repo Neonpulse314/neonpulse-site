@@ -23,6 +23,14 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Privacy check — no real name in content
+        run: |
+          if grep -rn "Tristen" content/ | grep -v "© 2026 Tristen Gitzel"; then
+            echo "::error::Real name found in content/ (lines above). Replace with the alias 'Teddy' — only the copyright line may use the real name."
+            exit 1
+          fi
+          echo "Privacy check passed — no leaked real name in content/."
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
