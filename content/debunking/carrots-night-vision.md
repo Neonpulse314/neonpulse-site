@@ -1,6 +1,6 @@
 ---
 title: "Carrots Don't Help You See in the Dark"
-date: 2026-05-25
+date: 2026-05-24
 section_label: "What the Internet Gets Wrong"
 summary: "The 'carrots improve night vision' belief comes from a deliberate British wartime cover-up. The actual reason their pilots saw better at night had nothing to do with vegetables."
 tags: ["nutrition", "history", "propaganda", "myth", "debunking"]

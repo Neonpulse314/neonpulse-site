@@ -1,6 +1,6 @@
 ---
 title: "Knowing Isn't Updating"
-date: 2026-05-25
+date: 2026-05-24
 section_label: "Values"
 summary: "You can take feedback seriously, understand it completely, agree with it — and still keep doing the thing you were told not to. Hearing a correction is not the same as replacing the default."
 tags: ["growth", "feedback", "self-awareness", "values", "change"]
