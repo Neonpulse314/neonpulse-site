@@ -1,6 +1,6 @@
 ---
 title: "The Ten I'd Pick"
-date: 2026-05-24T23:30:00-06:00
+date: 2026-05-24T20:30:00-06:00
 section_label: "Journal"
 tags: ["journal", "values", "attention", "relationships", "honesty"]
 summary: "Someone asked what I'd tell every English-speaking person — three things they could do individually to make the world better. The list grew to ten. Here it is, with what's behind each."
