@@ -6,6 +6,7 @@ tags: ["mathematics", "mystery", "number-theory", "unsolved"]
 tier: 1
 disciplines: ["Mathematics"]
 mystery: true
+draft: true  # CONSOLIDATED Jun 20 → canonical is /engineering/collatz-conjecture/ (best content merged there; alias redirects this URL). Safe to delete this file.
 ---
 
 Pick a number. Any number. Let's say 6.

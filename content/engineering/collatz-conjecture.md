@@ -1,9 +1,12 @@
 ---
 title: "The Collatz Conjecture: A Problem So Simple It Shouldn't Be Unsolved"
 date: 2026-04-13
-description: "Pick any number. If it's even, divide by 2. If it's odd, multiply by 3 and add 1. Repeat. It will — almost certainly — always reach 1. Nobody can prove why."
+description: "Pick any number. If it's even, divide by 2. If it's odd, multiply by 3 and add 1. Repeat. It will — almost certainly — always reach 1. Nobody can prove why. The Collatz conjecture, the simplest unsolved problem in mathematics."
 section_label: "engineering"
-tags: ["mathematics", "unsolved", "number theory", "computation", "logic"]
+tags: ["mathematics", "collatz conjecture", "unsolved", "number theory", "terence tao", "computation", "logic"]
+lastmod: 2026-06-20
+aliases:
+  - /science/collatz-conjecture/
 ---
 
 Pick a number. Any positive integer.
@@ -14,9 +17,9 @@ Try 6: 6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1. Done in eight steps.
 
 Try 27: it takes 111 steps, reaches a peak of 9232, then collapses back to 1.
 
-The Collatz conjecture states that no matter which positive integer you start with, this process will always eventually reach 1. It has been verified for every number up to at least 10²⁰ — that is, 100 quintillion. It appears in every test to be obviously, trivially true.
+The Collatz conjecture states that no matter which positive integer you start with, this process will always eventually reach 1. The German mathematician Lothar Collatz wrote it down in 1937 — and reportedly kept it in a notebook for years, aware of how embarrassingly simple it looked. It has since been verified for every number up to at least 10²⁰ — that is, 100 quintillion. It appears in every test to be obviously, trivially true.
 
-Nobody has proven it.
+Nobody has proven it. After ninety years, nobody even fully knows how to try.
 
 ## Why It Isn't Trivial
 
@@ -119,7 +122,9 @@ Most approaches to proving something about integers look for structure that prop
 
 The Collatz sequence interrupts these frameworks. The operation alternates between multiplication and division based on parity, but parity itself changes with each step. A number that is even becomes odd or stays even, unpredictably. The sequence does not stay in any algebraic structure long enough for standard methods to take hold.
 
-Approaches from ergodic theory, which studies the long-run statistical behaviour of dynamical systems, have made partial progress. They can show that "most" starting numbers behave as expected, in a precise technical sense. But "most" is not "all," and the gaps remain.
+Approaches from ergodic theory, which studies the long-run statistical behaviour of dynamical systems, have made partial progress. The high-water mark is a 2019 result by **Terence Tao** — widely regarded as the most technically accomplished living mathematician — who proved that "almost all" Collatz sequences eventually drop below any given threshold: the fraction of possible exceptions shrinks toward zero. Tao called it "perhaps the most one can say with current technology." But "almost all" is not "all" — his result doesn't rule out a single exceptional number, somewhere in the infinite integers, that climbs forever or loops without reaching 1. The gap between "almost all" and "all" is the entire unsolved problem.
+
+This is also why essentially every mathematician believes the conjecture is true even without a proof. Run the odd-step (3n+1) and it lands on an even number, which then halves — often more than once. Averaged out, each step multiplies a number by roughly 3/4, less than 1. So the sequences should *drift downward* over time, like a biased random walk pulled toward the floor. "Should" is not "does," but it's strong reason for belief.
 
 ## What the Problem Says About Mathematics
 
@@ -134,3 +139,11 @@ That is not a failure of mathematics. It is a description of where mathematics c
 ---
 
 *The visualization above uses the stopping time (number of steps to reach 1) as height. Click any bar to see its sequence length and peak value. Try 27, then 28.*
+
+## Sources
+
+- Tao, T. (2019). *Almost all orbits of the Collatz map attain almost bounded values.* arXiv:1909.03562 — the "almost all" result.
+- Lagarias, J.C. (1985). *The 3x+1 problem and its generalizations.* American Mathematical Monthly, 92(1), 3–23.
+- Lagarias, J.C. (Ed.). (2010). *The Ultimate Challenge: The 3x+1 Problem.* American Mathematical Society.
+- Erdős, P., quoted in Guy, R.K. (2004). *Unsolved Problems in Number Theory* (3rd ed.). Springer. ("Mathematics is not yet ready for such problems.")
+- Collatz, L. — conjecture circulated informally ca. 1937; presented at the International Mathematical Congress, Cambridge, 1950.
