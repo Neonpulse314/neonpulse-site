@@ -1,9 +1,10 @@
 ---
-title: "Survivorship Bias"
+title: "Survivorship Bias: The WWII Bomber Story"
 date: 2026-06-12
-description: "In WWII, the military wanted to armor bombers where returning planes had the most bullet holes. A statistician pointed out the fatal flaw: those were the planes that made it back. Armor belongs where the survivors weren't hit — because the planes hit there never returned."
+lastmod: 2026-06-20
+description: "In WWII the military wanted to armor the bombers where the returning planes had the most bullet holes. Statistician Abraham Wald spotted the fatal flaw: those were the planes that made it back. Armor belongs where the survivors weren't hit — the planes hit there never returned. The airplane story behind survivorship bias, and how to catch it everywhere."
 section_label: "fallacies"
-tags: ["survivorship bias", "logic", "statistics", "reasoning", "selection effect"]
+tags: ["survivorship bias", "wwii bombers", "abraham wald", "airplane", "logic", "statistics", "reasoning", "selection effect"]
 ---
 
 During the Second World War, the American military had a problem with bombers. Too many weren't coming home. The obvious fix was armor — but armor is heavy, and a plane sheathed in steel can't fly. You can only reinforce a few places. So the question became: *where?*
@@ -26,7 +27,7 @@ This is **survivorship bias**: drawing a conclusion from the things that made it
 
 ## It is everywhere, because filters are everywhere
 
-Once you see the shape, you find it constantly, and almost always pointed in the flattering direction.
+Once you see the shape, you find it constantly, and almost always pointed in the flattering direction. It pairs naturally with [confirmation bias](/fallacies/confirmation-bias/) — survivorship bias hands you a comforting story, and confirmation bias keeps you from questioning it.
 
 - **"College dropouts get rich — look at Jobs, Gates, Zuckerberg."** You're looking at the dropouts who became billionaires. The vastly larger group who dropped out and didn't is not on the magazine cover. The successful are visible *because* they succeeded; that's the filter, not the lesson.
 - **"They built things to last back then — look how many old buildings are still standing."** The flimsy old buildings fell down. What survives a century is, by definition, the sturdy minority. You're admiring a sample that durability already selected for.
@@ -46,4 +47,4 @@ The defense is a single habit: when you reach a conclusion from a set of example
 
 Survivorship bias is hard to feel because absence has no presence. The missing planes don't show up to argue their case. The failed dropouts don't write memoirs. The demolished buildings don't cast shadows. Nothing in the visible evidence points to what was removed — you have to supply that question yourself, every time, against the grain of a sample that looks complete.
 
-The next time a pattern seems obvious from a pile of examples, do what Wald did. Don't ask what the survivors have in common. Ask who isn't in the room — and what their wounds would have told you.
+The next time a pattern seems obvious from a [pile of examples](/fallacies/hasty-generalization/), do what Wald did. Don't ask what the survivors have in common. Ask who isn't in the room — and what their wounds would have told you.
