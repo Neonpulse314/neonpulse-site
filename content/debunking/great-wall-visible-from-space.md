@@ -4,11 +4,11 @@ date: 2026-06-20
 section_label: "What the Internet Gets Wrong"
 summary: "Everyone repeats that the Great Wall is the only human structure visible from space. It isn't — and one line of arithmetic proves it. Almost nobody writes that line down, which is exactly why the myth survives."
 tags: ["history", "space", "myth", "great wall", "debunking", "optics", "angular resolution"]
-hero_image: great-wall-from-orbit.png
+hero_image: great-wall-iss-nasa.jpg
 featured: true
 ---
 
-That photo is the view from the International Space Station over northern China. The Great Wall runs somewhere through that frame. You can't find it — and neither can the astronauts.
+That's a real photograph of the Great Wall from the International Space Station — taken by astronaut Leroy Chiao in 2004, through a high-powered telephoto lens. The Wall is in that frame. Go ahead and find it. Now remember that your naked eye is nothing like a telephoto lens, and you have your answer. *(Image: NASA / Leroy Chiao, ISS Expedition 10.)*
 
 The claim is everywhere anyway: the Great Wall is so vast it's the only human-made structure visible from space with the naked eye. Textbooks print it; tour guides recite it. It's wrong, and what's interesting is *how*. Your eye resolves *width*, not length, and from orbit the Wall is a six-metre thread seen as a fraction of a hair's width. You don't need an astronaut to settle this — you need one line of arithmetic almost nobody bothers to write down. So let's write it down.
 
