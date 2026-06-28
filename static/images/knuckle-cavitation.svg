@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" font-family="Georgia, serif">
+<rect width="860" height="380" fill="#ffffff"/>
+<text x="430.0" y="38" text-anchor="middle" font-size="19" font-weight="bold" fill="#111">The pop, and what it isn’t</text>
+<text x="220" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a2f27">The myth</text>
+<rect x="186" y="110" width="68" height="70" rx="30" fill="#f1ece2" stroke="#caa66a" stroke-width="2"/>
+<rect x="186" y="186" width="68" height="70" rx="30" fill="#f1ece2" stroke="#caa66a" stroke-width="2"/>
+<line x1="202" y1="178" x2="208" y2="188" stroke="#b9534b" stroke-width="2.5"/>
+<line x1="214" y1="178" x2="220" y2="188" stroke="#b9534b" stroke-width="2.5"/>
+<line x1="226" y1="178" x2="232" y2="188" stroke="#b9534b" stroke-width="2.5"/>
+<line x1="238" y1="178" x2="244" y2="188" stroke="#b9534b" stroke-width="2.5"/>
+<text x="220" y="290" text-anchor="middle" font-size="12.5" fill="#8a2f27">cartilage grinding → wear</text>
+<text x="220" y="310" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#b9534b">what intuition hears ✗</text>
+<line x1="430" y1="70" x2="430" y2="330" stroke="#e3e3e3" stroke-width="1.5"/>
+<text x="620" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2e6b32">The mechanism</text>
+<rect x="586" y="110" width="68" height="70" rx="30" fill="#f1ece2" stroke="#caa66a" stroke-width="2"/>
+<rect x="586" y="220" width="68" height="70" rx="30" fill="#f1ece2" stroke="#caa66a" stroke-width="2"/>
+<rect x="590" y="182" width="60" height="36" rx="8" fill="#dfeaf5"/>
+<circle cx="620" cy="200" r="13" fill="#ffffff" stroke="#3a6ea5" stroke-width="2"/>
+<circle cx="611" cy="194" r="3.5" fill="#ffffff" stroke="#3a6ea5" stroke-width="1.3"/>
+<text x="620" y="305" text-anchor="middle" font-size="12.5" fill="#2e6b32">gas bubble FORMS in joint fluid</text>
+<text x="620" y="325" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#3a6ea5">what a 2015 MRI saw ✓</text>
+<text x="430.0" y="368" text-anchor="middle" font-size="13" fill="#333">The crunch is a bubble appearing, not a joint wearing out. The sound is loud; the damage is imaginary.</text>
+</svg>

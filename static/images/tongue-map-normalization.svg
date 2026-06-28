@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" font-family="Georgia, serif">
+<rect width="880" height="440" fill="#ffffff"/>
+<line x1="60" y1="58" x2="60" y2="376" stroke="#222" stroke-width="1.2"/>
+<line x1="60" y1="376" x2="419.0" y2="376" stroke="#222" stroke-width="1.2"/>
+<text x="239.5" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">What Hanig measured (1901)</text>
+<text x="239.5" y="45" text-anchor="middle" font-size="11" fill="#777">four tastes, all within a 12% band</text>
+<text x="60.0" y="394" text-anchor="middle" font-size="11" fill="#555">tip</text>
+<text x="149.75" y="394" text-anchor="middle" font-size="11" fill="#555">front</text>
+<text x="239.5" y="394" text-anchor="middle" font-size="11" fill="#555">mid</text>
+<text x="329.25" y="394" text-anchor="middle" font-size="11" fill="#555">side</text>
+<text x="419.0" y="394" text-anchor="middle" font-size="11" fill="#555">back</text>
+<text x="239.5" y="416" text-anchor="middle" font-size="11" fill="#999">tongue, front → back</text>
+<line x1="60" y1="376.0" x2="419.0" y2="376.0" stroke="#eee"/>
+<text x="52" y="380.0" text-anchor="end" font-size="10" fill="#999">0</text>
+<line x1="60" y1="217.0" x2="419.0" y2="217.0" stroke="#eee"/>
+<text x="52" y="221.0" text-anchor="end" font-size="10" fill="#999">50</text>
+<line x1="60" y1="58.0" x2="419.0" y2="58.0" stroke="#eee"/>
+<text x="52" y="62.0" text-anchor="end" font-size="10" fill="#999">100</text>
+<text x="14" y="217.0" text-anchor="middle" font-size="11" fill="#666" transform="rotate(-90 14 217.0)">sensitivity (true scale, 0–100)</text>
+<polyline points="60.0,58.0 149.8,73.9 239.5,83.4 329.2,89.8 419.0,96.2" fill="none" stroke="#e8a13a" stroke-width="2.6"/>
+<circle cx="60.0" cy="58.0" r="2.7" fill="#e8a13a"/>
+<circle cx="149.8" cy="73.9" r="2.7" fill="#e8a13a"/>
+<circle cx="239.5" cy="83.4" r="2.7" fill="#e8a13a"/>
+<circle cx="329.2" cy="89.8" r="2.7" fill="#e8a13a"/>
+<circle cx="419.0" cy="96.2" r="2.7" fill="#e8a13a"/>
+<text x="60.0" y="49.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#e8a13a">sweet</text>
+<polyline points="60.0,77.1 149.8,58.0 239.5,73.9 329.2,83.4 419.0,89.8" fill="none" stroke="#3a7de8" stroke-width="2.6"/>
+<circle cx="60.0" cy="77.1" r="2.7" fill="#3a7de8"/>
+<circle cx="149.8" cy="58.0" r="2.7" fill="#3a7de8"/>
+<circle cx="239.5" cy="73.9" r="2.7" fill="#3a7de8"/>
+<circle cx="329.2" cy="83.4" r="2.7" fill="#3a7de8"/>
+<circle cx="419.0" cy="89.8" r="2.7" fill="#3a7de8"/>
+<text x="149.8" y="49.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#3a7de8">salty</text>
+<polyline points="60.0,89.8 149.8,80.3 239.5,70.7 329.2,58.0 419.0,73.9" fill="none" stroke="#5cb85c" stroke-width="2.6"/>
+<circle cx="60.0" cy="89.8" r="2.7" fill="#5cb85c"/>
+<circle cx="149.8" cy="80.3" r="2.7" fill="#5cb85c"/>
+<circle cx="239.5" cy="70.7" r="2.7" fill="#5cb85c"/>
+<circle cx="329.2" cy="58.0" r="2.7" fill="#5cb85c"/>
+<circle cx="419.0" cy="73.9" r="2.7" fill="#5cb85c"/>
+<text x="329.2" y="49.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#5cb85c">sour</text>
+<polyline points="60.0,96.2 149.8,89.8 239.5,83.4 329.2,73.9 419.0,58.0" fill="none" stroke="#9b59b6" stroke-width="2.6"/>
+<circle cx="60.0" cy="96.2" r="2.7" fill="#9b59b6"/>
+<circle cx="149.8" cy="89.8" r="2.7" fill="#9b59b6"/>
+<circle cx="239.5" cy="83.4" r="2.7" fill="#9b59b6"/>
+<circle cx="329.2" cy="73.9" r="2.7" fill="#9b59b6"/>
+<circle cx="419.0" cy="58.0" r="2.7" fill="#9b59b6"/>
+<text x="419.0" y="49.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#9b59b6">bitter</text>
+<line x1="497.0" y1="58" x2="497.0" y2="376" stroke="#222" stroke-width="1.2"/>
+<line x1="497.0" y1="376" x2="856.0" y2="376" stroke="#222" stroke-width="1.2"/>
+<text x="676.5" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">What Boring drew (1942)</text>
+<text x="676.5" y="45" text-anchor="middle" font-size="11" fill="#777">same numbers, axis stretched to fit them</text>
+<text x="497.0" y="394" text-anchor="middle" font-size="11" fill="#555">tip</text>
+<text x="586.75" y="394" text-anchor="middle" font-size="11" fill="#555">front</text>
+<text x="676.5" y="394" text-anchor="middle" font-size="11" fill="#555">mid</text>
+<text x="766.25" y="394" text-anchor="middle" font-size="11" fill="#555">side</text>
+<text x="856.0" y="394" text-anchor="middle" font-size="11" fill="#555">back</text>
+<text x="676.5" y="416" text-anchor="middle" font-size="11" fill="#999">tongue, front → back</text>
+<text x="451.0" y="217.0" text-anchor="middle" font-size="11" fill="#666" transform="rotate(-90 451.0 217.0)">“sensitivity” (rescaled, no numbers)</text>
+<text x="489.0" y="64" text-anchor="end" font-size="10" fill="#bbb">?</text>
+<text x="489.0" y="376" text-anchor="end" font-size="10" fill="#bbb">?</text>
+<polyline points="497.0,64.2 586.8,168.2 676.5,230.5 766.2,272.1 856.0,313.6" fill="none" stroke="#e8a13a" stroke-width="2.6"/>
+<circle cx="497.0" cy="64.2" r="2.7" fill="#e8a13a"/>
+<circle cx="586.8" cy="168.2" r="2.7" fill="#e8a13a"/>
+<circle cx="676.5" cy="230.5" r="2.7" fill="#e8a13a"/>
+<circle cx="766.2" cy="272.1" r="2.7" fill="#e8a13a"/>
+<circle cx="856.0" cy="313.6" r="2.7" fill="#e8a13a"/>
+<text x="497.0" y="55.2" text-anchor="middle" font-size="11" font-weight="bold" fill="#e8a13a">sweet</text>
+<polyline points="497.0,188.9 586.8,64.2 676.5,168.2 766.2,230.5 856.0,272.1" fill="none" stroke="#3a7de8" stroke-width="2.6"/>
+<circle cx="497.0" cy="188.9" r="2.7" fill="#3a7de8"/>
+<circle cx="586.8" cy="64.2" r="2.7" fill="#3a7de8"/>
+<circle cx="676.5" cy="168.2" r="2.7" fill="#3a7de8"/>
+<circle cx="766.2" cy="230.5" r="2.7" fill="#3a7de8"/>
+<circle cx="856.0" cy="272.1" r="2.7" fill="#3a7de8"/>
+<text x="586.8" y="55.2" text-anchor="middle" font-size="11" font-weight="bold" fill="#3a7de8">salty</text>
+<polyline points="497.0,272.1 586.8,209.7 676.5,147.4 766.2,64.2 856.0,168.2" fill="none" stroke="#5cb85c" stroke-width="2.6"/>
+<circle cx="497.0" cy="272.1" r="2.7" fill="#5cb85c"/>
+<circle cx="586.8" cy="209.7" r="2.7" fill="#5cb85c"/>
+<circle cx="676.5" cy="147.4" r="2.7" fill="#5cb85c"/>
+<circle cx="766.2" cy="64.2" r="2.7" fill="#5cb85c"/>
+<circle cx="856.0" cy="168.2" r="2.7" fill="#5cb85c"/>
+<text x="766.2" y="55.2" text-anchor="middle" font-size="11" font-weight="bold" fill="#5cb85c">sour</text>
+<polyline points="497.0,313.6 586.8,272.1 676.5,230.5 766.2,168.2 856.0,64.2" fill="none" stroke="#9b59b6" stroke-width="2.6"/>
+<circle cx="497.0" cy="313.6" r="2.7" fill="#9b59b6"/>
+<circle cx="586.8" cy="272.1" r="2.7" fill="#9b59b6"/>
+<circle cx="676.5" cy="230.5" r="2.7" fill="#9b59b6"/>
+<circle cx="766.2" cy="168.2" r="2.7" fill="#9b59b6"/>
+<circle cx="856.0" cy="64.2" r="2.7" fill="#9b59b6"/>
+<text x="856.0" y="55.2" text-anchor="middle" font-size="11" font-weight="bold" fill="#9b59b6">bitter</text>
+<text x="440.0" y="430" text-anchor="middle" font-size="12.5" fill="#333">Identical data. Rescaling each curve to its own maximum and dropping the scale turns a flat band into four “taste zones.”</text>
+</svg>

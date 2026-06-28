@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 360" font-family="Georgia, serif">
+<rect width="860" height="360" fill="#ffffff"/>
+<text x="430.0" y="40" text-anchor="middle" font-size="19" font-weight="bold" fill="#111">What is allowed to vote on the decision</text>
+<rect x="60" y="110" width="250" height="80" rx="10" fill="#f3eceb" stroke="#b9534b" stroke-width="2"/>
+<text x="185.0" y="144.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a2f27">Money · time · effort</text>
+<text x="185.0" y="165.0" text-anchor="middle" font-size="12" fill="#555">already spent — cannot change</text>
+<rect x="60" y="240" width="250" height="80" rx="10" fill="#eaf1ea" stroke="#3f8f43" stroke-width="2"/>
+<text x="185.0" y="274.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#2e6b32">Value from here on</text>
+<text x="185.0" y="295.0" text-anchor="middle" font-size="12" fill="#555">is tonight actually worth it?</text>
+<rect x="560" y="175" width="240" height="90" rx="10" fill="#eef2f8" stroke="#3a6ea5" stroke-width="2"/>
+<text x="680.0" y="214.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">The decision</text>
+<text x="680.0" y="235.0" text-anchor="middle" font-size="12" fill="#555">keep going, or stop?</text>
+<line x1="310" y1="150" x2="555" y2="200" stroke="#b9534b" stroke-width="2.5" stroke-dasharray="7 5"/>
+<polygon points="555,200 540,193 543,205" fill="#b9534b"/>
+<line x1="410" y1="158" x2="460" y2="198" stroke="#b9534b" stroke-width="4"/>
+<line x1="460" y1="158" x2="410" y2="198" stroke="#b9534b" stroke-width="4"/>
+<text x="430" y="150" text-anchor="middle" font-size="12.5" font-style="italic" fill="#b9534b">the fallacy</text>
+<line x1="310" y1="285" x2="555" y2="240" stroke="#3f8f43" stroke-width="3"/>
+<polygon points="555,240 540,237 545,250" fill="#3f8f43"/>
+<text x="432" y="305" text-anchor="middle" font-size="12.5" font-style="italic" fill="#3f8f43">the only valid input</text>
+<text x="430.0" y="346" text-anchor="middle" font-size="13" fill="#333">The receipt can’t vote. Only the road ahead can. “I’ve already put so much in” is a sentence about the box that can’t change.</text>
+</svg>
