@@ -5,6 +5,8 @@ section_label: "Logical Fallacies"
 summary: "Confirmation bias is the tendency to search for, remember, and interpret information in ways that confirm what you already believe. It's not a quirk of bad thinkers — it affects everyone, and it's one of the hardest biases to catch yourself doing."
 tags: ["fallacies", "reasoning", "psychology", "bias", "critical thinking"]
 featured: true
+aliases:
+  - /science/confirmation-bias/
 ---
 
 After three weeks of research, Jin had assembled a compelling case.
