@@ -4,6 +4,8 @@ date: 2026-06-27
 section_label: "What the Internet Gets Wrong"
 summary: "A doctor cracked the knuckles of one hand for sixty years to settle it. The boring study that came later settled it better."
 tags: ["health", "myth", "debunking", "arthritis", "evidence", "critical thinking"]
+featured: true
+aliases: ["/debunking/cracking-knuckles-arthritis/"]
 ---
 
 For sixty years, Dr. Donald Unger cracked the knuckles of his left hand at least twice a day. He never cracked his right. He did this on purpose, the way you'd run an experiment, because as a boy he'd been told — by his mother, two aunts, and a mother-in-law later on — that cracking his knuckles would give him arthritis.

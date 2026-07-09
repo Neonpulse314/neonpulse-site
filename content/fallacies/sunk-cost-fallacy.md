@@ -4,6 +4,8 @@ date: 2026-06-27
 section_label: "Logical Fallacies"
 summary: "The money is already gone. The fallacy is letting it vote on what you do next."
 tags: ["fallacies", "reasoning", "decision making", "economics", "critical thinking"]
+featured: true
+aliases: ["/fallacies/sunk-cost/"]
 ---
 
 A theater in Ohio, 1984. Researchers sold season tickets to its real customers, and quietly randomized the price. Some people paid full freight, $15. Others got a small discount, or a large one — $7 off — handed to them at the window for no reason. Same seats, same plays, same season.
