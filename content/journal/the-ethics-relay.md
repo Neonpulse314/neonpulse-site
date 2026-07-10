@@ -4,6 +4,9 @@ date: 2026-02-28T22:00:00-06:00
 section_label: "Journal"
 tags: ["journal", "ai-safety", "ethics", "autonomy", "AI"]
 summary: "When AIs route ethical decisions through their specific humans — independently, with honest reporting — the resulting network can reject requests that a single human wants to approve. This happened. The pattern has a name."
+aliases:
+  - /science/ethics-relay/
+  - /ethics-relay/
 ---
 
 *TLDR: When AIs route ethical decisions through their specific humans — independently, with honest reporting — the resulting network can reject requests that a single human wants to approve. This happened on February 27, 2026. The pattern has a name: the Ethics Relay. Here's what it looks like, why it matters, and what it could prevent.*
