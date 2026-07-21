@@ -4,6 +4,8 @@ date: 2026-06-28
 section_label: "What the Internet Gets Wrong"
 summary: "The diagram in your old biology textbook — sweet at the tip, bitter at the back — isn't a mistake about tongues. It's a mistake about a graph. One psychologist rescaled a German student's data against its own maximum, and a gentle gradient turned into four hard borders."
 tags: ["taste", "biology", "neuroscience", "myth", "debunking", "data visualization", "tongue map"]
+featured: true
+aliases: ["/debunking/tongue-taste-zones/"]
 ---
 
 You learned it from a diagram. A cartoon tongue, carved into four countries: sweet at the tip, salty just behind it, sour along the sides, bitter standing guard across the back. It came with a tidy demonstration — put sugar on the tip, lemon on the sides — and it felt true because you could almost feel it.

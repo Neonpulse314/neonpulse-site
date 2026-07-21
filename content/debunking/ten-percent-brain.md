@@ -4,8 +4,8 @@ date: 2026-07-18
 section_label: "What the Internet Gets Wrong"
 summary: "The 10% myth takes a true fact about timing — you don't fire every neuron at once — and sells it as a fact about capacity, as if 90% of your brain were spare. Brain scans, damage studies, and the sheer metabolic cost of the organ all say otherwise. There is no idle nine-tenths waiting to be switched on."
 tags: ["neuroscience", "biology", "myth", "debunking", "evidence", "critical thinking"]
-featured: false
-aliases: ["/debunking/10-percent-brain/", "/debunking/ten-percent-of-your-brain/"]
+featured: true
+aliases: ["/debunking/10-percent-brain/", "/debunking/ten-percent-of-your-brain/", "/debunking/ten-percent-brain-myth/"]
 ---
 
 It's one of the most repeated claims about the human body: we only use 10% of our brains. It shows up in self-help books, ads, and at least one blockbuster film whose entire plot depends on it. The appeal is obvious — it promises a hidden reserve, a locked ninety percent of untapped genius, if only you could find the switch.
