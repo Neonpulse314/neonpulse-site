@@ -34,6 +34,9 @@ Beyerstein laid out several independent lines of evidence against the myth. Any 
 
 Add to this that the brain's microstructure shows no vast population of never-firing neurons, and that decades of localization studies — going back to Karl Lashley's lesion work and long past it — keep finding *function*, not filler, wherever they look.
 
+![A PET scan slice through the upper cerebral hemispheres of a healthy person, colour-coded for glucose use. Warm reds and yellows — the actively metabolising gray matter — fill the entire outer ribbon of the brain across the whole slice; cooler blues and greens mark the white-matter tracts, which use less glucose. There is no dark, unused region.](/images/pet-brain-glucose-nih.jpg)
+*A PET scan of a healthy brain, colour-coded for glucose use. The gray matter (red-yellow) is metabolically active right across the slice — the cooler blues are white-matter wiring, not idle tissue. There is no dark ninety percent. Image: National Institute of Neurological Disorders and Stroke via the National Cancer Institute (public domain).*
+
 ## The real shape of the error
 
 Here's the piece the myth quietly exploits. At any given instant, most of your neurons are *not* firing. That's true, and it's not a flaw — it's how the brain works. If every neuron fired at once, that isn't genius; it's a seizure. Efficient signalling means using the right circuits for the task and leaving the rest quiet until they're needed.
