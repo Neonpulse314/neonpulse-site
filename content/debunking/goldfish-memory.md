@@ -24,7 +24,7 @@ The goldfish claim arrives with none of them. No study, no author, no date. Just
 
 So before checking whether goldfish remember: notice that nobody ever said who checked.
 
-![A two-column comparison. The left column, headed "A measured claim travels with its method," lists the fixed details that accompany real findings: species, number of animals, the task, the retention interval, the journal, the year — each shown filled in for a real 2022 goldfish study. The right column, headed "The goldfish claim travels with nothing," shows the same six rows empty, and above them the quoted figure drifting between three, five and seven seconds depending on the teller.](/images/goldfish-measured-vs-folklore.png)
+![A two-column comparison. The left column, headed "A measured claim travels with its method," lists the fixed details that accompany real findings: species, number of animals, the task, the retention interval, the journal, the year — each shown filled in for a real 2022 goldfish study. The right column, headed "The goldfish claim travels with nothing," shows the same six rows empty, and above them the quoted figure drifting between three, five and seven seconds depending on the teller.](/images/goldfish-method-vs-folklore.png)
 
 ## What goldfish actually do
 

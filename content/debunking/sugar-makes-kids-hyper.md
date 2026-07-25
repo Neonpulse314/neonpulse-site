@@ -4,7 +4,7 @@ date: 2026-07-20
 section_label: "What the Internet Gets Wrong"
 summary: "Almost every parent will tell you sugar sends kids bouncing off the walls. Controlled trials — including ones on the exact children parents called 'sugar-sensitive' — find nothing. The hyperactivity is real, but it's in the watcher, not the bloodstream. Here's the experiment that proves it, and the thinking tool it hands you."
 tags: ["psychology", "nutrition", "myth", "debunking", "expectancy effect", "critical thinking"]
-featured: false
+featured: true
 aliases: ["/debunking/sugar-hyperactivity/", "/debunking/does-sugar-make-kids-hyper/"]
 ---
 
