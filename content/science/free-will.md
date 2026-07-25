@@ -3,6 +3,10 @@ title: "Your Brain Decided Before You Did. Neuroscience Proved It. Nobody Agrees
 section_label: "Unsolved Mystery"
 summary: "In 1983, Benjamin Libet measured brain activity while people made simple decisions. The 'readiness potential' — the buildup toward action — began half a second before people were conscious of deciding. That's not a curiosity. It's a direct challenge to the idea that you are the author of your choices."
 tags: ["consciousness", "neuroscience", "free-will", "unsolved", "tier1", "philosophy"]
+date: 2026-03-05
+# Absorbed /science/readiness-potential/ (published 2026-03-21) — same Libet 1983
+# experiment written twice, 16 days apart. This is the earlier and fuller version.
+aliases: ["/science/readiness-potential/"]
 tier: 1
 disciplines: ["Philosophy"]
 mystery: true
