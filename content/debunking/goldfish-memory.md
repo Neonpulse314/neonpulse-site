@@ -58,7 +58,7 @@ Then apply the drift test. Watch the same claim in three or four places. A measu
 
 You can run this on a lot more than goldfish. "Humans use 10% of their brains." "You swallow eight spiders a year." "You need eight glasses of water a day." Don't start by arguing. Start by asking which study, on whom, measuring what — and watch whether the number holds still when you look at it from a second angle.
 
-The goldfish is a good place to practise, because here the answer is unusually clean: there is no study, there was never a study, and the fish can drive.
+The goldfish is a good place to practise, because here the answer is unusually clean: nobody who repeats the figure can point to where it came from, and the fish can drive.
 
 ## Sources
 
