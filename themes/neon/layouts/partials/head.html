@@ -6,6 +6,18 @@
 {{- $desc := cond (ne .Params.description nil) .Params.description (cond (ne .Summary "") (.Summary | plainify | chomp | truncate 280) .Site.Params.description) -}}
 {{- $ogtitle := cond .IsHome .Site.Title .Title -}}
 {{- $ogimg := "images/hero-homepage.png" | absURL -}}
+{{/* Thin taxonomy terms are noindex,follow — Search Console, 2026-07-27:
+     "Duplicate, Google chose different canonical than user". 411 of 736 sitemap URLs were
+     tag pages on a site with ~230 articles, and 251 of 404 tags had exactly ONE post. A
+     one-post tag page is that article's summary at a second URL, so Google canonicalised it
+     back to the article and reported the mismatch. FOLLOW is kept deliberately: the pages
+     stay crawlable so their internal links still pass, they just stop competing with the
+     articles they duplicate. Terms at or above taxonomyIndexMin are real hubs and stay
+     indexed. Threshold lives in hugo.toml so this is tunable without touching templates. */}}
+{{- $taxMin := default 5 .Site.Params.taxonomyIndexMin -}}
+{{- $thinTerm := and (eq .Kind "term") (lt (len .Pages) $taxMin) -}}
+{{- if $thinTerm }}<meta name="robots" content="noindex,follow">
+{{ end -}}
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">

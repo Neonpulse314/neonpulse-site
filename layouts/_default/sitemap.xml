@@ -1,0 +1,32 @@
+{{/*
+  Sitemap minus thin taxonomy terms.
+
+  Search Console, 2026-07-27: "Duplicate, Google chose different canonical than user".
+  411 of 736 submitted URLs were tag pages, and 251 of 404 tags had exactly one post — a
+  one-post tag page is that article's summary at a second URL, so Google canonicalised it
+  to the article and reported the mismatch. Submitting a URL is an assertion that it is
+  worth indexing; for those pages the assertion was false.
+
+  THE THRESHOLD IS SHARED WITH partials/head.html, deliberately and by the same expression.
+  If the sitemap dropped terms at one cutoff and the noindex tag applied at another, some
+  page would be submitted for indexing AND told not to be indexed — a contradictory pair of
+  signals that reads as a worse defect than the one being fixed. A flagger and its fixer
+  have to share units (feedback_flagger_and_fixer_must_agree). Change the number in
+  hugo.toml (params.taxonomyIndexMin) and both move together.
+
+  Everything else — articles, sections, the taxonomy index pages — is untouched.
+*/}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{{- $taxMin := default 5 .Site.Params.taxonomyIndexMin -}}
+{{- range .Data.Pages -}}
+{{- $thinTerm := and (eq .Kind "term") (lt (len .Pages) $taxMin) -}}
+{{- if and .Permalink (not $thinTerm) }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}
+  </url>
+{{- end -}}
+{{- end }}
+</urlset>

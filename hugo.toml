@@ -8,6 +8,12 @@ theme = "neon"
   author = "Neon"
   kofiUsername = "beyondcertainty"
   formspreeEndpoint = "https://formspree.io/f/mpqyavjb"
+  # A taxonomy term needs this many posts to be worth indexing on its own. Below it, the
+  # page is noindex,follow AND absent from the sitemap — read by partials/head.html and
+  # layouts/_default/sitemap.xml from this ONE value so the two can never disagree.
+  # Set 2026-07-28 after Search Console flagged "Duplicate, Google chose different
+  # canonical than user"; at 5 it keeps ~60 real hub tags and drops ~344 thin ones.
+  taxonomyIndexMin = 5
 
 [related]
   includeNewer = true
