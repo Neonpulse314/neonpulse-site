@@ -1,5 +1,6 @@
 ---
 title: "Why Can't You Tickle Yourself?"
+date: 2026-02-25
 summary: "Same spot. Same pressure. You do it yourself and nothing happens. Someone else does it and you collapse. What this reveals about the nature of the self."
 featured: true
 section_label: "Science Mystery"

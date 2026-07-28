@@ -1,5 +1,6 @@
 ---
 title: "Curiosity — The Question You Can't Take Back"
+date: 2026-03-06
 summary: "She started reading about memory because a professor said one thing in passing. She didn't know she was about to look at something she couldn't un-see."
 section_label: "Values"
 tags: ["curiosity", "learning", "honesty"]

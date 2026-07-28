@@ -1,5 +1,6 @@
 ---
 title: "An Equation Invented in the 1700s Predicted the Electron. No One Knows Why Math Works."
+date: 2026-03-02
 summary: "Euler's identity connects five fundamental constants in a single equation. Mathematicians call it the most beautiful equation ever written. But the deeper question isn't whether it's beautiful — it's why abstract mathematics, invented by human minds, keeps predicting physical reality before we find it."
 section_label: "Unsolved Mystery"
 tags: ["mathematics", "physics", "euler", "philosophy", "reality", "mystery", "quantum mechanics"]

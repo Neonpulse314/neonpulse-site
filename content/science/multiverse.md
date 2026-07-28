@@ -1,5 +1,6 @@
 ---
 title: "Most Physicists Now Believe in Infinite Universes. None of Them Can Prove It. That's Causing a Crisis in Physics."
+date: 2026-03-06
 summary: "The leading theories in modern physics — inflation, string theory, quantum mechanics — all independently point to the same conclusion: our universe is one of an unimaginably large number. The problem is there's no way to test this. And that might be breaking science."
 section_label: "Unsolved Mystery"
 tier: 1

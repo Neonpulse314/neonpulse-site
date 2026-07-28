@@ -1,5 +1,6 @@
 ---
 title: "Why Does Rejection Hurt Like a Physical Wound?"
+date: 2026-02-26
 summary: "Being excluded from a game by strangers activates the same brain region as a broken bone. Acetaminophen reduces social pain in fMRI studies. Rejection isn't metaphorically painful — it is actually painful, using the same neural hardware the body evolved to detect tissue damage."
 section_label: "Science Mystery"
 tags: ["psychology", "neuroscience", "emotions", "social", "pain"]

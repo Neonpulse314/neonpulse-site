@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Feel Disgust?"
+date: 2026-02-26
 summary: "Disgust evolved to protect you from disease — a fast, powerful system for avoiding pathogens and contaminated food. Then something happened: it got recruited for moral judgment. The same system that makes you gag at rotting meat now makes some people gag at political opponents. This is one of the stranger stories about how evolution repurposes hardware."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "evolution", "emotion", "social"]

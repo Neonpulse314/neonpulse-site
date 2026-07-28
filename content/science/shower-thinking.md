@@ -1,5 +1,6 @@
 ---
 title: "Why Does Your Best Thinking Happen in the Shower?"
+date: 2026-02-26
 summary: "You've been stuck on a problem for an hour. You get in the shower. In thirty seconds, the answer arrives. This is not a coincidence — it's neuroscience. And it says something uncomfortable about how little control you have over your own best ideas."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "cognition", "creativity"]

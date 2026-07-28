@@ -1,5 +1,6 @@
 ---
 title: "The Experiment That Broke Physics"
+date: 2026-03-02
 summary: "Fire particles at two slits. They make a wave pattern — as if each particle went through both at once. Then watch which slit they use. The pattern disappears. Reality changes when you look at it. We still don't know why."
 section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "consciousness", "observation", "measurement"]

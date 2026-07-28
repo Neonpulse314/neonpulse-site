@@ -1,5 +1,6 @@
 ---
 title: "Why Did 65% of People Give the Maximum Electric Shock?"
+date: 2026-02-26
 summary: "In 1963, Stanley Milgram published one of the most disturbing studies in psychology: ordinary people, instructed by an authority figure, administered what they believed were dangerous electric shocks to a stranger. 65% continued to the maximum voltage. The study has been misread ever since."
 featured: true
 section_label: "Science Mystery"

@@ -1,5 +1,6 @@
 ---
 title: "Why Do First Impressions Last?"
+date: 2026-02-26
 summary: "You form a first impression in under 100 milliseconds — faster than conscious thought. You continue revising it with new information, but the original impression has disproportionate weight. The mechanism is known, and it's embarrassingly good at identifying some things and embarrassingly bad at others."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "social", "cognition", "perception"]

@@ -1,5 +1,6 @@
 ---
 title: "Why Can't You See Your Own Eyes Move in a Mirror?"
+date: 2026-02-27
 summary: "Try it. Stand in front of a mirror and look back and forth between your eyes. You'll never catch them moving. Everyone else can see your eyes move perfectly clearly — but you're blind to it. This is called saccadic suppression, and it says something strange about how the brain constructs reality."
 featured: true
 section_label: "Science Mystery"

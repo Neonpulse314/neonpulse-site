@@ -1,5 +1,6 @@
 ---
 title: "Why Can't You Focus When You're Tired?"
+date: 2026-02-26
 summary: "You know you're not performing at your best, but you don't know how bad it actually is. Sleep deprivation impairs the part of your brain that would notice you're impaired. Staying awake for 24 hours is cognitively equivalent to a blood alcohol level of 0.10. And a chemical called adenosine is why coffee can only delay the debt, not cancel it."
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "cognition", "psychology", "biology"]

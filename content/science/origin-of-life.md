@@ -1,5 +1,6 @@
 ---
 title: "Life Started 3.5 Billion Years Ago. We've Never Been Able to Explain How Chemistry Became Alive."
+date: 2026-03-02
 summary: "Every living thing on Earth shares the same genetic code, the same molecular machinery, the same basic chemistry. That means life started once — and then spread everywhere. We have fossils of that first life. We have no idea how it happened. We've never been able to recreate it."
 section_label: "Unsolved Mystery"
 tags: ["biology", "abiogenesis", "origin of life", "RNA world", "chemistry", "evolution", "mystery"]

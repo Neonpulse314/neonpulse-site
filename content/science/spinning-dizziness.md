@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Get Dizzy After Spinning?"
+date: 2026-02-27
 summary: "Spin in place for ten seconds and stop. The world keeps turning for a few seconds after you do. Your ears are certain you're still spinning. Your eyes are trying to compensate for a rotation that has already ended. Here's why stopping is harder than it looks."
 section_label: "Science Mystery"
 tags: ["neuroscience", "vestibular", "perception", "biology", "senses"]

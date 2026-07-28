@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Sigh?"
+date: 2026-02-26
 summary: "You sigh about 12 times per hour without noticing. It has almost nothing to do with emotion. Sighs are maintenance breaths — a mechanical fix your lungs run automatically to prevent collapse. The emotional sigh is the same reflex, hijacked."
 section_label: "Science Mystery"
 tags: ["biology", "neuroscience", "physiology", "emotion", "breathing"]

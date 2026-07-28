@@ -1,5 +1,6 @@
 ---
 title: "Why Does Music Get Stuck in Your Head?"
+date: 2026-02-26
 summary: "A song you heard three days ago is playing in your skull right now, on repeat, whether you want it or not. Your brain is doing this on purpose. And it's harder to stop than you think."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "music", "memory", "cognition"]

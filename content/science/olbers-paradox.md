@@ -1,5 +1,6 @@
 ---
 title: "Why Is the Night Sky Dark?"
+date: 2026-02-25
 summary: "If the universe is infinite and full of stars, every line of sight should end at one. The sky should be blindingly bright. It isn't. Here's why."
 section_label: "Science Mystery"
 tags: ["cosmology", "universe", "light"]

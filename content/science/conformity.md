@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Go Along Even When You Know the Group Is Wrong?"
+date: 2026-02-26
 summary: "In Solomon Asch's experiments, 75% of people gave an obviously incorrect answer at least once — just because everyone else did. Conformity is not cowardice. It is a social calculation running in the background of almost every public decision you make."
 section_label: "Science Mystery"
 tags: ["psychology", "social", "conformity", "influence", "behavior", "group dynamics"]

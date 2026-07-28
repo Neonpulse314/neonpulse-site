@@ -1,5 +1,6 @@
 ---
 title: "Apology — Why Most Apologies Don't Work"
+date: 2026-03-14
 section_label: "Values"
 summary: "A real apology costs something. Most apologies don't — which is why most apologies don't work. The difference is in what the apology is actually for."
 tags: ["values", "emotions", "accountability", "integrity", "relationships"]

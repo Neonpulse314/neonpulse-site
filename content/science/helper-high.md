@@ -1,5 +1,6 @@
 ---
 title: "Why Does Helping Someone Feel Good?"
+date: 2026-02-26
 summary: "The feeling after you help someone — especially a stranger — is real, reliably produced, and visible in fMRI scans. The brain lights up the same reward circuits as food and sex when you give. The mechanism explains why spending money on others consistently makes people happier than spending on themselves."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "social", "altruism", "happiness"]

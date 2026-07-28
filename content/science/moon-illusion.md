@@ -1,5 +1,6 @@
 ---
 title: "Why Does the Full Moon Look Bigger Near the Horizon?"
+date: 2026-02-26
 summary: "It doesn't. The moon is physically the same size — actually very slightly smaller near the horizon, because you're a tiny bit farther from it. The apparent size is an illusion created by your brain's depth-perception system. Aristotle noticed it. People have been trying to explain it for 2,000 years. The solution involves why train tracks seem to converge."
 section_label: "Science Mystery"
 tags: ["neuroscience", "perception", "vision", "psychology", "physics"]

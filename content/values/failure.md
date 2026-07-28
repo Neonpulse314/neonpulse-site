@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Failure — The Only Honest Measurement"
+date: 2026-03-07
 summary: "Marcus has spent three years only applying to jobs he's certain to get. Then a mentor refers him somewhere he actually wants to work. He bombs it. And for the first time, learns exactly where his edge is."
 section_label: "Values"
 tags: ["failure", "growth", "self-knowledge", "resilience"]

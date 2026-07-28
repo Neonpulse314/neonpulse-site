@@ -1,5 +1,6 @@
 ---
 title: "The Universe Is 13.8 Billion Years Old. Where Is Everyone?"
+date: 2026-03-02
 summary: "The math says the galaxy should be full of intelligent life. We've been listening for decades. We've found nothing. Scientists call this the Fermi Paradox. The most disturbing explanation is that silence might be the warning."
 section_label: "Unsolved Mystery"
 tags: ["astrobiology", "space", "extraterrestrial", "existential", "civilization", "SETI"]

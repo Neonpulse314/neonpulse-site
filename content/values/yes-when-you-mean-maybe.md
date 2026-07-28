@@ -1,5 +1,6 @@
 ---
 title: "The Soft Yes"
+date: 2026-03-25
 section_label: "Values"
 summary: "When you say yes and mean maybe, you don't carry the risk — they do."
 tags: ["honesty", "relationships", "commitment", "social"]

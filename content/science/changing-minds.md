@@ -1,5 +1,6 @@
 ---
 title: "Why Is It So Hard to Change Someone's Mind?"
+date: 2026-02-26
 summary: "Evidence rarely changes minds. Neither does being right. Researchers have found that the brain evaluates arguments not primarily for truth but for tribal consistency — and that the very faculty of reason may have evolved to win arguments, not to find correct answers."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "social", "reasoning", "bias"]

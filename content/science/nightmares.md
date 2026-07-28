@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Have Nightmares?"
+date: 2026-02-26
 summary: "Nightmares aren't malfunction. The leading theory is that your sleeping brain is running threat simulations — rehearsing dangerous scenarios to prepare you for them. The problem is when the rehearsal gets stuck, and the practice drills become the threat."
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "psychology", "dreams", "evolution"]

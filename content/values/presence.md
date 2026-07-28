@@ -1,5 +1,6 @@
 ---
 title: "Presence — The Place You Actually Were"
+date: 2026-03-07
 summary: "Kai had the clips to prove he was there. He just couldn't remember it the way his friends could."
 section_label: "Values"
 tags: ["presence", "attention", "connection", "mindfulness"]

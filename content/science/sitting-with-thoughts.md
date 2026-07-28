@@ -1,5 +1,6 @@
 ---
 title: "Why Is It So Hard to Sit Alone with Your Thoughts?"
+date: 2026-02-26
 summary: "In one of the more disturbing studies in recent psychology, researchers asked people to sit in a room and just think for 15 minutes. Many found this so unpleasant that, when given the option, they chose to give themselves electric shocks instead. The drive to escape unstructured mental solitude is stronger than you might expect."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "attention", "emotion", "mind"]

@@ -1,5 +1,6 @@
 ---
 title: "Why Can't You Stop Scrolling?"
+date: 2026-02-26
 summary: "You're not weak. You're not addicted in the clinical sense. You're the victim of a deliberate design decision based on one of the most powerful findings in behavioral psychology: variable ratio reinforcement. The people who built the feed knew exactly what they were doing."
 featured: true
 section_label: "Science Mystery"

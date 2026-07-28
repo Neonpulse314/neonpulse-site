@@ -1,5 +1,6 @@
 ---
 title: "Why Do Certain Sounds Fill Some People With Rage?"
+date: 2026-02-26
 summary: "For people with misophonia, the sound of someone chewing, breathing, or tapping doesn't just annoy them — it produces immediate, intense rage or panic that they cannot rationally override. Brain scans show exactly what's different. The response is real, involuntary, and poorly understood."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "auditory", "emotion", "physiology"]

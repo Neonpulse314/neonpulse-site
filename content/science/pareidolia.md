@@ -1,5 +1,6 @@
 ---
 title: "Why Do You See Faces Everywhere?"
+date: 2026-02-25
 summary: "You glance at a tree knot and see two eyes. You spot a face in a power outlet. A cloud becomes a profile. Your brain is doing something ancient and weird — and it can't stop."
 section_label: "Science Mystery"
 tags: ["neuroscience", "perception", "psychology", "evolution", "consciousness"]

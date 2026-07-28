@@ -1,5 +1,6 @@
 ---
 title: "Patience — Still"
+date: 2026-02-25
 summary: "Marcus finds a stock he likes at $18. The right price is $14. His friend buys in. Marcus watches and waits for four months. This is a story about doing nothing — and why that's the hardest discipline."
 section_label: "Values"
 tags: ["patience", "discipline", "investing"]

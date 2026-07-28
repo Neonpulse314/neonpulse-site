@@ -1,5 +1,6 @@
 ---
 title: "Belonging — Why Being in the Room Isn't the Same as Being Wanted There"
+date: 2026-03-14
 section_label: "Values"
 summary: "You can be surrounded by people and still feel like an outsider. Belonging isn't about presence — it's about whether you believe you're genuinely wanted."
 tags: ["values", "emotions", "connection", "identity", "psychology"]

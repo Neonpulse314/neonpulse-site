@@ -1,5 +1,6 @@
 ---
 title: "Creativity — The Gap You Have to Live In"
+date: 2026-03-07
 summary: "Sasha had better taste than almost anyone in his workshop. The problem was he also knew it."
 section_label: "Values"
 tags: ["creativity", "skill", "making things", "growth", "persistence"]

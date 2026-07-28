@@ -1,5 +1,6 @@
 ---
 title: "Why Can You Smell Rain Before It Falls?"
+date: 2026-02-26
 summary: "The smell of rain has a name, a chemistry, and an evolutionary explanation. Petrichor is not one thing — it's at least three, each from a different source, arriving at your nose through a mechanism that wasn't understood until 2015."
 featured: true
 section_label: "Science Mystery"

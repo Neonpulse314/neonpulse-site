@@ -1,5 +1,6 @@
 ---
 title: "Compassion — What She Said at the End"
+date: 2026-02-25
 summary: "Dominic's mother is dying. He's at university, two hours away. His roommate Ben notices without being told — and responds in the only way that actually helped."
 section_label: "Values"
 tags: ["compassion", "grief", "attention"]

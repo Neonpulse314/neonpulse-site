@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Dream?"
+date: 2026-02-25
 summary: "Every night, your brain stages elaborate simulations — sometimes terrifying, sometimes beautiful, usually strange. Scientists have two leading theories. Neither is complete."
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "consciousness"]

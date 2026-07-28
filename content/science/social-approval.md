@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Care So Much What Other People Think?"
+date: 2026-02-26
 summary: "Self-esteem might not be what we think it is. The sociometer theory proposes that self-esteem isn't a goal in itself — it's a gauge. A continuously running internal measure of social acceptance, calibrated by how included you feel. When you feel good about yourself, you're detecting that you're belonging. When you don't, you're detecting risk."
 section_label: "Science Mystery"
 tags: ["psychology", "social", "neuroscience", "evolution", "self-esteem"]

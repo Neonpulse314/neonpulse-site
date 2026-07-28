@@ -1,5 +1,6 @@
 ---
 title: "68% of the Universe Is Pushing Everything Apart. Nobody Knows What It Is."
+date: 2026-03-02
 summary: "The universe isn't just expanding — it's accelerating. Something is pushing galaxies away from each other faster and faster. We call it dark energy. It makes up 68% of everything. The best prediction physics can make about it is off by a factor of 10 to the power of 120. That's the worst prediction in the history of science."
 section_label: "Unsolved Mystery"
 tags: ["dark energy", "cosmology", "physics", "universe", "expansion", "mystery"]

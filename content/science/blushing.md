@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Blush?"
+date: 2026-02-26
 summary: "Your face turns red at the worst possible moment, and trying to stop it only makes it worse. Charles Darwin called blushing the most peculiar and most human of all expressions. He was right — and the reason why says something uncomfortable about what honesty actually costs."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "evolution", "emotion", "social psychology"]

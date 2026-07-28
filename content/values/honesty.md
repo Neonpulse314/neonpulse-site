@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Honesty — The Reference"
+date: 2026-02-25
 summary: "Jamie's colleague asks her for a reference letter. He's kind, reliable, and not good at the technical parts of the job he's applying for. She writes an honest letter anyway."
 section_label: "Values"
 tags: ["honesty", "integrity", "cost"]

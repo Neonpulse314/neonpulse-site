@@ -1,5 +1,6 @@
 ---
 title: "The LHC Was Built to Solve One of Physics' Deepest Mysteries. It Found the Higgs Boson. It Didn't Solve the Mystery."
+date: 2026-03-06
 summary: "The Higgs boson should be 10,000,000,000,000,000 times heavier than it is. Quantum mechanics demands it. But it isn't. For 50 years, physicists have called this the hierarchy problem. The machine designed to fix it came up empty. Now some physicists are questioning whether the problem is real at all."
 section_label: "Unsolved Mystery"
 tags: ["physics", "particle physics", "Higgs boson", "LHC", "supersymmetry", "hierarchy problem", "naturalness", "mystery", "quantum mechanics"]

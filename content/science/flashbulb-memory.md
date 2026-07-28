@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Remember Exactly Where You Were?"
+date: 2026-02-26
 summary: "You know where you were when you heard about 9/11. Or a major personal shock. The memory feels like a photograph — vivid, specific, certain. It's called a flashbulb memory. The strange thing is: researchers have found these memories are not more accurate than ordinary ones. They're just more confidently wrong."
 section_label: "Science Mystery"
 tags: ["neuroscience", "memory", "psychology", "emotion", "cognition"]

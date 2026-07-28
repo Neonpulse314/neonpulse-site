@@ -1,5 +1,6 @@
 ---
 title: "The Numbers That Run the Universe Are Exactly Right for Life. Change Any of Them Slightly, and Nothing Exists. Nobody Knows Why."
+date: 2026-03-05
 summary: "Physics has about 26 constants — numbers like the strength of gravity, the mass of the electron, the speed of light — that aren't derived from theory. They're just measured. And they're all set to values that allow life to exist. If most of them were even slightly different, there would be no atoms, no stars, no planets, no anything. The probability of this being random chance is vanishingly small. Nobody knows why the numbers are what they are."
 section_label: "Unsolved Mystery"
 tags: ["fine-tuning", "cosmological constant", "anthropic principle", "multiverse", "constants of nature", "physics", "mystery"]

@@ -1,5 +1,6 @@
 ---
 title: "The Sun Shouldn't Be Hot Enough to Shine"
+date: 2026-03-02
 summary: "Protons in the sun don't have enough energy to fuse. They should bounce off each other. Instead, they tunnel through the barrier — appearing on the other side without ever crossing it. We can use this. We still don't fully understand it."
 section_label: "Unsolved Mystery"
 tags: ["quantum mechanics", "physics", "tunnelling", "nuclear fusion", "sun", "reality"]

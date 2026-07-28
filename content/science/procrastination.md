@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Avoid the Things That Matter Most?"
+date: 2026-02-26
 summary: "Procrastination isn't a character flaw or lack of willpower. It's a temporal perception problem — your brain genuinely values a reward tomorrow less than the same reward today, in a way that compounds the further the deadline. You're not lazy. You're running ancient software in a world that requires long-term thinking."
 section_label: "Science Mystery"
 tags: ["psychology", "neuroscience", "behavior", "motivation", "decision-making"]

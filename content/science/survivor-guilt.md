@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Feel Guilty Even When You Did Nothing Wrong?"
+date: 2026-02-26
 summary: "People feel genuine guilt after car accidents they didn't cause, after surviving disasters that killed others, after benefiting from systems they didn't design. The feeling is real — and researchers have found it serves a function. Guilt doesn't require wrongdoing. It requires caring about outcomes you were connected to."
 section_label: "Science Mystery"
 tags: ["psychology", "emotions", "morality", "guilt", "social"]

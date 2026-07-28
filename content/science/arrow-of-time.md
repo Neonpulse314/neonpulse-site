@@ -1,5 +1,6 @@
 ---
 title: "The Laws of Physics Run the Same Backwards. So Why Does Time Only Go Forward?"
+date: 2026-03-02
 summary: "Every fundamental law of physics is time-symmetric — it works the same in reverse. Drop a glass, it shatters. Run the physics backwards, it should reassemble. It never does. Nobody knows exactly why. The answer involves entropy, the Big Bang, and a mystery about the starting conditions of the universe."
 section_label: "Unsolved Mystery"
 tags: ["physics", "thermodynamics", "entropy", "time", "cosmology", "arrow of time", "mystery"]

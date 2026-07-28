@@ -1,5 +1,6 @@
 ---
 title: "Trust — You Can't Shorten the Leap"
+date: 2026-03-07
 summary: "Nadia spent a year being careful after a friendship broke badly. Then one night at Cass's place, there was a pause in the conversation."
 section_label: "Values"
 tags: ["trust", "friendship", "vulnerability", "cost"]

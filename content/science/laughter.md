@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Laugh?"
+date: 2026-02-25
 summary: "Laughter is involuntary, contagious, and older than language. It exists in over 65 species. And it almost never happens because something is funny."
 section_label: "Science Mystery"
 tags: ["neuroscience", "evolution", "social behavior"]

@@ -1,5 +1,6 @@
 ---
 title: "Why Does Time Slow Down in an Emergency?"
+date: 2026-02-26
 summary: "When a car runs a red light in front of you, or you start to fall, time often seems to stretch out — events play in slow motion, you notice details you shouldn't have time to notice. Your brain isn't actually running faster. What's actually happening is stranger."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "memory", "perception", "emergency"]

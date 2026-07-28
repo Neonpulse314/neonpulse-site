@@ -1,5 +1,6 @@
 ---
 title: "Why Does Caffeine Work — And Then Stop Working?"
+date: 2026-02-26
 summary: "Caffeine doesn't give you energy. It borrows it, blocks the signal that says you're tired, and leaves the debt unpaid. The reason it stops working is the brain's countermove — and understanding it changes how you use it."
 featured: true
 section_label: "Science Mystery"

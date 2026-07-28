@@ -1,5 +1,6 @@
 ---
 title: "Two Equations Describe Reality Perfectly. They Cannot Both Be True."
+date: 2026-03-02
 summary: "We have two theories of physics. Together, they explain everything we've ever observed. They are also mathematically incompatible. When we try to combine them, the equations produce an answer that is not a number — it's infinity. We've been staring at this problem for 100 years. Nobody knows the way out."
 section_label: "Unsolved Mystery"
 tags: ["physics", "general relativity", "quantum mechanics", "quantum gravity", "Einstein", "spacetime", "mystery", "string theory"]

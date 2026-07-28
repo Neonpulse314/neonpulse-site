@@ -1,5 +1,6 @@
 ---
 title: "We Could Map Every Neuron in Your Brain and Still Not Know Why You're Conscious"
+date: 2026-03-02
 summary: "Neuroscience can explain what happens in your brain when you see red. It cannot explain why there's something it's like to see it. That gap — between neural activity and subjective experience — is the hardest problem in all of science. Nobody knows how to close it."
 section_label: "Unsolved Mystery"
 tags: ["consciousness", "neuroscience", "philosophy", "qualia", "hard problem", "mind", "mystery"]

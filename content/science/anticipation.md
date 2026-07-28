@@ -1,5 +1,6 @@
 ---
 title: "Why Does Anticipation Sometimes Feel Better Than the Thing Itself?"
+date: 2026-02-26
 summary: "The vacation you planned for months. The meal you drove an hour for. The album you waited years for. Sometimes the wanting is more intense than the having. Neuroscientists discovered why: wanting and liking are separate systems. And they run on different chemicals."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "dopamine", "reward", "motivation"]

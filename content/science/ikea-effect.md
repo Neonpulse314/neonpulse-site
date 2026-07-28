@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Value Things More When We Made Them?"
+date: 2026-02-26
 summary: "People who build their own furniture love it more than identical furniture they didn't build. People who make their own food find it tastier. People who write their own code think it's better. The IKEA effect is one of the most consistent findings in consumer psychology — and it explains a lot about why we're so attached to our own ideas."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "bias", "behavior", "decision-making"]

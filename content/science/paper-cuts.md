@@ -1,5 +1,6 @@
 ---
 title: "Why Do Paper Cuts Hurt So Much?"
+date: 2026-02-27
 summary: "A paper cut is a tiny wound. A bruise the size of your fist barely registers. A paper cut on your fingertip can make you swear out loud. The pain is wildly out of proportion to the injury — and there's an exact reason why."
 section_label: "Science Mystery"
 tags: ["neuroscience", "pain", "biology", "physiology", "senses"]

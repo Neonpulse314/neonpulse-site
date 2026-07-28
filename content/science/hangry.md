@@ -1,5 +1,6 @@
 ---
 title: "Why Does Hunger Make You Angry?"
+date: 2026-02-26
 summary: "\"Hangry\" was a joke word before it was a research topic. Now it's both. Low blood glucose affects the same brain systems that regulate aggression, impulse control, and emotional reactivity — and the phenomenon is real enough that a study had to use Voodoo dolls to measure it."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "biology", "emotion", "behavior"]

@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Love — What You Hand Over"
+date: 2026-03-06
 summary: "Mia is 23 and has been careful for a year. Then she meets someone at a birthday party and has to decide if she's going to do it again."
 section_label: "Values"
 tags: ["love", "vulnerability", "cost"]

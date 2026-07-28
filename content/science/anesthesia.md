@@ -1,5 +1,6 @@
 ---
 title: "We've Been Putting People to Sleep for 175 Years. We Still Don't Know How It Works."
+date: 2026-03-06
 summary: "General anesthesia is one of medicine's greatest achievements — it made modern surgery possible. It's been used on billions of people. And the mechanism by which it removes consciousness is still, genuinely, unknown."
 section_label: "Unsolved Mystery"
 tags: ["neuroscience", "medicine", "consciousness", "anesthesia", "unsolved", "tier1"]

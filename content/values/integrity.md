@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Integrity — The Confession"
+date: 2026-02-25
 summary: "An engineering intern catches his own mistake. No one else knows. The bridge is already fixed. He comes forward anyway — and loses his job for it."
 section_label: "Values"
 tags: ["integrity", "honesty", "cost"]

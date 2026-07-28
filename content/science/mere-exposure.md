@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Like Things More the Second Time?"
+date: 2026-02-26
 summary: "A song you hated becomes tolerable, then good. An unfamiliar face becomes more likeable just from being seen before. A word you've seen recently feels more true. The mere exposure effect — repeated contact producing preference — is one of the most reliable findings in psychology, and it works even without conscious awareness."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "social", "memory", "perception"]

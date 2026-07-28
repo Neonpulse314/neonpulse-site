@@ -1,5 +1,6 @@
 ---
 title: "Every Time You Remember Something, You Change It"
+date: 2026-02-25
 summary: "You have a memory of your first day of school. It feels solid, reliable — like a photograph kept in a drawer for twenty years. Here's what the neuroscience says: that memory is not a photograph. It's a document you've been editing without knowing it."
 featured: true
 section_label: "Science Mystery"

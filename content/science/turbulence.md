@@ -1,5 +1,6 @@
 ---
 title: "Richard Feynman Called It the Most Important Unsolved Problem in Classical Physics. We've Made Almost No Progress."
+date: 2026-03-06
 summary: "Turbulence is everywhere — in your coffee, in airplane wings, in your blood. The equations that should describe it have been known for 180 years. They still can't be solved."
 section_label: "Unsolved Mystery"
 tags: ["physics", "fluid dynamics", "mathematics", "millennium problem", "turbulence", "navier-stokes"]

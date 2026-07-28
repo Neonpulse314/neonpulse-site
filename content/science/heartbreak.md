@@ -1,5 +1,6 @@
 ---
 title: "Why Does Heartbreak Feel Physical?"
+date: 2026-02-26
 summary: "The phrase 'broken heart' is not metaphor. Social rejection, loss, and exclusion activate the same neural pain circuitry as physical injury — same brain regions, same neurotransmitters, partially treatable by the same drugs. The body does not separate emotional damage from physical damage."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "emotion", "social", "pain"]

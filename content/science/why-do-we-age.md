@@ -1,5 +1,6 @@
 ---
 title: "Naked Mole Rats Live 30 Years Without Getting Cancer. We Still Don't Know Why Anything Has to Age."
+date: 2026-03-06
 summary: "Aging looks inevitable. But biologically, it isn't. Some species barely age at all. Others live for centuries. The question of why we age — whether it's a program or an accident — is one of the most contested, most funded, and most unresolved questions in biology."
 section_label: "Unsolved Mystery"
 tags: ["biology", "aging", "longevity", "genetics", "evolution", "unsolved", "tier1"]

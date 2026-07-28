@@ -1,5 +1,6 @@
 ---
 title: "Why Does Your Body Betray You Around Someone You Like?"
+date: 2026-02-26
 summary: "The racing heart, the sweaty palms, the stomach that drops — none of it is under your control. The neuroscience of attraction reveals something both flattering and humbling: your body makes the call before your brain even knows what's happening."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "attraction", "emotion", "body", "dopamine"]

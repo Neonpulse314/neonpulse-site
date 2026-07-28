@@ -1,5 +1,6 @@
 ---
 title: "Disappointment — What the Gap Between Expectation and Reality Is Actually Telling You"
+date: 2026-03-14
 section_label: "Values"
 summary: "Disappointment isn't weakness. It's a signal that you invested in something. The question is what you do with the information."
 tags: ["values", "emotions", "expectations", "resilience", "psychology"]

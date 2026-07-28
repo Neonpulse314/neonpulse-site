@@ -1,5 +1,6 @@
 ---
 title: "Why Can't You Remember Being a Baby?"
+date: 2026-02-25
 summary: "You were there for your entire childhood. You experienced everything. You cannot remember any of it."
 featured: true
 section_label: "Science Mystery"

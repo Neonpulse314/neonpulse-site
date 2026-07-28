@@ -1,5 +1,6 @@
 ---
 title: "Why Does Minor Key Music Sound Sad?"
+date: 2026-02-26
 summary: "Two notes. The only difference between a major and minor chord is one note shifted by a half step. That's it — one semitone. And yet one sounds bright and the other sounds like something you've lost. The reason involves physics, cultural history, and the sound of a human voice in distress."
 section_label: "Science Mystery"
 tags: ["neuroscience", "music", "psychology", "evolution", "emotion"]

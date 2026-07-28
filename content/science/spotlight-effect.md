@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Think Everyone Is Noticing You?"
+date: 2026-02-26
 summary: "The spotlight effect: you overestimate how much other people notice you, remember you, and care about what you do. The research is consistent, replicable, and extremely useful. Most people are not watching you. They're watching themselves."
 section_label: "Science Mystery"
 tags: ["psychology", "social", "cognition", "self-consciousness", "perception", "bias"]

@@ -1,5 +1,6 @@
 ---
 title: "Why Do Some People See Numbers as Colors?"
+date: 2026-02-26
 summary: "About 4% of the population sees letters and numbers in specific, involuntary colors — always the same colors, always the same letters. Vladimir Nabokov did. Wassily Kandinsky did. The science explains not just what's happening in their brains, but why roughly half the population has a weaker version of the same thing."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "perception", "senses", "cognition"]

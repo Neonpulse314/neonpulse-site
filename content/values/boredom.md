@@ -1,5 +1,6 @@
 ---
 title: "Boredom — The Feeling That's Trying to Tell You Something"
+date: 2026-03-14
 section_label: "Values"
 summary: "Boredom is uncomfortable. It's also one of the few feelings that points directly at meaning — and at what happens when you never let yourself sit with it."
 tags: ["values", "emotions", "attention", "meaning", "psychology"]

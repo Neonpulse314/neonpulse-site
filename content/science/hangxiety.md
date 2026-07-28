@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Feel Anxious the Day After Drinking?"
+date: 2026-02-27
 summary: "You didn't do anything that bad. But you wake up the morning after drinking with a vague, nameless dread — reviewing the night, checking your messages, wondering what you said. This isn't just psychological. There's a specific neurochemical mechanism that produces anxiety as a direct withdrawal effect."
 section_label: "Science Mystery"
 tags: ["neuroscience", "alcohol", "anxiety", "psychology", "brain"]

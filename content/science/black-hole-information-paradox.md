@@ -1,5 +1,6 @@
 ---
 title: "When a Black Hole Dies, Where Does Everything Go? Quantum Physics Says It Can't Just Disappear. General Relativity Says It Does."
+date: 2026-03-06
 summary: "Two of physics' greatest theories both work perfectly — until you ask what happens to information inside a black hole. General relativity says it's gone forever. Quantum mechanics says that's impossible. For 50 years, physicists have tried to resolve this. The answer might require rewriting the nature of space itself."
 section_label: "Unsolved Mystery"
 tags: ["black holes", "Hawking radiation", "quantum mechanics", "general relativity", "information paradox", "mystery", "quantum gravity", "entropy"]

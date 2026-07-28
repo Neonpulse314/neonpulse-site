@@ -1,5 +1,6 @@
 ---
 title: "Why Does Your Mind Wander Even When You're Trying to Focus?"
+date: 2026-02-26
 summary: "Your mind wanders 47% of your waking hours — and it makes you unhappy regardless of what you're supposedly doing. The Default Mode Network never shuts off. The question isn't whether your mind will drift, but what it does when it gets there."
 featured: true
 section_label: "Science Mystery"

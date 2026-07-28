@@ -1,5 +1,6 @@
 ---
 title: "Why Do Cute Things Make You Want to Squeeze Them?"
+date: 2026-02-26
 summary: "The urge to squeeze, crush, or bite something adorable is so common it has a scientific name: cute aggression. Researchers think it might be the brain's way of keeping you functional when an emotional response becomes overwhelming."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "emotion", "behavior", "cognition"]

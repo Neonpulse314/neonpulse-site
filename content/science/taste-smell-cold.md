@@ -1,5 +1,6 @@
 ---
 title: "Why Does Food Taste Different When You Have a Cold?"
+date: 2026-02-27
 summary: "You get a stuffy nose and suddenly everything tastes like cardboard. You can still taste sweet and salty, but the actual flavor is gone. What happened? The answer reveals that almost everything you experience as 'taste' is actually happening in your nose."
 section_label: "Science Mystery"
 tags: ["neuroscience", "perception", "taste", "smell", "biology"]

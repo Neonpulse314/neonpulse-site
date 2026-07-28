@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Courage — Say It"
+date: 2026-02-25
 summary: "A student thinks her professor wrote the wrong date on the board. Everyone else is copying it down. She's probably wrong. She raises her hand anyway."
 section_label: "Values"
 tags: ["courage", "speaking up"]

@@ -1,5 +1,6 @@
 ---
 title: "Anxiety — The Alarm That Goes Off When Nothing Is Wrong"
+date: 2026-03-14
 section_label: "Values"
 summary: "Anxiety isn't fear. It's a threat detector pointed at the future — and it's prone to false alarms. Understanding the difference changes what you can do about it."
 tags: ["values", "emotions", "fear", "mental health", "psychology"]

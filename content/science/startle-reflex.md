@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Jump at Loud Noises Even When You Know They're Coming?"
+date: 2026-02-26
 summary: "The startle reflex fires in 8 milliseconds — before you are aware of anything. It bypasses the cortex entirely. The embarrassing part isn't that you flinched. It's that knowing it was coming doesn't help at all."
 section_label: "Science Mystery"
 tags: ["neuroscience", "reflexes", "biology", "fear", "psychology", "brainstem"]

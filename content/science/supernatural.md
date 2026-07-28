@@ -1,5 +1,6 @@
 ---
 title: "Why Do Humans Believe in the Supernatural?"
+date: 2026-02-26
 summary: "Supernatural belief isn't a cultural anomaly or a failure of reason. Every known culture has it. Cognitive scientists now think they know why: the same mental tools that make humans unusually good at navigating the social world also make us unusually prone to seeing minds, intentions, and agency where there are none."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "evolution", "cognition", "anthropology"]

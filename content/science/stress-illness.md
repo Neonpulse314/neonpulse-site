@@ -1,5 +1,6 @@
 ---
 title: "Why Does Stress Make You Physically Sick?"
+date: 2026-02-26
 summary: "Stress suppresses the immune system. This is not a metaphor or a vague mind-body connection — it's a specific biological mechanism that has been precisely measured. A researcher has spent decades giving people cold viruses under controlled conditions to prove it."
 section_label: "Science Mystery"
 tags: ["neuroscience", "biology", "immunology", "psychology", "health"]

@@ -1,5 +1,6 @@
 ---
 title: "Why Does Losing Feel Worse Than Winning Feels Good?"
+date: 2026-02-26
 summary: "Losing $100 feels about twice as bad as finding $100 feels good. This asymmetry is one of the most replicated findings in psychology, it has a name — loss aversion — and it explains a striking number of seemingly irrational human decisions, from why investors hold failing stocks to why you hate giving back free samples."
 section_label: "Science Mystery"
 tags: ["psychology", "economics", "decision-making", "cognition", "evolution"]

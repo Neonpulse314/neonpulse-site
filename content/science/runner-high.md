@@ -1,5 +1,6 @@
 ---
 title: "Why Does Exercise Make You Feel Good?"
+date: 2026-02-26
 summary: "Everyone says endorphins. Everyone is mostly wrong. The real story involves a compound your brain produces that works the same way as cannabis — and a study comparing humans, dogs, and ferrets that revealed something about what we were built for."
 section_label: "Science Mystery"
 tags: ["neuroscience", "exercise", "psychology", "evolution", "biology"]

@@ -1,5 +1,6 @@
 ---
 title: "Forgiveness — Putting Down the Weight"
+date: 2026-03-06
 summary: "Kai is 21. Her father texts to ask if they can start over. Kai sits with it for two days."
 section_label: "Values"
 tags: ["forgiveness", "family", "cost"]

@@ -1,5 +1,6 @@
 ---
 title: "The Big Bang Made Equal Amounts of Matter and Antimatter. They Should Have Cancelled Out. One Particle in a Billion Survived — and That's Everything."
+date: 2026-03-02
 summary: "When matter and antimatter meet, they annihilate each other and become pure energy. The Big Bang should have created equal amounts of both. If it did, they'd have destroyed each other completely, leaving nothing but light. No atoms. No stars. No you. Something created a one-in-a-billion imbalance. We have no idea what."
 section_label: "Unsolved Mystery"
 tags: ["matter", "antimatter", "baryogenesis", "particle physics", "Big Bang", "mystery", "CP violation"]

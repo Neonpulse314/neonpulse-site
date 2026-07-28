@@ -1,5 +1,6 @@
 ---
 title: "Why Does Anxiety Make It Hard to Think?"
+date: 2026-02-26
 summary: "You have something important to do. You're anxious about it. And the anxiety itself makes you worse at doing it. The mechanism is well understood — anxiety hijacks the working memory system — and the reason it evolved isn't to sabotage you. It's just that the system was designed for a different kind of problem."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "anxiety", "cognition", "performance"]

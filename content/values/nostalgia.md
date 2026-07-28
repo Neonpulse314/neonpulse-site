@@ -1,5 +1,6 @@
 ---
 title: "Nostalgia — Why the Past Feels Better Than It Was"
+date: 2026-03-14
 section_label: "Values"
 summary: "Nostalgia isn't just sentimentality. Research shows it's a surprisingly powerful psychological resource — and a distorted one. Both things are true at once."
 tags: ["values", "emotions", "memory", "identity", "psychology"]

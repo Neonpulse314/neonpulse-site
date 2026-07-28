@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Get Nervous Before Something Big?"
+date: 2026-02-26
 summary: "Heart pounding, hands slightly cold, a restlessness you can't sit still with. Pre-performance anxiety is one of the most universal human experiences — and research suggests the physiology is almost identical to excitement. Whether nerves hurt or help your performance may come down to how you interpret them."
 section_label: "Science Mystery"
 tags: ["psychology", "neuroscience", "anxiety", "performance", "emotions"]

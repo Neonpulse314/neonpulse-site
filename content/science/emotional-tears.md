@@ -1,5 +1,6 @@
 ---
 title: "Why Do We Cry?"
+date: 2026-02-25
 summary: "You're watching a movie. Nothing is happening to you. The character isn't even real. You know this. And yet. The science of emotional tears — and why we're the only animals that make them."
 section_label: "Science Mystery"
 tags: ["neuroscience", "emotion", "evolution", "psychology"]

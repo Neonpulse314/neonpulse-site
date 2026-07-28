@@ -1,5 +1,6 @@
 ---
 title: "Why Does Your Voice Sound Different in a Recording?"
+date: 2026-02-26
 summary: "Play back a recording of yourself speaking. It will feel wrong — thinner, higher, like an impersonator who mostly got it right. The reason is physics. And it says something strange about what you actually know about yourself."
 section_label: "Science Mystery"
 tags: ["neuroscience", "psychology", "auditory science", "self-perception"]

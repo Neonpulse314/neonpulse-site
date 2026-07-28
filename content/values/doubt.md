@@ -1,5 +1,6 @@
 ---
 title: "Doubt — The Courage to Not Be Sure"
+date: 2026-03-14
 section_label: "Values"
 summary: "Doubt is uncomfortable. It's also what separates real confidence from performance. Learning to live with uncertainty instead of escaping it is harder than it sounds."
 tags: ["values", "emotions", "certainty", "integrity", "psychology"]

@@ -1,5 +1,6 @@
 ---
 title: "Life Existed for 3 Billion Years Without Getting Interesting. Then Everything Happened at Once."
+date: 2026-03-05
 summary: "540 million years ago, in what geologists call a blink of an eye, nearly every animal body plan on Earth appeared from almost nothing. Darwin called it the most serious objection to his theory. We still don't have a good answer."
 section_label: "Unsolved Mystery"
 tags: ["evolution", "paleontology", "biology", "origins", "deep-time", "unsolved", "tier1"]

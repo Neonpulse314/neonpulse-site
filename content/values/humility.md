@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Humility — The Smarter Version"
+date: 2026-03-06
 summary: "Dev had been defending the same approach for three weeks. Then the junior dev on the team sent one Slack message that made the whole thing fall apart."
 section_label: "Values"
 tags: ["humility", "learning", "ego"]

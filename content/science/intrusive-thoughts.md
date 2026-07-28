@@ -1,5 +1,6 @@
 ---
 title: "The Harder You Try Not to Think About Something, the More You Think About It"
+date: 2026-02-26
 summary: "In 1987, a psychologist told research subjects not to think about a white bear. They couldn't stop. The reason reveals something unsettling about how the mind works — and why fighting your own thoughts often makes them worse."
 section_label: "Science Mystery"
 tags: ["psychology", "neuroscience", "cognition", "mental health"]

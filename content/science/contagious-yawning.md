@@ -1,5 +1,6 @@
 ---
 title: "Why Is Yawning Contagious?"
+date: 2026-02-25
 summary: "You just yawned. If you didn't, you will. The science of why seeing a yawn — or reading about one — spreads through a room."
 section_label: "Science Mystery"
 tags: ["neuroscience", "empathy", "mirror-neurons", "evolution"]

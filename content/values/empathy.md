@@ -1,5 +1,6 @@
 ---
 title: "Empathy — The Thin Wall"
+date: 2026-03-07
 summary: "Dani was good at being present with people. After a year at the clinic front desk, she started to wonder who was present with her."
 section_label: "Values"
 tags: ["empathy", "compassion", "cost", "presence", "work"]

@@ -1,5 +1,6 @@
 ---
 title: "Sex Is Evolutionarily Expensive. It Shouldn't Exist. But Here We Are."
+date: 2026-03-05
 summary: "Every organism that reproduces sexually is paying a huge cost — half its offspring can't even have offspring. Asexual reproduction is twice as efficient. So why does sex dominate life on Earth? Fifty years of research and no one fully knows."
 section_label: "Unsolved Mystery"
 tags: ["evolution", "biology", "genetics", "sex", "deep-time", "unsolved", "tier1"]

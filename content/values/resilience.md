@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Resilience — What You Get Good At"
+date: 2026-03-07
 summary: "Three years of hard things, one after another. Sofia kept going. That's not the end of the story."
 section_label: "Values"
 tags: ["resilience", "strength", "self-awareness"]

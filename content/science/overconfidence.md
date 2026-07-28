@@ -1,5 +1,6 @@
 ---
 title: "Why Do People Overestimate Their Own Abilities?"
+date: 2026-02-26
 summary: "About 80% of drivers rate themselves as above average. Most people believe they are better-than-average parents, partners, and workers. Statistically, this is impossible. The mechanism behind it has been debated — but the overconfidence itself is one of the most replicated findings in psychology."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "bias", "self-perception", "reasoning"]

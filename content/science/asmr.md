@@ -1,5 +1,6 @@
 ---
 title: "Why Do Some People Get Tingles From Whispering?"
+date: 2026-02-26
 summary: "ASMR — the tingly, relaxed feeling triggered by soft sounds, careful attention, and gentle tactile experiences — didn't have a name until 2010. The science behind it is still being worked out. But the best theory involves something deep: the neural pathway for feeling cared for."
 featured: true
 section_label: "Science Mystery"

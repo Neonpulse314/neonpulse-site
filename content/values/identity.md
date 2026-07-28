@@ -1,5 +1,6 @@
 ---
 title: "Identity — The Story You Keep Choosing"
+date: 2026-03-07
 summary: "He was the reliable one. The one who stayed. Everyone knew what he'd do before he did. Then he got an offer to leave for a year, and he couldn't stop thinking about it."
 section_label: "Values"
 tags: ["identity", "self-discovery", "choices"]

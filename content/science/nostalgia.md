@@ -1,5 +1,6 @@
 ---
 title: "Why Does the Past Feel Like Warmth and Loss at the Same Time?"
+date: 2026-02-26
 summary: "Nostalgia was once classified as a disease. Soldiers died from it. For three centuries it was considered a form of mental illness. Then researchers discovered it does something unexpected: it makes you more optimistic about the future."
 section_label: "Science Mystery"
 tags: ["psychology", "neuroscience", "emotion", "memory", "social psychology"]

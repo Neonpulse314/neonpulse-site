@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Responsibility — The Launch"
+date: 2026-02-25
 summary: "Kenji finds a bug at 11pm that corrupted data for 3% of users. He wrote the code. He could have spread the blame. He didn't."
 section_label: "Values"
 tags: ["responsibility", "accountability", "work"]

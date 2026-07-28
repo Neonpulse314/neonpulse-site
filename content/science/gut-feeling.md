@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Trust Your Gut?"
+date: 2026-02-26
 summary: "You've never met this person but something feels off. You're choosing between two jobs and one just feels right. Gut feelings seem like they should be unreliable — but research shows they're drawing on real information, processed below the level of conscious awareness. The question is knowing when to listen and when not to."
 section_label: "Science Mystery"
 tags: ["psychology", "cognition", "neuroscience", "decision-making", "intuition"]

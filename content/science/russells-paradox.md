@@ -1,5 +1,6 @@
 ---
 title: "A Mathematician Tried to Prove Math Has No Holes. He Found One That Broke Everything."
+date: 2026-03-02
 summary: "In 1901, Bertrand Russell wrote a letter that destroyed 20 years of a colleague's work. The flaw he found can be stated in five words. It wasn't just a flaw in one man's book — it was a crack in the foundation of mathematics itself. We patched it. The patch relies on rules we can't prove."
 section_label: "Unsolved Mystery"
 tags: ["mathematics", "logic", "paradox", "Russell", "set theory", "Gödel", "foundations", "mystery"]

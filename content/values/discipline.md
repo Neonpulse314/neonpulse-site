@@ -1,6 +1,7 @@
 ---
 featured: true
 title: "Discipline — The Only Witness"
+date: 2026-03-06
 summary: "Mara is 22 and hasn't had a drink in eight months. Nobody made her do it. Nobody's watching."
 section_label: "Values"
 tags: ["discipline", "identity", "cost"]

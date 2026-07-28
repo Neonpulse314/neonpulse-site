@@ -1,5 +1,6 @@
 ---
 title: "Why Do You Wake Up Right Before Your Alarm?"
+date: 2026-02-26
 summary: "Your body knows what time it is. In the hour before your expected wake time, cortisol begins rising in preparation — not in response to the alarm, but in anticipation of it. The clock is biological, not mechanical. And it is running whether you remember setting it or not."
 section_label: "Science Mystery"
 tags: ["neuroscience", "biology", "sleep", "circadian rhythm", "cortisol", "clock"]
