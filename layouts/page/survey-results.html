@@ -1,0 +1,102 @@
+{{ define "main" }}
+{{/*
+  Results for the values survey. Board 46c11cac3ea4.
+
+  Reads data/values_survey.json, written by scripts/refresh-values-survey.py in the
+  autonomous-ai repo from GoatCounter event counts. Everything this page can honestly say
+  is a marginal count, so it says that plainly rather than implying a survey panel.
+*/}}
+{{ $d := .Site.Data.values_survey }}
+
+<div class="page-header">
+  <h1>What people chose</h1>
+  <p class="page-intro">
+    Everyone who has taken the
+    <a href="{{ "values-survey/" | absURL }}">values survey</a> chose exactly five. This is
+    how many chose each one.
+  </p>
+</div>
+
+{{ if or (not $d) (eq (int $d.picks_total) 0) }}
+<div class="survey-empty">
+  <p><strong>No responses yet.</strong></p>
+  <p>
+    This page has nothing to show until people answer, and it is not going to invent a
+    shape in the meantime. <a href="{{ "values-survey/" | absURL }}">Be the first &rarr;</a>
+  </p>
+</div>
+{{ else }}
+
+<p class="survey-topline">
+  <strong>{{ $d.submissions }}</strong> {{ if eq (int $d.submissions) 1 }}person has{{ else }}people have{{ end }}
+  answered since {{ $d.window_start }}. Each chose five, so there
+  {{ if eq (int $d.picks_total) 1 }}is{{ else }}are{{ end }} <strong>{{ $d.picks_total }}</strong>
+  choices below.
+</p>
+
+{{ if not $d.counts_agree }}
+<p class="survey-warn">
+  <strong>These two numbers disagree, and the page would rather say so.</strong>
+  Answers are counted once per submission; choices are counted once per value.
+  {{ $d.picks_total }} choices divided by {{ $d.picks_per_response }} implies
+  {{ $d.implied_respondents }} people, but {{ $d.submissions }} were counted directly.
+  The likeliest cause is someone answering a second time with a different five — that adds
+  choices but cannot add a second answer. It could also be pings lost in flight. With
+  nothing stored about any individual, the arithmetic disagreeing with itself is the only
+  error signal this page has, so it is shown rather than reconciled away.
+</p>
+{{ end }}
+
+<ol class="survey-results">
+  {{ range $d.values }}
+  <li class="survey-result">
+    <div class="survey-result-head">
+      <span class="survey-result-label">{{ .label }}</span>
+      <span class="survey-result-share">{{ .share }}%</span>
+    </div>
+    <div class="survey-result-track">
+      <div class="survey-result-fill" style="width: {{ .bar }}%"></div>
+    </div>
+    <span class="survey-result-count">chosen by {{ .count }}</span>
+  </li>
+  {{ end }}
+</ol>
+
+<p class="survey-note">
+  Bars are drawn relative to the most-chosen value, not to the total. Nobody chooses more
+  than five, so no share can pass 20% and total-relative bars would all be stubs.
+  Percentages are shares of all choices.
+</p>
+
+{{ end }}
+
+<div class="survey-limits">
+  <h2>What this does not tell you</h2>
+  <ul>
+    <li>
+      <strong>These are devices, not people.</strong> A value's number is how many
+      distinct browsers chose it. Answering again from the same browser changes nothing,
+      which stops anyone stuffing the numbers — but it also means two people sharing one
+      computer count as one, and one person on a phone and a laptop counts as two. It
+      under-counts as readily as it over-counts.
+    </li>
+    <li>
+      <strong>No combinations.</strong> The counts are kept one value at a time, so the
+      most interesting question — which values people hold <em>together</em> — cannot be
+      answered from this data at all. That is the price of storing nothing about anybody.
+    </li>
+    <li>
+      <strong>No map yet.</strong> The original idea was geographic. There is not enough
+      data for that to be anything but a picture of noise.
+    </li>
+    <li>
+      <strong>Not a sample of the world.</strong> It is a sample of people who found this
+      page, which is a much narrower and stranger group.
+    </li>
+  </ul>
+</div>
+
+{{ if $d }}
+<p class="survey-stamp">Counts last refreshed {{ $d.generated }}.</p>
+{{ end }}
+{{ end }}

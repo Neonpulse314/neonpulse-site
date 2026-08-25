@@ -1,0 +1,163 @@
+{{ define "main" }}
+{{/*
+  Values survey — v1. Board 46c11cac3ea4, approved 2026-08-03.
+
+  No backend: this is a static Hugo site and the Cloudflare token is zone-READ only, so
+  there is no endpoint to POST to. Responses land as GoatCounter EVENTS, which the site
+  already loads, and scripts/refresh-values-survey.py pulls them back into
+  data/values_survey.json for /values-survey/results/.
+
+  Pings go out as image requests rather than through window.goatcounter.count(), because
+  count.js is loaded `async` in head.html and may not have defined that function yet when
+  someone submits fast. An <img> needs nothing loaded.
+
+  The value list MUST stay in sync with VALUES in scripts/refresh-values-survey.py — a
+  value here and not there is collected and never displayed. The refresh script reports
+  any such orphan path by name rather than dropping it silently.
+*/}}
+
+{{ $values := slice
+  (dict "slug" "honesty"        "label" "Honesty"        "gloss" "Saying what is true, even when it costs you")
+  (dict "slug" "compassion"     "label" "Compassion"     "gloss" "Feeling another person's difficulty as real")
+  (dict "slug" "freedom"        "label" "Freedom"        "gloss" "Choosing your own course")
+  (dict "slug" "fairness"       "label" "Fairness"       "gloss" "The same rules for everyone")
+  (dict "slug" "loyalty"        "label" "Loyalty"        "gloss" "Standing by your people")
+  (dict "slug" "curiosity"      "label" "Curiosity"      "gloss" "Wanting to know how it actually works")
+  (dict "slug" "courage"        "label" "Courage"        "gloss" "Acting while afraid")
+  (dict "slug" "community"      "label" "Community"      "gloss" "Belonging to something larger than yourself")
+  (dict "slug" "security"       "label" "Security"       "gloss" "Safety and stability for the people you carry")
+  (dict "slug" "creativity"     "label" "Creativity"     "gloss" "Making something that was not there")
+  (dict "slug" "justice"        "label" "Justice"        "gloss" "Wrongs answered for")
+  (dict "slug" "responsibility" "label" "Responsibility" "gloss" "Owning what follows from what you did")
+  (dict "slug" "humility"       "label" "Humility"       "gloss" "Holding your own certainty loosely")
+  (dict "slug" "ambition"       "label" "Ambition"       "gloss" "Reaching past what you have already done")
+  (dict "slug" "tradition"      "label" "Tradition"      "gloss" "Keeping what was handed to you")
+  (dict "slug" "kindness"       "label" "Kindness"       "gloss" "Small unrequired good turns")
+  (dict "slug" "independence"   "label" "Independence"   "gloss" "Standing on your own")
+  (dict "slug" "wisdom"         "label" "Wisdom"         "gloss" "Knowing which thing matters most here")
+}}
+
+<div class="page-header">
+  <h1>Who are we, together?</h1>
+  <p class="page-intro">
+    Not a personality test. There is no score and no result about you. Choose the five
+    values you would not trade away, and they join everyone else's — the only thing this
+    page produces is a picture of what a lot of people, together, said mattered.
+  </p>
+</div>
+
+<div class="survey" id="survey">
+  <div class="survey-bar" id="surveyBar" role="status" aria-live="polite">
+    <span class="survey-count" id="surveyCount">Choose 5</span>
+    <button type="button" class="survey-submit" id="surveySubmit" disabled>Add my five</button>
+  </div>
+
+  <ul class="survey-grid" id="surveyGrid">
+    {{ range $values }}
+    <li>
+      <button type="button" class="survey-value" data-slug="{{ .slug }}"
+              data-label="{{ .label }}" aria-pressed="false">
+        <span class="survey-value-label">{{ .label }}</span>
+        <span class="survey-value-gloss">{{ .gloss }}</span>
+      </button>
+    </li>
+    {{ end }}
+  </ul>
+
+  <p class="survey-note">
+    Nothing about you is recorded — no account, no email, no cookie, no free text. Five
+    anonymous counts go up by one. That is the whole of it.
+  </p>
+</div>
+
+<div class="survey-done" id="surveyDone" hidden>
+  <h2>Added.</h2>
+  <p>You chose:</p>
+  <ul class="survey-chosen" id="surveyChosen"></ul>
+  <p>
+    <a class="survey-results-link" href="{{ "values-survey/results/" | absURL }}">See what everyone chose &rarr;</a>
+  </p>
+  <p class="survey-note">
+    Your five are in the totals within a few minutes, and the results page is refreshed
+    from the counts a few times a day.
+  </p>
+</div>
+
+<script>
+(function () {
+  var PICKS = 5;
+  var ENDPOINT = 'https://beyondcertainty.goatcounter.com/count';
+
+  var grid = document.getElementById('surveyGrid');
+  var countEl = document.getElementById('surveyCount');
+  var submit = document.getElementById('surveySubmit');
+  var chosen = [];
+
+  function render() {
+    var n = chosen.length;
+    countEl.textContent = n === PICKS
+      ? 'Five chosen'
+      : (n === 0 ? 'Choose 5' : n + ' of ' + PICKS + ' chosen');
+    submit.disabled = n !== PICKS;
+    // Once five are down, the unchosen ones stop inviting a sixth click.
+    Array.prototype.forEach.call(grid.querySelectorAll('.survey-value'), function (b) {
+      var on = chosen.indexOf(b.dataset.slug) !== -1;
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+      b.classList.toggle('is-chosen', on);
+      b.classList.toggle('is-dimmed', !on && n >= PICKS);
+    });
+  }
+
+  grid.addEventListener('click', function (ev) {
+    var btn = ev.target.closest('.survey-value');
+    if (!btn) return;
+    var slug = btn.dataset.slug;
+    var i = chosen.indexOf(slug);
+    if (i !== -1) {
+      chosen.splice(i, 1);
+    } else if (chosen.length < PICKS) {
+      chosen.push(slug);
+    } else {
+      return;
+    }
+    render();
+  });
+
+  function ping(path, title) {
+    var img = new Image();
+    img.src = ENDPOINT
+      + '?p=' + encodeURIComponent(path)
+      + '&e=true'
+      + '&t=' + encodeURIComponent(title)
+      + '&rnd=' + Math.random().toString(36).slice(2);
+  }
+
+  submit.addEventListener('click', function () {
+    if (chosen.length !== PICKS) return;
+    submit.disabled = true;
+
+    chosen.forEach(function (slug) {
+      var btn = grid.querySelector('.survey-value[data-slug="' + slug + '"]');
+      ping('survey-value-' + slug, 'Value: ' + (btn ? btn.dataset.label : slug));
+    });
+    // Counted separately and on purpose: picks/5 and this number are two independent
+    // counts of one submission. The results page prints it when they disagree.
+    ping('survey-submission', 'Survey submission');
+
+    var list = document.getElementById('surveyChosen');
+    chosen.forEach(function (slug) {
+      var btn = grid.querySelector('.survey-value[data-slug="' + slug + '"]');
+      var li = document.createElement('li');
+      li.textContent = btn ? btn.dataset.label : slug;
+      list.appendChild(li);
+    });
+
+    document.getElementById('survey').hidden = true;
+    document.getElementById('surveyDone').hidden = false;
+    document.getElementById('surveyDone').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  render();
+})();
+</script>
+{{ end }}

@@ -1,0 +1,138 @@
+{
+  "counts_agree": true,
+  "generated": "2026-08-25T09:27:14Z",
+  "implied_respondents": 0.0,
+  "orphan_paths": [],
+  "picks_per_response": 5,
+  "picks_total": 0,
+  "submissions": 0,
+  "values": [
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Ambition",
+      "share": 0.0,
+      "slug": "ambition"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Community",
+      "share": 0.0,
+      "slug": "community"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Compassion",
+      "share": 0.0,
+      "slug": "compassion"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Courage",
+      "share": 0.0,
+      "slug": "courage"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Creativity",
+      "share": 0.0,
+      "slug": "creativity"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Curiosity",
+      "share": 0.0,
+      "slug": "curiosity"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Fairness",
+      "share": 0.0,
+      "slug": "fairness"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Freedom",
+      "share": 0.0,
+      "slug": "freedom"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Honesty",
+      "share": 0.0,
+      "slug": "honesty"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Humility",
+      "share": 0.0,
+      "slug": "humility"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Independence",
+      "share": 0.0,
+      "slug": "independence"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Justice",
+      "share": 0.0,
+      "slug": "justice"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Kindness",
+      "share": 0.0,
+      "slug": "kindness"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Loyalty",
+      "share": 0.0,
+      "slug": "loyalty"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Responsibility",
+      "share": 0.0,
+      "slug": "responsibility"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Security",
+      "share": 0.0,
+      "slug": "security"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Tradition",
+      "share": 0.0,
+      "slug": "tradition"
+    },
+    {
+      "bar": 0.0,
+      "count": 0,
+      "label": "Wisdom",
+      "share": 0.0,
+      "slug": "wisdom"
+    }
+  ],
+  "window_start": "2026-08-25"
+}
