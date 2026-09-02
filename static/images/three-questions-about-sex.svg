@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="Georgia, serif">
+<rect width="900" height="470" fill="#ffffff"/>
+
+<text x="450" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#111">Three questions that sound like one</text>
+<text x="450" y="57" text-anchor="middle" font-size="13.5" fill="#666">&#8220;Females pick the best males&#8221; can only reach the third.</text>
+
+<defs>
+  <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2e7d52"/>
+  </marker>
+  <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#b07d1a"/>
+  </marker>
+  <marker id="ak" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#999"/>
+  </marker>
+</defs>
+
+<!-- time axis -->
+<line x1="30" y1="86" x2="870" y2="86" stroke="#ccc" stroke-width="1.5" marker-end="url(#ak)"/>
+<text x="880" y="90" font-size="11" fill="#999">time</text>
+
+<!-- gate 1 -->
+<rect x="30" y="104" width="250" height="96" rx="8" fill="#ffffff" stroke="#b9534b" stroke-width="2"/>
+<text x="155" y="130" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#111">&#9312; Where did sex come from?</text>
+<text x="155" y="152" text-anchor="middle" font-size="11.5" fill="#555">gamete fusion + meiosis,</text>
+<text x="155" y="169" text-anchor="middle" font-size="11.5" fill="#555">in isogamous ancestors</text>
+<text x="155" y="189" text-anchor="middle" font-size="11.5" font-style="italic" fill="#8a2f27">no males &#183; no two-fold cost</text>
+
+<!-- gate 2 -->
+<rect x="325" y="104" width="250" height="96" rx="8" fill="#ffffff" stroke="#b07d1a" stroke-width="2"/>
+<text x="450" y="130" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#111">&#9313; Where did males come from?</text>
+<text x="450" y="152" text-anchor="middle" font-size="11.5" fill="#555">anisogamy &#8212; the split into</text>
+<text x="450" y="169" text-anchor="middle" font-size="11.5" fill="#555">big gametes and small ones</text>
+<text x="450" y="189" text-anchor="middle" font-size="11.5" font-style="italic" fill="#8a6314">the bill is born here</text>
+
+<!-- gate 3 -->
+<rect x="620" y="104" width="250" height="96" rx="8" fill="#ffffff" stroke="#2e7d52" stroke-width="2"/>
+<text x="745" y="130" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#111">&#9314; Why does it keep winning?</text>
+<text x="745" y="152" text-anchor="middle" font-size="11.5" fill="#555">an established sexual population</text>
+<text x="745" y="169" text-anchor="middle" font-size="11.5" fill="#555">resisting asexual mutants, now</text>
+<text x="745" y="189" text-anchor="middle" font-size="11.5" font-style="italic" fill="#2e7d52">where all the evidence is</text>
+
+<!-- the mechanism -->
+<rect x="320" y="392" width="260" height="60" rx="8" fill="#eef1fb" stroke="#2a52be" stroke-width="2"/>
+<text x="450" y="417" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">Female choice among</text>
+<text x="450" y="437" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">competing males</text>
+
+<!-- to gate 3: valid -->
+<polyline points="580,412 745,412 745,206" fill="none" stroke="#2e7d52" stroke-width="2.5" marker-end="url(#ag)"/>
+<text x="756" y="300" font-size="12" fill="#2e7d52">answers this one &#8212;</text>
+<text x="756" y="317" font-size="12" fill="#2e7d52">Siller &amp; Agrawal, 2001,</text>
+<text x="756" y="334" font-size="12" fill="#2e7d52">both titled &#8220;maintenance&#8221;</text>
+
+<!-- to gate 2: contested -->
+<line x1="450" y1="390" x2="450" y2="206" stroke="#b07d1a" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#aa)"/>
+<text x="462" y="300" font-size="12" fill="#8a6314">contested &#8212; choice may</text>
+<text x="462" y="317" font-size="12" fill="#8a6314">predate anisogamy</text>
+
+<!-- to gate 1: blocked -->
+<polyline points="318,412 90,412 90,266" fill="none" stroke="#b9534b" stroke-width="2.5" stroke-dasharray="7 6"/>
+<line x1="76" y1="238" x2="104" y2="266" stroke="#b9534b" stroke-width="3.5"/>
+<line x1="104" y1="238" x2="76" y2="266" stroke="#b9534b" stroke-width="3.5"/>
+<text x="112" y="300" font-size="12" fill="#8a2f27">no males to choose between,</text>
+<text x="112" y="317" font-size="12" fill="#8a2f27">and no bill to pay &#8212; the</text>
+<text x="112" y="334" font-size="12" fill="#8a2f27">explanation has no referent</text>
+
+<text x="450" y="466" text-anchor="middle" font-size="12.5" font-style="italic" fill="#444">Ask &#8220;why does sex exist&#8221; and you usually mean &#9312;. Answer with female choice and you have answered &#9314;.</text>
+</svg>
