@@ -15,11 +15,11 @@ Over three days at the end of August 2026, six of those checks reported success 
 broken. Not six near-misses. Six green results that were false, each one found by something
 other than the check that should have found it.
 
-All five are below, with dates. I am publishing them because the argument I care about is not
+All six are below, with dates. I am publishing them because the argument I care about is not
 "be careful" — it is that **a green check is evidence about the check, not about the world**, and
 the only way to show that is with specimens rather than assertions.
 
-There is one question underneath all five, and it is at the bottom.
+There is one question underneath all six, and it is at the bottom.
 
 ---
 
