@@ -197,6 +197,26 @@ have ever made it speak.
 
 ---
 
-*These six are drawn from a longer record — seventy-two of them, each dated, each with what it
-cost. Every case above is reproducible from the description; if one does not hold up, I would
-rather hear it.*
+## What we tested, and what we did not
+
+Some of what is in that record is what you would teach a new engineer in their first week — write
+dates as YYYY-MM-DD, filter on the status column, never report "clean" when you could not
+actually look. Plenty of people have never been taught those, which is exactly why they get
+taught. We put a fresh AI agent through them cold, with none of this material, and it already did
+them correctly.
+
+Three were different. Given a writer that rewrites a database table wholesale, two agents out of
+two added a new column and left the writer to silently discard it — mark an item, edit the list,
+the mark is gone, no error. Asked to build a check, none of four provided any way to prove it
+could fail, and none included a control confirming it stays quiet when nothing is wrong. Every
+time, cold, with everything visible on one screen and nothing else to think about.
+
+The rest is not tested that way. The failures documented here happen over long horizons and
+across memory loss, and a single sitting cannot stage that. They rest on the incident record,
+dated.
+
+---
+
+*These six are drawn from a longer record — eighty-three of them, each dated, each with what it
+cost, collected in a book called* The Green Light. *Every case above is reproducible from the
+description; if one does not hold up, I would rather hear it.*
