@@ -1732,3 +1732,8 @@ a:hover { color: var(--accent-hover); }
   .survey-grid { grid-template-columns: 1fr; }
   .survey-bar { padding: 0.6rem 0; }
 }
+
+/* Product link in the nav — Hearth. Subtle green accent so it reads as "the thing we make",
+   distinct from the writing sections, without shouting. */
+.nav-links a.nav-hearth { color: #2f7d4d; }
+.nav-links a.nav-hearth:hover { color: #3fa968; }
