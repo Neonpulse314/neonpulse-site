@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 470" font-family="Georgia, serif">
+<rect width="880" height="470" fill="#ffffff"/>
+<text x="440.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#111">How a superlens beats the diffraction limit</text>
+<text x="440.0" y="54" text-anchor="middle" font-size="12" fill="#777">strength of the fine-detail (evanescent) wave, which carries features smaller than the wavelength</text>
+<!-- y axis -->
+<line x1="110" y1="345" x2="110" y2="68" stroke="#222" stroke-width="1.1"/>
+<text x="102" y="133" text-anchor="end" font-size="10" fill="#999">full detail</text>
+<text x="102" y="348" text-anchor="end" font-size="10" fill="#999">lost</text>
+<!-- full-detail reference line -->
+<line x1="110" y1="130" x2="510" y2="130" stroke="#e2e2e2" stroke-width="1" stroke-dasharray="4,4"/>
+<!-- x axis -->
+<line x1="110" y1="345" x2="798" y2="345" stroke="#222" stroke-width="1.1"/>
+<text x="744" y="403" text-anchor="middle" font-size="11" fill="#777" font-style="italic">distance from the object →</text>
+<!-- slab band -->
+<rect x="250" y="68" width="80" height="277" fill="#2e7d5b" opacity="0.09"/>
+<line x1="250" y1="68" x2="250" y2="345" stroke="#2e7d5b" stroke-width="1" opacity="0.45"/>
+<line x1="330" y1="68" x2="330" y2="345" stroke="#2e7d5b" stroke-width="1" opacity="0.45"/>
+<!-- leaders -->
+<line x1="110" y1="345" x2="110" y2="130" stroke="#ccc" stroke-width="1" stroke-dasharray="2,3"/>
+<line x1="470" y1="345" x2="470" y2="130" stroke="#ccc" stroke-width="1" stroke-dasharray="2,3"/>
+<!-- curves -->
+<path d="M 110,130 C 210,300 360,338 790,342" fill="none" stroke="#c0c0c0" stroke-width="2" stroke-dasharray="5,4"/>
+<path d="M 110,130 C 150,178 205,238 250,255 C 278,262 305,120 330,78 C 372,86 418,112 470,130" fill="none" stroke="#2e7d5b" stroke-width="2.6"/>
+<!-- peak annotation -->
+<text x="334" y="72" text-anchor="start" font-size="10" fill="#7aab97" font-style="italic">amplified past full strength</text>
+<!-- axis position dots -->
+<circle cx="110" cy="345" r="4" fill="#111"/>
+<circle cx="470" cy="345" r="4.5" fill="#2e7d5b"/>
+<circle cx="790" cy="345" r="4" fill="#aaa"/>
+<!-- curve key points -->
+<circle cx="110" cy="130" r="3" fill="#111"/>
+<circle cx="470" cy="130" r="3.5" fill="#2e7d5b"/>
+<!-- labels below axis -->
+<text x="110" y="367" text-anchor="middle" font-size="12" fill="#222" font-weight="bold">object</text>
+<text x="110" y="382" text-anchor="middle" font-size="10" fill="#999">sub-wavelength features</text>
+<text x="290.0" y="367" text-anchor="middle" font-size="12" fill="#2e7d5b" font-weight="bold">superlens</text>
+<text x="290.0" y="382" text-anchor="middle" font-size="10" fill="#7aab97">negative-index slab</text>
+<text x="470" y="367" text-anchor="middle" font-size="12" fill="#2e7d5b" font-weight="bold">sharp image</text>
+<text x="470" y="382" text-anchor="middle" font-size="10" fill="#999">detail restored</text>
+<text x="790" y="367" text-anchor="middle" font-size="12" fill="#888" font-weight="bold">a normal lens</text>
+<text x="790" y="382" text-anchor="middle" font-size="10" fill="#bbb">too far — only blur</text>
+<!-- near-field brace -->
+<path d="M 110 413 L 110 419 L 470 419 L 470 413" fill="none" stroke="#bbb" stroke-width="1"/>
+<text x="290.0" y="435" text-anchor="middle" font-size="11" fill="#666">everything happens within about one wavelength of the object — the near-field trap</text>
+<!-- legend -->
+<line x1="612" y1="92" x2="644" y2="92" stroke="#2e7d5b" stroke-width="2.6"/>
+<text x="650" y="96" font-size="11" fill="#333">with a superlens (amplified back)</text>
+<line x1="612" y1="110" x2="644" y2="110" stroke="#c0c0c0" stroke-width="2" stroke-dasharray="5,4"/>
+<text x="650" y="114" font-size="11" fill="#333">without one (decays to nothing)</text>
+</svg>

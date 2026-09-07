@@ -1,9 +1,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-<meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-{{/* Canonical + social share cards (OG/Twitter) — added Jun 16 for shareability + SEO */}}
+{{/* One unique description per page, computed ONCE and reused by the meta tag and the OG/Twitter
+     cards. Priority: explicit front-matter `description` → the page Summary (front-matter `summary`
+     if set, else Hugo's auto-summary from content) → the site tagline (list/taxonomy pages only).
+     Before 2026-09-07 the plain <meta name=description> had its OWN expression that skipped the
+     Summary step, so all 385 pages fell back to the identical site tagline while og:description
+     already carried the real per-page summary. */}}
 {{- $desc := cond (ne .Params.description nil) .Params.description (cond (ne .Summary "") (.Summary | plainify | chomp | truncate 280) .Site.Params.description) -}}
+<meta name="description" content="{{ $desc }}">
+{{/* Canonical + social share cards (OG/Twitter) — added Jun 16 for shareability + SEO */}}
 {{- $ogtitle := cond .IsHome .Site.Title .Title -}}
 {{- $ogimg := "images/hero-homepage.png" | absURL -}}
 {{/* Thin taxonomy terms are noindex,follow — Search Console, 2026-07-27:

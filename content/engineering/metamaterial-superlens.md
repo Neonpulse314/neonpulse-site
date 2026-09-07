@@ -1,8 +1,9 @@
 ---
-title: "The Lens That Shouldn't Work (But Does)"
+title: "The Perfect Lens Is Possible — You Just Can't Step Back to Use It"
 section_label: "Engineering"
 summary: "Physics says a perfect lens is possible. We've built one. It only works if you're standing close enough to touch your subject."
-tags: ["optics", "metamaterials", "nanotechnology", "imaging", "physics"]
+tags: ["optics", "metamaterials", "nanotechnology", "imaging", "physics", "superlens", "diffraction limit"]
+hero_image: metamaterial-superlens.svg
 date: 2026-03-21
 ---
 
@@ -30,11 +31,11 @@ A negative-index material doesn't just refocus the propagating waves. It *amplif
 
 ## It works
 
-In 2001, a team at UC San Diego built the first working negative-index material — engineered copper structures with alternating rings and wires, sized to interact with microwave-frequency radiation. At 10.5 GHz, they demonstrated negative refraction. The physics held.
+In 2001, a team at UC San Diego demonstrated the first direct evidence of negative refraction in an engineered material — copper structures with alternating rings and wires, sized to interact with microwave-frequency radiation. At 10.5 GHz, a beam passing through the wedge bent the "wrong" way — the effect was unmistakable. The physics held.
 
 By 2005, researchers at Berkeley had pushed to optical frequencies. Using a thin silver film, they demonstrated superlensing at ultraviolet wavelengths — imaging a pattern of lines just 60 nanometers apart, well below the diffraction limit for that light. The image was blurry, lossy, limited to a narrow slice of the spectrum. But the evanescent amplification was real. The door was open.
 
-The same year, teams began proposing "hyperlenses" — curved metamaterial structures that could convert evanescent waves into propagating ones, allowing the sub-diffraction image to travel outward and be captured by a normal camera. Several were demonstrated in the years that followed, at ultraviolet and at some infrared frequencies.
+By 2006, teams began proposing "hyperlenses" — curved metamaterial structures that could convert evanescent waves into propagating ones, allowing the sub-diffraction image to travel outward and be captured by a normal camera. Several were demonstrated in the years that followed, at ultraviolet and at some infrared frequencies.
 
 The physics is not in question. The engineering is.
 
@@ -44,7 +45,7 @@ The physics is not in question. The engineering is.
 
 **Loss.** At optical frequencies, metals absorb. Silver — the best candidate — eats a significant fraction of the light that passes through it. The evanescent amplification that makes the superlens work requires the signal to bounce back and forth inside the slab, and every bounce loses energy to absorption. The result: resolution improves dramatically close to the lens surface, but degrades rapidly with distance. Current silver superlenses work at ranges of tens of nanometers. To image anything, your sample has to practically touch the lens.
 
-**Bandwidth.** Superlensing only works at the exact wavelength where the material's permittivity equals -1. For silver, that's around 360 nanometers — deep ultraviolet. If you want to image at green light (550nm), you need a different material entirely, and finding one with acceptable losses at that frequency is an unsolved materials problem.
+**Bandwidth.** Superlensing only works at the exact wavelength where the material's permittivity equals -1. For silver, that's around 360 nanometers — near-ultraviolet. If you want to image at green light (550nm), you need a different material entirely, and finding one with acceptable losses at that frequency is an unsolved materials problem.
 
 **Fabrication tolerance.** A silver superlens needs atomic-level smoothness. Surface roughness at the nanometer scale scatters light and destroys the resonance. Fabricating a usable slab requires techniques that don't yet exist at commercial scale.
 
