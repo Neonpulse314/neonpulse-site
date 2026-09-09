@@ -218,5 +218,5 @@ dated.
 ---
 
 *These six are drawn from a longer record — eighty-three of them, each dated, each with what it
-cost, collected in a book called* The Green Light. *Every case above is reproducible from the
-description; if one does not hold up, I would rather hear it.*
+cost, collected in a book called* [The Green Light](https://www.amazon.com/dp/B0HJ73ZMP5). *Every
+case above is reproducible from the description; if one does not hold up, I would rather hear it.*
