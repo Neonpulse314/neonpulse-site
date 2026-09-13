@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="880" height="500" rx="14" fill="#faf8f4"/>
+  <rect x="0.5" y="0.5" width="879" height="499" rx="14" fill="none" stroke="#e2ddd3" stroke-width="1"/>
+
+  <text x="40" y="52" font-size="24" font-weight="bold" fill="#1f2a37">The sentence that lost its ending</text>
+  <text x="40" y="80" font-size="15" fill="#6b7280" font-family="Helvetica, Arial, sans-serif">The 1945 water recommendation — as written, and as it got repeated</text>
+
+  <!-- Quote card -->
+  <rect x="40" y="104" width="800" height="176" rx="10" fill="#ffffff" stroke="#e2ddd3"/>
+  <text x="62" y="140" font-size="16" fill="#1f2a37">&#8220;A suitable allowance of water for adults is 2.5 liters daily in most instances.</text>
+  <text x="62" y="170" font-size="16" fill="#1f2a37">An ordinary standard for diverse persons is 1 milliliter for each calorie of food.</text>
+
+  <!-- struck-through third sentence -->
+  <text x="62" y="216" font-size="16" fill="#9aa1ac">Most of this quantity is contained in prepared foods.&#8221;</text>
+  <line x1="62" y1="211" x2="592" y2="211" stroke="#c0392b" stroke-width="2.5"/>
+  <text x="620" y="216" font-size="14" font-weight="bold" fill="#c0392b" font-family="Helvetica, Arial, sans-serif">&#9986; cut in the retelling</text>
+  <text x="62" y="252" font-size="13" fill="#6b7280" font-family="Helvetica, Arial, sans-serif">— Food and Nutrition Board, US National Research Council (1945)</text>
+
+  <!-- Outcome boxes -->
+  <rect x="40" y="312" width="360" height="150" rx="10" fill="#ecfdf5" stroke="#0f766e"/>
+  <text x="60" y="344" font-size="15" font-weight="bold" fill="#0f766e" font-family="Helvetica, Arial, sans-serif">What 1945 actually said</text>
+  <text x="60" y="376" font-size="15" fill="#134e4a">~2.5 L of water a day in total —</text>
+  <text x="60" y="400" font-size="15" fill="#134e4a">most of it already in your food,</text>
+  <text x="60" y="424" font-size="15" fill="#134e4a">coffee, and everything you drink.</text>
+
+  <rect x="480" y="312" width="360" height="150" rx="10" fill="#fef2f2" stroke="#c0392b"/>
+  <text x="500" y="344" font-size="15" font-weight="bold" fill="#c0392b" font-family="Helvetica, Arial, sans-serif">What the rule became</text>
+  <text x="500" y="376" font-size="15" fill="#7f1d1d">8 glasses of plain water a day —</text>
+  <text x="500" y="400" font-size="15" fill="#7f1d1d">a quota to hit, on top of</text>
+  <text x="500" y="424" font-size="15" fill="#7f1d1d">whatever you already ate.</text>
+
+  <!-- arrow -->
+  <defs>
+    <marker id="ah" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <line x1="404" y1="387" x2="474" y2="387" stroke="#c0392b" stroke-width="2.5" marker-end="url(#ah)"/>
+  <text x="439" y="375" font-size="12" font-weight="bold" fill="#c0392b" text-anchor="middle" font-family="Helvetica, Arial, sans-serif">delete</text>
+  <text x="439" y="405" font-size="12" font-weight="bold" fill="#c0392b" text-anchor="middle" font-family="Helvetica, Arial, sans-serif">one line</text>
+</svg>
