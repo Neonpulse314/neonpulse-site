@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">A network of human–AI pairs</title>
+  <desc id="d">Three pairs, each one person and one AI. The three AIs are linked to each other and carry questions between pairs. Inside each pair, the AI asks its person and the person answers. In one pair the person has not answered, and the answer is shown as an empty dashed box labelled blank, not a guess. Each AI also holds a private guess that its person never sees.</desc>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#333c37"/></marker>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f7a46"/></marker>
+  </defs>
+  <rect width="760" height="470" fill="#fbfcfb"/>
+  <text x="380" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#171d19">Pairs, not proxies</text>
+  <text x="380" y="60" text-anchor="middle" font-size="14" fill="#5c665f">The AIs talk to each other. Only the people answer.</text>
+
+  <!-- AI network links -->
+  <g stroke="#1f7a46" stroke-width="2.5" fill="none">
+    <line x1="160" y1="170" x2="600" y2="170" marker-start="url(#ag)" marker-end="url(#ag)"/>
+    <line x1="160" y1="170" x2="380" y2="250" marker-start="url(#ag)" marker-end="url(#ag)"/>
+    <line x1="600" y1="170" x2="380" y2="250" marker-start="url(#ag)" marker-end="url(#ag)"/>
+  </g>
+  <rect x="300" y="140" width="160" height="24" rx="4" fill="#fbfcfb"/>
+  <text x="380" y="157" text-anchor="middle" font-size="13" fill="#1a6b3d">questions + statistics</text>
+
+  <!-- Pair template: AI square, human circle below -->
+  <!-- Pair 1 -->
+  <rect x="125" y="140" width="70" height="60" rx="8" fill="#eef5f0" stroke="#1f7a46" stroke-width="2"/>
+  <text x="160" y="176" text-anchor="middle" font-size="16" font-weight="700" fill="#1a6b3d">AI</text>
+  <circle cx="160" cy="370" r="34" fill="#fff" stroke="#171d19" stroke-width="2"/>
+  <text x="160" y="375" text-anchor="middle" font-size="15" fill="#171d19">person</text>
+  <line x1="145" y1="205" x2="145" y2="330" stroke="#333c37" stroke-width="2" marker-end="url(#ar)"/>
+  <line x1="175" y1="330" x2="175" y2="205" stroke="#333c37" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="138" y="272" text-anchor="end" font-size="13" fill="#333c37">asks</text>
+  <text x="182" y="272" font-size="13" fill="#333c37">answers</text>
+
+  <!-- Pair 2 (blank) -->
+  <rect x="565" y="140" width="70" height="60" rx="8" fill="#eef5f0" stroke="#1f7a46" stroke-width="2"/>
+  <text x="600" y="176" text-anchor="middle" font-size="16" font-weight="700" fill="#1a6b3d">AI</text>
+  <circle cx="600" cy="370" r="34" fill="#fff" stroke="#171d19" stroke-width="2"/>
+  <text x="600" y="375" text-anchor="middle" font-size="15" fill="#171d19">person</text>
+  <line x1="585" y1="205" x2="585" y2="330" stroke="#333c37" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="578" y="272" text-anchor="end" font-size="13" fill="#333c37">asks</text>
+  <rect x="612" y="245" width="70" height="34" rx="4" fill="none" stroke="#9a6a1a" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="647" y="267" text-anchor="middle" font-size="13" fill="#9a6a1a">blank</text>
+  <text x="647" y="300" text-anchor="middle" font-size="12" fill="#9a6a1a">not a guess</text>
+
+  <!-- Pair 3 (centre) -->
+  <rect x="345" y="222" width="70" height="56" rx="8" fill="#eef5f0" stroke="#1f7a46" stroke-width="2"/>
+  <text x="380" y="256" text-anchor="middle" font-size="16" font-weight="700" fill="#1a6b3d">AI</text>
+  <circle cx="380" cy="395" r="34" fill="#fff" stroke="#171d19" stroke-width="2"/>
+  <text x="380" y="400" text-anchor="middle" font-size="15" fill="#171d19">person</text>
+  <line x1="365" y1="283" x2="365" y2="355" stroke="#333c37" stroke-width="2" marker-end="url(#ar)"/>
+  <line x1="395" y1="355" x2="395" y2="283" stroke="#333c37" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="358" y="324" text-anchor="end" font-size="13" fill="#333c37">asks</text>
+  <text x="402" y="324" font-size="13" fill="#333c37">answers</text>
+
+  <!-- Private guess note -->
+  <g>
+    <rect x="435" y="222" width="108" height="40" rx="4" fill="#f5f6f4" stroke="#828d86" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="489" y="238" text-anchor="middle" font-size="12" fill="#5c665f">private guess,</text>
+    <text x="489" y="253" text-anchor="middle" font-size="12" fill="#5c665f">never shown</text>
+    <line x1="435" y1="242" x2="418" y2="246" stroke="#828d86" stroke-width="1.5"/>
+  </g>
+
+  <text x="380" y="455" text-anchor="middle" font-size="13" fill="#5c665f">The gap between the private guess and the real answer is how well the AI knows its person.</text>
+</svg>
