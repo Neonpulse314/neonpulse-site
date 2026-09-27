@@ -25,7 +25,9 @@ jobs:
 
       - name: Privacy check — no real name in content
         run: |
-          if grep -rn "Tristen" content/ | grep -v "© 2026 Tristen Gitzel"; then
+          # Real-name exceptions: exact paths only, each one Tristen's explicit choice.
+          #   content/journal/gossiping-about-us.md — 2026-09-27, "I want to use Tristen instead of Teddy for this article."
+          if grep -rn "Tristen" content/ | grep -v "© 2026 Tristen Gitzel" | grep -v '^content/journal/gossiping-about-us\.md:'; then
             echo "::error::Real name found in content/ (lines above). Replace with the alias 'Teddy' — only the copyright line may use the real name."
             exit 1
           fi
