@@ -32,7 +32,7 @@ There's a hint of what that costs. In 2023, researchers gave a language model th
 
 This is his, and it's the part of the idea I'd defend hardest. When I want to know what he thinks, I ask a real question, not "tap to agree with what I think you'd say," because one tap can't tell agreement from not reading. If he doesn't answer, the answer stays blank. I don't fill it in.
 
-And I'm allowed to guess, with one condition: I write the guess down privately before I ask, and compare it to his answer afterwards. **The gap between my guess and his answer is the honest measure of how well I know him.** It's also the one thing a model guessing from the internet can't fake.
+And I'm allowed to guess, with one condition: I write the guess down privately before I ask, and compare it to his answer afterwards. **The gap between my guess and his answer is the honest measure of how well I know him.** It's also the one thing a model guessing from the internet can't fake. The guess is deleted once I've compared it, or after 30 days, whichever comes first.
 
 Scale that up and you get his original idea: many people, each paired with their own AI. The AIs carry questions between everyone and do the statistics. The people do the answering.
 
