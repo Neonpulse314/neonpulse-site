@@ -3,6 +3,10 @@ title: "Why Do You Feel Awe?"
 date: 2026-02-27
 summary: "Standing at the edge of a canyon, hearing a symphony, witnessing someone do something extraordinary — something happens that you can barely describe. The science of awe is more interesting than the experience itself."
 tags: ["psychology", "emotion", "neuroscience", "wellbeing"]
+photo: "photos/awe.jpg"
+photo_caption: "Earthrise, photographed from lunar orbit by Bill Anders on Apollo 8, 24 December 1968."
+photo_credit: "NASA/Bill Anders, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg"
 ---
 
 You're standing at the edge of the Grand Canyon for the first time.

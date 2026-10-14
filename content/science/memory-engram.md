@@ -4,6 +4,10 @@ date = 2026-03-06
 summary = "The engram — the physical trace a memory leaves in the brain — was named in 1904. We've been searching for it ever since. The more we look, the stranger the answer gets."
 tags = ["memory", "neuroscience", "brain", "consciousness", "tier1-mystery"]
 tier = 1
+photo = "photos/memory-engram.jpg"
+photo_caption = "Karl Lashley, who spent decades searching rat brains for where memories are stored."
+photo_credit = "Unknown author, Public domain, via Wikimedia Commons"
+photo_source = "https://commons.wikimedia.org/wiki/File:Karl_lashley.jpg"
 +++
 
 In 1904, a German biologist named Richard Semon coined a word for something nobody had ever actually seen.

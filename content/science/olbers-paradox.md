@@ -4,6 +4,10 @@ date: 2026-02-25
 summary: "If the universe is infinite and full of stars, every line of sight should end at one. The sky should be blindingly bright. It isn't. Here's why."
 section_label: "Science Mystery"
 tags: ["cosmology", "universe", "light"]
+photo: "photos/olbers-paradox.jpg"
+photo_caption: "The Hubble Ultra Deep Field. Almost every point of light in it is a galaxy."
+photo_credit: "NASA and the European Space Agency, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg"
 ---
 
 Look up at the night sky on a clear night. What do you see?

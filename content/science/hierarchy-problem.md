@@ -7,6 +7,11 @@ tags: ["physics", "particle physics", "Higgs boson", "LHC", "supersymmetry", "hi
 draft: false
 tier: 1
 disciplines: ["Particle Physics"]
+photo: "photos/hierarchy-problem.jpg"
+photo_caption: "The CMS detector at CERN's Large Hadron Collider, one of the two experiments that found the Higgs boson in 2012."
+photo_credit: "SimonWaldherr, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:CMS-Experiment_(LHC).jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
 ---
 
 In 2012, after 50 years of searching and $10 billion worth of machine, physicists found the Higgs boson.

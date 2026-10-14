@@ -8,6 +8,11 @@ tier: 1
 disciplines: ["Evolutionary Biology"]
 mystery: true
 draft: false
+photo: "photos/cambrian-explosion.jpg"
+photo_caption: "Burgess Shale fossils of Waptia and Marrella, from the Cambrian, found above Field, British Columbia."
+photo_credit: "James St. John, CC BY 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Waptia_fieldensis_%26_Marrella_splendens_(fossil_arthropods)_(Burgess_Shale_Formation,_Middle_Cambrian;_Walcott_Quarry,_above_Field,_British_Columbia,_Canada).jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/2.0"
 ---
 
 Life appeared on Earth about 3.8 billion years ago.

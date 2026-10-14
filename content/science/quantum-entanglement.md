@@ -4,6 +4,10 @@ date = 2026-03-06
 summary = "Two particles, separated by any distance, can affect each other instantly. We've confirmed this with Nobel Prize-winning experiments. We have no idea what mechanism makes it happen."
 tags = ["quantum mechanics", "physics", "entanglement", "einstein", "bell's theorem", "tier1-mystery"]
 tier = 1
+photo = "photos/quantum-entanglement.jpg"
+photo_caption = "Niels Bohr and Albert Einstein, photographed by Paul Ehrenfest."
+photo_credit = "Paul Ehrenfest, Public domain, via Wikimedia Commons"
+photo_source = "https://commons.wikimedia.org/wiki/File:Niels_Bohr_Albert_Einstein_by_Ehrenfest.jpg"
 +++
 
 In 1935, Albert Einstein tried to kill quantum mechanics.

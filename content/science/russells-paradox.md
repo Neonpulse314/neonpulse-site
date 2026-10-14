@@ -7,6 +7,10 @@ tags: ["mathematics", "logic", "paradox", "Russell", "set theory", "Gödel", "fo
 draft: false
 tier: 1
 disciplines: ["Mathematics"]
+photo: "photos/russells-paradox.jpg"
+photo_caption: "Bertrand Russell in 1907."
+photo_credit: "Unknown author, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Russell1907-2.jpg"
 ---
 
 Here is a question with no answer.

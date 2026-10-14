@@ -3,6 +3,10 @@ title: "Why Does Spicy Food Feel Hot When It Isn't?"
 date: 2026-02-27
 summary: "Capsaicin doesn't actually burn you. It just convinces one receptor that it's burning you — and that receptor can't tell the difference. Here's the mechanism, and why milk works but water doesn't."
 tags: ["neuroscience", "chemistry", "pain", "biology"]
+photo: "photos/spicy-food.jpg"
+photo_caption: "Habanero peppers."
+photo_credit: "Stephen Ausmus, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:ARS-habanero.jpg"
 ---
 
 A chili pepper isn't hot. Not in the temperature sense. You could hold one in your hand all day and your hand would be fine.

@@ -4,6 +4,11 @@ date: 2026-02-26
 summary: "It doesn't. The moon is physically the same size — actually very slightly smaller near the horizon, because you're a tiny bit farther from it. The apparent size is an illusion created by your brain's depth-perception system. Aristotle noticed it. People have been trying to explain it for 2,000 years. The solution involves why train tracks seem to converge."
 section_label: "Science Mystery"
 tags: ["neuroscience", "perception", "vision", "psychology", "physics"]
+photo: "photos/moon-illusion.jpg"
+photo_caption: "A full moon rising behind Tourbillon Castle in Sion, Switzerland."
+photo_credit: "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:024_Full_moon_rising_behind_Tourbillon_Castle_at_night_Photo_by_Giles_Laurent.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/4.0"
 ---
 
 You're outside on a clear night. The full moon sits just above the horizon, enormous and orange, hovering over the rooftops. An hour later, it's high in the sky — smaller, whiter, diminished.

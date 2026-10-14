@@ -5,6 +5,11 @@ summary: "Goosebumps are a vestigial response from when your ancestors had fur â
 featured: true
 section_label: "Science Mystery"
 tags: ["biology", "evolution", "neuroscience", "emotion", "physiology"]
+photo: "photos/goosebumps.jpg"
+photo_caption: "Goosebumps on an arm."
+photo_credit: "EverJean, CC BY 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Goose_bumps.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/2.0"
 ---
 
 Your arms prickle. The tiny hairs stand up. The skin underneath contracts into small bumps that serve no obvious purpose, and then a few seconds later everything is smooth again.

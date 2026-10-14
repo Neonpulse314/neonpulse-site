@@ -7,6 +7,10 @@ tags: ["astrobiology", "space", "extraterrestrial", "existential", "civilization
 draft: false
 tier: 1
 disciplines: ["Astronomy"]
+photo: "photos/fermi-paradox.jpg"
+photo_caption: "Enrico Fermi."
+photo_credit: "Department of Energy-Office of Public Affairs, restored by Yann, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_1943-49.jpg"
 ---
 
 Here's the math. Stay with it.

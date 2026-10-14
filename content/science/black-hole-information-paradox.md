@@ -7,6 +7,12 @@ tags: ["black holes", "Hawking radiation", "quantum mechanics", "general relativ
 draft: false
 tier: 1
 disciplines: ["Physics"]
+photo: "photos/black-hole-information-paradox.jpg"
+photo_caption: "The first image of a black hole, at the centre of galaxy M87, released by the Event Horizon Telescope in 2019."
+photo_credit: "Event Horizon Telescope, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
+feed_pick: 5
 ---
 
 When something falls into a black hole, it's gone.

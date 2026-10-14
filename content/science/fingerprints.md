@@ -5,6 +5,11 @@ summary: "The obvious answer — better grip — turns out to be mostly wrong. A
 section_label: "Science Mystery"
 tags: ["biology", "evolution", "skin", "neuroscience"]
 featured: true
+photo: "photos/fingerprints.jpg"
+photo_caption: "The ridges of a fingerprint on a fingertip."
+photo_credit: "Frettie, CC BY 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Fingerprint_detail_on_male_finger_in_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/3.0"
 ---
 
 The assumption seems obvious: fingerprints help you grip things. The ridges increase friction. That's why our fingertips have them and the backs of our hands don't.

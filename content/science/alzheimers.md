@@ -7,6 +7,10 @@ featured: true
 tier: 1
 disciplines: ["Medicine"]
 mystery: true
+photo: "photos/alzheimers.jpg"
+photo_caption: "Auguste Deter, the patient whose brain Alois Alzheimer described in 1906."
+photo_credit: "Unknown author, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Auguste_D_aus_Marktbreit.jpg"
 ---
 
 In 1906, a German psychiatrist named Alois Alzheimer examined the brain of a 55-year-old woman who had spent the last five years of her life losing her mind. She had become confused, aggressive, disoriented, paranoid. By the end, she didn't know where she was or who anyone was.

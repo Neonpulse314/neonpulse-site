@@ -78,6 +78,10 @@ def fetch(slug, title):
     # (a "Public domain" summary on a page also tagged CC BY). Refuse a disagreement.
     cats = api(action="query", titles=title, prop="categories", cllimit="max")
     tags = {cl["title"].split(":", 1)[1].lower() for cl in cats["query"]["pages"][0].get("categories", [])}
+    # A page under a deletion or review process is contested even when every tag reads clean.
+    contested = [t for t in tags if re.search(r"deletion requests|copyright violation|without (license|source|permission)|review needed|possibly unfree", t)]
+    if contested:
+        sys.exit(f"page is contested ({contested[0]}): read {c['page']}")
     if c["licence"].lower().startswith("public domain") and any(t.startswith("cc-by") for t in tags):
         sys.exit(f"licence tags disagree (summary says public domain, page also has CC BY): read {c['page']}")
     dest = SITE / "static" / "photos" / f"{slug}.jpg"
@@ -92,7 +96,10 @@ def fetch(slug, title):
     dest = dest.with_suffix(".jpg")
     im.save(dest, "JPEG", quality=78, optimize=True, progressive=True)
     data = dest.read_bytes()
-    artist = c["artist"] or "Unknown author"
+    artist = c["artist"].replace("Unknown authorUnknown author", "Unknown author")
+    artist = re.split(r"\s*\n", artist)[0].strip() or "Unknown author"  # Commons appends uploader notes on new lines
+    artist = re.sub(r"^myself\s*\((.*)\)$", r"\1", artist)
+    artist = re.sub(r"^Image:\s*", "", artist).strip() or "Unknown author"
     credit = f"{artist}, {c['licence']}, via Wikimedia Commons"
     print(f"saved {dest.relative_to(SITE)} ({len(data)//1024} KB)")
     print(f'photo: "photos/{dest.name}"')

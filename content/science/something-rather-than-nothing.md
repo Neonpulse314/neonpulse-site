@@ -6,6 +6,10 @@ tags: ["philosophy", "cosmology", "physics", "mystery", "existence", "metaphysic
 tier: 1
 disciplines: ["Philosophy"]
 mystery: true
+photo: "photos/something-rather-than-nothing.jpg"
+photo_caption: "Gottfried Wilhelm Leibniz, around 1700."
+photo_credit: "Johann Friedrich Wentzel, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Gottfried_Wilhelm_Leibniz_c1700.jpg"
 ---
 
 In 1714, the German philosopher Gottfried Wilhelm Leibniz wrote down the question that would haunt philosophy and physics for the next three centuries:

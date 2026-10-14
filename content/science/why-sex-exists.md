@@ -8,6 +8,11 @@ tier: 1
 disciplines: ["Evolutionary Biology"]
 mystery: true
 draft: false
+photo: "photos/why-sex-exists.jpg"
+photo_caption: "The shell of a New Zealand mud snail, Potamopyrgus antipodarum."
+photo_credit: "H. Zell, CC BY-SA 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Potamopyrgus_antipodarum_01.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
 
 Here is a simple fact that should keep biologists up at night.

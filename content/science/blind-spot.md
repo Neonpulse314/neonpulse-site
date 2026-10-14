@@ -5,6 +5,11 @@ summary: "You have a region of your visual field where you are completely blind 
 featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "vision", "perception", "consciousness"]
+photo: "photos/blind-spot.jpg"
+photo_caption: "The back of a healthy eye. The bright disc is where the optic nerve leaves; it has no light receptors, and it is your blind spot."
+photo_credit: "OptometrusPrime, CC BY-SA 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Fundus_photograph_of_a_healthy_right_eye_(OD)_from_a_myopic_female_Asian_patient._Age_22.png"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/2.0"
 ---
 
 Follow these instructions exactly.

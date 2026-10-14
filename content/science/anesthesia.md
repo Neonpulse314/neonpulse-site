@@ -7,6 +7,10 @@ tags: ["neuroscience", "medicine", "consciousness", "anesthesia", "unsolved", "t
 tier: 1
 disciplines: ["Medicine"]
 draft: false
+photo: "photos/anesthesia.jpg"
+photo_caption: "An early operation under ether at Massachusetts General Hospital, photographed by Southworth & Hawes in 1847."
+photo_credit: "Southworth & Hawes, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Southworth_%26_Hawes_-_First_etherized_operation_(re-enactment).jpg"
 ---
 
 On October 16, 1846, a dentist named William Morton put a man to sleep with ether vapor in a lecture hall at Massachusetts General Hospital. A surgeon removed a tumor from the man's neck. The man felt nothing.

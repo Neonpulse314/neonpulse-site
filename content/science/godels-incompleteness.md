@@ -4,6 +4,10 @@ date = 2026-03-06
 summary = "Kurt Gödel showed that any sufficiently powerful mathematical system is either incomplete or contradicts itself. There's no way out."
 tags = ["mathematics", "logic", "foundations", "philosophy", "godel", "tier1-mystery"]
 tier = 1
+photo = "photos/godels-incompleteness.jpg"
+photo_caption = "Kurt Gödel as a student in 1925."
+photo_credit = "Unknown author, Public domain, via Wikimedia Commons"
+photo_source = "https://commons.wikimedia.org/wiki/File:Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg"
 +++
 
 In 1900, the most famous mathematician in the world stood up at a conference in Paris and announced a project that would occupy the next century of mathematics.

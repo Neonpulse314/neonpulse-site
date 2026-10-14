@@ -5,6 +5,10 @@ summary: "You wake up in the dark. You can't move. There's a shape at the foot o
 featured: true
 section_label: "Science Mystery"
 tags: ["neuroscience", "sleep", "hallucinations", "consciousness", "psychology"]
+photo: "photos/sleep-paralysis.jpg"
+photo_caption: "The Nightmare, painted by Henry Fuseli in 1781."
+photo_credit: "Henry Fuseli, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG"
 ---
 
 You wake up in the dark.

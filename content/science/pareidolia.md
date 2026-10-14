@@ -4,6 +4,11 @@ date: 2026-02-25
 summary: "You glance at a tree knot and see two eyes. You spot a face in a power outlet. A cloud becomes a profile. Your brain is doing something ancient and weird — and it can't stop."
 section_label: "Science Mystery"
 tags: ["neuroscience", "perception", "psychology", "evolution", "consciousness"]
+photo: "photos/pareidolia.jpg"
+photo_caption: "The \"Face on Mars\", photographed by Viking 1 in 1976."
+photo_credit: "Viking 1, NASA, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Martian_face_viking.jpg"
+feed_pick: 6
 ---
 
 Look at a power outlet.

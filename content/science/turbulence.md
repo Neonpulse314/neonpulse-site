@@ -6,6 +6,10 @@ section_label: "Unsolved Mystery"
 tags: ["physics", "fluid dynamics", "mathematics", "millennium problem", "turbulence", "navier-stokes"]
 tier: 1
 disciplines: ["Physics"]
+photo: "photos/turbulence.jpg"
+photo_caption: "Swirling eddies in the clouds downwind of Rishiri Island, Japan, seen from orbit."
+photo_credit: "NASA, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Von_Karman_vortices_off_Rishiri_Island,_Japan.jpg"
 ---
 
 Watch cream pour into coffee.

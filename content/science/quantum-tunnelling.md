@@ -7,6 +7,10 @@ tags: ["quantum mechanics", "physics", "tunnelling", "nuclear fusion", "sun", "r
 draft: false
 tier: 1
 disciplines: ["Quantum Physics"]
+photo: "photos/quantum-tunnelling.jpg"
+photo_caption: "The Sun, imaged by NASA's Solar Dynamics Observatory."
+photo_credit: "NASA/SDO (AIA), Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"
 ---
 
 Here's a problem.

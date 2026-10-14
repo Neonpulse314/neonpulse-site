@@ -7,6 +7,10 @@ tags: ["mathematics", "physics", "euler", "philosophy", "reality", "mystery", "q
 draft: false
 tier: 1
 disciplines: ["Mathematics"]
+photo: "photos/eulers-identity.jpg"
+photo_caption: "Leonhard Euler, painted by Jakob Emanuel Handmann in 1753."
+photo_credit: "Jakob Emanuel Handmann, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg"
 ---
 
 Start here: *e*^(*i*π) + 1 = 0

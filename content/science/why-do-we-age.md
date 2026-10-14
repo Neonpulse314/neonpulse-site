@@ -7,6 +7,10 @@ tags: ["biology", "aging", "longevity", "genetics", "evolution", "unsolved", "ti
 tier: 1
 disciplines: ["Biology"]
 draft: false
+photo: "photos/why-do-we-age.jpg"
+photo_caption: "A naked mole rat."
+photo_credit: "Trisha M. Shears, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Naked_Mole_Rat_Eating.jpg"
 ---
 
 A naked mole rat lives for about 30 years.

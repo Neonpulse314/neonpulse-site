@@ -4,6 +4,10 @@ date: 2026-03-07
 tags: ["neuroscience", "biology", "body", "reflex", "mystery"]
 section_label: "Body Mysteries"
 summary: "A sneeze moves air at 100 mph and temporarily shuts down all voluntary movement. About a quarter of people sneeze when they look at the sun. Some people sneeze when they're full. And you cannot sneeze while you're asleep."
+photo: "photos/sneezing.jpg"
+photo_caption: "A sneeze, photographed for the US Centers for Disease Control and Prevention."
+photo_credit: "James Gathany, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Sneeze.JPG"
 ---
 
 A sneeze looks like a simple reflex. Something irritates your nose, your nose clears it. End of story.

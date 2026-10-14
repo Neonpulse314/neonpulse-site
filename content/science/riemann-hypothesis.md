@@ -6,6 +6,10 @@ section_label: "Unsolved Mystery"
 tags: ["mathematics", "prime numbers", "cryptography", "number theory", "millennium problem"]
 tier: 1
 disciplines: ["Mathematics"]
+photo: "photos/riemann-hypothesis.jpg"
+photo_caption: "Bernhard Riemann."
+photo_credit: "Unknown author, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Georg_Friedrich_Bernhard_Riemann.jpeg"
 ---
 
 Every number you've ever seen is built from prime numbers.

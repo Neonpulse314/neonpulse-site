@@ -7,6 +7,11 @@ tags: ["dark energy", "cosmology", "physics", "universe", "expansion", "mystery"
 draft: false
 tier: 1
 disciplines: ["Cosmology"]
+photo: "photos/dark-energy.jpg"
+photo_caption: "Supernova 1994D, the bright dot at lower left, in galaxy NGC 4526. Supernovae of this type showed that the universe's expansion is speeding up."
+photo_credit: "NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Supernova_1994D_in_the_galaxy_NGC_4526_(ann11014a).jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
 ---
 
 In 1998, two teams of astronomers set out to measure how fast the universe was slowing down.

@@ -5,6 +5,10 @@ summary: "After amputation, up to 80% of people feel vivid sensations — someti
 section_label: "Science Mystery"
 tags: ["neuroscience", "pain", "perception", "consciousness"]
 featured: true
+photo: "photos/phantom-limb.jpg"
+photo_caption: "How mirror-box therapy works: the mirror makes the missing hand appear to be there."
+photo_credit: "Edhubbard, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Mirror-box-comic.jpg"
 ---
 
 The surgeon removed the arm. The pain didn't leave with it.

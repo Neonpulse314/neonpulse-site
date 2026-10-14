@@ -6,6 +6,10 @@ tags: ["cosmology", "hubble-constant", "expansion", "physics", "mystery", "unsol
 tier: 1
 disciplines: ["Cosmology"]
 mystery: true
+photo: "photos/hubble-tension.jpg"
+photo_caption: "The Hubble Space Telescope above Earth."
+photo_credit: "NASA, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Hubble_Space_Telescope_in_Earth_Orbit_(2024-025).jpg"
 ---
 
 In 1929, Edwin Hubble published a finding that changed everything: galaxies are moving away from us, and the farther away they are, the faster they're receding. The universe is expanding.

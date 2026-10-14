@@ -6,6 +6,10 @@ tags: ["neuroscience", "biology", "mystery", "genetics", "disease"]
 tier: 1
 disciplines: ["Biology"]
 mystery: true
+photo: "photos/prions.jpg"
+photo_caption: "Brain tissue from a cow with BSE (mad cow disease), a prion disease. The holes give it the sponge-like look the disease is named for."
+photo_credit: "Dr. Al Jenny, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Histology_bse.jpg"
 ---
 
 In the late 1970s, a man in Venice began having trouble sleeping.

@@ -6,6 +6,10 @@ tags: ["physics", "atmosphere", "electricity", "mystery", "unsolved", "phenomena
 tier: 1
 disciplines: ["Physics"]
 mystery: true
+photo: "photos/ball-lightning.jpg"
+photo_caption: "A 19th-century engraving of ball lightning."
+photo_credit: "Louis Poyet, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Ball_lightning.png"
 ---
 
 On a summer evening in 1936, a ball of light floated through an open window of a house in England and rolled slowly across the floor before fading out near the fireplace. The witness was a retired schoolteacher. She reported it calmly, with specific details about color, movement, and smell.

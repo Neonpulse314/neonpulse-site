@@ -4,6 +4,10 @@ date = 2026-03-06
 summary = "The three-body problem is one of the oldest unsolved problems in physics. Not 'we haven't gotten around to it' — mathematically proven impossible. The attempt to solve it accidentally invented chaos theory."
 tags = ["physics", "mathematics", "chaos", "astronomy", "tier1-mystery"]
 tier = 1
+photo = "photos/three-body-problem.jpg"
+photo_caption = "Henri Poincaré, who won King Oscar II's prize for his work on the three-body problem."
+photo_credit = "Unknown photographer (attributed to Henri Manuel), Public domain, via Wikimedia Commons"
+photo_source = "https://commons.wikimedia.org/wiki/File:Henri_Poincar%C3%A9_sitting.jpg"
 +++
 
 You could give a physicist the exact positions and velocities of three stars — down to a hundred decimal places. They could feed those numbers into the best supercomputer ever built. And within a few thousand years of simulated time, the prediction would be completely wrong.

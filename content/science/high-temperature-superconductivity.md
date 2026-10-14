@@ -6,6 +6,11 @@ tags: ["physics", "quantum-mechanics", "materials-science", "mystery", "energy"]
 tier: 1
 disciplines: ["Physics"]
 mystery: true
+photo: "photos/high-temperature-superconductivity.jpg"
+photo_caption: "A magnet floating above a superconductor cooled by liquid nitrogen."
+photo_credit: "Ainur physicist, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Magnet_levitating_on_top_of_superconductor_cooled_by_liquid_nitrogen.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
 ---
 
 Every year, the world's power grids lose roughly 10% of the electricity they carry. Not to bad weather or broken equipment — to resistance. The wires themselves fight the current. That friction becomes heat. The heat is waste.

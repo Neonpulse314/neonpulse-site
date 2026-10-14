@@ -7,6 +7,11 @@ tags: ["biology", "abiogenesis", "origin of life", "RNA world", "chemistry", "ev
 draft: false
 tier: 1
 disciplines: ["Biology"]
+photo: "photos/origin-of-life.jpg"
+photo_caption: "Living stromatolites at Hamelin Pool, Shark Bay, Australia: layered rock built by microbial mats."
+photo_credit: "Philarazzi, CC BY-SA 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Stromatolites_Hamlin_Pool,_Shark_Bay.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/4.0"
 ---
 
 There's a rock in Western Australia — the Pilbara craton — that contains the oldest fossils on Earth. Thin wavy layers, like a compressed onion, preserved in ancient chert. They are 3.5 billion years old. They are called stromatolites. They were made by living things.
