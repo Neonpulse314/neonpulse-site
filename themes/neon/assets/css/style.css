@@ -71,6 +71,10 @@ nav {
 }
 
 .nav-links a:hover { color: var(--text); }
+@media (max-width: 660px) {
+  nav { padding: 0.75rem 1rem; gap: 0.75rem; }
+  .nav-links { flex-wrap: wrap; justify-content: flex-end; gap: 0.4rem 1rem; }
+}
 
 /* Main content */
 main {
@@ -1737,3 +1741,86 @@ a:hover { color: var(--accent-hover); }
    distinct from the writing sections, without shouting. */
 .nav-links a.nav-hearth { color: #2f7d4d; }
 .nav-links a.nav-hearth:hover { color: #3fa968; }
+
+/* ── Feed page (/feed/): one scrolling list of story cards ── */
+.feed-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 1.5rem;
+}
+.feed-chip {
+  font-family: var(--ui-font);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card-bg);
+  color: var(--text);
+  cursor: pointer;
+}
+.feed-chip:hover { border-color: var(--accent); }
+.feed-chip.is-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.feed-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+.feed-card[hidden] { display: none; }
+.feed-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.1rem 1.25rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.feed-link:hover { border-color: var(--accent); }
+.feed-meta {
+  display: flex;
+  gap: 0.75rem;
+  font-family: var(--ui-font);
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+.feed-section {
+  color: var(--accent);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.feed-title {
+  font-family: var(--display-font);
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.feed-hook {
+  color: var(--muted);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.feed-more {
+  font-family: var(--ui-font);
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+@media (max-width: 560px) {
+  .feed-link { padding: 0.95rem 1rem; }
+  .feed-title { font-size: 1.08rem; }
+}

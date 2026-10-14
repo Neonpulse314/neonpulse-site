@@ -1,0 +1,54 @@
+{{ define "main" }}
+{{/* One scrolling feed of every article: section, title, one-line hook. The hook is the
+     article's own summary, else its description; a page with neither warns at build time. */}}
+{{ $sections := slice "science" "values" "debunking" "fallacies" "engineering" "unsolved-history" "journal" }}
+{{ $all := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
+
+<div class="page-header">
+  <h1>The Feed</h1>
+  <p class="page-intro">Every story on the site, newest first. Scroll until something grabs you.</p>
+</div>
+
+<div class="feed-filters" role="group" aria-label="Filter by section">
+  <button type="button" class="feed-chip is-active" aria-pressed="true" data-section="">All</button>
+  {{ range $sections }}
+    {{ $s := . }}
+    {{ with where $all "Section" $s }}
+    <button type="button" class="feed-chip" aria-pressed="false" data-section="{{ $s }}">{{ (index . 0).CurrentSection.Title | default ($s | humanize | title) }}</button>
+    {{ end }}
+  {{ end }}
+</div>
+
+<ol class="feed-list">
+  {{ range $all }}
+  {{ $hook := .Params.summary | default .Description }}
+  <li class="feed-card" data-section="{{ .Section }}">
+    <a href="{{ .RelPermalink }}" class="feed-link">
+      <span class="feed-meta">
+        <span class="feed-section">{{ .CurrentSection.Title }}</span>
+        <span class="feed-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </span>
+      <span class="feed-title">{{ .Title }}</span>
+      {{ with $hook }}<span class="feed-hook">{{ . | plainify }}</span>{{ else }}{{ warnf "feed: no hook (summary/description) for %s" .RelPermalink }}<span class="feed-hook">{{ .Summary | plainify | truncate 160 }}</span>{{ end }}
+      <span class="feed-more">Read it →</span>
+    </a>
+  </li>
+  {{ end }}
+</ol>
+
+<script>
+(function() {
+  var chips = document.querySelectorAll('.feed-chip');
+  var cards = document.querySelectorAll('.feed-card');
+  chips.forEach(function(chip) {
+    chip.addEventListener('click', function() {
+      var s = chip.getAttribute('data-section');
+      chips.forEach(function(c) { c.classList.toggle('is-active', c === chip); c.setAttribute('aria-pressed', c === chip ? 'true' : 'false'); });
+      cards.forEach(function(card) {
+        card.hidden = s !== '' && card.getAttribute('data-section') !== s;
+      });
+    });
+  });
+})();
+</script>
+{{ end }}
