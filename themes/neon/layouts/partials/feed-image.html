@@ -1,0 +1,10 @@
+{{- /* Card image for the feed: the article's photo, else its hero image, else nothing.
+     Pass dict "page" and "eager" (true for above-the-fold picks). */ -}}
+{{- $p := .page -}}
+{{- $load := cond .eager "eager" "lazy" -}}
+{{- with $p.Params.photo -}}
+{{- $cfg := imageConfig (printf "static/%s" .) -}}
+<span class="feed-img"><img src="{{ . | absURL }}" alt="{{ $p.Params.photo_caption | default $p.Title }}" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" loading="{{ $load }}" decoding="async"></span>
+{{- else -}}{{- with $p.Params.hero_image -}}
+<span class="feed-img"><img src="{{ printf "images/%s" . | absURL }}" alt="{{ $p.Title }}" loading="{{ $load }}" decoding="async"></span>
+{{- end -}}{{- end -}}

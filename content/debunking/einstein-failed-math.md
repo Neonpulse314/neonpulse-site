@@ -5,6 +5,10 @@ section_label: "What the Internet Gets Wrong"
 summary: "The story that Einstein failed math as a child is one of the most repeated myths about genius. It's false. Einstein mastered calculus by age fifteen and consistently excelled at mathematics throughout his education."
 tags: ["history", "physics", "education", "myth", "debunking"]
 featured: true
+photo: "photos/einstein-failed-math.jpg"
+photo_caption: "Einstein's school-leaving certificate from Aarau, Switzerland, 1896, on a scale where 6 is the top grade."
+photo_credit: "The authorities of the Canton of Aargau, Switzerland, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Albert_Einstein%27s_exam_of_maturity_grades_(color2).jpg"
 ---
 
 The story has been repeated in motivational posters, graduation speeches, and self-help books for decades: Einstein failed math as a child. The implication is always the same — if even Einstein struggled, there's hope for the rest of us.

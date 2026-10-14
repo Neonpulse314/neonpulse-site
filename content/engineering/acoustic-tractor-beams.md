@@ -4,6 +4,11 @@ date: 2026-03-21
 description: "Sound can lift objects, rotate them, and hold them suspended in mid-air without touching them. This has been demonstrated in labs around the world. The gap between that demonstration and a useful device comes down to one number: scale."
 section_label: "engineering"
 tags: ["physics", "acoustics", "engineering", "sound", "levitation"]
+photo: "photos/acoustic-tractor-beams.jpg"
+photo_caption: "Small objects held in mid-air by sound in a TinyLev acoustic levitator."
+photo_credit: "Asier Marzo, Adrian Barnes & Bruce W Drinkwater, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Acoustically_Levitated_Objects_in_a_TinyLev.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
 ---
 
 In 2015, researchers at the University of Bristol levitated small polystyrene beads using sound alone — not touching them, not using any field the objects interacted with magnetically or electrically, just sound waves converging from multiple directions. The beads held position, rotated, and moved on command.

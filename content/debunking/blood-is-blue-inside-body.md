@@ -4,6 +4,11 @@ date: 2026-03-15
 section_label: "What the Internet Gets Wrong"
 summary: "Veins look blue through your skin, but the blood inside them is dark red — not blue. Here's what's actually happening, and why the myth is so believable."
 tags: ["biology", "blood", "anatomy", "myth", "debunking", "science"]
+photo: "photos/blood-is-blue-inside-body.jpg"
+photo_caption: "Veins under the skin look blue. The blood inside them is dark red."
+photo_credit: "Stiller Beobachter from Ansbach, Germany, CC BY 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Skin_%5E_veins_-_Flickr_-_Stiller_Beobachter.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/2.0"
 ---
 
 Hold your wrist up to a light. The veins visible beneath the skin look distinctly blue or blue-green. It seems obvious: inside your body, where there's no oxygen, blood must be blue.

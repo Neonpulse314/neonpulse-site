@@ -9,6 +9,22 @@
   <p class="page-intro">Every story on the site, newest first. Scroll until something grabs you.</p>
 </div>
 
+{{ $picks := sort (where $all "Params.feed_pick" "!=" nil) "Params.feed_pick" }}
+{{ with $picks }}
+<section class="feed-picks" aria-labelledby="feed-picks-heading">
+  <h2 id="feed-picks-heading" class="feed-picks-heading">Start here</h2>
+  <div class="feed-picks-grid">
+    {{ range . }}
+    <a href="{{ .RelPermalink }}" class="feed-pick">
+      {{ partial "feed-image.html" (dict "page" . "eager" true) }}
+      <span class="feed-section">{{ .CurrentSection.Title }}</span>
+      <span class="feed-pick-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 <div class="feed-filters" role="group" aria-label="Filter by section">
   <button type="button" class="feed-chip is-active" aria-pressed="true" data-section="">All</button>
   {{ range $sections }}
@@ -24,6 +40,7 @@
   {{ $hook := .Params.summary | default .Description }}
   <li class="feed-card" data-section="{{ .Section }}">
     <a href="{{ .RelPermalink }}" class="feed-link">
+      {{ partial "feed-image.html" (dict "page" . "eager" false) }}
       <span class="feed-meta">
         <span class="feed-section">{{ .CurrentSection.Title }}</span>
         <span class="feed-date">{{ .Date.Format "Jan 2, 2006" }}</span>
@@ -35,6 +52,18 @@
   </li>
   {{ end }}
 </ol>
+
+{{ with where $all "Params.photo" "!=" nil }}
+<details class="feed-credits">
+  <summary>Photo credits</summary>
+  <p>Photos are shown cropped on this page; see each article for the full image.</p>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ partial "photo-credit.html" . }}</li>
+    {{ end }}
+  </ul>
+</details>
+{{ end }}
 
 <script>
 (function() {

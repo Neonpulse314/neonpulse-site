@@ -6,6 +6,11 @@ summary: "Every controlled study since 1928 says shaving changes nothing about h
 tags: ["health", "biology", "myth", "debunking", "evidence", "critical thinking"]
 featured: false
 aliases: ["/debunking/shaving-thicker-hair/"]
+photo: "photos/shaving-hair-thicker.jpg"
+photo_caption: "A safety razor, shaving brush and soap mug."
+photo_credit: "Hustvedt, CC BY-SA 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Safety_razor_shaving_kit.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
 
 You've heard it, and you've probably passed it on: shave a patch of hair — a leg, a face, an arm — and it comes back darker, coarser, faster. It sounds like the kind of thing you can check for yourself. That's exactly why it survives.

@@ -5,6 +5,12 @@ section_label: "Unsolved History"
 summary: "There are about 130 of them: hollow bronze twelve-sided objects, cast by Roman craftsmen, scattered across the empire's northwestern edge. Every confident explanation you'll read online has a specific, fatal problem. This is the rare case where 'we don't know' is not a cop-out — it's the most defensible thing anyone can say."
 tags: ["history", "archaeology", "roman", "mystery", "uncertainty", "unsolved history"]
 featured: true
+photo: "photos/roman-dodecahedron.jpg"
+photo_caption: "A Roman dodecahedron found at Tongeren, Belgium, in the Gallo-Roman Museum there."
+photo_credit: "Carole Raddato from Frankfurt, Germany, CC BY-SA 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Ancient_Roman_dodecahedron,_Gallo-Roman_Museum_of_Tongeren,_Belgium_(27543850102).jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/2.0"
+feed_pick: 1
 ---
 
 Sometime in the second century AD, a Roman craftsman in Gaul took a mould, poured in molten copper alloy, and produced a hollow object about the size of an orange: twelve flat pentagonal faces, a circular hole punched through the middle of each one, and a small knob standing up at every corner where the faces meet. Then someone else made another. And another. Over the next two hundred years, across what is now France, Britain, Germany, Belgium, the Netherlands, Switzerland, Austria, Hungary, and Luxembourg, this happened perhaps hundreds of times.

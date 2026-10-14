@@ -5,6 +5,11 @@ section_label: "What the Internet Gets Wrong"
 summary: "The claim that the average person swallows eight spiders per year while sleeping is one of the most widely repeated 'facts' online. It has no scientific basis — and basic spider behavior makes it nearly impossible."
 tags: ["biology", "spiders", "sleep", "myth", "debunking"]
 featured: true
+photo: "photos/spiders-sleep.jpg"
+photo_caption: "A female house spider, Tegenaria domestica."
+photo_credit: "Magne Fl\u00e5ten, CC BY-SA 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Tegenaria_domestica-f.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
 
 You've probably heard it at some point: the average person swallows eight spiders per year while sleeping. It circulates on "surprising facts" lists, gets shared at dinner parties, and turns up in trivia games. It feels specific enough to be real.

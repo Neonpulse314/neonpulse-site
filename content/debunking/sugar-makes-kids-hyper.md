@@ -6,6 +6,10 @@ summary: "Almost every parent will tell you sugar sends kids bouncing off the wa
 tags: ["psychology", "nutrition", "myth", "debunking", "expectancy effect", "critical thinking"]
 featured: true
 aliases: ["/debunking/sugar-hyperactivity/", "/debunking/does-sugar-make-kids-hyper/"]
+photo: "photos/sugar-makes-kids-hyper.jpg"
+photo_caption: "Girls with a birthday cake, on a German postcard from 1920."
+photo_credit: "Paul Fink, Berlin (publisher), Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Girls_with_birthday_cake._Postcard_from_1920.jpg"
 ---
 
 Ask almost any parent and they'll tell you the same thing: let a kid loose on birthday cake and soda, and twenty minutes later they're vibrating. It feels less like a belief than an observation — they've *seen* it, over and over.

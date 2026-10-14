@@ -4,6 +4,11 @@ date: 2026-06-20
 section_label: "What the Internet Gets Wrong"
 summary: "The old story says medieval cathedral windows are thicker at the bottom because glass is a liquid that's been oozing downward for centuries. The thick bottoms are real. The explanation is wrong — and the real reason is more interesting."
 tags: ["glass", "materials science", "physics", "myth", "debunking", "viscosity"]
+photo: "photos/glass-is-not-a-liquid.jpg"
+photo_caption: "Medieval stained glass at Wells Cathedral, England."
+photo_credit: "Julian P Guffogg, CC BY-SA 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Medieval_stained_glass_window,_Wells_Cathedral_-_geograph.org.uk_-_4123152.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/2.0"
 ---
 
 You've probably heard this one, and it's a good story. Go to an old cathedral, find a window that's been in place for six or seven hundred years, and look closely at the panes. Many of them are visibly thicker at the bottom than at the top. The explanation people love: glass isn't really a solid. It's a liquid — an extremely slow one — and over those centuries it has been quietly flowing downward, pooling at the base of each pane like honey left on a counter for a very long time.

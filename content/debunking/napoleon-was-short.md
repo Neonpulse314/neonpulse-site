@@ -4,6 +4,10 @@ date: 2026-03-17
 section_label: "What the Internet Gets Wrong"
 summary: "Napoleon Bonaparte stood around 5'7\" — average for a French man of his era, and taller than the Duke of Wellington. The 'short Napoleon' idea came from British propaganda and a unit conversion error. He's been mocked for a height he didn't have."
 tags: ["history", "myth", "napoleon", "propaganda", "debunking"]
+photo: "photos/napoleon-was-short.jpg"
+photo_caption: "The Emperor Napoleon in His Study at the Tuileries, painted by Jacques-Louis David in 1812."
+photo_credit: "Jacques-Louis David, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
 ---
 
 When Marcus told his history class that Napoleon was actually average height, his teacher looked skeptical.

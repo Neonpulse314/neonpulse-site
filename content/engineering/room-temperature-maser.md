@@ -4,6 +4,10 @@ date: 2026-03-21
 description: "The maser was invented before the laser. It works. A solid-state version at room temperature was demonstrated in 2012. None of it is in your hospital or your satellite dish — and the reason is specific."
 section_label: "engineering"
 tags: ["physics", "quantum", "electronics", "signal", "engineering"]
+photo: "photos/room-temperature-maser.jpg"
+photo_caption: "Charles Townes with the first maser."
+photo_credit: "Dan Rubin, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Charles_Townes_and_first_maser.jpg"
 ---
 
 In 1953, Charles Townes pointed microwave radiation at a cloud of ammonia molecules and made them amplify it. He called the device a maser — Microwave Amplification by Stimulated Emission of Radiation. It was the first practical demonstration of stimulated emission, predating the laser by seven years. He won the Nobel Prize in 1964.

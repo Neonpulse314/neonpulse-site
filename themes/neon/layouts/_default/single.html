@@ -12,6 +12,14 @@
     {{ if .Params.summary }}<p class="story-summary">{{ .Params.summary }}</p>{{ end }}
   </header>
 
+  {{ if and .Params.photo (not .Params.hero_image) }}
+  <figure class="story-photo">
+    {{ $cfg := imageConfig (printf "static/%s" .Params.photo) }}
+    <img src="{{ .Params.photo | absURL }}" alt="" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" />
+    <figcaption>{{ with .Params.photo_caption }}{{ . }} {{ end }}<span class="story-photo-credit">Photo: {{ partial "photo-credit.html" . }}</span></figcaption>
+  </figure>
+  {{ end }}
+
   {{ if and .TableOfContents (gt (len .TableOfContents) 100) }}
   <div class="story-layout">
     <aside class="toc toc--sidebar">

@@ -7,6 +7,11 @@ tags: ["mathematics", "collatz conjecture", "unsolved", "number theory", "terenc
 lastmod: 2026-06-20
 aliases:
   - /science/collatz-conjecture/
+photo: "photos/collatz-conjecture.jpg"
+photo_caption: "Lothar Collatz, the mathematician the problem is named after, in 1984."
+photo_credit: "Wikipeter-HH, CC BY-SA 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Lothar_Collatz_1984.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
 
 Pick a number. Any positive integer.

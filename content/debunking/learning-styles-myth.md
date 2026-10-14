@@ -5,6 +5,11 @@ section_label: "What the Internet Gets Wrong"
 summary: "The idea that people have dominant learning styles — visual, auditory, or kinesthetic — and learn better when taught in their style has been tested in hundreds of studies. The research doesn't support it. People have preferences. Matching teaching to those preferences doesn't improve learning."
 tags: ["education", "psychology", "neuroscience", "myth", "debunking"]
 featured: true
+photo: "photos/learning-styles-myth.jpg"
+photo_caption: "A university lecture."
+photo_credit: "RainaKate, CC BY-SA 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Lecture_at_MRU.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/4.0"
 ---
 
 If you went to school in the last three decades, you probably encountered learning styles. Maybe a teacher told you that you were a visual learner, or kinesthetic. Maybe you were given a quiz that assigned you a type. The idea is straightforward: different people take in information differently, and if your teaching matches your learning style, you'll understand better and remember more.

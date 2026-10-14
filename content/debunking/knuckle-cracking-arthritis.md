@@ -6,6 +6,10 @@ summary: "A doctor cracked the knuckles of one hand for sixty years to settle it
 tags: ["health", "myth", "debunking", "arthritis", "evidence", "critical thinking"]
 featured: true
 aliases: ["/debunking/cracking-knuckles-arthritis/"]
+photo: "photos/knuckle-cracking-arthritis.jpg"
+photo_caption: "One of the first X-rays ever made: the hand of Anna Bertha Röntgen, December 1895."
+photo_credit: "Wilhelm R\u00f6ntgen, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg"
 ---
 
 For sixty years, Dr. Donald Unger cracked the knuckles of his left hand at least twice a day. He never cracked his right. He did this on purpose, the way you'd run an experiment, because as a boy he'd been told — by his mother, two aunts, and a mother-in-law later on — that cracking his knuckles would give him arthritis.

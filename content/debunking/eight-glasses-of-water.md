@@ -6,6 +6,11 @@ summary: "The physiologist who chased down the '8×8' rule traced it to a 1945 r
 tags: ["health", "physiology", "myth", "debunking", "evidence", "critical thinking"]
 featured: true
 aliases: ["/debunking/eight-glasses-water/"]
+photo: "photos/eight-glasses-of-water.jpg"
+photo_caption: "A glass of water."
+photo_credit: "W.carter, CC0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg"
+photo_licence_url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
 ---
 
 You know the rule. Eight glasses of water a day — sometimes six, sometimes two litres, sometimes a number a wellness app nudges you toward. It arrives with the authority of settled science. Miss your quota and you're "dehydrated": sluggish, foggy, ageing badly, whatever the caption says.

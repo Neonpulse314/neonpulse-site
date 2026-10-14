@@ -5,6 +5,11 @@ section_label: "What the Internet Gets Wrong"
 summary: "The 'carrots improve night vision' belief comes from a deliberate British wartime cover-up. The actual reason their pilots saw better at night had nothing to do with vegetables."
 tags: ["nutrition", "history", "propaganda", "myth", "debunking"]
 featured: true
+photo: "photos/carrots-night-vision.jpg"
+photo_caption: "Doctor Carrot, a British poster from the Second World War."
+photo_credit: "Her Majesty's Stationery Office (Imperial War Museums, PST 8105), Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Doctor_Carrot_-_the_Children%27s_Best_Friend_Art.IWMPST8105.jpg"
+feed_pick: 2
 ---
 
 In 1940, the Royal Air Force started shooting down German bombers in the dark at rates that didn't fit their daytime numbers. The reason was secret: a new system called Airborne Interception radar, mounted in their night fighters, that let pilots find targets they couldn't see with their eyes.

@@ -4,6 +4,11 @@ date: 2026-03-21
 description: "Passive radiative cooling is real and demonstrated. On a clear day at noon, a coated panel can sit 5 degrees below ambient — no electricity, no moving parts. The engineering gap is specific and solvable."
 tags: ["physics", "energy", "engineering", "cooling"]
 section_label: "engineering"
+photo: "photos/radiative-cooling.jpg"
+photo_caption: "Frost on a car windshield after a clear night."
+photo_credit: "Kotivalo, CC BY-SA 3.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Frost_on_car_windshield.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
 
 On a clear night, leave a car outside. In the morning, the roof is colder than the air. Not just cooler — colder. The thermometer reads 8°C. The roof reads 4°C. No wind, no moisture, no refrigeration. The car just sat there.

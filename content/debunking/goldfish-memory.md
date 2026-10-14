@@ -6,6 +6,11 @@ summary: "Everyone knows goldfish forget everything in three seconds. Nobody can
 tags: ["biology", "animals", "myth", "debunking", "critical thinking", "evidence"]
 featured: true
 aliases: ["/debunking/goldfish-three-second-memory/"]
+photo: "photos/goldfish-memory.jpg"
+photo_caption: "A goldfish at an aquarium in Duluth, Minnesota."
+photo_credit: "James St. John, CC BY 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Carassius_auratus_auratus_(goldfish)_2.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/2.0"
 ---
 
 You've heard it your whole life. A goldfish has a three-second memory. Every lap of the bowl is a fresh world; it can't be bored because it can't remember being anywhere.

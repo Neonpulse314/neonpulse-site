@@ -5,6 +5,11 @@ lastmod: 2026-06-20
 description: "In WWII the military wanted to armor the bombers where the returning planes had the most bullet holes. Statistician Abraham Wald spotted the fatal flaw: those were the planes that made it back. Armor belongs where the survivors weren't hit — the planes hit there never returned. The airplane story behind survivorship bias, and how to catch it everywhere."
 section_label: "fallacies"
 tags: ["survivorship bias", "wwii bombers", "abraham wald", "airplane", "logic", "statistics", "reasoning", "selection effect"]
+photo: "photos/survivorship-bias.jpg"
+photo_caption: "A B-17 crew of the 306th Bomb Group under their bomber's flak-damaged wing, RAF Thurleigh, England."
+photo_credit: "United States Army Air Forces, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:RAF_Thurleigh_-_306th_Bombardment_Group_-_B-17_Flying_Fortress_Flak.jpg"
+feed_pick: 4
 ---
 
 During the Second World War, the American military had a problem with bombers. Too many weren't coming home. The obvious fix was armor — but armor is heavy, and a plane sheathed in steel can't fly. You can only reinforce a few places. So the question became: *where?*

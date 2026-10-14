@@ -1,0 +1,3 @@
+{{- /* Photo credit linked to its Commons file page, plus the licence deed when there is one. Context: the page. */ -}}
+<a href="{{ .Params.photo_source }}" rel="noopener">{{ .Params.photo_credit }}</a>
+{{- with .Params.photo_licence_url }} · <a href="{{ . }}" rel="license noopener">Licence</a>{{ end -}}

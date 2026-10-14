@@ -6,6 +6,11 @@ summary: "The diagram in your old biology textbook — sweet at the tip, bitter 
 tags: ["taste", "biology", "neuroscience", "myth", "debunking", "data visualization", "tongue map"]
 featured: true
 aliases: ["/debunking/tongue-taste-zones/"]
+photo: "photos/tongue-map.jpg"
+photo_caption: "A china anatomical model of the human tongue, Wellcome Collection."
+photo_credit: "Wellcome Collection, CC BY 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Anatomical_model_of_human_tongue_Wellcome_L0010003.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/4.0"
 ---
 
 You learned it from a diagram. A cartoon tongue, carved into four countries: sweet at the tip, salty just behind it, sour along the sides, bitter standing guard across the back. It came with a tidy demonstration — put sugar on the tip, lemon on the sides — and it felt true because you could almost feel it.

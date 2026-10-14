@@ -4,6 +4,12 @@ date: 2026-06-20
 description: "On 18 August 1913, a roulette wheel in Monte Carlo landed on black twenty-six times in a row. A crowd shoved fortunes onto red, certain it was 'due.' The ball has no memory. Most of them were broke before it finally turned."
 section_label: "fallacies"
 tags: ["gamblers fallacy", "probability", "independence", "reasoning", "betting"]
+photo: "photos/the-gamblers-fallacy.jpg"
+photo_caption: "A roulette wheel and betting table in a casino."
+photo_credit: "Maximo Betman, CC BY-SA 4.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Mesa-de-ruleta-casino-ciudad-de-mexico25-04-2023.jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by-sa/4.0"
+feed_pick: 3
 ---
 
 On the night of 18 August 1913, at the Monte Carlo Casino, a roulette wheel started landing on black. Then it did it again. And again.

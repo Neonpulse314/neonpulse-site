@@ -4,6 +4,10 @@ date: 2026-03-21
 description: "Fusion at room temperature isn't science fiction — it was demonstrated in 1989 and has worked reliably ever since. The problem is the catalyst costs more energy to produce than the reaction releases. The margin is a factor of two."
 section_label: "engineering"
 tags: ["physics", "nuclear", "energy", "fusion", "engineering"]
+photo: "photos/muon-catalyzed-fusion.jpg"
+photo_caption: "Luis Alvarez at Berkeley's 72-inch bubble chamber, 1958."
+photo_credit: "Lawrence Berkeley National Laboratory, Public domain, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Luis_Alvarez_at_the_72-inch_bubble_chamber._Photograph_taken_July_21,_1958._Bubble_Chamber-540_-_DPLA_-_5f0a7fbf5262bf49b866054280f94c1f.jpg"
 ---
 
 The standard objection to fusion energy is that it requires extreme conditions — temperatures of 100 million degrees or plasma confinement that has consumed decades of engineering effort. That objection applies to the tokamak approach. It does not apply to muon-catalyzed fusion, which works at room temperature and has worked reliably since the 1950s.

@@ -5,6 +5,11 @@ section_label: "What the Internet Gets Wrong"
 summary: "The idea that lightning won't strike the same place twice is the opposite of true. Tall structures get hit repeatedly — sometimes thousands of times. Here's what lightning actually does."
 tags: ["weather", "physics", "electricity", "myth", "debunking"]
 featured: true
+photo: "photos/lightning-doesnt-strike-twice.jpg"
+photo_caption: "Lightning striking the Empire State Building."
+photo_credit: "John P. Gaty, 1934, courtesy DuPont, via NOAA Photo Library, CC BY 2.0, via Wikimedia Commons"
+photo_source: "https://commons.wikimedia.org/wiki/File:Wea00610_(9672651296).jpg"
+photo_licence_url: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 The Empire State Building gets struck by lightning about 20 to 25 times per year. In a single storm, it can be hit multiple times within minutes. The building has its own lightning rod system specifically because repeated strikes are the expected reality, not the exception.
