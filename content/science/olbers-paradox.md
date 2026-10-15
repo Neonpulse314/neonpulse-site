@@ -1,7 +1,8 @@
 ---
-title: "Why Is the Night Sky Dark?"
+title: "The Night Sky Isn't Dark. It's Glowing Too Faintly, and Too Red, to See."
 date: 2026-02-25
-summary: "If the universe is infinite and full of stars, every line of sight should end at one. The sky should be blindingly bright. It isn't. Here's why."
+lastmod: 2026-10-14
+summary: "The old puzzle says every direction should end on a star. It almost does: every direction ends on the glow of the early universe, stretched and dimmed until your eyes can't see it."
 section_label: "Science Mystery"
 tags: ["cosmology", "universe", "light"]
 photo: "photos/olbers-paradox.jpg"
@@ -10,69 +11,45 @@ photo_credit: "NASA and the European Space Agency, Public domain, via Wikimedia 
 photo_source: "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg"
 ---
 
-Look up at the night sky on a clear night. What do you see?
+Johannes Kepler saw the problem in 1610. If stars go on forever, the sky should be like an endless forest, where every line of sight eventually hits a trunk: every direction should end on the surface of a star, and the night sky should be bright. Later astronomers, Edmond Halley and Jean-Philippe de Chéseaux among them, sharpened it: the whole sky should blaze like the Sun's disc. It doesn't. The puzzle is named after Heinrich Olbers, who wrote about it in the 1820s, though he was far from the first.
 
-Stars — yes. But mostly darkness.
+## How far would you have to see?
 
-Now here's the problem: if the universe is infinite, and stars are spread throughout it in all directions, then every single line of sight from your eye should eventually hit a star. The sky should be as bright as the surface of the sun. Uniformly, blindingly bright. No darkness anywhere.
+There's a neat way to put a number on this, and it works for forests, fog and stars alike:
 
-It isn't. So something is wrong with that logic.
+**Typical distance before your view is blocked ≈ 1 ÷ (how crowded the objects are × how much each one blocks)**
 
-This problem has a name: **Olbers' Paradox**. It was named after the German astronomer Heinrich Wilhelm Olbers, who wrote about it in 1823 — though the question is much older. Kepler raised it in 1610. Halley discussed it in the 1700s.
+On flat ground, "how crowded" is objects per square metre and "how much each blocks" is its width. In three-dimensional space, it's objects per cubic metre and each one's cross-section area.
 
-For over two centuries, nobody had a satisfying answer.
+Take a forest with one tree every 25 square metres (trees about 5 m apart) and trunks 30 cm wide. That gives 1 ÷ (0.04 per m² × 0.3 m) ≈ **80 metres**: a typical sightline ends on a trunk at about that distance, and most end within a couple of hundred metres, which matches what being in a dense wood feels like.
 
----
+Now the universe. Averaged over the space between galaxies too, there are very roughly a billion stars per cubic megaparsec (a cube about 3.3 million light years on a side). Give each star the Sun's cross-section. The same formula gives about **2 × 10²⁴ light years**. Most stars are smaller than the Sun, so the real figure is larger still. These are round numbers; what matters is the order of magnitude.
 
-## The First Wrong Answers
+That's the answer to the puzzle. To see a star in every direction, you'd need light from about 10²⁴ light years away. The universe is 13.8 billion years old, so the farthest light that has had time to reach us left from about 10¹⁰ light years' worth of travel: roughly **a hundred trillion times too short**. Starlight from far enough away simply hasn't arrived.
 
-Early attempts at a solution focused on **absorption** — maybe clouds of gas or dust between the stars were blocking the light. But this doesn't work. In an infinite, eternal universe, those clouds would absorb enough radiation to eventually heat up and glow just as bright as the stars themselves.
+It gets worse for the bright sky. Stars only shine for millions of years (the biggest) to trillions (the smallest red dwarfs). Even the longest-lived would burn out long before light from 10²⁴ light years away could fill the gaps.
 
-Another attempt: maybe stars aren't distributed uniformly. Maybe they cluster, and the clusters get more sparse as you look farther out. But the math doesn't save you. Even with clustering, the total light should add up to the same blinding brightness over infinite distances.
+## Who worked it out
 
-The problem kept surviving every proposed solution.
+The first person to put the idea in print may have been Edgar Allan Poe, in his 1848 prose poem *Eureka*: the dark gaps, he suggested, are directions from which light has not yet had time to reach us. Lord Kelvin worked through the arithmetic in 1901. The cosmologist Edward Harrison made the modern case from the 1960s on: the sky is dark mainly because stars and galaxies have had only a limited time to shine, not mainly because the universe is expanding. Expansion helps by dimming distant light, but detailed calculations put that effect at only about a factor of two.
 
----
+## The twist: Olbers was half right
 
-## The Real Answer — Two Parts
+There *is* a glowing surface in every direction you look.
 
-The modern explanation has two components, and both matter.
+For its first 380,000 years the universe was a hot, opaque fog of charged gas, like the surface of a star. Then it cooled to about 3,000 kelvin (around 2,700 °C), roughly the surface temperature of a cool red dwarf star, and turned transparent. The light that was glowing at that moment has been travelling ever since, and it reaches us from every direction. Look anywhere in the sky and your line of sight does end on a hot, glowing wall, much as the old puzzle predicted, though cooler than the Sun.
 
-**Part 1: The universe isn't infinitely old.**
+You can't see it because the universe has stretched by about 1,100 times since then. That stretched the light's wavelength from orange-red glow to microwaves, cooling it from about 3,000 degrees to 2.7 degrees above absolute zero, and it dimmed the glow by a factor of roughly a trillion. Even an eye that saw microwaves would find a faint, cold sky, not a blazing one. It is the cosmic microwave background, found by accident in 1965 by Arno Penzias and Robert Wilson, who at first suspected pigeon droppings in their antenna. A little of the "snow" on an old analogue TV tuned between channels came from it.
 
-This is the key. Even if the universe is infinite in *size*, it's finite in *age* — about 13.8 billion years old. Light travels at a fixed speed. That means we can only receive light from stars close enough that their light has had time to reach us.
-
-There's an *observable universe* — a sphere about 93 billion light-years across, centered on us, beyond which we simply can't see. Stars beyond that boundary haven't had time to send us their light yet. The sky is dark in those directions not because there's nothing there, but because the information hasn't arrived.
-
-**Part 2: The universe is expanding.**
-
-As the universe expands, distant galaxies are moving away from us. This redshifts their light — stretches the wavelength, reducing its energy, pushing it toward the infrared and eventually the radio spectrum, where our eyes can't detect it. Even the light that *has* had time to reach us from very distant sources arrives weakened, stretched beyond visibility.
-
-Together: finite age limits what we can see, and expansion dims what we do receive.
-
-The darkness isn't absence. It's the edge of our information horizon.
-
----
-
-## Why This Matters More Than It Seems
-
-Olbers' Paradox looks like a quirky historical footnote — a strange puzzle about why the sky is dark at night. But solving it required confronting a much larger question: is the universe infinite and eternal, or does it have a beginning?
-
-For centuries, most scientists assumed the universe had always existed. The paradox was one of the first cracks in that assumption. You can't have a dark sky and an infinite eternal universe at the same time. Something has to give.
-
-What gave was the infinite eternal part. The universe has an age. It started somewhere. And if it started somewhere, it might end somewhere too.
-
-All of that, nested inside the question of why it's dark when you look up.
-
----
-
-*Next time you're outside at night, look at the dark space between the stars. That darkness is information — it's telling you the universe is young enough, and expanding fast enough, that most of its light hasn't reached you yet. You're looking at the edge of everything we can know.*
+So the honest answer to "why is the night sky dark?" has two parts. The stars don't fill it, because there hasn't been enough time. And the thing that does fill it, the afterglow of the early universe, has been stretched so far that it is both too faint and the wrong colour for your eyes.
 
 ## Sources
-
-- Olbers, H.W.M. (1823). "Über die Durchsichtigkeit des Weltraums." *Astronomisches Jahrbuch für das Jahr 1826*, 110–121. (The paper that named the paradox — though Olbers acknowledged the problem was not new.)
-- Halley, E. (1720). "Of the infinity of the sphere of fixed stars." *Philosophical Transactions of the Royal Society*, 31, 22–24. (One of the earliest formal treatments.)
-- Poe, E.A. (1848). *Eureka: A Prose Poem*. New York: Putnam. (Poe's remarkable essay, largely ignored at the time, which proposed the correct answer: the universe is too young for all starlight to have reached us.)
-- Harrison, E.R. (1987). *Darkness at Night: A Riddle of the Universe*. Cambridge, MA: Harvard University Press. (The definitive history of the paradox and its resolution.)
-- Wesson, P.S. (1991). "Olbers' paradox and the spectral intensity of the extragalactic background light." *Astrophysical Journal*, 367, 399–406. (Quantitative treatment distinguishing the finite-age versus expansion contributions.)
-- Planck Collaboration (2020). "Planck 2018 results. VI. Cosmological parameters." *Astronomy & Astrophysics*, 641, A6. (Current best value: universe age 13.787 ± 0.020 billion years.)
+- Kepler, J. (1610). *Dissertatio cum Nuncio Sidereo.*
+- Lord Kelvin (1901). On ether and gravitational matter through infinite space. *Philosophical Magazine* 2: 161–177.
+- Harrison, E. (1987). *Darkness at Night: A Riddle of the Universe.* Harvard University Press.
+- Harrison, E. (1974). Why the sky is dark at night. *Physics Today* 27(2): 30–36.
+- Poe, E. A. (1848). *Eureka: A Prose Poem.*
+- Wesson, P. S., Valle, K. & Stabell, R. (1987). The extragalactic background light and a definitive resolution of Olbers's paradox. *Astrophysical Journal* 317: 601–606.
+- Penzias, A. A. & Wilson, R. W. (1965). A measurement of excess antenna temperature at 4080 Mc/s. *Astrophysical Journal* 142: 419–421.
+- Madau, P. & Dickinson, M. (2014). Cosmic star-formation history. *Annual Review of Astronomy and Astrophysics* 52: 415–486. (Present-day stellar mass density of a few hundred million solar masses per cubic megaparsec; with the average star lighter than the Sun, roughly a billion stars.)
+- Planck Collaboration (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics* 641: A6.
